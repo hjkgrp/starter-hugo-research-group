@@ -24,6 +24,11 @@
 #  weight = 40
 
 [[main]]
+  name = "molSimplify"
+  url = "https://molsimplify.mit.edu"
+  weight = 40
+
+[[main]]
   name = "Publications"
   url = "publication"
   weight = 50

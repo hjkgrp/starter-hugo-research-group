@@ -39,5 +39,5 @@ publishDate: '2021-06-18T19:17:33.874736Z'
 publication_types:
 - '2'
 abstract: ''
-publication: '*Nature communications*'
+publication: '*Nature Communications*'
 ---

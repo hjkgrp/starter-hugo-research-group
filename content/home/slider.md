@@ -51,8 +51,8 @@ item:
     #overlay_color: '#333'
     #overlay_img: 'logo.png'
     #overlay_filter: 0.1
-  - title: What's needed for intelligent workflows
-    content: ''
+  - title: ML
+    content: "What's needed for intelligent workflows"
     align: right
     overlay_color: '#333'
     overlay_img: robot_and_layer_from_wide_fin_rgb.png

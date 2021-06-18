@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Unicorn
+role: NOT a Unicorn
 
 # Organizations/Affiliations
 organizations:
@@ -27,15 +27,12 @@ interests:
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
+  - course: PhD in Extremely Artificial Intelligence
+    institution: Harvort University
+    year: 2020
+  - course: BSc in Diorama Studies
     institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+    year: 2016
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons

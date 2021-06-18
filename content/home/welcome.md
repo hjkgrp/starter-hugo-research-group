@@ -17,6 +17,6 @@ advanced:
   css_class:
 ---
 
-The Kulik group focuses on the development and application of new
-electronic structure methods and atomistic simulations tools in the
-broad area of catalysis.
+We focus on the *development* and *application* of new
+**electronic structure** methods and **atomistic simulation** tools in the
+broad area of **catalysis**.

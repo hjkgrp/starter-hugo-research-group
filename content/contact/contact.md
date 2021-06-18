@@ -15,7 +15,7 @@ subtitle:
 content:
   # Automatically link email and phone or display as text?
   autolink: true
-  
+
   # Email form provider
   form:
     provider: netlify
@@ -26,7 +26,21 @@ content:
       captcha: false
 
 design:
-  columns: '1'
+  columns: '2'
 ---
+## Openings for graduate students
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempus augue non tempor egestas. Proin nisl nunc, dignissim in accumsan dapibus, auctor ullamcorper neque. Quisque at elit felis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean eget elementum odio. Cras interdum eget risus sit amet aliquet. In volutpat, nisl ut fringilla dignissim, arcu nisl suscipit ante, at accumsan sapien nisl eu eros.
+For **current/incoming MIT students**, we have openings for graduate students in **Fall 2021**! Opportunities are broadly in the areas of multi-objective, earth-abundant materials design accelerated with machine learning and automation including for polymer upcycling, polymer design, and photocatalyst design, metal-organic framework discovery, and uncertainty quantification of DFT in materials discovery with new autonomous computational chemistry tools.
+
+For **students interested in coming to MIT** for graduate school, MIT ChemE, where we are located, carries out department-wide admissions and does not admit students based on the needs of an individual professor. We are also affiliated with CSBi, which maintains similar policies, and offers rotations. Once admitted to MIT, graduate students can join our group from any department inside MIT. For example, in addition to ChemE, we regularly take students into our group from chemistry, mechanical engineering, materials science, among others. Students are encouraged to apply to the appropriate PhD program that matches their undergraduate training.
+***
+
+## Postdoctoral openings
+
+We do not currently have any funded **postdoctoral openings** anticipated until end of 2021 or early 2022. Areas of interest, especially for partially funded postdocs, include multi-scale enzyme modeling, electronic structure method development, and machine learning for high-throughput materials discovery.
+
+***
+
+## Undergraduates
+
+We are always eager to welcome interested MIT **undergraduate students** to our lab.
