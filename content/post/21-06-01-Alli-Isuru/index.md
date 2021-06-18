@@ -1,9 +1,9 @@
 ---
-title: Jian Yang and Monica Hall Win the Best Paper Award at Wowchemy 2020
-date: 2020-12-02
+title: Alli Keys and Dr. Isuru Ariyarathna join the group
+date: 2021-06-01
 ---
 
-Congratulations to Jian Yang and Monica Hall for winning the Best Paper Award at the 2020 Conference on Wowchemy for their paper “Learning Wowchemy”.
+Welcome to new CSBi graduate student Alli Keys (co-advised Kiessling lab) and postdoc Isuru Ariyarathna!
 
 <!--more-->
 

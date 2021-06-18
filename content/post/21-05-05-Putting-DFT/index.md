@@ -1,9 +1,9 @@
 ---
-title: Richard Hendricks Wins First Place in the Wowchemy Prize
-date: 2020-12-01
+title: New Perspective on ML for computational chemistry published
+date: 2020-12-02
 ---
 
-Congratulations to Richard Hendricks for winning first place in the Wowchemy Prize.
+Chenru, Fang, and Aditya's Invited Perspective on ML for computational chemistry has been accepted in J. Phys. Chem. Lett.!
 
 <!--more-->
 
