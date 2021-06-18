@@ -17,9 +17,8 @@ content:
   #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
   user_groups:
   - Principal Investigator
-  - Researchers
+  - Postdocs
   - Grad Students
-  - Administration
   - Visitors
   - Alumni
 design:
