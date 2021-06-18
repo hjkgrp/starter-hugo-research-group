@@ -17,4 +17,6 @@ advanced:
   css_class:
 ---
 
-This a test website to see if it is worth trying to use Hugo.
+The Kulik group focuses on the development and application of new
+electronic structure methods and atomistic simulations tools in the
+broad area of catalysis.
