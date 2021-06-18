@@ -52,7 +52,7 @@ item:
     #overlay_img: 'logo.png'
     #overlay_filter: 0.1
   - title: What's needed for intelligent workflows
-    content: 'In Images'
+    content: ''
     align: right
     #overlay_color: '#333'
     overlay_img: robot_and_layer_from_wide_fin_rgb.png
