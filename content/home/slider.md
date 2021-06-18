@@ -23,10 +23,10 @@ height: '300px; background-position:center; background-repeat: no-repeat'
 
 
 item:
-  - title: Media
-    content: 'In media'
+  - title: The Group
+    content: 'Summer 2021'
     # Choose `center`, `left`, or `right` alignment.
-    align: center
+    align: right
     # Overlay a color or image (optional).
     #   Deactivate an option by commenting out the line, prefixing it with `#`.
     #overlay_color: '#666'  # An HTML color value.
@@ -39,18 +39,18 @@ item:
     #cta_url: 'https://example.org'
     #cta_icon_pack: fas
     #cta_icon: graduation-cap
-  - title: Left
-    content: 'I am left aligned 😄'
-    align: left
-    overlay_color: '#555'
+    #- title: Left
+    #content: 'I am left aligned 😄'
+    #align: left
+    #overlay_color: '#555'
     #overlay_img: logo.png
-    overlay_filter: 0.1
-  - title: Right
-    content: 'I am right aligned 😄'
-    align: right
-    overlay_color: '#333'
+    #overlay_filter: 0.1
+    #- title: Right
+    #content: 'I am right aligned 😄'
+    #align: right
+    #overlay_color: '#333'
     #overlay_img: 'logo.png'
-    overlay_filter: 0.1
+    #overlay_filter: 0.1
   - title: What's needed for intelligent workflows
     content: 'In Images'
     align: right
