@@ -19,7 +19,7 @@ interval: 4000
 # Minimum slide height.
 # Specify a height to ensure a consistent height for each slide.
 # CSS hack from Taneda example site
-height: '300px; background-position:center; background-repeat: no-repeat; background-size: cover'
+height: '300px; background-position:center; background-repeat: no-repeat'
 
 
 item:
@@ -51,7 +51,7 @@ item:
     overlay_color: '#333'
     #overlay_img: 'logo.png'
     overlay_filter: 0.1
-  - title: Images
+  - title: What's needed for intelligent workflows
     content: 'In Images'
     align: right
     #overlay_color: '#333'
