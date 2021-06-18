@@ -30,7 +30,7 @@ item:
     #   Deactivate an option by commenting out the line, prefixing it with `#`.
     #overlay_color: '#666'  # An HTML color value.
     overlay_img: kulikgroup_Jun2021_v2.png  # Image path relative to your `assets/media/` folder
-    overlay_filter: 0.1  # Darken the image. Value in range 0-1.
+    overlay_filter: 1  # Darken the image. Value in range 0-1.
     # Call to action button (optional).
     #   Activate the button by specifying a URL and button label below.
     #   Deactivate by commenting out parameters, prefixing lines with `#`.
@@ -55,5 +55,5 @@ item:
     align: right
     #overlay_color: '#333'
     overlay_img: robot_and_layer_from_wide_fin_rgb.png
-    overlay_filter: 0.1
+    overlay_filter: 0
 ---
