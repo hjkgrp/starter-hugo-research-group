@@ -14,7 +14,7 @@ weight: 15
 
 # Slide interval.
 # Use `false` to disable animation or enter a time in ms, e.g. `5000` (5s).
-interval: 2000
+interval: 4000
 
 # Minimum slide height.
 # Specify a height to ensure a consistent height for each slide.
@@ -29,7 +29,7 @@ item:
     # Overlay a color or image (optional).
     #   Deactivate an option by commenting out the line, prefixing it with `#`.
     overlay_color: '#666'  # An HTML color value.
-    overlay_img: 'kulikgroup_Jun2021_v2.png'  # Image path relative to your `assets/media/` folder
+    overlay_img: kulikgroup_Jun2021_v2.png  # Image path relative to your `assets/media/` folder
     overlay_filter: 0.5  # Darken the image. Value in range 0-1.
     # Call to action button (optional).
     #   Activate the button by specifying a URL and button label below.
@@ -50,11 +50,10 @@ item:
     overlay_color: '#333'
     overlay_img: ''
     overlay_filter: 0.5
-
   - title: Images
     content: 'In Images'
     align: right
     overlay_color: '#333'
-    overlay_img: 'robot_and_layer_from_wide_fin_rgb.png'
+    overlay_img: robot_and_layer_from_wide_fin_rgb.png
     overlay_filter: 0.5
 ---
