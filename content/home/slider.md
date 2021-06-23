@@ -19,8 +19,11 @@ interval: 4000
 # Minimum slide height.
 # Specify a height to ensure a consistent height for each slide.
 # CSS hack from Taneda example site
-height: '300px; background-position:center; background-repeat: no-repeat'
+height: '400px; background-position:left; background-repeat: no-repeat'
 
+spacing:
+  # Customize the section spacing. Order is top, right, bottom, left.
+  #padding: ["0px", "0", "0px", "0"]
 
 item:
   - title: The Group
@@ -57,4 +60,11 @@ item:
     overlay_color: '#333'
     overlay_img: robot_and_layer_from_wide_fin_rgb.png
     overlay_filter: 0.2
+    # Call to action button (optional).
+    #   Activate the button by specifying a URL and button label below.
+    #   Deactivate by commenting out parameters, prefixing lines with `#`.
+    cta_label: Read the paper
+    cta_url: 'publication/duan-2019-learning'
+    cta_icon_pack: fas
+    cta_icon: graduation-cap
 ---

@@ -26,7 +26,7 @@ font = "native"
 
 # Choose a font size.
 # Sizes: XS (extra small), S (small), M (medium), L (large - DEFAULT), XL (extra large)
-font_size = "L"
+font_size = "M"
 
 ############################
 ## Basic Info
@@ -173,7 +173,7 @@ plugins_js  = []
   date_format = "January 2006"
 
   # Citation style ("apa" or "mla")
-  citation_style = "apa"
+  citation_style = "mla"
 
 # Configuration of project pages.
 [projects]

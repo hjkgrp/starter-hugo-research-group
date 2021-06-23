@@ -1,0 +1,18 @@
+@article{liu_quantum_2015,
+ abstract = {The conductor-like polarization model (C-PCM) with switching/Gaussian smooth discretization is a widely used implicit solvation model in chemical simulations. However, its application in quantum mechanical calculations of large-scale biomolecular systems can be limited by computational expense of both the gas phase electronic structure and the solvation interaction. We have previously used graphical processing units (GPUs) to accelerate the first of these steps. Here, we extend the use of GPUs to accelerate electronic structure calculations including C-PCM solvation. Implementation on the GPU leads to significant acceleration of the generation of the required integrals for C-PCM. We further propose two strategies to improve the solution of the required linear equations: a dynamic convergence threshold and a randomized block-Jacobi preconditioner. These strategies are not specific to GPUs and are expected to be beneficial for both CPU and GPU implementations. We benchmark the performance of the new implementation using over 20 small proteins in solvent environment. Using a single GPU, our method evaluates the C-PCM related integrals and their derivatives more than 10× faster than that with a conventional CPU-based implementation. Our improvements to the linear solver provide a further 3× acceleration. The overall calculations including C-PCM solvation require, typically, 20–40% more effort than that for their gas phase counterparts for a moderate basis set and molecule surface discretization level. The relative cost of the C-PCM solvation correction decreases as the basis sets and/or cavity radii increase. Therefore, description of solvation with this model should be routine. We also discuss applications to the study of the conformational landscape of an amyloid fibril.},
+ author = {Liu, Fang and Luehr, Nathan and Kulik, Heather J. and Martínez, Todd J.},
+ doi = {10.1021/acs.jctc.5b00370},
+ file = {Submitted Version:/Users/asteeves/Zotero/storage/3LLRE9TN/Liu et al. - 2015 - Quantum Chemistry for Solvated Molecules on Graphi.pdf:application/pdf},
+ issn = {1549-9618},
+ journal = {J. Chem. Theory Comput.},
+ month = {July},
+ note = {Publisher: American Chemical Society},
+ number = {7},
+ pages = {3131--3144},
+ title = {Quantum Chemistry for Solvated Molecules on Graphical Processing Units Using Polarizable Continuum Models},
+ url = {https://doi.org/10.1021/acs.jctc.5b00370},
+ urldate = {2021-06-20},
+ volume = {11},
+ year = {2015}
+}
+
