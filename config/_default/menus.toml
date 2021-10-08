@@ -3,10 +3,10 @@
 #     desired widget in your `content/home/` folder.
 #   The weight parameter defines the order that the links will appear in.
 
-#[[main]]
-#  name = "Home"
-#  url = "/"
-#  weight = 10
+[[main]]
+  name = "Home"
+  url = "/"
+  weight = 10
 
 [[main]]
   name = "News"
@@ -46,23 +46,25 @@
   url = "publication"
   weight = 50
 
-[[main]]
-  parent = "pubs"
-  name = "Submitted"
-  url = "publication"
-  weight = 10
-
-[[main]]
-    parent = "pubs"
-    name = "In Press"
-    url = "publication"
-    weight = 20
-
-[[main]]
-    parent = "pubs"
-    name = "All"
-    url = "publication"
-    weight = 30
+# Add submenus to the Publication page for different categories
+# These menus work but sublocations on pub page don't exist --AHS
+# [[main]]
+#   parent = "pubs"
+#   name = "Submitted"
+#   url = "publication"
+#   weight = 10
+#
+# [[main]]
+#     parent = "pubs"
+#     name = "In Press"
+#     url = "publication"
+#     weight = 20
+#
+# [[main]]
+#     parent = "pubs"
+#     name = "All"
+#     url = "publication"
+#     weight = 30
 
 [[main]]
   name = "Contact"

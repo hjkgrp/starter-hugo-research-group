@@ -96,14 +96,14 @@ address = {street = "77 Massachusetts Ave. Room 66-464", city = "Cambridge", reg
 coordinates = {latitude = "42.3610", longitude = "-71.08878"}
 
 # Directions for visitors to locate you.
-directions = "Don't call us; we'll call you."
+directions = ""
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
 office_hours = []
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
-appointment_url = "https://calendly.com"
+appointment_url = ""
 
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
@@ -146,7 +146,7 @@ address_format = "en-us"
 main_menu = {enable = true, align = "r", show_logo = true, highlight_active_link = false, show_language = false, show_day_night = true, show_search = false}
 
 # Enable in-built social sharing buttons? (true/false)
-sharing = true
+sharing = false
 
 # Show a copyright license from creativecommons.org in the site footer?
 # Page specific copyright licenses are also possible by adding this option to a page's front matter.
@@ -197,7 +197,7 @@ plugins_js  = []
   provider = ""
 
   # Which page types are commentable?
-  commentable = {page = true, post = true, docs = true, project = true, publication = true, talk = true}
+  commentable = {page = false, post = false, docs = false, project = false, publication = false, talk = false}
 
   # Configuration of Disqus.
   [comments.disqus]

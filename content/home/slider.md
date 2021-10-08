@@ -64,7 +64,7 @@ item:
     #   Activate the button by specifying a URL and button label below.
     #   Deactivate by commenting out parameters, prefixing lines with `#`.
     cta_label: Read the paper
-    cta_url: 'publication/duan-2019-learning'
+    cta_url: 'publication/duan-learning-2019'
     cta_icon_pack: fas
     cta_icon: graduation-cap
 ---
