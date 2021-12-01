@@ -1,6 +1,5 @@
-
 ---
-title: molSimplify Tutorial 3: Custom Core Functionalization
+title: "molSimplify Tutorial 3: Custom Core Functionalization"
 subtitle: 
 
 # Summary for listings and search engines

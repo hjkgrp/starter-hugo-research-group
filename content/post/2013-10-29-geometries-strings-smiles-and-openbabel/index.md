@@ -1,6 +1,5 @@
-
 ---
-title: Geometries from strings with SMILES and OpenBabel
+title: "Geometries from strings with SMILES and OpenBabel"
 subtitle: 
 
 # Summary for listings and search engines

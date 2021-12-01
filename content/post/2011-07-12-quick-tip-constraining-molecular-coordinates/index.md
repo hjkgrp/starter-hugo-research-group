@@ -1,6 +1,5 @@
-
 ---
-title: Quick tip: Constraining molecular coordinates
+title: "Quick tip: Constraining molecular coordinates"
 subtitle: 
 
 # Summary for listings and search engines

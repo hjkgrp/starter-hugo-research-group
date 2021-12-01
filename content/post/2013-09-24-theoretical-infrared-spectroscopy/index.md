@@ -1,6 +1,5 @@
-
 ---
-title: Theoretical Infrared Spectroscopy
+title: "Theoretical Infrared Spectroscopy"
 subtitle: 
 
 # Summary for listings and search engines

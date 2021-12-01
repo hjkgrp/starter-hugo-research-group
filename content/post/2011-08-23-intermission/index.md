@@ -1,6 +1,5 @@
-
 ---
-title: Intermission
+title: "Intermission"
 subtitle: 
 
 # Summary for listings and search engines

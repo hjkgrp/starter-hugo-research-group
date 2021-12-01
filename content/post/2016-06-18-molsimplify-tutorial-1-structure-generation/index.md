@@ -1,6 +1,5 @@
-
 ---
-title: molSimplify Tutorial 1: Structure Generation
+title: "molSimplify Tutorial 1: Structure Generation"
 subtitle: 
 
 # Summary for listings and search engines

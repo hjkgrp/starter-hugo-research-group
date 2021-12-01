@@ -1,6 +1,5 @@
-
 ---
-title: Using molSimplify in Python scripts
+title: "Using molSimplify in Python scripts"
 subtitle: 
 
 # Summary for listings and search engines

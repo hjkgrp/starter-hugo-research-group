@@ -1,6 +1,5 @@
-
 ---
-title: Hubbard U for multiple sites
+title: "Hubbard U for multiple sites"
 subtitle: 
 
 # Summary for listings and search engines

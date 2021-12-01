@@ -1,6 +1,5 @@
-
 ---
-title: The right Hubbard U for any element
+title: "The right Hubbard U for any element"
 subtitle: 
 
 # Summary for listings and search engines

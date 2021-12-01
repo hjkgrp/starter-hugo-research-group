@@ -1,6 +1,5 @@
-
 ---
-title: Visualizing trajectories with PyMOL
+title: "Visualizing trajectories with PyMOL"
 subtitle: 
 
 # Summary for listings and search engines

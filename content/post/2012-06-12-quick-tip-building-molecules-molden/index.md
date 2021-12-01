@@ -1,6 +1,5 @@
-
 ---
-title: Quick-tip: Building molecules with Molden
+title: "Quick-tip: Building molecules with Molden"
 subtitle: 
 
 # Summary for listings and search engines

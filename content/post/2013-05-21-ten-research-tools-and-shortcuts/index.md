@@ -1,6 +1,5 @@
-
 ---
-title: Ten research tools and shortcuts
+title: "Ten research tools and shortcuts"
 subtitle: 
 
 # Summary for listings and search engines

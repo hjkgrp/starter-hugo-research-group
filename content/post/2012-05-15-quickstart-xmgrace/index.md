@@ -1,6 +1,5 @@
-
 ---
-title: Quickstart with xmgrace
+title: "Quickstart with xmgrace"
 subtitle: 
 
 # Summary for listings and search engines

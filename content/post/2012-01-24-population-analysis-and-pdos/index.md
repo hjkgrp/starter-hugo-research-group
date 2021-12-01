@@ -1,6 +1,5 @@
-
 ---
-title: Population analysis and PDOS
+title: "Population analysis and PDOS"
 subtitle: 
 
 # Summary for listings and search engines

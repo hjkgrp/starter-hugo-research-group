@@ -1,6 +1,5 @@
-
 ---
-title: Calculating Hubbard U for periodic systems
+title: "Calculating Hubbard U for periodic systems"
 subtitle: 
 
 # Summary for listings and search engines

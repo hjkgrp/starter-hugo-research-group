@@ -1,6 +1,5 @@
-
 ---
-title: Troubleshooting common problems with DFT+U
+title: "Troubleshooting common problems with DFT+U"
 subtitle: 
 
 # Summary for listings and search engines

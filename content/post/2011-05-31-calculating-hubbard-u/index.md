@@ -1,6 +1,5 @@
-
 ---
-title: Calculating the Hubbard U 
+title: "Calculating the Hubbard U "
 subtitle: 
 
 # Summary for listings and search engines

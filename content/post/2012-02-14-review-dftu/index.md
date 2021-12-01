@@ -1,6 +1,5 @@
-
 ---
-title: A review of DFT+U
+title: "A review of DFT+U"
 subtitle: 
 
 # Summary for listings and search engines

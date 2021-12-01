@@ -1,6 +1,5 @@
-
 ---
-title: molSimplify changelog
+title: "molSimplify changelog"
 subtitle: 
 
 # Summary for listings and search engines

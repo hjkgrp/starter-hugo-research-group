@@ -1,6 +1,5 @@
-
 ---
-title: molSimplify Tutorial 5: Using machine learning to build better structures
+title: "molSimplify Tutorial 5: Using machine learning to build better structures"
 subtitle: 
 
 # Summary for listings and search engines

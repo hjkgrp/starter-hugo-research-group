@@ -1,6 +1,5 @@
-
 ---
-title: BIOS 203: Useful commandline tools
+title: "BIOS 203: Useful commandline tools"
 subtitle: 
 
 # Summary for listings and search engines

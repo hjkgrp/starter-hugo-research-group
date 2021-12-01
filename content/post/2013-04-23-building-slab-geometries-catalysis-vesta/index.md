@@ -1,6 +1,5 @@
-
 ---
-title: Building slab geometries for catalysis with VESTA
+title: "Building slab geometries for catalysis with VESTA"
 subtitle: 
 
 # Summary for listings and search engines

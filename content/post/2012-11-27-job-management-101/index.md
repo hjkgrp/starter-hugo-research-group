@@ -1,6 +1,5 @@
-
 ---
-title: Job management 101
+title: "Job management 101"
 subtitle: 
 
 # Summary for listings and search engines

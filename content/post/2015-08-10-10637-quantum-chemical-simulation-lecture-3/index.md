@@ -1,6 +1,5 @@
-
 ---
-title: 10.637: Quantum Chemical Simulation, Lecture 3
+title: "10.637: Quantum Chemical Simulation, Lecture 3"
 subtitle: 
 
 # Summary for listings and search engines

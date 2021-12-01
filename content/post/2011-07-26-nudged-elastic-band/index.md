@@ -1,6 +1,5 @@
-
 ---
-title: Nudged elastic band
+title: "Nudged elastic band"
 subtitle: 
 
 # Summary for listings and search engines

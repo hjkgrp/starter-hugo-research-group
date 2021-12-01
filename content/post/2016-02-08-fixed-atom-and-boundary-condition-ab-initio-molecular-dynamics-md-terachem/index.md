@@ -1,6 +1,5 @@
-
 ---
-title: Fixed atom and boundary condition ab initio molecular dynamics (MD) with TeraChem
+title: "Fixed atom and boundary condition ab initio molecular dynamics (MD) with TeraChem"
 subtitle: 
 
 # Summary for listings and search engines

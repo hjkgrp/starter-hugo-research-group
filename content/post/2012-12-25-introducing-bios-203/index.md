@@ -1,6 +1,5 @@
-
 ---
-title: Introducing BIOS 203
+title: "Introducing BIOS 203"
 subtitle: 
 
 # Summary for listings and search engines

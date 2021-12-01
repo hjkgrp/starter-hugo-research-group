@@ -1,6 +1,5 @@
-
 ---
-title: Summer Hiatus
+title: "Summer Hiatus"
 subtitle: 
 
 # Summary for listings and search engines

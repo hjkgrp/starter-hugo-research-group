@@ -1,6 +1,5 @@
-
 ---
-title: Visualizing molecules built from SMILES strings in Jupyter Notebooks using molSimplify
+title: "Visualizing molecules built from SMILES strings in Jupyter Notebooks using molSimplify"
 subtitle: 
 
 # Summary for listings and search engines

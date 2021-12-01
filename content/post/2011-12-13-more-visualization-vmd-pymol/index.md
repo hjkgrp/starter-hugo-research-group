@@ -1,6 +1,5 @@
-
 ---
-title: More visualization with VMD & PyMOL
+title: "More visualization with VMD & PyMOL"
 subtitle: 
 
 # Summary for listings and search engines

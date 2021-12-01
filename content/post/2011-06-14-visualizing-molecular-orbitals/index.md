@@ -1,6 +1,5 @@
-
 ---
-title: Visualizing molecular orbitals
+title: "Visualizing molecular orbitals"
 subtitle: 
 
 # Summary for listings and search engines

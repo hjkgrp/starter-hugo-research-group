@@ -1,6 +1,5 @@
-
 ---
-title: Summer migration and hiatus
+title: "Summer migration and hiatus"
 subtitle: 
 
 # Summary for listings and search engines

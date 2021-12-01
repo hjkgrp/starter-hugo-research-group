@@ -1,6 +1,5 @@
-
 ---
-title: Quick tip: Maximally localized Wannier functions
+title: "Quick tip: Maximally localized Wannier functions"
 subtitle: 
 
 # Summary for listings and search engines

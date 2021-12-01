@@ -1,6 +1,5 @@
-
 ---
-title: molSimplify Tutorial 2: Slab Builder
+title: "molSimplify Tutorial 2: Slab Builder"
 subtitle: 
 
 # Summary for listings and search engines

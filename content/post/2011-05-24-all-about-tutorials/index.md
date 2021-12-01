@@ -1,6 +1,5 @@
-
 ---
-title: All about the tutorials
+title: "All about the tutorials"
 subtitle: 
 
 # Summary for listings and search engines

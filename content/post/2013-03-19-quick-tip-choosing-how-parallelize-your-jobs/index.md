@@ -1,6 +1,5 @@
-
 ---
-title: Quick tip: Choosing how to parallelize your jobs
+title: "Quick tip: Choosing how to parallelize your jobs"
 subtitle: 
 
 # Summary for listings and search engines

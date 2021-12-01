@@ -1,6 +1,5 @@
-
 ---
-title: Starting Fall 2013: Kulik group at MIT ChemE
+title: "Starting Fall 2013: Kulik group at MIT ChemE"
 subtitle: 
 
 # Summary for listings and search engines

@@ -1,6 +1,5 @@
-
 ---
-title: Converging and comparing multiple electronic states
+title: "Converging and comparing multiple electronic states"
 subtitle: 
 
 # Summary for listings and search engines

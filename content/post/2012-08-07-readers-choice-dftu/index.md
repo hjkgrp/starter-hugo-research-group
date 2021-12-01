@@ -1,6 +1,5 @@
-
 ---
-title: Reader's Choice: DFT+U
+title: "Reader's Choice: DFT+U"
 subtitle: 
 
 # Summary for listings and search engines

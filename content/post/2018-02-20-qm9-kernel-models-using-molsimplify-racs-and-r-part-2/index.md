@@ -1,6 +1,5 @@
-
 ---
-title: QM9 kernel models using molSimplify, RACs and R: Part 2
+title: "QM9 kernel models using molSimplify, RACs and R: Part 2"
 subtitle: 
 
 # Summary for listings and search engines

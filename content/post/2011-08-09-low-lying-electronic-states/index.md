@@ -1,6 +1,5 @@
-
 ---
-title: Low-lying electronic states
+title: "Low-lying electronic states"
 subtitle: 
 
 # Summary for listings and search engines

@@ -1,6 +1,5 @@
-
 ---
-title: molSimplify Tutorial 8: Higher Period Transition Metal Complexes 
+title: "molSimplify Tutorial 8: Higher Period Transition Metal Complexes "
 subtitle: 
 
 # Summary for listings and search engines

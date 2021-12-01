@@ -1,6 +1,5 @@
-
 ---
-title: BIOS 203: Preparing proteins
+title: "BIOS 203: Preparing proteins"
 subtitle: 
 
 # Summary for listings and search engines

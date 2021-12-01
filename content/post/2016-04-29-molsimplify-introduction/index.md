@@ -1,6 +1,5 @@
-
 ---
-title: molSimplify: introduction
+title: "molSimplify: introduction"
 subtitle: 
 
 # Summary for listings and search engines

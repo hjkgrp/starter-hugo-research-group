@@ -1,6 +1,5 @@
-
 ---
-title: Challenges and advances for DFT on GPUs webinar
+title: "Challenges and advances for DFT on GPUs webinar"
 subtitle: 
 
 # Summary for listings and search engines

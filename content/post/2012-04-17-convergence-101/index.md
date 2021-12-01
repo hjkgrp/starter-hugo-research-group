@@ -1,6 +1,5 @@
-
 ---
-title: Convergence 101
+title: "Convergence 101"
 subtitle: 
 
 # Summary for listings and search engines

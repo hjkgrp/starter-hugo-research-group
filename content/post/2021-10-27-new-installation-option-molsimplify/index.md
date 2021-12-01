@@ -1,6 +1,5 @@
-
 ---
-title: Installing molSimplify
+title: "Installing molSimplify"
 subtitle: 
 
 # Summary for listings and search engines

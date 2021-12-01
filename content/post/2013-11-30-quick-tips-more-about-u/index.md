@@ -1,6 +1,5 @@
-
 ---
-title: Quick tips: More about U
+title: "Quick tips: More about U"
 subtitle: 
 
 # Summary for listings and search engines

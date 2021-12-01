@@ -1,6 +1,5 @@
-
 ---
-title: molSimplify Tutorial 6: Placing structures on slabs
+title: "molSimplify Tutorial 6: Placing structures on slabs"
 subtitle: 
 
 # Summary for listings and search engines

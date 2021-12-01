@@ -1,6 +1,5 @@
-
 ---
-title: Including Hubbard U variations with DFT+U(R)
+title: "Including Hubbard U variations with DFT+U(R)"
 subtitle: 
 
 # Summary for listings and search engines

@@ -1,6 +1,5 @@
-
 ---
-title: molSimplify Tutorial 4: Database Searching
+title: "molSimplify Tutorial 4: Database Searching"
 subtitle: 
 
 # Summary for listings and search engines
