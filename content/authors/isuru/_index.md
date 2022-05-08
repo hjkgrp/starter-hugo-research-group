@@ -22,12 +22,12 @@ interests:
 
 education:
   courses:
-  - course: PhD in Degree 
-    institution: Institution
-    year: Year
-  - course: BS in Degree 
-    institution: Institution
-    year: Year
+  - course: PhD in Theoretical Chemistry 
+    institution: Auburn University
+    year: 2021
+  - course: BS in Chemistry
+    institution: University of Peredeniya, Sri Lanka
+    year: 2014
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons

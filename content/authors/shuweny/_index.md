@@ -22,12 +22,12 @@ interests:
 
 education:
   courses:
-  - course: PhD in Degree 
-    institution: Institution
-    year: Year
-  - course: BS in Degree 
-    institution: Institution
-    year: Year
+  - course: PhD in Chemical and Biological Engineering
+    institution: Princeton University
+    year: 2021
+  - course: BS in Chemical Engineering and Chemistry
+    institution: The University of Alabama
+    year: 2016
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons

@@ -22,12 +22,9 @@ interests:
 
 education:
   courses:
-  - course: PhD in Degree 
-    institution: Institution
-    year: Year
-  - course: BS in Degree 
-    institution: Institution
-    year: Year
+  - course: PhD in Chemistry 
+    institution: Hebrew University of Jerusalem
+    year: 2020
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons

@@ -22,12 +22,15 @@ interests:
 
 education:
   courses:
-  - course: PhD in Degree 
-    institution: Institution
-    year: Year
-  - course: BS in Degree 
-    institution: Institution
-    year: Year
+  - course: PhD in Chemistry 
+    institution: Columbia University
+    year: 2021
+  - course: MS in Chemistry 
+    institution: University of Chicago
+    year: 2017
+  - course: BS in Chemistry and Physics
+    institution: Seoul National University
+    year: 2015
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
