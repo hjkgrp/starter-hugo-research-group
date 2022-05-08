@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Xiao Huang
+title: Vyshnavi Vennelakanti
 
 # Is this the primary user of the site?
 
@@ -33,7 +33,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:x_huang AT mit DOT edu'
+  link: 'mailto:vyshnavi AT mit DOT edu'
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/<username>
@@ -50,7 +50,7 @@ social:
 #  link: files/CV_User.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-#email: "x_huang@mit.edu"
+#email: "vyshnavi@mit.edu"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
@@ -60,4 +60,4 @@ highlight_name: false
 user_groups:
 - Grad Students
 ---
-Xiao joined MIT and the Kulik Group in 2021 as a PhD student in Physical Chemistry. He graduated from UCB in 2021 majoring Chemistry and Applied Math. At Cal, he worked in Prof Paul Alivisatos` lab on elucidating the synthesis and transformation of perovskite nanocrystals--through manual experiments and ML modeling. In the Kulik group, Xiao will be working on designing catalysts for polymer upcycling.
+Vyshnavi has obtained the Master of Science degree in Chemistry from National Institute of Science Education and Research (NISER), Bhubaneswar, India, in June 2018. During her time at NISER, she worked in the field of NMR Method Development under the guidance of Prof. Arindam Ghosh on the project "Recovery of Signals Close to Solvent Resonance in Aqueous Solutions of Biomolecules" . Vyshnavi is currently pursuing her Ph.D. in the Department of Chemistry at MIT. Vyshnavi joined the Kulik group in November 2018 and her research focus in the group is to understand how non covalent interactions mediate reaction selectivity in metalloenzymes by studying these systems with electronic structure methods.

@@ -60,4 +60,4 @@ highlight_name: false
 user_groups:
 - Grad Students
 ---
-Bio goes here!
+Alli graduated from Stanford University with a B.S. in Chemistry in 2019 where she worked with Polly Fordyce and studied transcription factor binding in yeast. Next she obtained an M.S. in Computer Science from Stanford in 2020 where she worked with Russ Altman to perform protein binding affinity prediction. She is now a Ph.D. student in the CSB program and is jointly advised in the Kiessling and Kulik labs. Currently, she is modeling the energetics of aromatic protein residue interactions with carbohydrates.

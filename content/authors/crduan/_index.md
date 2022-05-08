@@ -60,4 +60,4 @@ highlight_name: false
 user_groups:
 - Grad Students
 ---
-Bio goes here!
+Chenru joined the Kulik group in November 2017 as a PhD student in Chemistry. He received his B.S. in the Physics Department, Zhejiang University, China in fall 2017. He is now focusing on inorganic catalysts design with machine learning techniques. Assuming one can build a good surrogate model with thousands of training data (proved to be true by works in our and other groups), he focuses on faster and more accurate data generation with first-principles method by building an automated and multi-fidelity job control system. Back in his undergraduate study, he worked on the dynamics of open quantum systems, heat transport and quantum phase transition of model systems.
