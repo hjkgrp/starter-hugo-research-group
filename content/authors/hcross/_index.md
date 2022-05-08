@@ -1,11 +1,11 @@
 ---
 # Display name
-title: Gianmarco Terrones
+title: Hannah Cross
 
 # Is this the primary user of the site?
 
 # Role/position
-role: Grad Student
+role: Administrative Assistant
 
 # Organizations/Affiliations
 organizations:
@@ -15,16 +15,10 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 #bio: 
 
-interests:
-- machine learning 
-- excited state properties
-- materials design
+#interests:
 
-education:
-  courses:
-  - course: BS in Chemical Engineering 
-    institution: Caltech
-    year: 2020
+#education:
+#  courses:
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -33,7 +27,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:gterrone AT mit DOT edu'
+  link: 'mailto:hcross AT mit DOT edu'
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/<username>
@@ -50,7 +44,7 @@ social:
 #  link: files/CV_User.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-#email: "gterrone@mit.edu"
+#email: "allikeys@mit.edu"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
@@ -58,6 +52,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Grad Students
+- Administrative Assistants
 ---
-Gianmarco joined the Kulik group in December 2020 as a PhD student in Chemical Engineering. He received his B.S. in Chemical Engineering from Caltech in June 2020. At Caltech, he worked in the Lewis group on bubble positioning in devices for solar fuel production and in the Callies group on a parallelized model for ocean dynamics. In the Kulik group, Gianmarco’s research concerns multi-objective earth abundant materials design.
+Hannah is an administrative assistant for the Kulik group.
+
