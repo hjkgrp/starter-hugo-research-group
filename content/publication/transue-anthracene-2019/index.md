@@ -66,7 +66,7 @@ abstract: 'Thermolysis of a pair of dibenzo-7-phosphanorbornadiene compounds is 
   by data from phosphorus-31 magic angle spinning (MAS) solid state NMR spectroscopy,
   bolstering the structural comparisons to other phosphorus–sulfur systems while excluding
   the formulation of P2S as a simple mixture of P4S3 and phosphorus.'
-publication: '*J. Am. Chem. Soc.*'
+publication: '*J. Am. Chem. Soc.*, **141**, 431-440 (2019)'
 url_pdf: https://doi.org/10.1021/jacs.8b10775
 doi: 10.1021/jacs.8b10775
 ---

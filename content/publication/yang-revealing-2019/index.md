@@ -56,7 +56,7 @@ abstract: 'Enzymes have evolved to facilitate challenging reactions at ambient c
   electronic structure analysis to quantify the relative importance of CHO and OHO
   non-covalent interactions in imparting reactivity. These three diverse cases enable
   us to provide some general recommendations regarding QM/MM simulation of enzymes.'
-publication: '*Reaction Chemistry & Engineering*'
+publication: '*React. Chem. Eng.*, **4**, 298-315 (2019)'
 url_pdf: https://pubs.rsc.org/en/content/articlelanding/2019/re/c8re00213d
 doi: 10.1039/C8RE00213D
 ---

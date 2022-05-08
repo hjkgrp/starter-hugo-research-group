@@ -68,7 +68,7 @@ abstract: Not all nanopores are created equal. By definition, nanopores have cha
   for separations and water purification to new gas-permeable materials and energy
   storage devices. Here we highlight seven critical knowledge gaps in the study of
   SDNs and identify the need for new approaches to address these topics.
-publication: '*J. Phys. Chem. C*'
+publication: '*J. Phys. Chem. C*, **123**, 21309-21326 (2019)'
 url_pdf: https://doi.org/10.1021/acs.jpcc.9b02178
 doi: 10.1021/acs.jpcc.9b02178
 ---

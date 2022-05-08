@@ -57,7 +57,7 @@ abstract: High-throughput computational screening for chemical discovery mandate
   by becoming more predictive as input simulation length increases. Finally, we describe
   approaches for using these models to enable autonomous job control in transition
   metal complex discovery.
-publication: '*J. Chem. Theory Comput.*'
+publication: '*J. Chem. Theory Comput.*, **15**, 2331-2345 (2019)'
 url_pdf: https://doi.org/10.1021/acs.jctc.9b00057
 doi: 10.1021/acs.jctc.9b00057
 ---

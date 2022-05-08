@@ -59,7 +59,7 @@ abstract: Metal–oxo moieties are important catalytic intermediates in the sele
   density of confirmed DFT leads in originally sparsely populated regions of property
   space, highlighting the potential of ML-model-driven discovery to uncover catalyst
   design rules and exceptions.
-publication: '*ACS Catal.*'
+publication: '*ACS Catal.*, **9**, 8243-8255 (2019)'
 url_pdf: https://doi.org/10.1021/acscatal.9b02165
 doi: 10.1021/acscatal.9b02165
 ---

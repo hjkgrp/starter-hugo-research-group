@@ -60,7 +60,7 @@ abstract: Single atom catalysts (SACs) are emergent catalytic materials that hav
   and reactivity as well as their sensitivities to DFT functional choice. Finally,
   we conclude with broad recommendations for computational modeling of open-shell
   transition metal single-atom catalysts.
-publication: '*Front. Chem.*'
+publication: '*Front. Chem.*, **7**, 219 (2019)'
 url_pdf: https://www.frontiersin.org/articles/10.3389/fchem.2019.00219/full
 doi: 10.3389/fchem.2019.00219
 ---

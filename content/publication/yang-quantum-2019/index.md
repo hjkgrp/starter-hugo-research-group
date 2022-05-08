@@ -48,7 +48,7 @@ abstract: Methyl transferases (MTases) are a well-studied class of enzymes for w
   and electrostatics, wherein much of cofactor–substrate charge separation is maintained
   in the TS region, and electrostatic potential is correlated with substrate nucleophilicity
   (i.e., intrinsic reactivity).
-publication: '*J. Phys. Chem. Lett.*'
+publication: '*J. Phys. Chem. Lett.*, **10**, 3779-3787 (2019)'
 url_pdf: https://doi.org/10.1021/acs.jpclett.9b01555
 doi: 10.1021/acs.jpclett.9b01555
 ---

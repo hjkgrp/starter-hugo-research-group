@@ -33,7 +33,7 @@ publishDate: '2021-06-21T01:48:18.804741Z'
 publication_types:
 - '2'
 abstract: ''
-publication: '*International Journal of Quantum Chemistry*'
+publication: '*Int. J. Quantum Chem.*, **119**, e25839 (2019)'
 url_pdf: https://onlinelibrary.wiley.com/doi/abs/10.1002/qua.25839
 doi: 10.1002/qua.25839
 ---

@@ -57,7 +57,7 @@ abstract: 'Recent transformative advances in computing power and algorithms have
   areas bring about new chemical insights. We conclude with our outlook on the next
   steps in this process toward realizing fully autonomous discovery in inorganic chemistry
   using computational chemistry.'
-publication: '*Inorg. Chem.*'
+publication: '*Inorg. Chem.*, **58**, 10592-10606 (2019)'
 url_pdf: https://doi.org/10.1021/acs.inorgchem.9b00109
 doi: 10.1021/acs.inorgchem.9b00109
 ---

@@ -54,7 +54,7 @@ abstract: Biosynthetic enzyme complexes selectively catalyze challenging chemica
   hydrogen bonds with a single N123 residue in SyrB2. In comparison, non-native substrates
   that lack the hydroxyl interact more flexibly with the protein and therefore can
   orient closer to the Fe center, explaining their preferential hydroxylation.
-publication: '*ACS Catal.*'
+publication: '*ACS Catal.*, **9**, 4930-4943 (2019)'
 url_pdf: https://doi.org/10.1021/acscatal.9b00865
 doi: 10.1021/acscatal.9b00865
 ---

@@ -65,7 +65,7 @@ abstract: Understanding complex biological systems requires the system-wide char
   We also demonstrated rapid three-dimensional phenotyping of core needle biopsies
   and human brain cells. SHIELD enables rapid, multiscale, integrated molecular phenotyping
   of both animal and clinical tissues.
-publication: '*Nat Biotechnol*'
+publication: '*Nat. Biotechnol.*, **37**, 73-83 (2019)'
 url_pdf: https://www.nature.com/articles/nbt.4281
 doi: 10.1038/nbt.4281
 ---

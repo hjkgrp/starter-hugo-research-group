@@ -48,7 +48,7 @@ abstract: Approximate, semilocal density functional theory (DFT) suffers from de
   DFT+U does not. We recommend local, range-separated hybrids for the accurate modeling
   of catalysis in transition metal oxides at only a modest increase in computational
   cost over semilocal DFT.
-publication: '*J. Phys. Chem. Lett.*'
+publication: '*J. Phys. Chem. Lett.*, **10**, 5090-5098 (2019)'
 url_pdf: https://doi.org/10.1021/acs.jpclett.9b01650
 doi: 10.1021/acs.jpclett.9b01650
 ---

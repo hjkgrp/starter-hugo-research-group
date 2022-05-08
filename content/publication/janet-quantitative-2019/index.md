@@ -51,7 +51,7 @@ abstract: Machine learning (ML) models, such as artificial neural networks, have
   down predicted model errors below training errors, thus enabling predictive error
   control in chemical discovery or identification of useful data points for active
   learning.
-publication: '*Chemical Science*'
+publication: '*Chem. Sci.*, **10**, 7913-7922 (2019)'
 url_pdf: https://pubs.rsc.org/en/content/articlelanding/2019/sc/c9sc02298h
 doi: 10.1039/C9SC02298H
 ---

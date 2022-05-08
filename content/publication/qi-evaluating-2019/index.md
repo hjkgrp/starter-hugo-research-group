@@ -53,7 +53,7 @@ abstract: We investigate unexpectedly short non-covalent distances (textless85% 
   between Tyr and Asn/Gln involving both residues acting simultaneously as hydrogen
   bond donors and acceptors. This work confirms the importance of first-principles
   simulation in explaining unexpected geometries in protein crystal structures.
-publication: '*J. Chem. Inf. Model.*'
+publication: '*J. Chem. Inf. Model.*, **59**, 2199-2211 (2019)'
 url_pdf: https://doi.org/10.1021/acs.jcim.9b00144
 doi: 10.1021/acs.jcim.9b00144
 ---

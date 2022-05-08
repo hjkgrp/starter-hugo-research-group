@@ -33,7 +33,7 @@ publishDate: '2021-06-21T01:48:16.383296Z'
 publication_types:
 - '2'
 abstract: ''
-publication: '*J. Chem. Inf. Model.*'
+publication: '*J. Chem. Inf. Model.*, **59**, 3609-3610 (2019)'
 url_pdf: https://doi.org/10.1021/acs.jcim.9b00606
 doi: 10.1021/acs.jcim.9b00606
 ---

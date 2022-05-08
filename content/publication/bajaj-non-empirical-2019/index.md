@@ -54,7 +54,7 @@ abstract: Density functional theory (DFT) is widely applied to both molecules an
   of the current jmDFT approach that limit its ability to improve upon DFT results
   for cases such as weakly bound anions due to poor underlying semilocal functional
   behavior.
-publication: '*J. Chem. Phys.*'
+publication: '*J. Chem. Phys.*, **150**, 154115 (2019)'
 url_pdf: https://aip.scitation.org/doi/abs/10.1063/1.5091563
 doi: 10.1063/1.5091563
 ---
