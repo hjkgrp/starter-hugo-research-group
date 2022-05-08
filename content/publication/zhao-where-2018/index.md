@@ -53,7 +53,7 @@ abstract: Approximate density functional theory (DFT) is widely used in chemistr
   observations highlight the limited applicability of trends established for functional
   tuning on transition-metal complexes even to equivalent coordination environments
   in the solid state.
-publication: '*J. Chem. Theory Comput.*'
+publication: '*J. Chem. Theory Comput.*, **14**, 670-683 (2018)'
 url_pdf: https://doi.org/10.1021/acs.jctc.7b01061
 doi: 10.1021/acs.jctc.7b01061
 ---

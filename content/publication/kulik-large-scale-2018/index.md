@@ -32,7 +32,7 @@ publishDate: '2021-06-21T01:48:21.860475Z'
 publication_types:
 - '2'
 abstract: ''
-publication: '*Physical Chemistry Chemical Physics*'
+publication: '*Phys. Chem. Chem. Phys.*, **20**, 20650-20660 (2018)'
 url_pdf: https://pubs.rsc.org/en/content/articlelanding/2018/cp/c8cp03871f
 doi: 10.1039/C8CP03871F
 ---

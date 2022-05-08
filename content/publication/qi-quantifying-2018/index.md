@@ -50,7 +50,7 @@ abstract: Multi-scale quantum-mechanical/molecular-mechanical (QM/MM) and large-
   represents a promising approach for the systematic, unbiased determination of quantum
   mechanical effects in enzymes and for other complex systems that necessitate multi-scale
   modeling.
-publication: '*Acta Phys. -Chim. Sin.*'
+publication: '*Acta Phys. -Chim. Sin.*, **34**, 81-91 (2018)'
 url_pdf: http://www.whxb.pku.edu.cn/CN/abstract/abstract30003.shtml
 doi: 10.3866/PKU.WHXB201706303
 ---

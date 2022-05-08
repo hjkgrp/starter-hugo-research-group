@@ -52,7 +52,7 @@ abstract: This chapter first defines fundamental concepts governing chemical tra
   concern in the first-principles modeling of mechanochemical bond cleavage is the
   balance of computational cost and accuracy. The chapter concludes with an overview
   of the current status of computational mechanochemistry and related approaches.
-publication: '*Reviews in Computational Chemistry, Volume 31*'
+publication: '*Rev. Comput. Chem.*, **31**, 265-311 (2018)'
 url_pdf: https://onlinelibrary.wiley.com/doi/abs/10.1002/9781119518068.ch6
 doi: 10.1002/9781119518068.ch6
 ---

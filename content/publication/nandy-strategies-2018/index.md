@@ -55,7 +55,7 @@ abstract: Machine learning the electronic structure of open shell transition met
   our model performance on diverse complexes and in the discovery of molecules with
   target HOMO–LUMO gaps from a large 15,000 molecule design space in minutes rather
   than days that full DFT evaluation would require.
-publication: '*Ind. Eng. Chem. Res.*'
+publication: '*Ind. Eng. Chem. Res.*, **57**, 13973-13986 (2018)'
 url_pdf: https://doi.org/10.1021/acs.iecr.8b04015
 doi: 10.1021/acs.iecr.8b04015
 ---

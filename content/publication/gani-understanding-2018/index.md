@@ -52,7 +52,7 @@ abstract: Computational high-throughput screening is an essential tool for catal
   the placement of strong HB donors in targeted positions as a scaffold-agnostic strategy
   for further activity improvement. More generally, our findings motivate broader
   variation of coordination geometries in reactivity studies with single-site catalysts.
-publication: '*ACS Catal.*'
+publication: '*ACS Catal.*, **8**, 975-986 (2018)'
 url_pdf: https://doi.org/10.1021/acscatal.7b03597
 doi: 10.1021/acscatal.7b03597
 ---

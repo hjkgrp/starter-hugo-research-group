@@ -53,7 +53,7 @@ abstract: 'Indium phosphide quantum dots (QDs) have emerged as a promising candi
   of alternate growth recipes that take into account strong surface-dependence of
   kinetics as well as the shapes of both In and P precursors to control both kinetics
   and surface morphology in III–V QDs.'
-publication: '*Chem. Mater.*'
+publication: '*Chem. Mater.*, **30**, 7154-7165 (2018)'
 url_pdf: https://doi.org/10.1021/acs.chemmater.8b03125
 doi: 10.1021/acs.chemmater.8b03125
 ---

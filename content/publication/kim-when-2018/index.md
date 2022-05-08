@@ -56,7 +56,7 @@ abstract: We present a detailed study of nearly 70 Zn molecular catalysts for CO
   diverse ligands from large organic libraries and (ii) identify when ligand-only
   properties can determine catalyst energetics, to be broadly useful for both experimental
   and computational catalyst design.
-publication: '*J. Phys. Chem. A*'
+publication: '*J. Phys. Chem. A*, **122**, 4579-4590 (2018)'
 url_pdf: https://doi.org/10.1021/acs.jpca.8b03301
 doi: 10.1021/acs.jpca.8b03301
 ---
