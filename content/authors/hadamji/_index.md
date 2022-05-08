@@ -35,15 +35,15 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:hadamji AT mit DOT edu'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/realadityahadamji
+#- icon: twitter
+#  icon_pack: fab
+#  link: https://twitter.com/<username>
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/citations?user=gbTUmC8AAAAJ&hl=en
-- icon: github
-  icon_pack: fab
-  link: https://github.com/hjkgrp
+  link: https://scholar.google.com/citations?user=PQhLWe0AAAAJ&hl=en&oi=ao
+#- icon: github
+#  icon_pack: fab
+#  link: https://github.com/hjkgrp
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/CV_Adamji.pdf` and uncomment the lines below.
 #- icon: cv
