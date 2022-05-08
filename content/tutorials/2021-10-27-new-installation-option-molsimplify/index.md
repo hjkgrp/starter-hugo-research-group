@@ -30,6 +30,7 @@ image:
 
 authors:
 - admin
+- nandy
 
 tags:
 
