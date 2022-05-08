@@ -49,7 +49,7 @@ abstract: 'The flat-plane condition is the union of two exact constraints in ele
   form and incorporate it self-consistently to correct semi-local DFT. We demonstrate
   on model systems that jmDFT represents the first easy-to-implement, no-overhead
   approach to recovering the flat plane from semi-local DFT.'
-publication: '*J. Chem. Phys.*'
+publication: '*J. Chem. Phys.*, **147**, 191101 (2017)'
 url_pdf: https://aip.scitation.org/doi/full/10.1063/1.5008981
 doi: 10.1063/1.5008981
 ---

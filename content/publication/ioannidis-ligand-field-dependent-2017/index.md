@@ -51,7 +51,7 @@ abstract: Prediction of spin-state ordering in transition metal complexes is ess
   but worsened treatment for the hexa-aqua or hexa-ammine complexes. These observations
   highlight the sensitivity of functional performance to subtle changes in chemical
   bonding.
-publication: '*J. Phys. Chem. A*'
+publication: '*J. Phys. Chem. A*, **121**, 874-884 (2017)'
 url_pdf: https://doi.org/10.1021/acs.jpca.6b11930
 doi: 10.1021/acs.jpca.6b11930
 ---

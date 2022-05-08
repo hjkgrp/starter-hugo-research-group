@@ -56,7 +56,7 @@ abstract: Virtual high throughput screening, typically driven by first-principle
   correlation analysis reveals heteroatom identity and the degree of structural branching
   to be key ligand descriptors in determining redox potential. This inorganic discovery
   toolkit provides a promising approach to advancing transition metal complex design.
-publication: '*Ind. Eng. Chem. Res.*'
+publication: '*Ind. Eng. Chem. Res.*, **56**, 4898-4910 (2017)'
 url_pdf: https://doi.org/10.1021/acs.iecr.7b00808
 doi: 10.1021/acs.iecr.7b00808
 ---

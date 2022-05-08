@@ -54,7 +54,7 @@ abstract: 'Hybrid quantum mechanical-molecular mechanical (QM/MM) simulations ar
   methodology. Both methods represent promising approaches for the systematic, unbiased
   determination of quantum mechanical effects in enzymes and large systems that necessitate
   multiscale modeling.'
-publication: '*J. Chem. Theory Comput.*'
+publication: '*J. Chem. Theory Comput.*, **13**, 563-576 (2017)'
 url_pdf: https://doi.org/10.1021/acs.jctc.6b01049
 doi: 10.1021/acs.jctc.6b01049
 ---

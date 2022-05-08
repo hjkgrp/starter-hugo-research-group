@@ -52,7 +52,7 @@ abstract: Lignocellulosic biomass is an abundant, rich source of aromatic compou
   of the most stable spirodienone fragments that reside at most 1 eV above the reactant
   structure are formed with only 2 eV barriers for C–C bond cleavage, suggesting key
   targets for catalyst design to drive targeted depolymerization of lignin.
-publication: '*J. Phys. Chem. A*'
+publication: '*J. Phys. Chem. A*, **121**, 532-543 (2017)'
 url_pdf: https://doi.org/10.1021/acs.jpca.6b11414
 doi: 10.1021/acs.jpca.6b11414
 ---

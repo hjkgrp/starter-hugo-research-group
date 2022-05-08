@@ -53,7 +53,7 @@ abstract: 'First-principles simulation has played an ever-increasing role in the
   and the so-called DFT+U correction. Through both review and the worked example,
   we aim to provide a pedagogical introduction to the challenges and the insight that
   first-principles simulation can provide in surface chemistry.'
-publication: '*Molecular Simulation*'
+publication: '*Mol. Simul.*, **43**, 327-345 (2017)'
 url_pdf: https://doi.org/10.1080/08927022.2016.1258465
 doi: 10.1080/08927022.2016.1258465
 ---

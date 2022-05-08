@@ -57,7 +57,7 @@ abstract: High-throughput computational screening has emerged as a critical comp
   ANNs developed in this work provide a strategy for screening transition metal complexes
   both with direct ANN prediction and with improved structure generation for validation
   with first principles simulation.
-publication: '*Chemical Science*'
+publication: '*Chem. Sci.*, **8**, 5137-5152 (2017)'
 url_pdf: https://pubs.rsc.org/en/content/articlelanding/2017/sc/c7sc01247k
 doi: 10.1039/C7SC01247K
 ---

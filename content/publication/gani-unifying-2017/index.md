@@ -57,7 +57,7 @@ abstract: Accurate predictions of spin-state ordering, reaction energetics, and 
   predictions. This new descriptor-sensitivity relationship provides a path to quantifying
   how predictions in transition-metal complex screening are sensitive to the method
   used.
-publication: '*J. Chem. Theory Comput.*'
+publication: '*J. Chem. Theory Comput.*, **13**, 5443-5457 (2017)'
 url_pdf: https://doi.org/10.1021/acs.jctc.7b00848
 doi: 10.1021/acs.jctc.7b00848
 ---

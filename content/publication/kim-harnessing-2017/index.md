@@ -51,7 +51,7 @@ abstract: Indium phosphide quantum dots (QDs) represent promising replacements f
   conditions and to improve synthesized InP QD quality. Importantly, these trends
   hold regardless of phosphorus precursor chemistries and in the longer chain length
   ligands typically used in synthesis.
-publication: '*Chem. Mater.*'
+publication: '*Chem. Mater.*, **29**, 3632-3643 (2017)'
 url_pdf: https://doi.org/10.1021/acs.chemmater.7b00472
 doi: 10.1021/acs.chemmater.7b00472
 ---

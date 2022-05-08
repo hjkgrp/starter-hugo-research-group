@@ -54,7 +54,7 @@ abstract: Machine learning (ML) of quantum mechanical properties shows promise f
   of feature selection results across property sets reveals the relative importance
   of local, electronic descriptors (e.g., electronegativity, atomic number) in spin-splitting
   and distal, steric effects in redox potential and bond lengths.
-publication: '*J. Phys. Chem. A*'
+publication: '*J. Phys. Chem. A*, **121**, 8939-8954 (2017)'
 url_pdf: https://doi.org/10.1021/acs.jpca.7b08750
 doi: 10.1021/acs.jpca.7b08750
 ---
