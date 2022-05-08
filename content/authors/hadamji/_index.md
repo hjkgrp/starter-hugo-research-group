@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Aditya Nandy
+title: Husain Adamji
 
 # Is this the primary user of the site?
 superuser: true
@@ -34,10 +34,10 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:nandy AT mit DOT edu'
+  link: 'mailto:hadamji AT mit DOT edu'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/realadityanandy
+  link: https://twitter.com/realadityahadamji
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=gbTUmC8AAAAJ&hl=en
@@ -45,13 +45,13 @@ social:
   icon_pack: fab
   link: https://github.com/hjkgrp
 # Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/CV_Nandy.pdf` and uncomment the lines below.
+# To enable, copy your resume/CV to `static/files/CV_Adamji.pdf` and uncomment the lines below.
 #- icon: cv
 #  icon_pack: ai
-#  link: files/CV_Nandy.pdf
+#  link: files/CV_Adamji.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-#email: "nandy@mit.edu"
+#email: "hadamji@mit.edu"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
@@ -61,4 +61,4 @@ highlight_name: false
 user_groups:
 - Grad Students
 ---
-Aditya joined the Kulik group in November 2017 as a PhD student in Chemistry. He received his B.S. in Chemical Engineering from U.C. Berkeley in Spring 2017. At Cal, Aditya worked with Prof. Jeffrey A. Reimer, using solid-state NMR and other methods to study diffusion and adsorption of small molecules inside of MOF materials. Aditya holds an NSF Graduate Research Fellowship.
+Husain grew up in Dar es Salaam, Tanzania. He received a B.S. in Chemical Engineering from Tufts University in May 2020. As an undergraduate, Husain performed research in Professor Prashant Deshlahra’s group where he studied structure-property relations in next-generation Group III-V semiconductors like GaAsBi using Density Functional Theory (DFT). Following this project, Husain also worked with Professor Deshlahra on the selective oxidative dehydrogenation of propane using nitric oxide as a homogeneous gas-phase catalyst. Husain joined the Kulik group in November 2020 as a Chemical Engineering PhD student and is co-advised by Professor Yuriy Roman. His research focuses on novel inorganic porous catalyst design inspired by biological enzymes.
