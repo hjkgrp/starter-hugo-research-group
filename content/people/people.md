@@ -21,6 +21,7 @@ content:
   - Postdocs
   - Grad Students
   - Masters Students
+  - Undergraduate Students
   - Visitors
   - Alumni
 design:
