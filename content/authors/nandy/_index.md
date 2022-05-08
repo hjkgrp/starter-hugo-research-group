@@ -6,7 +6,7 @@ title: Aditya Nandy
 superuser: true
 
 # Role/position
-role: Grad Students
+role: Grad Student
 
 # Organizations/Affiliations
 organizations:
@@ -61,7 +61,7 @@ highlight_name: false
 authors:
 - nandy
 user_groups:
-- Graduate Students
+- Grad Students
 ---
 
 Heather J. Kulik is an Associate Professor in Chemical Engineering at MIT. She received her B.E. in Chemical Engineering from Cooper Union in 2004 and her Ph.D. in Materials Science and Engineering from MIT in 2009. She completed postdocs at Lawrence Livermore (2010) and Stanford (2010−2013), prior to returning to MIT as a faculty member in 2013 and receiving tenure in 2021.
