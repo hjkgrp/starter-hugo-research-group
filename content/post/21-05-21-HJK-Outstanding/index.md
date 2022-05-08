@@ -1,5 +1,5 @@
 ---
-title: HJK wins the 2020 Outstanding Early Career Paper Award from MSDE!
+title: HJK wins MSDE paper award
 date: 2021-05-03
 ---
 
