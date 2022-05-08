@@ -53,7 +53,7 @@ abstract: Accelerated discovery with machine learning (ML) has begun to provide 
   strategies. These “decision engines” represent the first steps toward autonomous
   workflows that avoid the need for expert determination of the robustness of DFT-based
   materials discoveries.
-publication: '*J. Phys. Chem. Lett.*'
+publication: '*J. Phys. Chem. Lett.* 12, 4628-4637 (2021)'
 #url_pdf: https://doi.org/10.1021/acs.jpclett.1c00631
 doi: 10.1021/acs.jpclett.1c00631
 
