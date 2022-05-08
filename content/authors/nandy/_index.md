@@ -6,7 +6,7 @@ title: Aditya Nandy
 superuser: true
 
 # Role/position
-role: Grad Students
+role: Grad Student
 
 # Organizations/Affiliations
 organizations:
