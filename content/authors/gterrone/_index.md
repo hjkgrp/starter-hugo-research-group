@@ -16,9 +16,9 @@ organizations:
 #bio: 
 
 interests:
-- Interest1 
-- Interest2
-- Interest3
+- machine learning 
+- excited state properties
+- materials design
 
 education:
   courses:

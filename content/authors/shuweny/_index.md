@@ -16,9 +16,9 @@ organizations:
 #bio: 
 
 interests:
-- Interest1 
-- Interest2
-- Interest3
+- transport 
+- materials design
+- confined fluids
 
 education:
   courses:

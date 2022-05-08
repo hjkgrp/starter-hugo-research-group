@@ -16,9 +16,9 @@ organizations:
 #bio: 
 
 interests:
-- Interest1 
-- Interest2
-- Interest3
+- electronic structure theory 
+- strongly correlated systems
+- machine learning
 
 education:
   courses:

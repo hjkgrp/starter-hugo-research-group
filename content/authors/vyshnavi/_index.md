@@ -16,9 +16,9 @@ organizations:
 #bio: 
 
 interests:
-- Interest1 
-- Interest2
-- Interest3
+- biochemistry 
+- noncovalent interactions
+- nonheme iron
 
 education:
   courses:

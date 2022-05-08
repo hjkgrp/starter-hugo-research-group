@@ -16,9 +16,9 @@ organizations:
 #bio: 
 
 interests:
-- Interest1 
-- Interest2
-- Interest3
+- electronic structure theory 
+- chemical bonding
+- computational chemistry
 
 education:
   courses:

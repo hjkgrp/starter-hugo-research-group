@@ -16,9 +16,9 @@ organizations:
 #bio: 
 
 interests:
-- Interest1 
-- Interest2
-- Interest3
+- machine learning 
+- density functional theory
+- computational chemistry
 
 education:
   courses:

@@ -16,9 +16,9 @@ organizations:
 #bio: 
 
 interests:
-- Interest1 
-- Interest2
-- Interest3
+- catalysis 
+- single atom catalysts
+- catalyst design
 
 education:
   courses:

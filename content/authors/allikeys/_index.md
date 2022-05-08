@@ -16,9 +16,8 @@ organizations:
 #bio: 
 
 interests:
-- Interest1 
-- Interest2
-- Interest3
+- protein-sugar interactions 
+- biochemistry
 
 education:
   courses:

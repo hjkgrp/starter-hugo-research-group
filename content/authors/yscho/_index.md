@@ -16,9 +16,9 @@ organizations:
 #bio: 
 
 interests:
-- Interest1 
-- Interest2
-- Interest3
+- strongly correlated systems 
+- density functional theory
+- materials modeling
 
 education:
   courses:

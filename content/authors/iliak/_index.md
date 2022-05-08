@@ -16,9 +16,9 @@ organizations:
 #bio: 
 
 interests:
-- Interest1 
-- Interest2
-- Interest3
+- mechanochemistry 
+- machine learning
+- computational chemistry
 
 education:
   courses:

@@ -16,9 +16,9 @@ organizations:
 #bio: 
 
 interests:
-- Interest1 
-- Interest2
-- Interest3
+- biochemistry 
+- enzyme catalysis
+- non-heme iron
 
 education:
   courses:
