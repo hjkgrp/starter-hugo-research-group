@@ -1,9 +1,9 @@
 ---
 title: "QM9 kernel models using molSimplify, RACs and R: Part 2"
-subtitle: 
+subtitle:
 
 # Summary for listings and search engines
-summary: 
+summary:
 
 # Link this post with a project
 projects: []
@@ -12,7 +12,7 @@ projects: []
 date: 2018-02-20
 
 # Date updated
-lastmod: 
+lastmod:
 
 # Is this an unpublished draft?
 draft: false
@@ -23,7 +23,7 @@ featured: false
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  caption: 
+  caption:
   focal_point: ""
   placement: 2
   preview_only: false
@@ -37,12 +37,6 @@ categories:
 - tutorials
 
 ---
-
-<!--/*--><![CDATA[/* ><!--*/
-
-code { background-color: #eee;
- white-space:pre-wrap}
-/*--><!]]>*/
 In the second part of our tutorial, we will demonstrate how to use R to conduct kernel based prediction of atomization energies based on RACs. You’ll need QM9\_descriptor\_file.csv, which we prepared using molSimplify in the previous [tutorial](http://hjkgrp.mit.edu/content/qm9-kernel-models-using-molsimplify-racs-and-r-part-1) and also provide [here](/sites/default/files/QM9_descriptor_file.csv). We’ll use R to conduct a simple KRR model using a radial basis function kernel – we recommend the excellent, free  [RStudio IDE](https://www.rstudio.com/) but a similar procedure could be followed in your favorite language. In particular, we’ll use the [CVST package](https://CRAN.R-project.org/package=CVST) to train our model and [DRR](https://CRAN.R-project.org/package=DRR) to conduct accelerated cross validation. Both packages are available from CRAN and depend on [kernlab](https://CRAN.R-project.org/package=kernlab]).
 
 
@@ -81,7 +75,7 @@ The next step is to apply normalization to the data. We’ll follow best practic
 
 
 ```
-## normalize data 
+## normalize data
 df_train <- scale(df_train,center=TRUE,scale=TRUE)
 train_center <- attr(df_train, 'scaled:center')
 train_scale <- attr(df_train, 'scaled:scale')
@@ -113,7 +107,7 @@ For our first try, we won’t worry about optimizing hyperparameters (σ, λ) an
 ## set up learner
 krr_learner = constructFastKRRLearner()   ## Build the base learner
 ## first time around, don't do CV but use a reasonable kernel:
-params_krr = list(kernel="rbfdot", sigma=1E-6, lambda=1E-11,nblocks=4) 
+params_krr = list(kernel="rbfdot", sigma=1E-6, lambda=1E-11,nblocks=4)
 ```
 The constructFastKRRLearner() comes from the DRR package and implements fast, divide-and-conquer matrix inversion that will be useful for doing cross validation a little later and is critical if we want to use larger kernel matrices. Now, we can train and test the model. We will convert back to original units (Ha) and then further convert units to kcal/mol, and print the results:
 
@@ -148,7 +142,7 @@ Running the code produces the followings output:
 krr train rmse = 10.36 kcal/mol       
 krr train MAE = 7.37 kcal/mol       
 krr test rmse = 10.98 kcal/mol       
-krr test MAE =  7.79 kcal/mol 
+krr test MAE =  7.79 kcal/mol
 
 ```
 Note that this corresponds to one random sample of 4000 training points and the results might differ a little bit each time the code is run. It would be best practice to run this code multiple times and average the results.
@@ -175,9 +169,7 @@ These lines define our grid of hyperparameter values and conduct 10-fold cross-v
 krr train rmse = 9.53 kcal/mol       
 krr train MAE = 6.68 kcal/mol       
 krr test rmse = 10.42 kcal/mol       
-krr test MAE =  7.20 kcal/mol 
+krr test MAE =  7.20 kcal/mol
 
 ```
 We will warn that conducting detailed cross-validation is expensive, and adding the above lines of codes decreases the run time from seconds to minutes on a standard workstation.
-
-

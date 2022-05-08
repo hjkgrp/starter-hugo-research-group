@@ -1,9 +1,9 @@
 ---
 title: "QM9 kernel models using molSimplify, RACs and R: Part 1"
-subtitle: 
+subtitle:
 
 # Summary for listings and search engines
-summary: 
+summary:
 
 # Link this post with a project
 projects: []
@@ -12,7 +12,7 @@ projects: []
 date: 2018-02-20
 
 # Date updated
-lastmod: 
+lastmod:
 
 # Is this an unpublished draft?
 draft: false
@@ -23,7 +23,7 @@ featured: false
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  caption: 
+  caption:
   focal_point: ""
   placement: 2
   preview_only: false
@@ -37,12 +37,6 @@ categories:
 - tutorials
 
 ---
-
-<!--/*--><![CDATA[/* ><!--*/
-
-code { background-color: #eee;
- white-space:pre-wrap}
-/*--><!]]>*/
 In this two-part tutorial, we’ll show you how to use molSimplify to collect autocorrelation-based descriptors from molecular structures and use those to make predictions using a simple kernel ridge regression (KRR) model, as shown in our  [recent paper](https://pubs.acs.org/doi/abs/10.1021/acs.jpca.7b08750). In this first part, we will explain how to use python and molSimplify to extract the molecular descriptors and get our data ready for the learning task. We will also provide a copy of the output of the preprocessing step if you want to proceed straight the learning a model in the second tutorial. The first thing we need is some data to train on. One of the most common test sets used in atomistic machine learning is the  [QM9 dataset from Ramarkrishnan et. al (2014)](https://www.nature.com/articles/sdata201422/) , consisting of about 134 000 small CHONF organic molecules. The approach outlined here will work with minor modifications for any other set of organic molecules provided as xyz files, and extension to inorganic complexes is easily achieved.
 
 
@@ -87,5 +81,3 @@ Since we are looping over 134k molecules and extracting standard geometries for 
 
 
 We will make a final important comment that the use of the optimized geometry is not needed as the RAC function only encode connectivity information – in this case, it is convenient enough to use the built in function since we have the geometries. It would be possible to convert from SMILEs strings directly to RACs but in this case the data is supplied as individual geometry files already.
-
-

@@ -34,6 +34,11 @@
 #  name = "Events"
 #  url = "event"
 #  weight = 40
+[[main]]
+  name = "Tutorials"
+  url = "tutorials"
+  weight = 35
+
 
 [[main]]
   name = "molSimplify"
