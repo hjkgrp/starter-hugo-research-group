@@ -66,7 +66,7 @@ abstract: 'Catechol O-methyltransferase (COMT) is a SAM- and Mg2+-dependent meth
   for methyl transfer, and accurate descriptions of charge transfer and electrostatics
   are needed to provide balanced relative barriers when multiple binding poses are
   accessible, for example in other transferases.'
-publication: '*PLOS ONE*'
+publication: '*PLoS One*, **11**, e0161868 (2016)'
 url_pdf: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0161868
 doi: 10.1371/journal.pone.0161868
 ---

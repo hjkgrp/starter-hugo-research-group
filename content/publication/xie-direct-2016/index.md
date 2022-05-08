@@ -56,7 +56,7 @@ abstract: Colloidal quantum dots (QDs) exhibit highly desirable size- and shape-
   far encountered in InP QD synthesis optimization may be attributed to an overlooked
   need for a cooperative tuning strategy that simultaneously addresses the chemistry
   of both indium and phosphorus precursors.
-publication: '*J. Phys. Chem. C*'
+publication: '*J. Phys. Chem. C*, **120**, 2472-2483 (2016)'
 url_pdf: https://doi.org/10.1021/acs.jpcc.5b12091
 doi: 10.1021/acs.jpcc.5b12091
 ---

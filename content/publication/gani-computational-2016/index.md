@@ -51,7 +51,7 @@ abstract: Selective ion separation is a major challenge with far-ranging impact 
   a 3D abstraction of these design rules, to help guide next-generation material optimization
   for selective ion sorption. This approach is expected to have broad relevance in
   computational discovery for molecular recognition, sensing, separations, and catalysis.
-publication: '*Chem. Mater.*'
+publication: '*Chem. Mater.*, **28**, 6207-6218 (2016)'
 url_pdf: https://doi.org/10.1021/acs.chemmater.6b02378
 doi: 10.1021/acs.chemmater.6b02378
 ---

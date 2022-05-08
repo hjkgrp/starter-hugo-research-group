@@ -55,7 +55,7 @@ abstract: Recent algorithmic and hardware advances have enabled the application 
   developed with the study of biological molecules in mind, this empirically tuned
   U approach shows promise as an alternative strategy for correction of basis set
   incompleteness errors.
-publication: '*J. Phys. Chem. A*'
+publication: '*J. Phys. Chem. A*, **120**, 5939-5949 (2016)'
 url_pdf: https://doi.org/10.1021/acs.jpca.6b04527
 doi: 10.1021/acs.jpca.6b04527
 ---

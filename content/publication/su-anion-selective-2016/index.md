@@ -59,7 +59,7 @@ abstract: Redox species have been explored extensively for catalysis, energy sto
   a selective binding mechanism based on redox-enhanced hydrogen bonding between the
   cyclopentadienyl ligand and the carboxylate functional group, with broader implications
   for molecular design, supramolecular recognition, and metallocene catalysis.
-publication: '*Advanced Functional Materials*'
+publication: '*Adv. Funct. Mater.*, **26**, 3394-3404 (2016)'
 url_pdf: https://www.onlinelibrary.wiley.com/doi/abs/10.1002/adfm.201600079
 doi: 10.1002/adfm.201600079
 ---

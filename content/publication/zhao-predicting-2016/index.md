@@ -49,7 +49,7 @@ abstract: We present a systematic, first-principles study of the role of element
   in A30B30 than four-membered rings in A36B36 or A28B28 allotropes. Overall, we demonstrate
   a path forward for predicting the relative stability of fullerene allotropes and
   isomers of arbitrary shape, size, and elemental composition.
-publication: '*J. Phys. Chem. C*'
+publication: '*J. Phys. Chem. C*, **120**, 17035-17045 (2016)'
 url_pdf: https://doi.org/10.1021/acs.jpcc.6b04361
 doi: 10.1021/acs.jpcc.6b04361
 ---

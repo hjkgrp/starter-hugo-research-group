@@ -53,7 +53,7 @@ abstract: Approximate density functional theory (DFT) suffers from many-electron
   to develop multifaceted approximate-DFT error correction approaches that separately
   treat density delocalization and energetic errors to recover both correct density
   and orbital energy-derived properties.
-publication: '*J. Chem. Theory Comput.*'
+publication: '*J. Chem. Theory Comput.*, **12**, 5931-5945 (2016)'
 url_pdf: https://doi.org/10.1021/acs.jctc.6b00937
 doi: 10.1021/acs.jctc.6b00937
 ---

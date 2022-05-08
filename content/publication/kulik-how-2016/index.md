@@ -54,7 +54,7 @@ abstract: Hybrid quantum mechanical–molecular mechanical (QM/MM) simulations a
   selected using criteria such as chemical intuition or proximity. These results provide
   a recipe for a more careful determination of QM region sizes in future QM/MM studies
   of enzymes.
-publication: '*J. Phys. Chem. B*'
+publication: '*J. Phys. Chem. B*, **120**, 11381-11394 (2016)'
 url_pdf: https://doi.org/10.1021/acs.jpcb.6b07814
 doi: 10.1021/acs.jpcb.6b07814
 ---

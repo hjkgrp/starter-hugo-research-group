@@ -52,7 +52,7 @@ abstract: We present an automated, open source toolkit for the first-principles 
   input files, preparation and execution of electronic structure calculations, and
   post-processing for each generated structure aids interpretation of underlying chemical
   and energetic trends. © 2016 Wiley Periodicals, Inc.
-publication: '*Journal of Computational Chemistry*'
+publication: '*J. Comput. Chem.*, **37**, 2106-2117 (2016)'
 url_pdf: https://onlinelibrary.wiley.com/doi/abs/10.1002/jcc.24437
 doi: 10.1002/jcc.24437
 ---
