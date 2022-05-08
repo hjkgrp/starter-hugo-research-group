@@ -37,12 +37,12 @@ social:
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/<username>
-#- icon: google-scholar
-#  icon_pack: ai
-#  link: 
-#- icon: github
-#  icon_pack: fab
-#  link: https://github.com/hjkgrp
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=b6gr9AEAAAAJ&hl=en 
+- icon: github
+  icon_pack: fab
+  link: https://github.com/naveenarun
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/CV_User.pdf` and uncomment the lines below.
 #- icon: cv

@@ -37,12 +37,12 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:shuweny AT mit DOT edu'
-#- icon: twitter
-#  icon_pack: fab
-#  link: https://twitter.com/<username>
-#- icon: google-scholar
-#  icon_pack: ai
-#  link: 
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/shuwenyue
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=felc0JkAAAAJ&hl=en&oi=ao 
 #- icon: github
 #  icon_pack: fab
 #  link: https://github.com/hjkgrp

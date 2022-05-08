@@ -37,12 +37,12 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:yaelc AT mit DOT edu'
-#- icon: twitter
-#  icon_pack: fab
-#  link: https://twitter.com/<username>
-#- icon: google-scholar
-#  icon_pack: ai
-#  link: 
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/yaelc1984
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=7KXfhAQAAAAJ&hl=en&oi=ao 
 #- icon: github
 #  icon_pack: fab
 #  link: https://github.com/hjkgrp
