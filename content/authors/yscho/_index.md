@@ -48,9 +48,9 @@ social:
 #  link: https://github.com/hjkgrp
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/CV_User.pdf` and uncomment the lines below.
-#- icon: cv
-#  icon_pack: ai
-#  link: files/CV_User.pdf
+- icon: cv
+  icon_pack: ai
+  link: files/CV_YSCho.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 #email: "yscho@mit.edu"

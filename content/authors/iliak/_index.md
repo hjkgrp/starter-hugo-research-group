@@ -37,12 +37,12 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:iliak AT mit DOT edu'
-#- icon: twitter
-#  icon_pack: fab
-#  link: https://twitter.com/<username>
-#- icon: google-scholar
-#  icon_pack: ai
-#  link: 
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/kevlishviliilia
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?hl=en&user=vIZTq-EAAAAJ 
 #- icon: github
 #  icon_pack: fab
 #  link: https://github.com/hjkgrp
