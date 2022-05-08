@@ -19,6 +19,7 @@ content:
   - Principal Investigator
   - Postdocs
   - Grad Students
+  - Masters Students
   - Visitors
   - Alumni
 design:

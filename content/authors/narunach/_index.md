@@ -22,9 +22,9 @@ interests:
 
 education:
   courses:
-  - course: BS in Degree 
-    institution: Institution
-    year: Year
+  - course: BS in Chemical Engineering 
+    institution: Caltech
+    year: 2018
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons

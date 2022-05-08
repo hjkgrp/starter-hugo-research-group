@@ -22,9 +22,9 @@ interests:
 
 education:
   courses:
-  - course: BS in Degree 
-    institution: Institution
-    year: Year
+  - course: BS in Chemical Engineering 
+    institution: UC Santa Barbara
+    year: 2019
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons

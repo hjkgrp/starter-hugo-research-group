@@ -24,8 +24,8 @@ interests:
 education:
   courses:
   - course: BS in Chemical Engineering
-    institution: UC Berkeley
-    year: 2017
+    institution: Tufts University
+    year: 2020
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons

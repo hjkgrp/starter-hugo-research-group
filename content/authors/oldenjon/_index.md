@@ -1,11 +1,11 @@
 ---
 # Display name
-title: Xiao Huang
+title: Jonas Oldenstaedt
 
 # Is this the primary user of the site?
 
 # Role/position
-role: Grad Student
+role: Masters Student
 
 # Organizations/Affiliations
 organizations:
@@ -16,15 +16,15 @@ organizations:
 #bio: 
 
 interests:
-- mechanochemistry 
-- catalysis
-- materials design
+- machine learning
+- transition metal chemistry
+- electronic structure theory
 
 education:
   courses:
-  - course: BS in Chemistry, BA Applied math 
-    institution: UC Berkeley
-    year: 2021
+  - course: BS in Chemistry
+    institution: University of Freiburg
+    year: 2019
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -33,7 +33,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:x_huang AT mit DOT edu'
+  link: 'mailto:oldenjon AT mit DOT edu'
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/<username>
@@ -50,7 +50,7 @@ social:
 #  link: files/CV_User.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-#email: "x_huang@mit.edu"
+#email: "allikeys@mit.edu"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
@@ -58,6 +58,6 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Grad Students
+- Masters Students
 ---
-Xiao joined MIT and the Kulik Group in 2021 as a PhD student in Physical Chemistry. He graduated from UCB in 2021 majoring Chemistry and Applied Math. At Cal, he worked in Prof Paul Alivisatos` lab on elucidating the synthesis and transformation of perovskite nanocrystals--through manual experiments and ML modeling. In the Kulik group, Xiao will be working on designing catalysts for polymer upcycling.
+Jonas is a masters student visiting the Kulik group from April until September 2022

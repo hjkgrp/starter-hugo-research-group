@@ -22,10 +22,13 @@ interests:
 
 education:
   courses:
-  - course: BS in Degree 
-    institution: Institution
-    year: Year
+  - course: BS in Condensed Matter Physics
+    institution: National Research Tomsk Polytechnic University
+    year: 2019
 
+  - course: BS in Physics
+    institution: Jilin University
+    year: 2019
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the

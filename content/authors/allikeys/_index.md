@@ -21,9 +21,12 @@ interests:
 
 education:
   courses:
-  - course: BS in Degree 
-    institution: Institution
-    year: Year
+  - course: MS in Computer Science
+    institution: Stanford University
+    year: 2020
+  - course: BS in Chemistry
+    institution: Stanford University
+    year: 2019
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
