@@ -30,6 +30,3 @@ design:
   show_social: true
 ---
 Check out where our alumni are [here]({{< relref "../alumni/Kulik-group-alumni" >}})!
-
-authors:
-- admin
