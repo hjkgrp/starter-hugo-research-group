@@ -55,7 +55,7 @@ abstract: We present a detailed analysis of the addition-elimination reaction pa
   crossovers. The role that the Hubbard U term plays in improving both quantitative
   and qualitative descriptions of transition-metal chemistry is examined, and its
   strengths as well as possible weaknesses are discussed in detail.
-publication: '*J. Chem. Phys.*'
+publication: '*J. Chem. Phys.*, **129**, 134314 (2008)'
 url_pdf: https://aip.scitation.org/doi/abs/10.1063/1.2987444
 doi: 10.1063/1.2987444
 ---

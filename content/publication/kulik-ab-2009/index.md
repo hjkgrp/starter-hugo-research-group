@@ -52,7 +52,7 @@ abstract: Based on high-level ab initio calculations, we predict the existence o
   to 2s12px+1 in BO and N2+ leads to strongly bound lowest 6Σ+states with binding
   energies as high as 2.0eV. We believe that these newly predicted sextet states could
   be identified through their perturbations of quartet states of the relevant molecules.
-publication: '*Journal of Molecular Spectroscopy*'
+publication: '*Journal of Molecular Spectroscopy*, **258**, 6-12 (2009)'
 url_pdf: https://www.sciencedirect.com/science/article/pii/S0022285209001970
 doi: 10.1016/j.jms.2009.08.008
 ---

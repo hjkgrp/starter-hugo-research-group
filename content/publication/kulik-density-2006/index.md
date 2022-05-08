@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: 'Density Functional Theory in Transition-Metal Chemistry: A Self-Consistent
-  Hubbard $U$ Approach'
+  Hubbard U Approach'
 subtitle: ''
 summary: ''
 authors:
@@ -44,7 +44,7 @@ abstract: Transition-metal centers are the active sites for a broad variety of b
   Fe2 and Fe−2 to the addition elimination of molecular hydrogen on FeO+. The Hubbard
   U is determined with a novel self-consistent procedure based on a linear-response
   approach.
-publication: '*Phys. Rev. Lett.*'
+publication: '*Phys. Rev. Lett.*, **97**, 103001 (2006)'
 url_pdf: https://link.aps.org/doi/10.1103/PhysRevLett.97.103001
 doi: 10.1103/PhysRevLett.97.103001
 ---

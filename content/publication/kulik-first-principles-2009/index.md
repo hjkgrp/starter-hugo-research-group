@@ -59,7 +59,7 @@ abstract: 'We present here a computational study of reactions at a model complex
   modulate the overall reactivity and binding of relevant substrates, we show that
   a small model compound consisting exclusively of the direct ligands to the metal
   can help explain reactivity heretofore not yet understood in the halogenase SyrB2.'
-publication: '*J. Am. Chem. Soc.*'
+publication: '*J. Am. Chem. Soc.*, **131**, 14426-14433 (2009)'
 url_pdf: https://doi.org/10.1021/ja905206k
 doi: 10.1021/ja905206k
 ---
