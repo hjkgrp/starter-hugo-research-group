@@ -46,7 +46,7 @@ abstract: The directed depolymerization of lignin biopolymers is of utmost relev
   relationships between abundance and breaking frequency, the relative diversity of
   potential pathways for a given linkage, and the observation that readily cleaved
   bonds can destabilize adjacent bonds, causing subsequent automatic cleavage.
-publication: '*J. Phys. Chem. A*'
+publication: '*J. Phys. Chem. A*, **119**, 6551-6562 (2015)'
 url_pdf: https://doi.org/10.1021/acs.jpca.5b03503
 doi: 10.1021/acs.jpca.5b03503
 ---

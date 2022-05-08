@@ -48,6 +48,6 @@ abstract: Enzymatic methyl transfer, catalyzed by catechol-O-methyltransferase (
   measurements and molecular dynamics. These experimental and computational results
   are discussed in the context of active site compaction that requires an ionization
   of substrate within the enzyme ternary complex.
-publication: '*PNAS*'
+publication: '*Proc. Natl. Acad. Sci.*, **112**, 7954-7959 (2015)'
 doi: 10.1073/pnas.1506792112
 ---

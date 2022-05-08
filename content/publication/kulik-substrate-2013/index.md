@@ -55,7 +55,7 @@ abstract: We employ error-corrected density functional theory methods to map out
   following hydrogen abstraction, with deeper substrate delivery into the active (for
   native substrates) site favoring halogenation and shallower substrate delivery favoring
   hydroxylation.
-publication: '*Journal of Biological Chemistry*'
+publication: '*J. Biol. Chem.*, **288**, 11233-11241 (2013)'
 url_pdf: https://www.sciencedirect.com/science/article/pii/S0021925820672003
 doi: 10.1074/jbc.M112.415570
 ---

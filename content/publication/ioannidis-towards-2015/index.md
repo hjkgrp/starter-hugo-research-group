@@ -47,7 +47,7 @@ abstract: We estimate the prediction sensitivity with respect to Hartree-Fock ex
   on iron centers, corresponding to effective delocalization of charge to ligands,
   thus challenging notions of the role of Hartree-Fock exchange in shifting predictions
   of spin-state ordering.
-publication: '*J. Chem. Phys.*'
+publication: '*J. Chem. Phys.*, **143**, 034104 (2015)'
 url_pdf: https://aip.scitation.org/doi/abs/10.1063/1.4926836
 doi: 10.1063/1.4926836
 ---

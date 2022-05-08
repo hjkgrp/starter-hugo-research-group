@@ -68,7 +68,7 @@ abstract: 'One method for CO2 capture is to dissolve CO2 in water to form carbon
   and tri-aza dodecane catalysts can be determined. Furthermore, the rates of the
   corresponding Co(II) catalysts were explored. Our data suggests this is a viable
   method for the design of inorganic small-molecule catalysts.'
-publication: '*Energy Procedia*'
+publication: '*Energy Procedia*, **4**, 817-823 (2011)'
 url_pdf: https://www.sciencedirect.com/science/article/pii/S1876610211001263
 doi: 10.1016/j.egypro.2011.01.124
 ---

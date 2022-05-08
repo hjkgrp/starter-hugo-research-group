@@ -46,7 +46,7 @@ abstract: Structural properties of over 55 small proteins have been determined u
   of predicted structures using density functional theory as compared to Hartree–Fock
   methods. Although occasional pathologies of minimal basis sets are observed, these
   are easily alleviated with even the smallest double-ζ basis sets.
-publication: '*J. Phys. Chem. B*'
+publication: '*J. Phys. Chem. B*, **116**, 12501-12509 (2012)'
 url_pdf: https://doi.org/10.1021/jp307741u
 doi: 10.1021/jp307741u
 ---

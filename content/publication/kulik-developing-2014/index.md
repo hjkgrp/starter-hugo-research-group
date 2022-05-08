@@ -50,7 +50,7 @@ abstract: An approach to catalyst design is presented in which local potential e
   that match the target geometry from model calculations, and subsequent calculations
   have identified these structures as potentially effective for CO2 hydration and
   sequestration.
-publication: '*Acta Cryst C*'
+publication: '*Acta Crystallogr., Sect. C*, **70**, 123-131 (2014)'
 url_pdf: http://scripts.iucr.org/cgi-bin/paper?od3005
 doi: 10.1107/S2053229613027666
 ---

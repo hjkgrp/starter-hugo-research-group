@@ -54,7 +54,7 @@ abstract: Both first-principles molecular dynamics and theoretical X-ray absorpt
   Finally, we examine more closely both the effect that cation coordination number
   has on the hydrogen-bonding network and the relative perturbation strength of the
   cations on lone pair oxygen orbitals.
-publication: '*J. Phys. Chem. B*'
+publication: '*J. Phys. Chem. B*, **114**, 9594-9601 (2010)'
 url_pdf: https://doi.org/10.1021/jp103526y
 doi: 10.1021/jp103526y
 ---

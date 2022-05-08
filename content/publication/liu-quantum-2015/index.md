@@ -56,7 +56,7 @@ abstract: 'The conductor-like polarization model (C-PCM) with switching/Gaussian
   decreases as the basis sets and/or cavity radii increase. Therefore, description
   of solvation with this model should be routine. We also discuss applications to
   the study of the conformational landscape of an amyloid fibril.'
-publication: '*J. Chem. Theory Comput.*'
+publication: '*J. Chem. Theory Comput.*, **11**, 3131-3144 (2015)'
 url_pdf: https://doi.org/10.1021/acs.jctc.5b00370
 doi: 10.1021/acs.jctc.5b00370
 ---

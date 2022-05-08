@@ -44,7 +44,7 @@ abstract: We investigated the structure of liquid water around cations (Na+) and
   likely as a result of a high number of acceptor hydrogen bonds in the first solvation
   shell. Confined nonsolvating water molecules exhibit bulk-like or water-monomer-like
   properties, depending on whether they belong to core or interfacial layers, respectively.
-publication: '*J. Phys. Chem. Lett.*'
+publication: '*J. Phys. Chem. Lett.*, **3**, 2653-2658 (2012)'
 url_pdf: https://doi.org/10.1021/jz300932p
 doi: 10.1021/jz300932p
 ---

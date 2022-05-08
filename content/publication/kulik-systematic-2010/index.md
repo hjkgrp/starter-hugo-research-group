@@ -52,7 +52,7 @@ abstract: We present a systematic first-principles study of the equilibrium bond
   By providing accuracy comparable to more expensive quantum chemistry approaches
   with the robust scaling of the generalized-gradient approximation, our DFT+U approach
   permits the study of very large scale systems with vastly improved results.
-publication: '*J. Chem. Phys.*'
+publication: '*J. Chem. Phys.*, **133**, 114103 (2010)'
 url_pdf: https://aip.scitation.org/doi/abs/10.1063/1.3489110
 doi: 10.1063/1.3489110
 ---

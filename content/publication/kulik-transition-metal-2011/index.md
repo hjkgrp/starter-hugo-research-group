@@ -48,7 +48,7 @@ abstract: Triatomic transition-metal oxides in the “inserted dioxide” (O–M
   from first-principles and are not fitting parameters. Finally, we identify an approach
   that more accurately determines the Hubbard U over a coordinate in which the covalent
   character of bonding varies.
-publication: '*J. Chem. Phys.*'
+publication: '*J. Chem. Phys.*, **134**, 094103 (2011)'
 url_pdf: https://aip.scitation.org/doi/abs/10.1063/1.3559452
 doi: 10.1063/1.3559452
 ---

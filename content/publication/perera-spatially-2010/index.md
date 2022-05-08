@@ -45,7 +45,7 @@ abstract: An extensive redistribution of spin density in TBrPP-Co molecules adso
   explained by means of first-principles and numerical renormalization-group calculations
   highlighting the possibility to engineer spin polarization by exploiting interfacial
   charge transfer.
-publication: '*Phys. Rev. Lett.*'
+publication: '*Phys. Rev. Lett.*, **105**, 106601 (2010)'
 url_pdf: https://link.aps.org/doi/10.1103/PhysRevLett.105.106601
 doi: 10.1103/PhysRevLett.105.106601
 ---

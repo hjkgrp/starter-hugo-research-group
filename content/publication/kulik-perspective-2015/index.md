@@ -48,7 +48,7 @@ abstract: Many people in the materials science and solid-state community are fam
   and fundamental outstanding challenges in electronic structure theory, and it helps
   to explain why this method is so widely applied to transition-metal oxides and organometallic
   complexes alike.
-publication: '*J. Chem. Phys.*'
+publication: '*J. Chem. Phys.*, **142**, 240901 (2015)'
 url_pdf: https://aip.scitation.org/doi/full/10.1063/1.4922693
 doi: 10.1063/1.4922693
 ---

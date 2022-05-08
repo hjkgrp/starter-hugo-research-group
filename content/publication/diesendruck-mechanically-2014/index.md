@@ -51,7 +51,7 @@ abstract: Biological systems rely on recyclable materials resources such as amin
   cycle. By emulating remodelling of biomaterials, this model system suggests the
   possibility of smart materials where aging or mechanical damage triggers depolymerization,
   and orthogonal conditions regenerate the polymer when and where necessary.
-publication: '*Nature Chem*'
+publication: '*Nat. Chem.*, **6**, 623-628 (2014)'
 url_pdf: https://www.nature.com/articles/nchem.1938
 doi: 10.1038/nchem.1938
 ---

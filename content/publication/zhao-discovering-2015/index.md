@@ -51,7 +51,7 @@ abstract: We employ high-temperature ab initio molecular dynamics (AIMD) as a sa
   dots. Favorable energetics appear correlated to highly coordinated indium and phosphorus
   with coordination numbers up to 5 and 7, respectively, as well as formation of phosphorus–phosphorus
   bonds.
-publication: '*J. Phys. Chem. C*'
+publication: '*J. Phys. Chem. C*, **119**, 23238-23249 (2015)'
 url_pdf: https://doi.org/10.1021/acs.jpcc.5b07264
 doi: 10.1021/acs.jpcc.5b07264
 ---

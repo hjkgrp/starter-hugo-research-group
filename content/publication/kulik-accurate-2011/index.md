@@ -50,7 +50,7 @@ abstract: We introduce an improvement to the Hubbard U augmented density functio
   of U on changes in coordinates. We also apply this approach to larger systems with
   greater degrees of freedom and demonstrate how DFT+U(R) may be applied automatically
   in relaxations, transition-state finding methods, and dynamics.
-publication: '*J. Chem. Phys.*'
+publication: '*J. Chem. Phys.*, **19**, 194105 (2011)'
 url_pdf: https://aip.scitation.org/doi/abs/10.1063/1.3660353
 doi: 10.1063/1.3660353
 ---
