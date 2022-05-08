@@ -9,7 +9,7 @@ cms_exclude: true
 view: 2
 
 filters:
-  sort_by: 'Date'
+  sort_by: 'date'
 # Optional header image (relative to `static/media/` folder).
 header:
   caption: ""
