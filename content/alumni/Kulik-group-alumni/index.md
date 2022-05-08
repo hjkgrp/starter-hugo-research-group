@@ -53,3 +53,5 @@ title: Kulik group alumni
 
 SS = summer student, UROP = undergraduate, VS = visiting scientist, MS = masters student resulting in degree, GS = graduate student, PD = postdoc
 <!--more-->
+- authors
+  admin
