@@ -29,3 +29,4 @@ design:
   show_role: true
   show_social: true
 ---
+Check out where our alumni are [here]({{< ref "content/alumni/Kulik-group-alumni/index.md" >}})!
