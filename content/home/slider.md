@@ -41,7 +41,7 @@ item:
     cta_label: Meet the team
     cta_url: 'people'
     cta_icon_pack: fas
-    cta_icon: fa-people-group
+    cta_icon: people-group
     #- title: Left
     #content: 'I am left aligned 😄'
     #align: left
@@ -55,7 +55,7 @@ item:
     #overlay_img: 'logo.png'
     #overlay_filter: 0.1
   - title: Biochemistry
-    content: "Non-heme iron enzymes and their vanadyl mimics"
+    content: "Non-heme iron vs vanadyl mimics"
     align: right
     overlay_color: '#333'
     overlay_img: vanadium_splash_figure.png
