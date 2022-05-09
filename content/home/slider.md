@@ -93,7 +93,7 @@ item:
     cta_url: 'publication/duan-detection-2022'
     cta_icon_pack: fas
     cta_icon: graduation-cap
-  - title: Text mining & MOFs
+  - title: Text mining MOFs
     content: "MOFSimplify: engineering MOF stability"
     align: right
     overlay_color: '#333'
@@ -106,7 +106,7 @@ item:
     cta_url: 'publication/nandy-mofsimplify-2022'
     cta_icon_pack: fas
     cta_icon: graduation-cap
-  - title: Data mining & catalysis
+  - title: Catalysis
     content: "Unraveling bioinspired catalyst design"
     align: right
     overlay_color: '#333'
@@ -119,6 +119,110 @@ item:
     cta_url: 'publication/liu-largescale-2022'
     cta_icon_pack: fas
     cta_icon: graduation-cap
+  - title: ML & MOFs
+    content: "Using literature data to engineer MOF stability"
+    align: right
+    overlay_color: '#333'
+    overlay_img: Splash-2.png
+    overlay_filter: 0.2
+    # Call to action button (optional).
+    #   Activate the button by specifying a URL and button label below.
+    #   Deactivate by commenting out parameters, prefixing lines with `#`.
+    cta_label: Read the paper
+    cta_url: 'publication/nandy-using-2021'
+    cta_icon_pack: fas
+    cta_icon: graduation-cap
+  - title: ML & DFT
+    content: "Universal design rules from 23 DFT functionals"
+    align: right
+    overlay_color: '#333'
+    overlay_img: TOC_v5-min-2.png
+    overlay_filter: 0.2
+    # Call to action button (optional).
+    #   Activate the button by specifying a URL and button label below.
+    #   Deactivate by commenting out parameters, prefixing lines with `#`.
+    cta_label: Read the paper
+    cta_url: 'publication/duan-machine-2021'
+    cta_icon_pack: fas
+    cta_icon: graduation-cap
+  - title: Biochemistry
+    content: "The importance of substrate positioning"
+    align: right
+    overlay_color: '#333'
+    overlay_img: halogenases_toc.png
+    overlay_filter: 0.2
+    # Call to action button (optional).
+    #   Activate the button by specifying a URL and button label below.
+    #   Deactivate by commenting out parameters, prefixing lines with `#`.
+    cta_label: Read the paper
+    cta_url: 'publication/mehmood-spectroscopically-2021'
+    cta_icon_pack: fas
+    cta_icon: graduation-cap
+  - title: Materials
+    content: "Mapping the surface of InP QD materials"
+    align: right
+    overlay_color: '#333'
+    overlay_img: InPQDDoping_Slide.png
+    overlay_filter: 0.2
+    # Call to action button (optional).
+    #   Activate the button by specifying a URL and button label below.
+    #   Deactivate by commenting out parameters, prefixing lines with `#`.
+    cta_label: Read the paper
+    cta_url: 'publication/taylor-mapping-2021'
+    cta_icon_pack: fas
+    cta_icon: graduation-cap
+  - title: Biochemistry
+    content: "Harder,better,faster,stronger:large-scale QM/MM"
+    align: right
+    overlay_color: '#333'
+    overlay_img: cosb_website_pic_v3.png
+    overlay_filter: 0.2
+    # Call to action button (optional).
+    #   Activate the button by specifying a URL and button label below.
+    #   Deactivate by commenting out parameters, prefixing lines with `#`.
+    cta_label: Read the opinion
+    cta_url: 'publication/vennelakanti-harder-2022'
+    cta_icon_pack: fas
+    cta_icon: graduation-cap
+  - title: DFT & catalysis
+    content: "The influence of DFT functional on catalysis"
+    align: right
+    overlay_color: '#333'
+    overlay_img: tic_website_pic_v2.png
+    overlay_filter: 0.2
+    # Call to action button (optional).
+    #   Activate the button by specifying a URL and button label below.
+    #   Deactivate by commenting out parameters, prefixing lines with `#`.
+    cta_label: Read the paper
+    cta_url: 'publication/vennelakanti-effect-2022'
+    cta_icon_pack: fas
+    cta_icon: graduation-cap
+  - title: ML
+    content: "Chem. Rev. on ML for transition metals is out!"
+    align: right
+    overlay_color: '#333'
+    overlay_img: religious_molecule_wide.png
+    overlay_filter: 0.2
+    # Call to action button (optional).
+    #   Activate the button by specifying a URL and button label below.
+    #   Deactivate by commenting out parameters, prefixing lines with `#`.
+    cta_label: Read the review
+    cta_url: 'publication/nandy-computational-2021'
+    cta_icon_pack: fas
+    cta_icon: graduation-cap
+  - title: Biochemistry
+    content: "Electronic allostery in protein dynamics"
+    align: right
+    overlay_color: '#333'
+    overlay_img: charge_coupling_web.png
+    overlay_filter: 0.2
+    # Call to action button (optional).
+    #   Activate the button by specifying a URL and button label below.
+    #   Deactivate by commenting out parameters, prefixing lines with `#`.
+    cta_label: Read the paper
+    cta_url: 'publication/yang-quantifying-2021'
+    cta_icon_pack: fas
+    cta_icon: graduation-cap
   - title: ML
     content: "What's needed for intelligent workflows"
     align: right
@@ -128,7 +232,7 @@ item:
     # Call to action button (optional).
     #   Activate the button by specifying a URL and button label below.
     #   Deactivate by commenting out parameters, prefixing lines with `#`.
-    cta_label: Read the paper
+    cta_label: Read the perspective
     cta_url: 'publication/duan-putting-2021'
     cta_icon_pack: fas
     cta_icon: graduation-cap
