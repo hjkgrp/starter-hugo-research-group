@@ -57,5 +57,5 @@ abstract: ' Despite decades of effort, no earth-abundant homogeneous catalysts h
   or barriers may be limited or unknown. '
 publication: '*JACS Au*, **ASAP** (2022)'
 doi: 10.1021/jacsau.2c00176
-url_pdf:https://doi.org/10.1021/jacsau.2c00176
+url_pdf: https://doi.org/10.1021/jacsau.2c00176
 ---
