@@ -236,4 +236,56 @@ item:
     cta_url: 'publication/duan-putting-2021'
     cta_icon_pack: fas
     cta_icon: graduation-cap
+  - title: DFT
+    content: "Molecular DFT+U for delocalization error"
+    align: right
+    overlay_color: '#333'
+    overlay_img: modftu_slide_v1.jpg
+    overlay_filter: 0.2
+    # Call to action button (optional).
+    #   Activate the button by specifying a URL and button label below.
+    #   Deactivate by commenting out parameters, prefixing lines with `#`.
+    cta_label: Read the perspective
+    cta_url: 'publication/bajaj-molecular-2021'
+    cta_icon_pack: fas
+    cta_icon: graduation-cap
+  - title: ML
+    content: "Where are the stars in chemical space?"
+    align: right
+    overlay_color: '#333'
+    overlay_img: acc_chem_res_splash.png
+    overlay_filter: 0.2
+    # Call to action button (optional).
+    #   Activate the button by specifying a URL and button label below.
+    #   Deactivate by commenting out parameters, prefixing lines with `#`.
+    cta_label: Read the account
+    cta_url: 'publication/janet-navigating-2021'
+    cta_icon_pack: fas
+    cta_icon: graduation-cap
+  - title: ML & theory
+    content: "Semi-supervised learning for MR detection"
+    align: right
+    overlay_color: '#333'
+    overlay_img: semisupervised.png
+    overlay_filter: 0.2
+    # Call to action button (optional).
+    #   Activate the button by specifying a URL and button label below.
+    #   Deactivate by commenting out parameters, prefixing lines with `#`.
+    cta_label: Read the paper
+    cta_url: 'publication/duan-semi-supervised-2020' 
+    cta_icon_pack: fas
+    cta_icon: graduation-cap
+  - title: ML
+    content: "Accelerating practical materials design"
+    align: right
+    overlay_color: '#333'
+    overlay_img: janet2020_rfb_toc.png
+    overlay_filter: 0.2
+    # Call to action button (optional).
+    #   Activate the button by specifying a URL and button label below.
+    #   Deactivate by commenting out parameters, prefixing lines with `#`.
+    cta_label: Read the paper
+    cta_url: 'publication/janet-accurate-2020'
+    cta_icon_pack: fas
+    cta_icon: graduation-cap
 ---
