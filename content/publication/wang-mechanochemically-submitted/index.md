@@ -16,7 +16,7 @@ authors:
 - Stephen L Craig
 tags: []
 categories: []
-date: 2099-01-01
+date: 0-01-01
 lastmod: 2022-05-09T18:07:42-04:00
 featured: false
 draft: false
