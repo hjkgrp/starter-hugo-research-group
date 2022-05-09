@@ -67,6 +67,19 @@ item:
     cta_url: 'publication/vennelakanti-arevanadium-2022'
     cta_icon_pack: fas
     cta_icon: graduation-cap
+  - title: ML & catalysis
+    content: "Sifting through 16M catalysts with ML"
+    align: right
+    overlay_color: '#333'
+    overlay_img: splash.png
+    overlay_filter: 0.2
+    # Call to action button (optional).
+    #   Activate the button by specifying a URL and button label below.
+    #   Deactivate by commenting out parameters, prefixing lines with `#`.
+    cta_label: Read the paper
+    cta_url: 'publication/nandy-new-2022'
+    cta_icon_pack: fas
+    cta_icon: graduation-cap
   - title: ML & theory
     content: "Detecting imbalances in MR character"
     align: right
@@ -80,17 +93,30 @@ item:
     cta_url: 'publication/duan-detection-2022'
     cta_icon_pack: fas
     cta_icon: graduation-cap
-  - title: ML & catalysis
-    content: "Sifting through 16M catalysts with ML"
+  - title: Text mining & MOFs
+    content: "MOFSimplify: engineering MOF stability"
     align: right
     overlay_color: '#333'
-    overlay_img: splash.png
+    overlay_img: MOFSimplify_long_final_0.png
     overlay_filter: 0.2
     # Call to action button (optional).
     #   Activate the button by specifying a URL and button label below.
     #   Deactivate by commenting out parameters, prefixing lines with `#`.
     cta_label: Read the paper
-    cta_url: 'publication/nandy-new-2022'
+    cta_url: 'publication/nandy-mofsimplify-2022'
+    cta_icon_pack: fas
+    cta_icon: graduation-cap
+  - title: Data mining & catalysis
+    content: "Unraveling bioinspired catalyst design"
+    align: right
+    overlay_color: '#333'
+    overlay_img: rectangle.png
+    overlay_filter: 0.2
+    # Call to action button (optional).
+    #   Activate the button by specifying a URL and button label below.
+    #   Deactivate by commenting out parameters, prefixing lines with `#`.
+    cta_label: Read the paper
+    cta_url: 'publication/liu-largescale-2022'
     cta_icon_pack: fas
     cta_icon: graduation-cap
   - title: ML
