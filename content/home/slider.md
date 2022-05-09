@@ -26,7 +26,7 @@ spacing:
   #padding: ["0px", "0", "0px", "0"]
 
 item:
-  - title: Meet the group
+  - title: Kulik group
     content: 'October 2021'
     # Choose `center`, `left`, or `right` alignment.
     align: right
@@ -41,7 +41,7 @@ item:
     cta_label: Meet the team
     cta_url: 'people'
     cta_icon_pack: fas
-    cta_icon: people-group
+    cta_icon: people
     #- title: Left
     #content: 'I am left aligned 😄'
     #align: left
@@ -77,7 +77,7 @@ item:
     #   Activate the button by specifying a URL and button label below.
     #   Deactivate by commenting out parameters, prefixing lines with `#`.
     cta_label: Read the paper
-    cta_url: 'publication/nandy-new-2022'
+    cta_url: 'publication/nandy-newstrategies-2022'
     cta_icon_pack: fas
     cta_icon: graduation-cap
   - title: ML & theory
