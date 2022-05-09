@@ -68,7 +68,7 @@ abstract: The isonitrile moiety is found in marine sponges and some microbes, wh
   analyses, site-directed mutagenesis, and computation provide insight into the mode
   of α-ketoglutarate binding, the mechanism of isonitrile formation, and how the structure
   of ScoE has been adapted to perform this unusual chemical reaction.
-publication: '*Journal of Biological Chemistry*'
+publication: '*J. Biol. Chem.*, **296**, 100231 (2021)'
 url_pdf: https://www.sciencedirect.com/science/article/pii/S0021925820003464
 doi: 10.1074/jbc.RA120.015932
 ---

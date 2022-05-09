@@ -75,7 +75,7 @@ abstract: ConspectusThe variability of chemical bonding in open-shell transition
   tools to bear on the problems of transition-metal chemical space exploration has
   resulted in ML-model assessments of large, multimillion compound spaces in minutes
   and validated new design leads in weeks instead of decades.
-publication: '*Acc. Chem. Res.*'
+publication: '*Acc. Chem. Res.*, **54**, 532-545 (2021)'
 url_pdf: https://doi.org/10.1021/acs.accounts.0c00686
 doi: 10.1021/acs.accounts.0c00686
 ---

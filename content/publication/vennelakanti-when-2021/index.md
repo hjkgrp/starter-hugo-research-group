@@ -55,7 +55,7 @@ abstract: Hydrogen bonds (HBs) play an essential role in the structure and catal
   the stabilization is less than the additive maximum due both to geometric constraints
   and many-body electronic effects, a wide range of ambifunctional HB geometries are
   more favorable than any single HB interaction.
-publication: '*Chemical Science*'
+publication: '*Chem. Sci.*, **12**, 1147-1162 (2021)'
 url_pdf: https://pubs.rsc.org/en/content/articlelanding/2021/sc/d0sc05084a
 doi: 10.1039/D0SC05084A
 ---

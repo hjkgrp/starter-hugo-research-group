@@ -47,7 +47,7 @@ abstract: The enzyme trans-4-Hydroxy-L-proline (Hyp) dehydratase (HypD) is among
   to enhance the reactivity of C5–Hpro-S abstraction. Long-time dynamics reveal that
   changing Hyp protonation states triggers the switching of a Leu643-gated water tunnel,
   a functional feature that has not yet been observed for members of the GRE superfamily.
-publication: '*ChemRxiv*'
-url_pdf: https://chemrxiv.org/engage/chemrxiv/article-details/60c757c2567dfe0e6bec6705
-doi: 10.26434/chemrxiv.14456562.v1
+publication: '*J. Phys. Chem. B.*, **125**, 7774-7784 (2021)'
+url_pdf: https://pubs.acs.org/doi/10.1021/acs.jpcb.1c05320
+doi: 10.1021/acs.jpcb.1c05320
 ---

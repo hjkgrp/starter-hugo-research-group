@@ -47,7 +47,7 @@ abstract: While density functional theory (DFT) is widely applied for its combin
   We demonstrate the transferability of our approach on representative transition-metal
   complexes with a range of ligand field strengths, electron configurations (i.e.,
   from Sc to Zn), and spin states.
-publication: '*J. Phys. Chem. Lett.*'
+publication: '*J. Phys. Chem. Lett.*, **12**, 3633-3640 (2021)'
 url_pdf: https://doi.org/10.1021/acs.jpclett.1c00796
 doi: 10.1021/acs.jpclett.1c00796
 ---

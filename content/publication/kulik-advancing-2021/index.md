@@ -32,8 +32,8 @@ projects: []
 publishDate: '2021-06-21T01:48:10.480277Z'
 publication_types:
 - '2'
-abstract: ''
-publication: '*Acc. Chem. Res.*'
+abstract: 'Scientists have long benefitted from and contributed to the development of quantitative methods to reveal patterns in structure–property relationships across all branches of chemistry. Recent advances in computing power, software, and algorithms, as well as increases in data availability from experiment and computation, have led to dramatic progress in the application of statistical techniques to chemistry. It is now possible to train machine learning (ML) models to make predictions or extract patterns at scales that were previously impossible. Powerful open-source toolkits for ML model training and architecture selection have also made ML more accessible. As a result, in laboratories across the world, scientists are identifying ways in which they can incorporate machine learning into their research.'
+publication: '*Acc. Chem. Res.*, **54**, 2335-2336 (2021)'
 url_pdf: https://doi.org/10.1021/acs.accounts.1c00232
 doi: 10.1021/acs.accounts.1c00232
 ---

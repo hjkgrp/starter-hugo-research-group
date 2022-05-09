@@ -9,11 +9,11 @@ authors:
 - Chenru Duan
 - Fang Liu
 - Aditya Nandy
-- Heather J. Kulik
+- H. J. Kulik
 tags: []
 categories: []
-date: '2021-05-01'
-lastmod: 2021-06-20T14:45:37-04:00
+date: '2021-01-01'
+lastmod: 2022-05-08T21:37:42-04:00
 featured: false
 draft: false
 
@@ -22,7 +22,7 @@ draft: false
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
   caption: ''
-  focal_point: Smart
+  focal_point: ''
   preview_only: false
 
 # Projects (optional).
@@ -31,7 +31,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-06-21T01:48:10.243919Z'
+publishDate: '2022-05-09T01:37:41.809529Z'
 publication_types:
 - '2'
 abstract: Accelerated discovery with machine learning (ML) has begun to provide the
@@ -53,9 +53,9 @@ abstract: Accelerated discovery with machine learning (ML) has begun to provide 
   strategies. These “decision engines” represent the first steps toward autonomous
   workflows that avoid the need for expert determination of the robustness of DFT-based
   materials discoveries.
-publication: '*J. Phys. Chem. Lett.* 12, 4628-4637 (2021)'
-#url_pdf: https://doi.org/10.1021/acs.jpclett.1c00631
+publication: '*J. Phys. Chem. Lett.*, **12**, 4628-4637 (2021)'
 doi: 10.1021/acs.jpclett.1c00631
-
-url_pdf: https://doi.org/10.1021/acs.jpclett.1c00631
+links:
+- name: URL
+  url: https://pubs.acs.org/doi/10.1021/acs.jpclett.1c00631
 ---

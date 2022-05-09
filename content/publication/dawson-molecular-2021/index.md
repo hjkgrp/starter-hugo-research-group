@@ -62,7 +62,7 @@ abstract: Desulfonation of isethionate by the bacterial glycyl radical enzyme (G
   This work further elucidates the structural basis of chemistry within the GRE superfamily
   and will inform structure-based inhibitor design of IsIA and thus of microbial hydrogen
   sulfide production.
-publication: '*Cell Chemical Biology*'
+publication: '*Cell Chem. Biol.*, **28**, 1333-1346 (2021)'
 url_pdf: https://www.sciencedirect.com/science/article/pii/S2451945621001100
 doi: 10.1016/j.chembiol.2021.03.001
 ---

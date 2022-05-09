@@ -56,7 +56,7 @@ abstract: A delicate interplay of covalent and noncovalent interactions gives pr
   of long-range charge transfer in proteins and for determining what interactions
   require a quantum mechanical description for predictive simulation of enzyme mechanism
   and protein function.
-publication: '*Chemistry—Methods*'
-url_pdf: https://chemrxiv.org/engage/chemrxiv/article-details/60c752eef96a0048c0288351
-doi: 10.26434/chemrxiv.13368692.v1
+publication: '*Chem. Methods*, **1**, 362-373 (2021)'
+url_pdf: https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/cmtd.202100012
+doi: 10.1002/cmtd.202100012
 ---
