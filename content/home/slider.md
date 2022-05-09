@@ -67,4 +67,17 @@ item:
     cta_url: 'publication/duan-learning-2019'
     cta_icon_pack: fas
     cta_icon: graduation-cap
+  - title: Biochemistry
+    content: "Non-heme iron enzymes and their vanadyl mimics"
+    align: right
+    overlay_color: '#333'
+    overlay_img: vanadium_splash_figure.png
+    overlay_filter: 0.2
+    # Call to action button (optional).
+    #   Activate the button by specifying a URL and button label below.
+    #   Deactivate by commenting out parameters, prefixing lines with `#`.
+    cta_label: Read the paper
+    cta_url: 'publication/vennelakanti-arevanadium-2022'
+    cta_icon_pack: fas
+    cta_icon: graduation-cap
 ---
