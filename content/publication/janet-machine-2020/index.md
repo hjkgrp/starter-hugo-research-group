@@ -50,5 +50,7 @@ abstract: Recent advances in machine learning or artificial intelligence for vis
   where domain knowledge can be most readily applied.Familiarity with basic single
   variable calculus and in linear algebra will be helpful although we have provided
   step-by-step derivations where they are important
-publication: '*American Chemical Society*'
+publication: '*Machine Learning in Chemistry*, ACS InFocus (2020)'
+url_pdf: https://pubs.acs.org/doi/book/10.1021/acs.infocus.7e4001
+doi: 10.1021/acs.infocus.7e4001
 ---

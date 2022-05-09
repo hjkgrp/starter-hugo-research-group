@@ -51,7 +51,7 @@ abstract: The design of selective and active C–H activation catalysts for dire
   across our larger catalyst set. To rationalize relative reactivity in known catalysts,
   we instead compute independent reaction energies and propose strategies for further
   improvements in catalyst design.
-publication: '*ACS Catal.*'
+publication: '*ACS Catal.*, **10**, 15033-15047 (2020)'
 url_pdf: https://doi.org/10.1021/acscatal.0c04300
 doi: 10.1021/acscatal.0c04300
 ---

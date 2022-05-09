@@ -55,7 +55,7 @@ abstract: Determination of ground-state spins of open-shell transition-metal com
   all (textgreater95%) spin states in the 46 Fe(II) SCO complex set. This approach
   represents a promising complement to more conventional energy-based spin-state assignment
   from electronic structure theory at the low cost of a machine learning model.
-publication: '*J. Phys. Chem. A*'
+publication: '*J. Phys. Chem. A*, **124**, 3286-3299 (2020)'
 url_pdf: https://doi.org/10.1021/acs.jpca.0c01458
 doi: 10.1021/acs.jpca.0c01458
 ---

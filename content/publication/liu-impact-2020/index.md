@@ -50,7 +50,7 @@ abstract: For approximate density functional theory (DFT) to be useful in cataly
   when HF exchange is added. More work is needed to understand minimal functional
   forms capable of improving multiple properties with respect to semi-local DFT descriptions
   of transition metal chemistry.
-publication: '*J. Chem. Theory Comput.*'
+publication: '*J. Chem. Theory Comput.*, **16**, 264-277 (2020)'
 url_pdf: https://doi.org/10.1021/acs.jctc.9b00842
 doi: 10.1021/acs.jctc.9b00842
 ---

@@ -54,7 +54,7 @@ abstract: Despite being attractive targets for functional materials, the discove
   or from our prior data sets. Finally, we demonstrate how incorporating OHLDB data
   into artificial neural network (ANN) training improves ANN out-of-sample performance
   on much larger transition metal complexes.
-publication: '*Molecular Systems Design & Engineering*'
+publication: '*Mol. Sys. Des. Eng.*, **5**, 139-152 (2020)'
 url_pdf: https://pubs.rsc.org/en/content/articlelanding/2020/me/c9me00069k
 doi: 10.1039/C9ME00069K
 ---

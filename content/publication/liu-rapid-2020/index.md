@@ -49,7 +49,7 @@ abstract: Despite its widespread use in chemical discovery, approximate density 
   over a space of ∼187000 theoretical complexes, identifying large-scale trends in
   spin-state-dependent MR character and finding small HOMO–LUMO gap complexes while
   ensuring low MR character.
-publication: '*J. Phys. Chem. Lett.*'
+publication: '*J. Phys. Chem. Lett.*, **11**, 8067-8076 (2020)'
 url_pdf: https://doi.org/10.1021/acs.jpclett.0c02288
 doi: 10.1021/acs.jpclett.0c02288
 ---

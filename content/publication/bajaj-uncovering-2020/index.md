@@ -52,7 +52,7 @@ abstract: Polymer electrolyte membrane fuel cells (PEMFCs) represent promising e
   observations with DFT by comparison to correlated wave function theory. Our study
   highlights the importance of thorough first-principles modeling to identify the
   most probable, low-energy pathways for materials degradation.
-publication: '*J. Phys. Chem. C*'
+publication: '*J. Phys. Chem. C*, **124**, 15094-15106 (2020)'
 url_pdf: https://doi.org/10.1021/acs.jpcc.0c04417
 doi: 10.1021/acs.jpcc.0c04417
 ---

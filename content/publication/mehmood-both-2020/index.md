@@ -55,7 +55,7 @@ abstract: 'Quantum-mechanical/molecular-mechanical (QM/MM) methods are essential
   of electronic and energetic properties require a larger QM region than the minimal
   metal-coordinating residues in order to converge treatment of both metal-local bonding
   and the overall electrostatic environment.'
-publication: '*J. Chem. Theory Comput.*'
+publication: '*J. Chem. Theory Comput.*, **16**, 3121-3134 (2020)'
 url_pdf: https://doi.org/10.1021/acs.jctc.0c00153
 doi: 10.1021/acs.jctc.0c00153
 ---

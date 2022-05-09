@@ -50,7 +50,7 @@ abstract: Millions of distinct metal-organic frameworks (MOFs) can be made by co
   conclusions. The developed formalism in this study provides a simple and practical
   guideline to see whether new structures will have the potential for new insights,
   or constitute a relatively small variation of existing structures.
-publication: '*Nat Commun*'
+publication: '*Nat. Commun.*, **11**, 4068 (2020)'
 url_pdf: https://www.nature.com/articles/s41467-020-17755-8%C2%BB
 doi: 10.1038/s41467-020-17755-8
 ---

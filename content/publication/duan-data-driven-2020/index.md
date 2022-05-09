@@ -56,7 +56,7 @@ abstract: High-throughput computational screening typically employs methods (i.e
   improving over the DFT-based diagnostics on which the models were trained. These
   ML models thus provide a promising approach to improve upon DFT-based diagnostic
   accuracy while remaining suitably low cost for high-throughput screening.
-publication: '*J. Chem. Theory Comput.*'
+publication: '*J. Chem. Theory Comput.*, **16**, 4373-4387 (2020)'
 url_pdf: https://doi.org/10.1021/acs.jctc.0c00358
 doi: 10.1021/acs.jctc.0c00358
 ---

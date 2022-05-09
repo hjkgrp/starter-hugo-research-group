@@ -55,6 +55,7 @@ abstract: Escalating global water scarcity necessitates high-performance desalin
   highlight the influence of nanoconfinement on membrane transport properties and
   provide enhanced fundamental understanding of ionization that could enable novel
   membrane design.
-publication: '*PNAS*'
+publication: '*Proc. Natl. Acad. Soc.*, **117**, 30191-30200 (2020)'
+url_pdf: https://www.pnas.org/doi/10.1073/pnas.2008421117
 doi: 10.1073/pnas.2008421117
 ---

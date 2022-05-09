@@ -57,7 +57,7 @@ abstract: 'As machine learning (ML) has matured, it has opened a new frontier in
   categorized under: Electronic Structure Theory textgreater Density Functional Theory
   Software textgreater Molecular Modeling Computer and Information Science textgreater
   Chemoinformatics'
-publication: '*WIREs Computational Molecular Science*'
+publication: '*Wiley Interdiscip. Rev.: Comput. Mol. Sci.*, **10**, e1439 (2020)'
 url_pdf: https://onlinelibrary.wiley.com/doi/abs/10.1002/wcms.1439
 doi: 10.1002/wcms.1439
 ---

@@ -52,7 +52,7 @@ abstract: Multireference (MR) diagnostics are common tools for identifying stron
   chemical composition from the training set. This MR decision engine demonstrates
   promise as a low-cost, high-accuracy approach to the automatic detection of strong
   correlation for predictive high-throughput screening.
-publication: '*J. Phys. Chem. Lett.*'
+publication: '*J. Phys. Chem. Lett.*, **11**, 6640-6648 (2020)'
 url_pdf: https://doi.org/10.1021/acs.jpclett.0c02018
 doi: 10.1021/acs.jpclett.0c02018
 ---
