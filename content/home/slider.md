@@ -80,4 +80,31 @@ item:
     cta_url: 'publication/vennelakanti-arevanadium-2022'
     cta_icon_pack: fas
     cta_icon: graduation-cap
+  - title: ML and electronic structure
+    content: "Detecting imbalances in MR character"
+    align: right
+    overlay_color: '#333'
+    overlay_img: TOC_v2.png
+    overlay_filter: 0.2
+    # Call to action button (optional).
+    #   Activate the button by specifying a URL and button label below.
+    #   Deactivate by commenting out parameters, prefixing lines with `#`.
+    cta_label: Read the paper
+    cta_url: 'publication/duan-detecting-2022'
+    cta_icon_pack: fas
+    cta_icon: graduation-cap
+  - title: ML and catalyst design
+    content: "Sifting through 16M catalysts with ML"
+    align: right
+    overlay_color: '#333'
+    overlay_img: splash.png
+    overlay_filter: 0.2
+    # Call to action button (optional).
+    #   Activate the button by specifying a URL and button label below.
+    #   Deactivate by commenting out parameters, prefixing lines with `#`.
+    cta_label: Read the paper
+    cta_url: 'publication/nandy-new-2022'
+    cta_icon_pack: fas
+    cta_icon: graduation-cap
+---
 ---
