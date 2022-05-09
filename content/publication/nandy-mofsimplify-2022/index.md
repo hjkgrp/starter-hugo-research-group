@@ -51,7 +51,5 @@ abstract: We report a workflow and the output of a natural language processing (
   learning for improved MOF stability models.
 publication: '*Sci. Data*, **9**, 74 (2022)'
 doi: 10.1038/s41597-022-01181-0
-links:
-- name: URL
-  url: https://www.nature.com/articles/s41597-022-01181-0
+url_pdf: https://www.nature.com/articles/s41597-022-01181-0
 ---

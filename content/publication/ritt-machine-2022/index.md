@@ -50,8 +50,6 @@ abstract: ' Designing single-species selective membranes for high-precision sepa
   studying ion transport across nanoporous membranes that could enable the design
   of ion-selective membranes.'
 publication: '*Sci. Adv.*, **8**, eabl5771 (2022)'
-doi: ' 10.1126/sciadv.abl5771'
-links:
-- name: URL
-  url: ' https://www.science.org/doi/10.1126/sciadv.abl5771'
+doi: '10.1126/sciadv.abl5771'
+url_pdf: 'https://www.science.org/doi/10.1126/sciadv.abl5771'
 ---

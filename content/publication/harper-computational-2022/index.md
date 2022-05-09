@@ -50,7 +50,5 @@ abstract: While computational screening with first-principles density functional
   of the source of rate enhancement in these WOCs.
 publication: '*Inorg. Chem.*, **61**, 2186-2197 (2022)'
 doi: 10.1021/acs.inorgchem.1c03376
-links:
-- name: URL
-  url: https://pubs.acs.org/doi/10.1021/acs.inorgchem.1c03376
+url_pdf: https://pubs.acs.org/doi/10.1021/acs.inorgchem.1c03376
 ---

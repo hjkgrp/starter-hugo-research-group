@@ -53,7 +53,5 @@ abstract: Doped graphitic single-atom catalysts (SACs) with isolated iron sites 
   conditions that allow for local distortion around the metal site in graphitic SACs.
 publication: '*J. Mater. Chem. A*, **10**, 6193-6203 (2022)'
 doi: 10.1039/D1TA08502F
-links:
-- name: URL
-  url: https://pubs.rsc.org/en/content/articlelanding/2022/TA/D1TA08502F
+url_pdf: https://pubs.rsc.org/en/content/articlelanding/2022/TA/D1TA08502F
 ---

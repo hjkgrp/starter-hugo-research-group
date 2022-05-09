@@ -59,7 +59,5 @@ abstract: ' The isonitrile moiety is an electron-rich functionality that decorat
   enzyme superfamily.'
 publication: '*J. Am. Chem. Soc.*, **144**, 5893-5901 (2022)'
 doi: 10.1021/jacs.1c12891
-links:
-- name: URL
-  url: https://pubs.acs.org/doi/full/10.1021/jacs.1c12891
+url_pdf: https://pubs.acs.org/doi/full/10.1021/jacs.1c12891
 ---

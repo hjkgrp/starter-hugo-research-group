@@ -48,7 +48,5 @@ abstract: Machine learning (ML)-accelerated discovery requires large amounts of 
   these data sets will improve as they incorporate community feedback.
 publication: '*Curr. Opin. Chem. Eng.*, **36**, 100778 (2022)'
 doi: 10.1016/j.coche.2021.100778
-links:
-- name: URL
-  url: https://www.sciencedirect.com/science/article/abs/pii/S2211339821001106
+url_pdf: https://www.sciencedirect.com/science/article/abs/pii/S2211339821001106
 ---

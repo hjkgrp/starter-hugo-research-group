@@ -53,7 +53,5 @@ abstract: Appropriately identifying and treating molecules and materials with si
   within 1 kcal mol−1 MAE) for robust VHTS.
 publication: '*Chem. Sci.*, **13**, 4962-4971 (2022)'
 doi: 10.1039/D2SC00393G
-links:
-- name: URL
-  url: https://pubs.rsc.org/en/Content/ArticleLanding/2022/SC/D2SC00393G
+url_pdf: https://pubs.rsc.org/en/Content/ArticleLanding/2022/SC/D2SC00393G
 ---

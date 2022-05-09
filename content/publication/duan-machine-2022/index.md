@@ -48,7 +48,5 @@ abstract: Machine learning (ML) has become a part of the fabric of high-throughp
   ML as a widespread tool for practical computational materials design.
 publication: '*Annu. Rev. Chem. Biomol. Eng.*, **13**, 18.1-18.25 (2022)'
 doi: 10.1146/annurev-chembioeng-092320-120230
-links:
-- name: URL
-  url: https://www.annualreviews.org/doi/abs/10.1146/annurev-chembioeng-092320-120230
+url_pdf: https://www.annualreviews.org/doi/abs/10.1146/annurev-chembioeng-092320-120230
 ---

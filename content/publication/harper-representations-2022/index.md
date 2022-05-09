@@ -58,7 +58,5 @@ abstract: Strategies for machine-learning (ML)-accelerated discovery that are ge
   to be broadly useful for other material domains.
 publication: '*J. Chem. Phys.*, **156**, 074101 (2022)'
 doi: 10.1063/5.0082964
-links:
-- name: URL
-  url: https://aip.scitation.org/doi/full/10.1063/5.0082964
+url_pdf: https://aip.scitation.org/doi/full/10.1063/5.0082964
 ---

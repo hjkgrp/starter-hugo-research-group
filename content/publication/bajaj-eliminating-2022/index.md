@@ -53,6 +53,5 @@ abstract: ' Approximate semilocal density functional theory (DFT) is known to un
 publication: '*J. Chem. Theory Comput.*, **18**, 1142-1155 (2022)'
 doi: 10.1021/acs.jctc.1c01178
 links:
-- name: URL
-  url: https://pubs.acs.org/doi/10.1021/acs.jctc.1c01178
+url_pdf: https://pubs.acs.org/doi/10.1021/acs.jctc.1c01178
 ---

@@ -52,7 +52,5 @@ abstract: ' Vanadyl intermediates are frequently used as mimics for the fleeting
   the limitations of this approach in studies of non-heme iron enzymes.'
 publication: '*ACS Catal.*, **12**, 5489-5501 (2022)'
 doi: ' 10.1021/acscatal.2c01143'
-links:
-- name: URL
-  url: ' https://pubs.acs.org/doi/abs/10.1021/acscatal.2c01143'
+url_pdf: ' https://pubs.acs.org/doi/abs/10.1021/acscatal.2c01143'
 ---

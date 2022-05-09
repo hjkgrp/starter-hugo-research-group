@@ -44,7 +44,5 @@ abstract: Quantum mechanics/molecular mechanics (QM/MM) methods have become wide
   and troubleshooting common errors for QM/MM simulations of enzymes.
 publication: '*Enzyme Engineering: Methods and Protocols*, 227-248 (2022)'
 doi: 10.1007/978-1-0716-1826-4_12
-links:
-- name: URL
-  url: https://doi.org/10.1007/978-1-0716-1826-4_12
+url_pdf: https://doi.org/10.1007/978-1-0716-1826-4_12
 ---

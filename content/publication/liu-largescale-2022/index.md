@@ -57,7 +57,5 @@ abstract: The design of inorganic molecular complexes for the reversible convers
   local electronic properties.
 publication: '*ACS Catal.*, **12**, 383-396 (2022)'
 doi: 10.1021/acscatal.1c04624
-links:
-- name: URL
-  url: https://pubs.acs.org/doi/10.1021/acscatal.1c04624
+url_pdf: https://pubs.acs.org/doi/10.1021/acscatal.1c04624
 ---
