@@ -11,14 +11,14 @@ subtitle: "ChemE @ MIT"
 #hero_media: bottled.png
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
-  #columns: '2'
-  #background:
-    #image: bottled.png
-    #image_darken: 0.5
-    #image_parallax: true
-    #image_position: center
-    #image_size: cover
-    #text_color_light: true
+  columns: '1'
+  background:
+    image: bottled.png
+    image_darken: 0.5
+    image_parallax: true
+    image_position: center
+    image_size: cover
+    text_color_light: true
   spacing:
     # Customize the section spacing. Order is top, right, bottom, left.
     padding: ["20px", "0", "20px", "0"]
