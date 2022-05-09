@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: An Irreversible Synthetic Route to an Ultra-Strong Two-Dimensional Polymer
+title: Irreversible synthesis of an ultrastrong two-dimensional polymeric material
 subtitle: ''
 summary: ''
 authors:
@@ -64,6 +64,7 @@ abstract: Polymers that extend covalently in two dimensions have attracted recen
   is evidenced by polarized photoluminescence centered at 580 and 680 nm from different
   dipole transitions. This new synthetic route provides opportunities for 2D polymers
   in applications ranging from composite structures to molecular sieving membranes.
-publication: '*arXiv:2103.13925 [cond-mat]*'
-url_pdf: http://arxiv.org/abs/2103.13925
+publication: '*Nature*, **602**, 91-95 (2022)'
+url_pdf: https://www.nature.com/articles/s41586-021-04296-3
+doi:10.1038/s41586-021-04296-3
 ---

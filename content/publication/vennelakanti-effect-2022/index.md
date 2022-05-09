@@ -53,7 +53,7 @@ abstract: High-throughput computational catalyst studies are typically carried o
   strongly influences whether the minimum energy pathway is spin-conserved. Despite
   these caveats, LFERs involving catalysts that can be expected to have closed shell
   intermediates and low-spin ground states retain significant predictive power.
-publication: '*ChemRxiv*'
-url_pdf: https://chemrxiv.org/engage/chemrxiv/article-details/60c73cc0842e653564db169d
-doi: 10.26434/chemrxiv.14766531.v1
+publication: '*Top. Catal.*, **65**, 296-311 (2022)'
+url_pdf: https://link.springer.com/article/10.1007/s11244-021-01482-5
+doi: 10.1007/s11244-021-01482-5
 ---

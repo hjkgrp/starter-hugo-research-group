@@ -48,6 +48,7 @@ abstract: Computational prediction of enzyme mechanism and protein function requ
   (i.e., electrostatics), free energy barriers, and mechanisms are sensitive to the
   protocol and embedding method in QM/MM, convergence tests and systematic methods
   for quantifying QM-level interactions are a needed, active area of development.
-publication: '*arXiv:2105.12873 [physics]*'
-url_pdf: http://arxiv.org/abs/2105.12873
+publication: '*Curr. Opin. Struct. Biol.*, **72**, 9-17 (2022)'
+url_pdf: https://www.sciencedirect.com/science/article/pii/S0959440X21001068
+doi: 10.1016/j.sbi.2021.07.004
 ---
