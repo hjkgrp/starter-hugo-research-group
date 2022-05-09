@@ -1,20 +1,18 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Molecular orbital projectors in non-empirical jmDFT recover exact conditions
-  in transition-metal chemistry
+title: Understanding the chemical bonding of ground and excited states of HfO and
+  HfB with correlated wavefunction theory and density functional approximations
 subtitle: ''
 summary: ''
 authors:
-- Akash Bajaj
+- Isuru Ariyarathna
 - Chenru Duan
-- Aditya Nandy
-- Michael G Taylor
 - Heather J. Kulik
 tags: []
 categories: []
 date: '0-01-01'
-lastmod: 2022-05-09T17:41:57-04:00
+lastmod: 2022-05-09T17:44:34-04:00
 featured: false
 draft: false
 
@@ -32,11 +30,11 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-05-09T21:41:57.474228Z'
+publishDate: '2022-05-09T21:44:34.291913Z'
 publication_types:
 - '2'
 abstract: ''
-publication: '*J. Chem. Phys.*, **in press** (2022)'
-doi: 10.1063/5.0089460
-url_pdf: https://doi.org/10.1063/5.0089460
+publication: '*J. Chem. Phys.*, **ASAP** (2022)'
+doi: 10.1063/5.0090128
+url_pdf: https://doi.org/10.1063/5.0090128
 ---
