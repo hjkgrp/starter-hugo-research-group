@@ -66,5 +66,5 @@ abstract: Polymers that extend covalently in two dimensions have attracted recen
   in applications ranging from composite structures to molecular sieving membranes.
 publication: '*Nature*, **602**, 91-95 (2022)'
 url_pdf: https://www.nature.com/articles/s41586-021-04296-3
-doi:10.1038/s41586-021-04296-3
+doi: 10.1038/s41586-021-04296-3
 ---
