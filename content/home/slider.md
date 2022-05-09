@@ -26,22 +26,22 @@ spacing:
   #padding: ["0px", "0", "0px", "0"]
 
 item:
-  - title: The Group
-    content: 'Summer 2021'
+  - title: Meet the group
+    content: 'October 2021'
     # Choose `center`, `left`, or `right` alignment.
     align: right
     # Overlay a color or image (optional).
     #   Deactivate an option by commenting out the line, prefixing it with `#`.
     overlay_color: '#666'  # An HTML color value.
-    overlay_img: kulikgroup_Jun2021_v2.png  # Image path relative to your `assets/media/` folder
+    overlay_img: group_photo_oct2021_v2.png  # Image path relative to your `assets/media/` folder
     overlay_filter: 0.2  # Darken the image. Value in range 0-1.
     # Call to action button (optional).
     #   Activate the button by specifying a URL and button label below.
     #   Deactivate by commenting out parameters, prefixing lines with `#`.
-    #cta_label: Download my app
-    #cta_url: 'https://example.org'
-    #cta_icon_pack: fas
-    #cta_icon: graduation-cap
+    cta_label: Meet the team
+    cta_url: 'people'
+    cta_icon_pack: fas
+    cta_icon: fa-people-group
     #- title: Left
     #content: 'I am left aligned 😄'
     #align: left
@@ -54,19 +54,6 @@ item:
     #overlay_color: '#333'
     #overlay_img: 'logo.png'
     #overlay_filter: 0.1
-  - title: ML
-    content: "What's needed for intelligent workflows"
-    align: right
-    overlay_color: '#333'
-    overlay_img: robot_and_layer_from_wide_fin_rgb.png
-    overlay_filter: 0.2
-    # Call to action button (optional).
-    #   Activate the button by specifying a URL and button label below.
-    #   Deactivate by commenting out parameters, prefixing lines with `#`.
-    cta_label: Read the paper
-    cta_url: 'publication/duan-putting-2021'
-    cta_icon_pack: fas
-    cta_icon: graduation-cap
   - title: Biochemistry
     content: "Non-heme iron enzymes and their vanadyl mimics"
     align: right
@@ -80,7 +67,7 @@ item:
     cta_url: 'publication/vennelakanti-arevanadium-2022'
     cta_icon_pack: fas
     cta_icon: graduation-cap
-  - title: ML and electronic structure
+  - title: ML & theory
     content: "Detecting imbalances in MR character"
     align: right
     overlay_color: '#333'
@@ -90,10 +77,10 @@ item:
     #   Activate the button by specifying a URL and button label below.
     #   Deactivate by commenting out parameters, prefixing lines with `#`.
     cta_label: Read the paper
-    cta_url: 'publication/duan-detecting-2022'
+    cta_url: 'publication/duan-detection-2022'
     cta_icon_pack: fas
     cta_icon: graduation-cap
-  - title: ML and catalyst design
+  - title: ML & catalysis
     content: "Sifting through 16M catalysts with ML"
     align: right
     overlay_color: '#333'
@@ -106,5 +93,17 @@ item:
     cta_url: 'publication/nandy-new-2022'
     cta_icon_pack: fas
     cta_icon: graduation-cap
----
+  - title: ML
+    content: "What's needed for intelligent workflows"
+    align: right
+    overlay_color: '#333'
+    overlay_img: robot_and_layer_from_wide_fin_rgb.png
+    overlay_filter: 0.2
+    # Call to action button (optional).
+    #   Activate the button by specifying a URL and button label below.
+    #   Deactivate by commenting out parameters, prefixing lines with `#`.
+    cta_label: Read the paper
+    cta_url: 'publication/duan-putting-2021'
+    cta_icon_pack: fas
+    cta_icon: graduation-cap
 ---
