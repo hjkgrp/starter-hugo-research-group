@@ -56,7 +56,7 @@ Let's look at 1) first:
 
 Here's an example steering file for a coniferyl alcohol beta-o-4 lignin dimer:
 
-
+```
 2
 
 
@@ -67,7 +67,7 @@ Here's an example steering file for a coniferyl alcohol beta-o-4 lignin dimer:
 
 13 51.04 -5.42 13.17 0.0485511754
 
-
+```
 The first line specifies the number of pulling points (2).
 
 
@@ -82,7 +82,7 @@ The third line is the same as the 2nd line but for a different PP-AP pair involv
 Now, let's look at 2). Inside your regular input file, you'll want to specify your standard parameters, e.g.:
 
 
-
+```
 coordinates start.xyz  
 
 charge 0  
@@ -96,13 +96,13 @@ levelshift yes
 levelshiftvala 1.0  
 
 levelshiftvalb 0.0  
-
+```
 The above cover coordinates, charge, method and basis (uwpbeh/6-31g), levelshifting for unrestricted solutions.  
 
 Then we'll also want MD parameters just as in a standard MD job, e.g.:
 
 
-
+```
 run md  
 
 nstep 80000  
@@ -116,14 +116,14 @@ seed 2824
 integrator reversible\_d  
 
 timestep 0.25  
-
+```
 which corresponds to an MD run with NVE dynamics, a specified seed for the random initial velocities, a 0.25fs timestep, and a reversible integrator. Note we've specified a large number of steps, but typically you will manually stop your MD run when the APs reach the PPs.
 
 
 Finally here is the specific keyword for steered md:  
-
+```
 steering steering.txt
-
+```
 
 Note here the 2nd steering refers to a file named 'steering' that was described in 1. You can also name it something else more descriptive. Note, you'll want to set your PPs based on your APs, e.g. using a visualization program such as Avogadro or with a script. You can also add these as dummy atoms to your coordinates in a separate file in order to visualize and check your force vectors.
 
