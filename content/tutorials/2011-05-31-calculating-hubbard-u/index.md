@@ -67,7 +67,7 @@ with a matrix of response functions in the case of multiple sites but a single v
 
 ![](eqn2.jpg)
 
-Today we will only address the single site example of MnO[3], but a future [tutorial](../Tutorials "Tutorials") will expand the calculation to more manifolds.
+Today we will only address the single site example of MnO[3], but a future [tutorial](tutorial "Tutorials") will expand the calculation to more manifolds.
 
 
  
@@ -105,13 +105,13 @@ We determine the linear-response U as follows:
  
 
 
-The additional single points in step 2 should each take less than half of the time of the original single point in step 1 because the addition of alpha is only a small perturbation. (Note: The key here is to ensure that you can copy over the starting zero-alpha density each time for each non-zero alpha calculation). One approach for the file copying step is implemented in the main script, [jobrun.py](..Tutorials/jobrun.py_0.txt "jobrun.py.txt"), and clarified in the variables file, [variables.py](..Tutorials/variables.py_0.txt "variables.py.txt").  The linear regression is carried out after completion of the SCF runs in[linregress.py](..Tutorials/linregress.py.txt "linregress.py.gz") and the results are written to the file ucalc.dat.  
+The additional single points in step 2 should each take less than half of the time of the original single point in step 1 because the addition of alpha is only a small perturbation. (Note: The key here is to ensure that you can copy over the starting zero-alpha density each time for each non-zero alpha calculation). One approach for the file copying step is implemented in the main script, [jobrun.py](jobrun.py), and clarified in the variables file, [variables.py](variables.py).  The linear regression is carried out after completion of the SCF runs in [linregress.py](linregress.py) and the results are written to the file ucalc.dat.  
 
 
  
 
 
-In addition to the standard linear-response U0, the self-consistent extension,Uscf[2], can be determined with these scripts.  This approach is carried out automatically by setting a range of values of Uin (e.g. 0.5-3.0 eV in 0.5 eV increments) in the file [variables.py](..Tutorials/variables.py_0.txt "variables.py.txt").  
+In addition to the standard linear-response U0, the self-consistent extension,Uscf[2], can be determined with these scripts.  This approach is carried out automatically by setting a range of values of Uin (e.g. 0.5-3.0 eV in 0.5 eV increments) in the file [variables.py](variables.py).  
 
 
 
