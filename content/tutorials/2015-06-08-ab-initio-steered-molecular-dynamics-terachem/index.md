@@ -59,14 +59,8 @@ Here's an example steering file for a coniferyl alcohol beta-o-4 lignin dimer:
 ```
 2
 
-
-
 3 -16.927 2.94 2.54 0.0485511754
-
-
-
 13 51.04 -5.42 13.17 0.0485511754
-
 ```
 The first line specifies the number of pulling points (2).
 
@@ -84,17 +78,11 @@ Now, let's look at 2). Inside your regular input file, you'll want to specify yo
 
 ```
 coordinates start.xyz  
-
 charge 0  
-
 basis 6-31g  
-
 method uwpbeh  
-
 levelshift yes  
-
 levelshiftvala 1.0  
-
 levelshiftvalb 0.0  
 ```
 The above cover coordinates, charge, method and basis (uwpbeh/6-31g), levelshifting for unrestricted solutions.  
@@ -104,17 +92,11 @@ Then we'll also want MD parameters just as in a standard MD job, e.g.:
 
 ```
 run md  
-
 nstep 80000  
-
 rescalefreq 80001  
-
 tinit 300  
-
 seed 2824  
-
 integrator reversible\_d  
-
 timestep 0.25  
 ```
 which corresponds to an MD run with NVE dynamics, a specified seed for the random initial velocities, a 0.25fs timestep, and a reversible integrator. Note we've specified a large number of steps, but typically you will manually stop your MD run when the APs reach the PPs.

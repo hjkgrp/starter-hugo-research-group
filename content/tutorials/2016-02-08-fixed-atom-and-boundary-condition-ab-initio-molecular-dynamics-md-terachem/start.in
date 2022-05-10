@@ -1,0 +1,26 @@
+coordinates coronene-h2.xyz
+charge      0
+run         md
+method      rhf
+basis       3-21g
+thermostat  langevin
+tinit       2000
+t0          2000
+
+mdbc                 spherical
+md_r1                     4.5
+md_k1                     10.0
+md_r2                     2.0
+md_k2                      5.0
+mdbc_hydrogen              yes
+mdbc_t1                   3000
+mdbc_t2                   1000
+timings        yes
+nstep          30000
+gpus 2
+maxit          50
+scf            diis+a
+timestep       0.5
+restartmdfreq  10
+end
+
