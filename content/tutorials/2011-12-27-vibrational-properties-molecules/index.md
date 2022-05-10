@@ -70,7 +70,7 @@ In the `&inputph` namelist, you’ll want to specify an atomic mass or `amass(
 All q points are indicated after the `&inputph` namelist. Since we are studying properties of molecules, we have a single molecule in a supercell that includes a fair amount of vacuum and only want to calculate our properties at the real space gamma point. 
 
 Now let’s look at the output of our vibrational calculation! The first portion of the file indicates progress of the calculation and some details about the symmetry of your system.  We can scroll ahead to the bottom to look at the 3N-5=4 vibrational modes of carbon dioxide.  I’ll actually be comparing them to [all electron values](http://www.chemtube3d.com/vibrationsCO2.htm "http://www.chemtube3d.com/vibrationsCO2.htm") so you can get a sense of how accurate these calculations are:
-![](/sites/default/files/tableco2.jpg)
+![](tableco2.jpg)
 
 The calculations are in reasonably good agreement.  Note that we only see three lines in our output for vibrational modes because the phonon code recognizes the first two levels as degenerate.
 
@@ -79,7 +79,7 @@ The calculations are in reasonably good agreement.  Note that we only see three
 
 
 **2. Bent water molecule (C2v):**  
-![](/sites/default/files/h2o-molecule2.png)
+![](h2o-molecule2.png)
 
 Now that we’ve got the hang of things, let’s look at a water molecule. In this case, we have 3N-6=3 vibrational modes to calculate.
 
@@ -90,7 +90,7 @@ Download input files: [relax input](h2o.rlx.in "relax input"); [phonon input](
 
 
 
-![](/sites/default/files/tableh2o.jpg)
+![](tableh2o.jpg)
 
 
 The stretch results are in good agreement with all electron calculations, but the bending mode is underestimated a little bit.
@@ -98,13 +98,13 @@ The stretch results are in good agreement with all electron calculations, but th
 
 
 **3.Tetrahedral methane (Cs):** 
-![](/sites/default/files/droppedImage-3.png)
+![](droppedImage-3.png)
 
 Now, let’s look at a slightly bigger system. Here we have 3N-6=9 vibrational modes to calculate. Note, symmetry is determined by PWscf based on the cartesian coordinates. In this case, we didn’t maintain symmetry in the cartesian coordinates properly so the vibrational properties are calculated at lower symmetry than the symmetry of the molecule.
 
 
 Download input files: [relax input](ch4.rlx.in "relax input"); [phonon input](ch4.phG.in "phonon input").
-![](/sites/default/files/table-ch4.jpg)
+![](table-ch4.jpg)
 
  
 
