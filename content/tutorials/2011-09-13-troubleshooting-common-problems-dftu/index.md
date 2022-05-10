@@ -45,13 +45,13 @@ Thus far, I have introduced how to calculate U from linear-response for both [s
 
 **1. “Pseudopotential not yet inserted”: The atom you set for your Hubbard atom is not recognized as being valid by the code.**
 
-First, is the element a conventional element for adding a Hubbard term? Most transition metals (first row: Ti-Zn, second row: Zr-Cd, and third row: Hf-Hg) are included in the latest version of PWscf by default as well as rare earths and the first-row elements H, C, N, O.  If your element is not listed above, you will need to add it to the list of allowed elements and specify the angular momentum of the Hubbard manifold in `set\_hubbard\_l.f90` and the approximate occupation of the manifold in `tabd.f90`. You may also want to consider whether a standard DFT+U approach is right for you if you don’t see the element of your Hubbard atom listed above. 
+First, is the element a conventional element for adding a Hubbard term? Most transition metals (first row: Ti-Zn, second row: Zr-Cd, and third row: Hf-Hg) are included in the latest version of PWscf by default as well as rare earths and the first-row elements H, C, N, O.  If your element is not listed above, you will need to add it to the list of allowed elements and specify the angular momentum of the Hubbard manifold in `set_hubbard_l.f90` and the approximate occupation of the manifold in `tabd.f90`. You may also want to consider whether a standard DFT+U approach is right for you if you don’t see the element of your Hubbard atom listed above. 
 
 
-Next, if you think your element should be already included in the list above, but the code is still complaining, check your pseudopotential `PP\_HEADER` for the line that specifies the ‘element’.  This line is how the code determines which element you are using in `set\_hubbard\_l`.  Make sure that the element is properly specified here.
+Next, if you think your element should be already included in the list above, but the code is still complaining, check your pseudopotential `PP_HEADER` for the line that specifies the ‘element’.  This line is how the code determines which element you are using in `set_hubbard_l`.  Make sure that the element is properly specified here.
 
 
-Finally, check that the `Hubbard\_U(n)` you have assigned corresponds to the  correct species listed under the `ATOMIC\_SPECIES` namelist (i.e. the nth line there).  This is where the atom type ordering is set, not in the ordering of atoms in `ATOMIC\_POSITIONS`.
+Finally, check that the `Hubbard_U(n)` you have assigned corresponds to the  correct species listed under the `ATOMIC_SPECIES` namelist (i.e. the nth line there).  This is where the atom type ordering is set, not in the ordering of atoms in `ATOMIC_POSITIONS`.
 
 
  
@@ -62,7 +62,7 @@ Finally, check that the `Hubbard\_U(n)` you have assigned corresponds to the 
 Your maximum occupation should be one and the occupation matrix should reflect the electronic structure you expect your underlying system to have. You can test the occupations of a given pseudopotential by calculating the energy and occupation matrix of a single atom (you may want to turn off symmetry).  Occupations are by default calculated from projection onto the atomic orbital basis of the element encoded in the pseudopotential.  It is possible that the orbitals encoded in the pseudopotential would lead to non-normalized occupations.  The effect could be subtle (max occupations around 1.03) or quite noticeable (max occupations around 2.5); the former case may still yield reasonable results while the latter case will certainly give meaningless results if you try to do DFT+U calculations.
 
 
-In order to fix occupations, you should change `U\_projection\_type` to `norm\_atomic`.  Note that in this case you will not get forces or stresses (though there is a quick and dirty fix to get out meaningful forces as well), but you can use the norm\_atomic results to compare against your results without normalization to see if there is a significant difference.  
+In order to fix occupations, you should change `U_projection_type` to `norm_atomic`.  Note that in this case you will not get forces or stresses (though there is a quick and dirty fix to get out meaningful forces as well), but you can use the norm_atomic results to compare against your results without normalization to see if there is a significant difference.  
 
 
 In very rare cases, if you see very odd results for your occupation matrix, such as NaN results, it is likely you have a problem with your compiler or mkl library versions.  You should check the [PW\_forum archives](http://qe-forge.org/pipermail/pw_forum/ "PW_forum") for similar problems or consider using an older compiler if the compiler you are using is very new and relatively untested.

@@ -49,13 +49,13 @@ Today, we will look at how to converge and identify multiple low-lying electroni
  
 
 
-The two input files provided here ([input1](../sites/default/files/Tutorials/state1.in) and [input2](../sites/default/files/Tutorials/state2.in)) should straightforwardly converge to two differing states and are suitable for the latest versions of [Quantum-ESPRESSO](http://qe-forge.org/gf/project/q-e/ "Quantum-ESPRESSO").  Here are a few ways we can distinguish these electronic states and identify the lowest energy ones:
+The two input files provided here ([input1](state1.in) and [input2](state2.in)) should straightforwardly converge to two differing states and are suitable for the latest versions of [Quantum-ESPRESSO](http://qe-forge.org/gf/project/q-e/ "Quantum-ESPRESSO").  Here are a few ways we can distinguish these electronic states and identify the lowest energy ones:
 
 
  
 
 
-1. Occupation matrices from DFT+U. Even if DFT+U calculations are not being carried out, on the fly determination of the projection of molecular states onto the atomic orbitals of relevant open-shell centers can be very useful.  We can set U to a very small, nearly zero value in order to retain the occupation matrix without actually using the DFT+U method (in this case, we use a U= 3 eV which was previously shown to be the correct self-consistent U for this system).  Below, you’ll find the minority spin occupation matrices for the two states we converged to earlier:  
+**1. Occupation matrices from DFT+U.** Even if DFT+U calculations are not being carried out, on the fly determination of the projection of molecular states onto the atomic orbitals of relevant open-shell centers can be very useful.  We can set U to a very small, nearly zero value in order to retain the occupation matrix without actually using the DFT+U method (in this case, we use a U= 3 eV which was previously shown to be the correct self-consistent U for this system).  Below, you’ll find the minority spin occupation matrices for the two states we converged to earlier:  
 
 
  
@@ -65,7 +65,7 @@ State 1:
 
 
 
-![](/sites/default/files/occmat1.png)
+![](occmat1.png)
 
  
 
@@ -74,7 +74,7 @@ State 2:
 
 
 
-![](/sites/default/files/occmat2.png)
+![](occmat2.png)
 
  
 
@@ -85,7 +85,7 @@ In the first case, we probably have a single electron in each of four orbitals o
  
 
 
-2. Other details from output files: absolute magnetization, total energy, and eigenvalues. There are several other properties printed by default in the output that can be used to distinguish electronic states. A comparison of the two states we have converged to is provided below:  
+**2. Other details from output files: absolute magnetization, total energy, and eigenvalues.** There are several other properties printed by default in the output that can be used to distinguish electronic states. A comparison of the two states we have converged to is provided below:  
 
 
 
@@ -93,7 +93,7 @@ In the first case, we probably have a single electron in each of four orbitals o
 
 
 
-![](/sites/default/files/property-table.jpg)
+![](property-table.jpg)
    
 
 
@@ -108,19 +108,19 @@ As you can see, these properties make it easy to tell that two states are differ
  
 
 
-3. Projected density of states or visualization of orbitals. Spin density or visualizing and enumerating all of the orbitals is the most definitive way to identify and compare electronic states.  In order to visualize key orbitals, I use the tools developed and explained in the [visualizing molecular orbitals tutorial](visualizing-molecular-orbitals "Visualizing molecular orbitals").  Projected density of states can also be useful, especially for larger and extended systems. PDOS will be addressed in detail in a later tutorial. The figure below shows key orbitals that differ between the two states:
+**3. Projected density of states or visualization of orbitals.** Spin density or visualizing and enumerating all of the orbitals is the most definitive way to identify and compare electronic states.  In order to visualize key orbitals, I use the tools developed and explained in the [visualizing molecular orbitals tutorial](../2011-06-14-visualizing-molecular-orbitals "Visualizing molecular orbitals").  Projected density of states can also be useful, especially for larger and extended systems. PDOS will be addressed in detail in a later tutorial. The figure below shows key orbitals that differ between the two states:
 
 
  
 
 
 
-![](/sites/default/files/orbitals-homos.png)
+![](orbitals-homos.png)
 
  
 
 
-With all of the different analysis tools we used so far, we can now identify the two states.  State 1 is the previously identified ground state with delta character, while State 2 is actually lower and has 13 d electrons with sigma character.  For more tips and tricks how to converge multiple states, be sure to check out the [previous tutorial](low-lying-electronic-states "Low-lying electronic states") on [low-lying electronic states](low-lying-electronic-states "Low-lying electronic states"). 
+With all of the different analysis tools we used so far, we can now identify the two states.  State 1 is the previously identified ground state with delta character, while State 2 is actually lower and has 13 d electrons with sigma character.  For more tips and tricks how to converge multiple states, be sure to check out the [previous tutorial](../2011-08-09-low-lying-electronic-states "Low-lying electronic states") on [low-lying electronic states](../2011-08-09-low-lying-electronic-states "Low-lying electronic states"). 
 
 
  

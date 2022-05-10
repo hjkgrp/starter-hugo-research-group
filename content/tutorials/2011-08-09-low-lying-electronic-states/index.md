@@ -54,7 +54,7 @@ At the very start, when we describe open-shell species, we should be careful to 
 The total magnetization of a molecule is what is printed in a PWscf calculation and refers to:
 
 ```                   
- tot\_magnetization = nelup-neldw
+ tot_magnetization = nelup-neldw
 ```
 
  
@@ -73,7 +73,7 @@ If you know one of your states has more anti-bonding character and another has m
 
 Conversely, if you know that breaking a key bond leads to a higher energy dissociation in one state than another, you may wish to start near dissociation in your geometry.  You can then use the density produced at one geometry and slowly change that geometry in order to ensure you remain on the potential energy surface that you want.
 
-One of the best ways to converge multiple low-lying solutions at a single geometry is to change the starting guess via the `starting\_magnetization` keyword (in combination with a spin polarized calculation).  Each atom of itype can have a `starting\_magnetization(i)` between **-1.0** and **1.0**.  If this keyword is not set for a given atom type, the code assumes that this atom cannot be spin polarized.  In general, if you’re carrying out a spin polarized calculation, I recommend that you set this variable for all atom types even if there are atoms (e.g. hydrogens) that you do not expect to have any spin polarization.  Choosing the right guess for `starting\_magnetization` is a bit of a black art, especially if your system has many low-lying solutions.  The clearest case is where you are trying to obtain an antiferrogmanetically coupled solution: then you make sure the two antiferromagnetically coupled species (must be different atom types even if they’re the same element) have opposing **starting\_magnetizations** in order to favor this antiferromagnetic coupling.
+One of the best ways to converge multiple low-lying solutions at a single geometry is to change the starting guess via the `starting_magnetization` keyword (in combination with a spin polarized calculation).  Each atom of itype can have a `starting_magnetization(i)` between **-1.0** and **1.0**.  If this keyword is not set for a given atom type, the code assumes that this atom cannot be spin polarized.  In general, if you’re carrying out a spin polarized calculation, I recommend that you set this variable for all atom types even if there are atoms (e.g. hydrogens) that you do not expect to have any spin polarization.  Choosing the right guess for `starting_magnetization` is a bit of a black art, especially if your system has many low-lying solutions.  The clearest case is where you are trying to obtain an antiferrogmanetically coupled solution: then you make sure the two antiferromagnetically coupled species (must be different atom types even if they’re the same element) have opposing **starting\_magnetizations** in order to favor this antiferromagnetic coupling.
 
 
 **3. How do I know what my electron configuration is or if the solutions from different calculations are distinct electronic states?**

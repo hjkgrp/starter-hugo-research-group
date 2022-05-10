@@ -46,66 +46,32 @@ While [XCrysden](http://www.xcrysden.org/ "http://www.xcrysden.org/") is a gre
 Getting started with VMD to visualize Quantum-ESPRESSO results:
 
 
-1. 1.Choose what you will visualize and load the files:
+1. Choose what you will visualize and load the files:
 
-Today, I’ll only be going over how to visualize simple coordinates, but you can visualize molecular orbitals or charge and spin density, as I’ve highlighted in these previous tutorials.  So, for today, we’ll just need an XYZ coordinate file, which you can [download here](../sites/default/files/Tutorials/CNT-NaCl.xyz "XYZ coordinate file") or use one of your own.
-
-
-Launch VMD and go to File>New Molecule...>Browse and select your file.  
+Today, I’ll only be going over how to visualize simple coordinates, but you can visualize molecular orbitals or charge and spin density, as I’ve highlighted in these previous tutorials.  So, for today, we’ll just need an XYZ coordinate file, which you can [download here](CNT-NaCl.xyz "XYZ coordinate file") or use one of your own.
 
 
+Launch VMD and go to `File>New Molecule...>Browse` and select your file.  
 
-![](/sites/default/files/droppedImage-1.png)
-
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-VMD should automatically identify the coordinate file as XYZ type.  Note: If you have an XYZ file with multiple snapshots, these will all be loaded as ‘frames’  into the same molecule.
+![](droppedImage-1.png)
  
 
 
-1. 2.Begin to modify the scene by changing representations and adding periodic boundary conditions:
+2. Begin to modify the scene by changing representations and adding periodic boundary conditions:
 
 
-![](/sites/default/files/droppedImage_1.png)
-When we first load the coordinate file, we get a single representation of the unit cell without any periodic boundary conditions.  First, we will change our nanotube to VDW representation by going toGraphics>Representations and where it says “Selected atoms”, type element C. Then under Drawing method select VDW or add two representations, one as dynamic bonds and one as VDW with the radius turned down to 0.3. For material choose AOChalky for the nanotube and select coloring method by color ID (I chose 6: silver). Now we need to create a new representation for everything else.  Click Create Rep and for selected atoms type “all not element C”. Here, I choose a AOChalky material and leave the coloring to name.
+![](droppedImage_1.png)
 
+When we first load the coordinate file, we get a single representation of the unit cell without any periodic boundary conditions.  First, we will change our nanotube to VDW representation by going to `Graphics>Representations` and where it says “Selected atoms”, type element C. Then under Drawing method select VDW or add two representations, one as dynamic bonds and one as VDW with the radius turned down to 0.3. For material choose AOChalky for the nanotube and select coloring method by color ID (I chose 6: silver). Now we need to create a new representation for everything else.  Click Create Rep and for selected atoms type “all not element C”. Here, I choose a AOChalky material and leave the coloring to name.
 
- 
-
-
- 
-
-
- 
-
-
-Next we add periodic boundary conditions. Find the terminal window associated with your VMD session.  In that window, type pbc set {21.167080 21.167080 17.0649057}. We have equal periodicity in X and Y and a different lattice parameter in Z. The z-axis corresponds to the direction of the nanotube that we want to repeat our unit cell in.  In order to do this, we go to the periodic tab on each representation in the representation window and check +z and -z.  Make sure to do this for all representations. 
+Next we add periodic boundary conditions. Find the terminal window associated with your VMD session.  In that window, type `pbc set {21.167080 21.167080 17.0649057}`. We have equal periodicity in X and Y and a different lattice parameter in Z. The z-axis corresponds to the direction of the nanotube that we want to repeat our unit cell in.  In order to do this, we go to the periodic tab on each representation in the representation window and check +z and -z.  Make sure to do this for all representations. 
 
 
 
-![](/sites/default/files/droppedImage_23.png)
+![](droppedImage_23.png)
  
 
 Left: Periodic boundary conditions are set to +Z and -Z for each representation. Right: Each representation has a coloring method, material, and drawing method. Note: for better looking figures you may want to hide the axis indicator by going to Display>Axes>Off and increasing the sphere resolution to above 30 from the default of 12. This is important for rendering later.
-
-
- 
 
 
 3. Choosing rendering settings:
@@ -116,7 +82,6 @@ For more realistic rendering, we turn on shadows and ambient occlusion. Go to D
 
  
 
-
 4. Rendering:
 
 
@@ -124,7 +89,7 @@ Go to File>Render... and choose “Render using:”POV3.  You’ll see the d
  
 
 
-![](/sites/default/files/droppedImage_4.png)
+![](droppedImage_4.png)
 
 
  
@@ -135,9 +100,9 @@ Any additional modifications can be achieved by editing plot.pov and reissuing t
 
    
 
-
-**povray +W1024 +H1024 -Iplot.pov -Oplot.pov.tga +P +X +A +FT +C**
-
+```
+povray +W1024 +H1024 -Iplot.pov -Oplot.pov.tga +P +X +A +FT +C**
+```
 
  
 
@@ -148,13 +113,13 @@ Make sure to delete plot.pov.tga if you already have one in the directory or you
  
 
 
-1. 5.Our final result:
+5. Our final result:
 
  
 
 
 
-![](/sites/default/files/newguy.jpg)
+![](newguy.jpg)
 
  
 
