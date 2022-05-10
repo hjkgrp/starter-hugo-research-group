@@ -43,34 +43,34 @@ Have you ever run a relaxation or a path optimization technique (e.g. nudged ela
  
 
 
-The simple way: fixing cartesian coordinates
+**The simple way: fixing cartesian coordinates**
 
 
-In the ATOMIC\_POSITIONS namelist of your input file, you can add additional flags in the fifth through seventh column alongside each atom to freeze coordinates.  The column ordering of these flags follows the same as the coordinates in the 2nd-4th column and a ‘0’ freezes the particular x-, y-, or z-position of each atom, while a ‘1’ corresponds to allowing the atom to move freely in that direction.  You don’t have to set this flag for each atom, but once you set a single coordinate flag on a given atom, you should set the flag for each x-, y-, and z-coordinate.   This method for freezing coordinates works alongside all other approaches including both nudged elastic band and structural relaxations.
+In the `ATOMIC\_POSITIONS` namelist of your input file, you can add additional flags in the fifth through seventh column alongside each atom to freeze coordinates.  The column ordering of these flags follows the same as the coordinates in the 2nd-4th column and a ‘0’ freezes the particular x-, y-, or z-position of each atom, while a ‘1’ corresponds to allowing the atom to move freely in that direction.  You don’t have to set this flag for each atom, but once you set a single coordinate flag on a given atom, you should set the flag for each x-, y-, and z-coordinate.   This method for freezing coordinates works alongside all other approaches including both nudged elastic band and structural relaxations.
 
 
  
 
 
-The (slightly) harder way: defining internal coordinate constraints
+**The (slightly) harder way: defining internal coordinate constraints**
 
 
-Although PWscf does not currently support a z-matrix or internal coordinate form for the atomic positions, it is possible to impose constraints that are defined in terms of internal coordinate parameters.  To carry out a constrained relaxation, we set up a relaxation with ion\_dynamics=‘damp’and add an additional CONSTRAINTS namelist to the end of the input file after K\_POINTS:
+Although PWscf does not currently support a z-matrix or internal coordinate form for the atomic positions, it is possible to impose constraints that are defined in terms of internal coordinate parameters.  To carry out a constrained relaxation, we set up a relaxation with `ion\_dynamics=‘damp’` and add an additional `CONSTRAINTS` namelist to the end of the input file after `K\_POINTS`:
 
 
-    0 CONSTRAINTS
+    ```CONSTRAINTS```
 
 
 The first line of this namelist should include the number of constraints you wish to apply and the tolerance on achieving those constraints:
 
 
-    1 <num\_constraints> <tolerance>
+    ```<num\_constraints> <tolerance>```
 
 
-The remaining lines are where you define the constraints in terms of the atom number of each atom in the constraint as defined by its order in yourATOMIC\_POSITIONS input:
+The remaining lines are where you define the constraints in terms of the atom number of each atom in the constraint as defined by its order in your `ATOMIC\_POSITIONS` input:
 
 
-    2+ <constr\_type>, <at #s comma delimited>, <constraint value>
+    ```<constr\_type>, <at #s comma delimited>, <constraint value>```
 
 
  
@@ -82,22 +82,22 @@ More specifically, for each constraint, line 2 and onwards can be defined with
  
 
 
-distance:    ‘distance’, <#at1>, <#at2>, <tgt distance> 
+distance:    `‘distance’, <#at1>, <#at2>, <tgt distance>` 
 
 
-                                                                (in bohrs!)
+                                                                **(in bohrs!)**
 
 
-angle:       ‘planar\_angle’, <#at1>,<#at2>,<#at3>, <tgt angle> 
+angle:       `‘planar\_angle’, <#at1>,<#at2>,<#at3>, <tgt angle>` 
 
 
-                                       ijk angle with 2=j vertex      (in degrees!)
+                                       ijk angle with 2=j vertex      **(in degrees!)**
 
 
-dihedral:    ‘torsional\_angle’,<at#1>,<at#2>,<at#3>,<at#4>,<tgt dihed> 
+dihedral:    `‘torsional\_angle’,<at#1>,<at#2>,<at#3>,<at#4>,<tgt dihed>`
 
 
-                                       ijkl/1234 order with 2&3 central   (in degrees!)
+                                       ijkl/1234 order with 2&3 central   **(in degrees!)**
 
 
  

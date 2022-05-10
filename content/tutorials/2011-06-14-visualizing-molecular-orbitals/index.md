@@ -59,7 +59,7 @@ Instruction: 
 
 
 
-We start by assuming you have generated the wavefunction and density of a partially-isolated system using PWscf in [Quantum-ESPRESSO](http://quantum-espresso.org/ "http://quantum-espresso.org") and still have access to the files you have generated (i.e. with the associated prefix in your chosen outdir).   If you have not carried out this step yet, you can modify the [DFT+U tutorial](../tutorials/2011-05-31-calculating-hubbard-u/) to generate the density for a sextet MnO diatomic molecule by restricting the value of alpha to zero.
+We start by assuming you have generated the wavefunction and density of a partially-isolated system using PWscf in [Quantum-ESPRESSO](http://quantum-espresso.org/ "http://quantum-espresso.org") and still have access to the files you have generated (i.e. with the associated prefix in your chosen outdir).   If you have not carried out this step yet, you can modify the [DFT+U tutorial](../2011-05-31-calculating-hubbard-u/) to generate the density for a sextet MnO diatomic molecule by restricting the value of alpha to zero.
 
 
  
@@ -102,7 +102,7 @@ Summary: The tutorial files, provided also as a [zipped archive here](PP-Tut.z
  
 
 
-I hope that this [tutorial](../tutorials) has helped you to better understand how to visualize molecular orbitals. Check back soon for a follow-up tutorial on more advanced ways to manipulate the density including arbitrary cutting planes! Please [email me](mailto:hjkulikATmitDOTedu?subject=Questions%20about%20visualizing%20molecular%20orbitals "mailto:hjkulikATmitDOTedu?subject=Questions about Visualizing molecular orbitals  tutorial") if you have any additional questions not answered here!
+I hope that this [tutorial](../) has helped you to better understand how to visualize molecular orbitals. Check back soon for a follow-up tutorial on more advanced ways to manipulate the density including arbitrary cutting planes! Please [email me](mailto:hjkulikATmitDOTedu?subject=Questions%20about%20visualizing%20molecular%20orbitals "mailto:hjkulikATmitDOTedu?subject=Questions about Visualizing molecular orbitals  tutorial") if you have any additional questions not answered here!
 
 **Scripts:**  
 [Molecular orbital tutorial zip archive](PP-Tut.zip)  
