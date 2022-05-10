@@ -1,0 +1,10 @@
+phonons of CO2 in super cell at Gamma
+ &inputph
+  outdir='./',
+  prefix='co2',
+  amass(1)=12.01,
+  amass(2)=16.01,
+  fildyn='co2.dynG',
+  trans= .true.
+ /
+0.0 0.0 0.0
