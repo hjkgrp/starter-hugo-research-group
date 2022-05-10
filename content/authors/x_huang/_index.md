@@ -5,7 +5,7 @@ title: Xiao Huang
 # Is this the primary user of the site?
 
 # Role/position
-role: Grad Student
+role: Graduate Student
 
 # Organizations/Affiliations
 organizations:
