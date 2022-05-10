@@ -43,9 +43,9 @@ While this month’s tutorial is currently stuck in debugging, here is a list of
  
 
 
-1. 10.Generating random numbers
+10. Generating random numbers
 
-Sometimes, e.g. when starting an MD run, you may want to see with a random number.  It’s as simple as $RANDOM! Put it in your bash scripts or try it at the commandline.
+Sometimes, e.g. when starting an MD run, you may want to see with a random number.  It’s as simple as `$RANDOM`! Put it in your bash scripts or try it at the commandline.
 
 
  
@@ -56,17 +56,17 @@ Sometimes, e.g. when starting an MD run, you may want to see with a random numbe
 
 Maybe you have a bunch of ‘y’ column data but you need a series of integers in your first column as your ‘x’ data for plotting software.  You can do this in vi using a command of the following structure:
 
-
+```
 :%s/^/\=line('.') . ' '/
+```
 
-
-where the first bit indicates the substitution is on all lines. If you want to adjust the line number, you can try line(‘.’)-<offset>. The second bit is a string. In my case, I wanted to add a space but you may want a comma or any number of other characters.
+where the first bit indicates the substitution is on all lines. If you want to adjust the line number, you can try `line(‘.’)-<offset>`. The second bit is a string. In my case, I wanted to add a space but you may want a comma or any number of other characters.
 
 
  
 
 
-1. 8.Upgrade your excel graphs
+8. Upgrade your excel graphs
 
 Excel - love it or hate it, take it or leave it...sometimes it’s just more convenient to use.  For instance, I find I like to make bar graphs in excel, and they don’t look that bad.  Still there are a few things you can do (get rid of that annoying outline, tweak your colors, change your fonts, etc) to hide the obvious “excel”-ness of them.  But did you know if you copy an excel graph and paste it into photoshop, it will paste as a vector smart object that you can then edit further in adobe illustrator? This is handy for fine-tuning and tweaking shadows and other features as well as for ensuring that the resolution of that graph is maintained for publication.
 
@@ -77,26 +77,20 @@ Excel - love it or hate it, take it or leave it...sometimes it’s just more con
 7. Keep that Ångström symbol handy
 
 
-Not really a brand-new-to-me tip but here are some ways to keep that Å handy: In xmgrace, you can add it to your legends with the code: \cE\C. In microsoft programs, try alt-shift-A. In latex, it’s \AA.
+Not really a brand-new-to-me tip but here are some ways to keep that Å handy: In xmgrace, you can add it to your legends with the code: `\cE\C`. In microsoft programs, try `alt-shift-A`. In latex, it’s `\AA`.
 
 
  
 
 
-1. 6.Know your colors
+6. Know your colors
 
 Whether you’re designing a new webpage, a brochure or just trying to make presentations that pop, it can’t hurt to learn a little color theory.  [This site is really handy](http://colorschemedesigner.com/ "http://colorschemedesigner.com/") for putting together complementary colors and accents. Note the RGB % at the bottom left corner. You can match that against a color in something else you’re working on.  You can also check out color blind settings and export as a photoshop palette.
 
 
- 
-
-
-1. 5.Digitize graphs from papers
+5. Digitize graphs from papers
 
 Find some experimental data you’d like to compare your theory to? There are a number of ways to digitize that data. Most are still tedious and involve you clicking on each data point and then defining the axes. The one I like to use is called Plot Digitizer. Go ahead and [download it here](http://plotdigitizer.sourceforge.net/ "http://plotdigitizer.sourceforge.net/")
-
-
- 
 
 
 4. Use Avogadro to rapidly build and optimize molecules
@@ -105,17 +99,13 @@ Find some experimental data you’d like to compare your theory to? There are a 
 I learned this one belatedly from someone else in my postdoc group! If you use Avogrado, you can use force fields to optimize your structure as you build it. This is handy when you want to build a structure but aren’t sure exactly how long your bonds should be. [Download Avogadro here](http://avogadro.openmolecules.net/wiki/Main_Page "http://avogadro.openmolecules.net/wiki/Main_Page").
 
 
- 
 
-
-1. 3.Drag files into terminal to get paths.
+3. Drag files into terminal to get paths.
 
 This is an old one but still handy. Did you know you can drag a file you search for in Finder on the mac onto a terminal window? Once you’ve done that, you’ll see the whole path for the file.  This is handy for then manipulating that file at the commandline.
 
 
  
-
-
 2. Use Acrobat to reduce the file size of PDFs and to watermark them.
 
 

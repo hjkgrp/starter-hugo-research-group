@@ -40,7 +40,7 @@ categories:
 This month marked both the AIChE national meeting in San Francisco's special symposium that I co-organized called "Applications of DFT+X in catalysis" as well as my first month as an assistant professor.  The tutorials are likely to be archived and remain online but will no longer be updated as frequently. In Fall 2014, I will teach an elective in simulations at MIT, and some of this material may make its way to the tutorial page here. Here are a couple of quick tips related to questions that came up during the session and beyond:
 
 
-1. Electron delocalization: if metallic character in a solid occurs upon vacancy formation in an oxide...this may be a common issue that is 
+1. Electron delocalization: if metallic character in a solid occurs upon vacancy formation in an oxide...this may be a common issue that is alleviated with a U, leading to differences in electronic states. 
 
 
 2. Using "ramping: For users of DFT+U with CP2K, "ramping" is encouraged.  This is where low U values are used at first to ensure convergence to a specific electronic state. Note, using the potential from a previous SCF calculation is a useful tool for converging the same electronic state at a different value of U or with a different functional.
@@ -53,9 +53,6 @@ This month marked both the AIChE national meeting in San Francisco's special sy
 
 
 5. Self-consistent U is most useful when the DFT(LDA/GGA) ground state is distinct from the state observed at non-zero U.  This is particularly important for cases where the two states cannot both be self-consistently achieved. For qualitatively equivalent electronic states, a linear-response U is often sufficient.  A more complete tutorial for calculating the self-consistent U will be provided next month.
-
-
- 
 
 
 Hope you found these quick tips helpful. Stay tuned while tutorials shift gears and possibly go more back to basics while I address the needs of our new research group.

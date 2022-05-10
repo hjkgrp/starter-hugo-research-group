@@ -106,35 +106,6 @@ After [jobrun.py](jobrun.py) carries out calculations, the [linregress.py](li
 ![](shapeimage_2-27.png)
 
 
- 
-
-
- 
-
-
- 
-
-
- 
-
-
- 
-
-
- 
-
-
- 
-
-
- 
-
-
- 
-
-
- 
-
 
 The recalculated U on Mn 3d is now 2.9 eV, reduced from the value of about 3.5 eV obtained when only [calculating U on a single site](calculating-hubbard-u "Calculating the Hubbard U"). These two treatments produce slightly different values of U because the multiple-site case includes the effects of O 2p.
 
