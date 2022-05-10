@@ -94,6 +94,6 @@ Now, we’ll look at the special case of the positively charged hydronium ion. 
 While we fit only on the region 16 Bohr and larger, it turns out our fit is pretty good for 10 Bohr or larger data points. The asymptotic total energy from M-P is -34.8107 Ry, still a good 0.07 Ry away from where we are at 40 Bohr. So it’s important to remember to carry out this correction if you want to compare charged systems.
 
 
-I hope that you’ve learned or re-learned a few things about checking for convergence today. Please [email me](mailto:hjkulik@mit.edu?subject=Questions%20about%20Convergence%20101%20Tutorial "mailto:hjkulik@mit.edu?subject=Questions about Convergence 101 Tutorial") if you have any additional questions not answered here! Check back here in about a month for some more advanced convergence tests.
+I hope that you’ve learned or re-learned a few things about checking for convergence today. Please [email me](mailto:hjkulik@mit.edu?subject=Questions%20about%20Convergence%20101%20Tutorial "mailto:hjkulik@mit.edu?subject=Questions about Convergence 101 Tutorial") if you have any additional questions not answered here!
 
 

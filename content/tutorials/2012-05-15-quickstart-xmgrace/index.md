@@ -102,7 +102,7 @@ One of the handiest things we can do is hide sets we don’t want to look at. Yo
 Finally, you can select regions (horiz. rang and vert. range work best). This is handy for getting the derivative of only part of your curve (e.g. for a tangent) or finding a fit of just part of the data.  
 
 
-4. Presenting it well.
+**4. Presenting it well.**
 
 There’s not enough time to go over how to make beautiful graphs in xmgrace - some of that will come with practice, but here are a few quick tips:
 
@@ -114,7 +114,7 @@ Increase the fonts on your axes to at least 150 size font as well.  You can als
 
 
 
-5. Saving your data for next time.
+**5. Saving your data for next time.**
 
 Now that we’ve visualized and analyzed our data, we should save it for later. Be aware that as you save, it will show the default format for how your data gets written to the grace file (*.agr).  This defaults to %.8g so you may want to change it if you have large numbers where you also care about the decimal information (e.g. total energies). Try increasing to %16.8g, for instance. Also, note you can leave some information for yourself in Project description in case you forget about what you were working on when you look at this data months later.
 
