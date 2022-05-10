@@ -138,7 +138,7 @@ Summary: The tutorial files, provided also as a [zipped archive here](../sites
  
 
 
-I hope that this [tutorial](../Tutorials "Tutorials") has helped you to better understand how to calculate the linear-response and self-consistent Hubbard U for single-site transition metal complexes.  Please [email me](mailto:hkulikATstanfordDOTedu?subject=Questions%20about%20Calculating%20Hubbard%20U%20tutorial "mailto:hkulikATstanfordDOTedu?subject=Questions about Calculating Hubbard U tutorial") if you have any additional questions not answered here!
+I hope that this [tutorial](../Tutorials "Tutorials") has helped you to better understand how to calculate the linear-response and self-consistent Hubbard U for single-site transition metal complexes.  Please [email me](mailto:hjkulikATmitDOTedu?subject=Questions%20about%20Calculating%20Hubbard%20U%20tutorial "mailto:hjkulikATmitDOTedu?subject=Questions about Calculating Hubbard U tutorial") if you have any additional questions not answered here!
 
 
  
