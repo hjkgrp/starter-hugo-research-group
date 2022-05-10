@@ -93,6 +93,8 @@ You can set r1, r2 and k1, k2 to be same value for constant boundary condition, 
  
 I’ve attached starting coordinates, input file, fixed atom file for an example calculation of fixed atom and variable boundary condition molecular dynamics simulation of coronene with hydrogen. You can also run fixed atom only simulation or boundary condition only simulation for sure. 
 
-Scripts:
-[start.in](start.in)
+**Scripts:**  
+[start.in](start.in)  
+[coronene-h2.xyz](coronene-h2.xyz)  
+[fixed_atoms.in](fixed_atoms.in)  
  

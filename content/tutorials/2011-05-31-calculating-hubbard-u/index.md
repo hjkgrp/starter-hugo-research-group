@@ -47,7 +47,7 @@ Background: Recall, the DFT+U functional, as implemented in [Quantum-ESPRESSO
 
 
 
-![](/sites/default/files/eqn0.jpg)
+![](eqn0.jpg)
 
 The use of this functional form is particularly motivated by systems consisting of transition-metals with localized electrons (i.e. d or f) that standard DFT struggles to treat accurately.  
 
@@ -59,13 +59,13 @@ Before embarking on production level simulations, one of the first things you sh
 
 
 
-![](/sites/default/files/eqn1.jpg)
+![](eqn1.jpg)
 
 with a matrix of response functions in the case of multiple sites but a single value for single site systems. In order to obtain U, we invert the self-consistent response function and subtract out the bare, non-interacting response[1]:
 
 
 
-![](/sites/default/files/eqn2.jpg)
+![](eqn2.jpg)
 
 Today we will only address the single site example of MnO[3], but a future [tutorial](../Tutorials "Tutorials") will expand the calculation to more manifolds.
 
@@ -83,7 +83,7 @@ We obtain the bare and self-consistent response functions from linear regression
 
 
 
-![](/sites/default/files/linrespu2.jpg)
+![](linrespu2.jpg)
 
  
 
@@ -105,40 +105,40 @@ We determine the linear-response U as follows:
  
 
 
-The additional single points in step 2 should each take less than half of the time of the original single point in step 1 because the addition of alpha is only a small perturbation. (Note: The key here is to ensure that you can copy over the starting zero-alpha density each time for each non-zero alpha calculation). One approach for the file copying step is implemented in the main script, [jobrun.py](../sites/default/files/Tutorials/jobrun.py_0.txt "jobrun.py.txt"), and clarified in the variables file, [variables.py](../sites/default/files/Tutorials/variables.py_0.txt "variables.py.txt").  The linear regression is carried out after completion of the SCF runs in[linregress.py](../sites/default/files/Tutorials/linregress.py.txt "linregress.py.gz") and the results are written to the file ucalc.dat.  
+The additional single points in step 2 should each take less than half of the time of the original single point in step 1 because the addition of alpha is only a small perturbation. (Note: The key here is to ensure that you can copy over the starting zero-alpha density each time for each non-zero alpha calculation). One approach for the file copying step is implemented in the main script, [jobrun.py](..Tutorials/jobrun.py_0.txt "jobrun.py.txt"), and clarified in the variables file, [variables.py](..Tutorials/variables.py_0.txt "variables.py.txt").  The linear regression is carried out after completion of the SCF runs in[linregress.py](..Tutorials/linregress.py.txt "linregress.py.gz") and the results are written to the file ucalc.dat.  
 
 
  
 
 
-In addition to the standard linear-response U0, the self-consistent extension,Uscf[2], can be determined with these scripts.  This approach is carried out automatically by setting a range of values of Uin (e.g. 0.5-3.0 eV in 0.5 eV increments) in the file [variables.py](../sites/default/files/Tutorials/variables.py_0.txt "variables.py.txt").  
+In addition to the standard linear-response U0, the self-consistent extension,Uscf[2], can be determined with these scripts.  This approach is carried out automatically by setting a range of values of Uin (e.g. 0.5-3.0 eV in 0.5 eV increments) in the file [variables.py](..Tutorials/variables.py_0.txt "variables.py.txt").  
 
 
 
-![](/sites/default/files/uscf2.jpg)
-
- 
-
-
-The linear-response and self-consistent U values are essentially identical for sextet MnO. The self-consistent U is determined from the extrapolation ofUout calculated over a range of Uin where the relationship is linear[2].  Larger differences between the self-consistent and linear-response U values can be much larger, especially where the electronic structure between DFT and DFT+U differs significantly. We have also studied systems from a few to hundreds of atoms in size with self-consistent DFT+U, and I encourage you to read about the [research](../Research "Research") and the relevant [publications](../Publications "Publications").
-
+![](uscf2.jpg)
 
  
 
 
-Summary: The tutorial files, provided also as a [zipped archive here](../sites/default/files/Tutorials/DFTU-Tut.zip "DFTU-Tut.zip"), are:
+The linear-response and self-consistent U values are essentially identical for sextet MnO. The self-consistent U is determined from the extrapolation ofUout calculated over a range of Uin where the relationship is linear[2].  Larger differences between the self-consistent and linear-response U values can be much larger, especially where the electronic structure between DFT and DFT+U differs significantly. We have also studied systems from a few to hundreds of atoms in size with self-consistent DFT+U, and I encourage you to read about the relevant [publications](../publication "Publications").
 
-
-1. •[jobrun.py](../sites/default/files/Tutorials/jobrun.py_0.txt "jobrun.py.txt") — skeleton script generates input files and runs jobs.
-2. •[variables.py](../sites/default/files/Tutorials/variables.py_0.txt "variables.py.txt") — you should change these job and cluster variables!
-3. •[libraries.py](../sites/default/files/Tutorials/libraries.py_0.txt "libraries.py.txt") — dictionary of parameters that should not be changed.
-4. •[linregress.py](../sites/default/files/Tutorials/linregress.py.txt "linregress.py.gz") — calculates U0 and Uscf from results of jobrun.py.
-5. •other files — pseudopotentials, coordinates for MnO, a readme file, and an example job script for SGE queues.
 
  
 
 
-I hope that this [tutorial](../Tutorials "Tutorials") has helped you to better understand how to calculate the linear-response and self-consistent Hubbard U for single-site transition metal complexes.  Please [email me](mailto:hjkulikATmitDOTedu?subject=Questions%20about%20Calculating%20Hubbard%20U%20tutorial "mailto:hjkulikATmitDOTedu?subject=Questions about Calculating Hubbard U tutorial") if you have any additional questions not answered here!
+Summary: The tutorial files, provided also as a [zipped archive here](DFTU-Tut.zip), are:
+
+
+1. [jobrun.py](jobrun.py) — skeleton script generates input files and runs jobs.
+2. [variables.py](variables.py) — you should change these job and cluster variables!
+3. [libraries.py](libraries.py) — dictionary of parameters that should not be changed.
+4. [linregress.py](linregress.py) — calculates U0 and Uscf from results of jobrun.py.
+5. [zip archive of other files](DFT-Tut.zip) — pseudopotentials, coordinates for MnO, a readme file, and an example job script for SGE queues.
+
+ 
+
+
+I hope that this [tutorial](../tutorials) has helped you to better understand how to calculate the linear-response and self-consistent Hubbard U for single-site transition metal complexes.  Please [email me](mailto:hjkulikATmitDOTedu?subject=Questions%20about%20Calculating%20Hubbard%20U%20tutorial "mailto:hjkulikATmitDOTedu?subject=Questions about Calculating Hubbard U tutorial") if you have any additional questions not answered here!
 
 
  
@@ -155,4 +155,10 @@ References:
 
 [[3](http://jcp.aip.org/resource/1/jcpsa6/v133/i11/p114103_s1 "http://jcp.aip.org/resource/1/jcpsa6/v133/i11/p114103_s1")] H. J. Kulik and N. Marzari.  Journal of Chemical Physics 133, 114103 (2010).
 
+**Scripts:**  
+[Jobrun.py python script](jobrun.py)  
+[Libraries.py python script](libraries.py)  
+[Linregress.py python script](linregress.py)  
+[Variables.py python script](variables.py)  
+[DFT+U Tutorial ZIP Archive](DFTU-Tut.zip)  
 
