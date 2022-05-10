@@ -1,5 +1,6 @@
 ---
 title: New Perspective on ML for computational chemistry published
+reading_time: false
 date: 2021-05-05
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: Vyshnavi's Topics in Catalysis paper published
+reading_time: false
 date: 2021-07-16
 ---
 

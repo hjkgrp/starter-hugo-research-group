@@ -1,5 +1,6 @@
 ---
 title: Chenru wins AIChE award
+reading_time: false
 date: 2021-12-06
 ---
 

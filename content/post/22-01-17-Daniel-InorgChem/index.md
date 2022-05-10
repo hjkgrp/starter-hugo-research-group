@@ -1,5 +1,6 @@
 ---
 title: Daniel's work published in Inorg. Chem.
+reading_time: false
 date: 2022-01-17
 ---
 

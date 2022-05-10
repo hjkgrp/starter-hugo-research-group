@@ -1,5 +1,6 @@
 ---
 title: Akash wins MSDE poster award
+reading_time: false
 date: 2021-06-18
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: Akash's work published in JCTC
+reading_time: false
 date: 2022-01-18
 ---
 

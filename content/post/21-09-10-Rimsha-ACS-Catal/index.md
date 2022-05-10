@@ -1,5 +1,6 @@
 ---
 title: Rimsha's work published in ACS Catal.
+reading_time: false
 date: 2021-09-10
 ---
 

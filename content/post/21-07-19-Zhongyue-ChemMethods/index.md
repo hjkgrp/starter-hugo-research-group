@@ -1,5 +1,6 @@
 ---
 title: Zhongyue's Chemistry Methods paper published
+reading_time: false
 date: 2021-07-19
 ---
 

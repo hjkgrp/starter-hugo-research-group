@@ -1,5 +1,6 @@
 ---
 title: HJK wins MSDE paper award
+reading_time: false
 date: 2021-05-21
 ---
 

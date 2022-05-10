@@ -1,5 +1,6 @@
 ---
 title: Alli Keys and Dr. Isuru Ariyarathna join the group
+reading_time: false
 date: 2021-06-01
 ---
 

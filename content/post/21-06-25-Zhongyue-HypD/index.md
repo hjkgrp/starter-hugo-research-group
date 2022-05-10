@@ -1,5 +1,6 @@
 ---
 title: Zhongyue's paper on HypD published
+reading_time: false
 date: 2021-06-25
 ---
 

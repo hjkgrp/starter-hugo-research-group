@@ -1,5 +1,6 @@
 ---
 title: Vyshnavi receives Kokes award
+reading_time: false
 date: 2022-03-07
 ---
 

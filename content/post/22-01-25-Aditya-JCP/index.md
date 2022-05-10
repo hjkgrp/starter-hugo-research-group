@@ -1,5 +1,6 @@
 ---
 title: Aditya and Daniel's paper on transferable ML representations is published
+reading_time: false
 date: 2022-01-25
 ---
 

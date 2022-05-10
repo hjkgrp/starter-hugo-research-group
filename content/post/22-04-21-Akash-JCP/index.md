@@ -1,5 +1,6 @@
 ---
 title: Akash's latest work accepted in J. Chem. Phys.
+reading_time: false
 date: 2022-04-21
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: Curr. Opin. Chem. Eng. article published
+reading_time: false
 date: 2021-12-17
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: Xiao joins the group
+reading_time: false
 date: 2021-11-16
 ---
 

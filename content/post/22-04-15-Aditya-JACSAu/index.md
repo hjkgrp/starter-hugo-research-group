@@ -1,5 +1,6 @@
 ---
 title: Aditya's work is published in JACS Au
+reading_time: false
 date: 2022-04-15
 ---
 

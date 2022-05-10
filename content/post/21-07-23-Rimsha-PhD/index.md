@@ -1,5 +1,6 @@
 ---
 title: Rimsha defends her Ph.D.
+reading_time: false
 date: 2021-07-23
 ---
 

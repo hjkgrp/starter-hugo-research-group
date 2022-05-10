@@ -1,5 +1,6 @@
 ---
 title: Vyshnavi's latest work published in ACS Catal.
+reading_time: false
 date: 2022-04-13
 ---
 

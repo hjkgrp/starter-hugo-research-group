@@ -1,5 +1,6 @@
 ---
 title: Chenru's latest work published in Chem. Sci.
+reading_time: false
 date: 2022-04-04
 ---
 

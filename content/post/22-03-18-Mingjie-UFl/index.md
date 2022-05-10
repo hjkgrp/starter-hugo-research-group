@@ -1,5 +1,6 @@
 ---
 title: Mingjie accepts TT Asst. Prof. position at the University of Florida
+reading_time: false
 date: 2022-03-18
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: Akash defends his Ph.D.
+reading_time: false
 date: 2021-11-19
 ---
 

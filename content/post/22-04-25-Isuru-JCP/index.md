@@ -1,5 +1,6 @@
 ---
 title: Isuru's work published in J. Chem. Phys.
+reading_time: false
 date: 2022-04-25
 ---
 

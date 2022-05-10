@@ -1,5 +1,6 @@
 ---
 title: Chenru receives ACS CCG Graduate Excellence Award
+reading_time: false
 date: 2022-03-20
 ---
 

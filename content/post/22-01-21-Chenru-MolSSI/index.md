@@ -1,5 +1,6 @@
 ---
 title: Chenru wins MolSSI Seed Fellowship
+reading_time: false
 date: 2022-01-21
 ---
 

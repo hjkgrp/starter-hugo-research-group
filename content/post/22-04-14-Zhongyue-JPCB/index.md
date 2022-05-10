@@ -1,5 +1,6 @@
 ---
 title: Zhongyue's work is published in J. Phys. Chem. B
+reading_time: false
 date: 2022-04-14
 ---
 

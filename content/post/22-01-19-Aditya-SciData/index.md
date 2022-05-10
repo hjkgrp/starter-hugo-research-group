@@ -1,5 +1,6 @@
 ---
 title: Aditya and Gianmarco's MOFSimplify data paper is published
+reading_time: false
 date: 2022-01-19
 ---
 

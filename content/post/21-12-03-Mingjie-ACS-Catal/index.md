@@ -1,5 +1,6 @@
 ---
 title: Mingjie's work published in ACS Catal.
+reading_time: false
 date: 2021-12-03
 ---
 

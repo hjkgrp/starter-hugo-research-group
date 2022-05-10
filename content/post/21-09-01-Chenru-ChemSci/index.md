@@ -1,5 +1,6 @@
 ---
 title: Chenru's work published in Chem. Sci.
+reading_time: false
 date: 2021-09-01
 ---
 

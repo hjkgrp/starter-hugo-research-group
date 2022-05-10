@@ -1,5 +1,6 @@
 ---
 title: Haojun's work published in J. Mater. Chem. A
+reading_time: false
 date: 2022-01-04
 ---
 

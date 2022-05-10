@@ -1,5 +1,6 @@
 ---
 title: HJK receives tenure!
+reading_time: false
 date: 2021-05-03
 ---
 

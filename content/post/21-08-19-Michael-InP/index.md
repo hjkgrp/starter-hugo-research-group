@@ -1,5 +1,6 @@
 ---
 title: Michael's InP QD doping paper published
+reading_time: false
 date: 2021-08-19
 ---
 

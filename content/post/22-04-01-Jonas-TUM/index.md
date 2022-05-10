@@ -1,5 +1,6 @@
 ---
 title: Welcome to Jonas Oldenstaedt
+reading_time: false
 date: 2022-04-01
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: Gianmarco receives scholarship
+reading_time: false
 date: 2021-10-19
 ---
 

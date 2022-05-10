@@ -1,5 +1,6 @@
 ---
 title: David's collaborative work is out in JACS
+reading_time: false
 date: 2022-03-08
 ---
 

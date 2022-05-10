@@ -1,5 +1,6 @@
 ---
 title: Aditya's work published in JACS
+reading_time: false
 date: 2021-10-04
 ---
 
