@@ -41,7 +41,7 @@ item:
     cta_label: Meet the team
     cta_url: 'people'
     cta_icon_pack: fas
-    cta_icon: people
+    cta_icon: person
     #- title: Left
     #content: 'I am left aligned 😄'
     #align: left
