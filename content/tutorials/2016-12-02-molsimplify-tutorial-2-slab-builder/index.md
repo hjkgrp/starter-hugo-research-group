@@ -63,7 +63,7 @@ The code will also display the cell parameters for the slab at the end of output
   
 
 
-In the next tutorial, we'll show how to position molecules and transition metal complexes on slabs easily using molSimplify. There are many more features of the slab building module that allow you to customize various aspects of the generation process, including trimming to different exposed planes. Be sure to check out the user  [guide](http://hjklol.mit.edumolSimplify_v1.pdf)  for more details!
+In the next tutorial, we'll show how to position molecules and transition metal complexes on slabs easily using molSimplify. There are many more features of the slab building module that allow you to customize various aspects of the generation process, including trimming to different exposed planes. Be sure to check out the user  [guide](molSimplify_v1.pdf)  for more details!
 
 
 **Scripts:**

@@ -1,6 +1,6 @@
 #######################################################################################################
-# run with python 3 from /content/tutorials/ to produce commit 6405576
-# https://github.com/hjkgrp/starter-hugo-research-group/commit/6405576a971490b2ef75d2991fbffc1113e6919a
+# run with python 3 at commit a050388
+# https://github.com/hjkgrp/starter-hugo-research-group/commit/a050388ee90592b2b69cae873e186a2e9e30c490
 #######################################################################################################
 import glob
 import os
@@ -10,7 +10,7 @@ import re
 img_extensions = ('jpeg', 'gif', 'png', 'apng', 'svg', 'bmp')
 
 ## get molsimplify tutorial folders
-folders = glob.glob('*molsimplify*')
+folders = glob.glob('../../content/tutorials/*molsimplify*')
 folders.sort()
 
 for folder in folders:
@@ -22,13 +22,14 @@ for folder in folders:
     markdown = markdown.replace('tags:','tags:\n- molsimplify')
     markdown = markdown.replace('categories:','categories:\n- molsimplify-tutorials')
     
+    prefixes = ['http://hjkgrp.mit.edu','http://hjklol.mit.edu']
     ## get standard files 
-    files = re.findall("(/sites.*?)\)",markdown)
+    files = re.findall(f"\(((?:{'|'.join(prefixes)})?/sites.*?)\)",markdown)
     ## retrieve files
     for file in files:
         file_name = file.rsplit('/',1)[-1]
-        file_url = 'http://hjkgrp.mit.edu/' + file
         file_dest = os.path.join(folder,file_name)
+        file_url = prefixes[0] + file[file.index('/sites'):]
         if not os.path.exists(file_dest):
             urlretrieve(file_url,file_dest)
         ## update markdown string
