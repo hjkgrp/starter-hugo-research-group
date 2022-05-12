@@ -32,8 +32,10 @@ authors:
 - admin
 
 tags:
+- molsimplify
 
 categories:
+- molsimplify-tutorials
 - tutorials
 
 ---
@@ -99,7 +101,7 @@ rotaxane.readfromxyz('Rotaxane.xyz') # Now load in the atoms and coordinate info
 The mol3D class now stores the molecule that is pictured below, with a copper atom at the center, in brown:
 
 
-![](/sites/default/files/FullRotaxane.png)
+![](FullRotaxane.png)
 
 
 If we want to find metal atoms in this molecule, we can do that using the methods built in to molSimplify. Continue typing:
@@ -158,7 +160,7 @@ rotaxane.writexyz('No\_Metal\_Rotaxane.xyz') # mol3D objects can write xyz files
 The resulting molecule (after the copper atom is deleted), looks like this:
 
 
-![](/sites/default/files/RemovedRotaxane.png)
+![](RemovedRotaxane.png)
 
 
 The mol3D class also has the capability to check geometry based on a dictionary, with metrics as outlined by our recent publications / preprints. We can use the “IsOct” method to determine if a geometry is truly octahedral. Our default metrics are outlined in the source code, as a method in the mol3D class.
@@ -202,7 +204,7 @@ octahedral.IsOct()
 When comparing the two structures, we can see that the rotaxane is not octahedral with respect to the metal center (as visualized above), but the FeII(NH3)6(visualized below) is:
 
 
-![](/sites/default/files/Octahedral.png)
+![](Octahedral.png)
 
 
 Thus, the geometry flags are assigned as 0 and 1 for rotaxane and FeII(NH3)6respectively, when analyzing the metal center for an octahedral geometry.

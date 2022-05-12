@@ -32,8 +32,10 @@ authors:
 - admin
 
 tags:
+- molsimplify
 
 categories:
+- molsimplify-tutorials
 - tutorials
 
 ---
@@ -87,7 +89,7 @@ OpenBabel has a feature that converts lists of SMILES strings to simple vector g
 The results of the 20 molecule dissimilarity search should look like the following. Again some variability might occur with different versions of ChEMBL. (The caption is the index of the connecting atom in the SMILES string.)
 
 
-![](/sites/default/files/Tutorials/4-dissim.png)
+![](4-dissim.png)
 
 
 Lists of SMILES strings such as simres.smi and dissimres.smi produced above may then be specified as input to molSimplify structure generation in place of regular ligands. molSimplify then loops over the list and generates one structure for every entry. To illustrate this, let's return to the example in the [first tutorial](http://hjklol.mit.edu/content/molsimplify-tutorial-1-structure-generation) (porphyrin with imidazole axial ligand):

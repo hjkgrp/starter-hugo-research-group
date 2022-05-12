@@ -32,8 +32,10 @@ authors:
 - admin
 
 tags:
+- molsimplify
 
 categories:
+- molsimplify-tutorials
 - tutorials
 
 ---
@@ -43,7 +45,7 @@ In this tutorial, we will show how to replace multidentate ligands in a prebuilt
 Today’s example involves the following Zn(II) intermediate in a model carbonic anhydrase catalytic cycle, stored as zncat in our Cores subdirectory:
 
 
-![](/sites/default/files/Tutorials/8_1.png)
+![](8_1.png)
 
 
 Suppose that we would like to increase the chain length of one of the ethylenediamene (en) ligands, i.e., replace it with a 1,3-diaminopropane (SMILES: NCCCN) ligand. As with regular custom core functionalization, we first need to identify the connecting atoms of the original en ligand. As shown above, you can use your favorite visualization package such as Avogadro or PyMol, and we see that these are atoms 4 and 5. Alternatively, if you have PyQt5 installed, you can also click "draw ligands" from the main GUI window, or run `molsimplify -core zncat -drawmode` (also newly implemented) from the command line to get a vector graphic.
@@ -68,7 +70,7 @@ Another new, useful feature is a general distance geometry conformer search rout
 The product should look like this, although your results may vary slightly because the conformer search is partially random:
 
 
-![](/sites/default/files/Tutorials/8_2.png)
+![](8_2.png)
 
 
 The replacement ligands can also be of lower denticity. Suppose we instead want to replace en with an NH3 and an OH2 ligand:
@@ -80,7 +82,7 @@ The replacement ligands can also be of lower denticity. Suppose we instead want 
 The product should look like:
 
 
-![](/sites/default/files/Tutorials/8_3.png)
+![](8_3.png)
 
 
 Note also that the ordering of connection atoms is preserved: the ammonia ligand is added to where atom 4 was previously, and the water ligand is added to where atom 5 was previously.

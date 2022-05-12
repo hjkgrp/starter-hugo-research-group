@@ -32,12 +32,14 @@ authors:
 - admin
 
 tags:
+- molsimplify
 
 categories:
+- molsimplify-tutorials
 - tutorials
 
 ---
-![](/sites/default/files/Tutorials/pic_1.png)
+![](pic_1.png)
 
 
 In this tutorial, we are going to introduce the latest molSimplify feature – a tool that allows the construction of periodic geometries and facilitates adsorbing any type of molecule supported by the basic molSimplify onto a slab in various ways. This tool is under development and is only available when calling molSimplify from the command line. In order to follow this tutorial, please make sure you have the most recent molSimplify build (using [conda](http://hjklol.mit.edu/content/new-installation-option-molsimplify) or from  [source](https://github.com/hjkgrp/molSimplify/tree/JP)). We are going to demonstrate how to use this tool to construct geometry files suitable for simulation of some small molecules adsorbed onto a Pd slab. The basic procedure consists of two parts: the first is building a suitable supercell or “slab”, upon which to adsorb our molecules, followed by the actual placement. We'll cover placing adsorbates in the next tutorial.
@@ -53,7 +55,7 @@ In this tutorial, we are going to introduce the latest molSimplify feature – a
   
 molSimplify will produce a folder called “slab” in the usual run directory. If you're not sure where this is, it should be reported by the calculation - in our case, the code returns “Created a supercell in /home/jp/Runs/”. You can override the location by specifying “-rundir YOUR\_ABSOLUTE\_PATH”.
 3. If we look inside the slab folder, there are three files produced. The first file is called `'super332.xyz'` – this is the geometric information for our slab, and it looks like this:  
-![](/sites/default/files/Tutorials/2-output.png)  
+![](2-output.png)  
 The code will also display the cell parameters for the slab at the end of output. You can use these vectors and the geometry file to simulate the slab. The second file is “SD.xyz”. This is a enlarged version of the slab (not to be used for computation!) that allows you to check that the slab has the periodicity you expect and that everything worked out correctly. The last file is a ready-made input file for [Quantum ESPRESSO](http://www.quantum-espresso.org/)  (QE). If you want to use this file, you'll have to modify the “pseduo\_dir” line and the names of the pseudopotentials under “ATOMIC SPECIES” to make sure that the code can find pseudopotentials for all of the atom types you use. You'll also notice three columns of 1s or 0s after each atomic coordinate. This indicates to QE that this atom is free to move in 3 dimensions. If you'd like to hold the bottom n layers frozen in this file, you can add '-freeze n' to the call to molSimplify, for example:  
   
 `molsimplify -slab_gen -cif\_path ~/Downloads/pd.cif -slab_size {10,10,5} -freeze 1`
@@ -61,6 +63,9 @@ The code will also display the cell parameters for the slab at the end of output
   
 
 
-In the next tutorial, we'll show how to position molecules and transition metal complexes on slabs easily using molSimplify. There are many more features of the slab building module that allow you to customize various aspects of the generation process, including trimming to different exposed planes. Be sure to check out the user  [guide](http://hjklol.mit.edu/sites/default/files/Tutorials/molSimplify_v1.pdf)  for more details!
+In the next tutorial, we'll show how to position molecules and transition metal complexes on slabs easily using molSimplify. There are many more features of the slab building module that allow you to customize various aspects of the generation process, including trimming to different exposed planes. Be sure to check out the user  [guide](http://hjklol.mit.edumolSimplify_v1.pdf)  for more details!
 
 
+**Scripts:**
+
+[molSimplify_v1.pdf](molSimplify_v1.pdf)

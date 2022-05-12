@@ -32,8 +32,10 @@ authors:
 - admin
 
 tags:
+- molsimplify
 
 categories:
+- molsimplify-tutorials
 - tutorials
 
 ---

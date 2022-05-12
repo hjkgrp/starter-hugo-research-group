@@ -32,12 +32,14 @@ authors:
 - admin
 
 tags:
+- molsimplify
 
 categories:
+- molsimplify-tutorials
 - tutorials
 
 ---
-![](/sites/default/files/molsimplify-logo.png)
+![](molsimplify-logo.png)
 
 
 In our first tutorial, we'll briefly discuss how to use molSimplify to generate simple coordination complexes. Our example today is a cobalt porphyrin with an imidazole axial ligand and an empty 6th coordination site.
@@ -56,7 +58,7 @@ Graphical User Interface
 Firstly, we'll show how to use the graphical user interface (GUI). The GUI can be started by entering `molsimplify` at the command line with no additional arguments. A new window resembling the image below should open on your screen.
 
 
-![](/sites/default/files/Tutorials/1-screenshot.png)
+![](1-screenshot.png)
 
 
 Within the GUI, hovering over each textbox brings up a popup briefly explaining its purpose. For structure generation, the only required inputs are to specify are the core, coordination number/geometry and the list of ligands (left side of the figure above).
@@ -81,7 +83,7 @@ Other optional features that are relevant to structure generation include:
 * **Force location** (off by default), which fixes ligand positions to allow for specific stereoisomers (e.g., fac/mer) to be generated
 * **Jobs dir**, which specifies the location where the output files are saved
 
-The [user guide](/sites/default/files/Tutorials/molSimplify_v1.pdf) and [molSimplify publication](http://onlinelibrary.wiley.com/doi/10.1002/jcc.24437/abstract) can be referenced for more details.
+The [user guide](molSimplify_v1.pdf) and [molSimplify publication](http://onlinelibrary.wiley.com/doi/10.1002/jcc.24437/abstract) can be referenced for more details.
 
 
 Clicking "Generate" should run the code and a popup window should appear if successful. An xyz file containing 3D coordinates of the complex should appear in the Jobs dir folder, which may then be viewed/edited by structure editors such as Avogadro. Additionally, a command line interface (CLI) input file (see below) should also be generated.
@@ -90,7 +92,7 @@ Clicking "Generate" should run the code and a popup window should appear if succ
 The generated structure is shown here:
 
 
-![](/sites/default/files/Tutorials/1-struct1.PNG)         ![](/sites/default/files/Tutorials/1-struct2.PNG)        
+![](1-struct1.PNG)         ![](1-struct2.PNG)        
 
 
 Command Line Interface and Input-file-based generation
@@ -141,3 +143,6 @@ In subsequent tutorials, we'll demonstrate other capabilities of molSimplify, in
 2) For SMILES string ligands, one can use the keyword "smicat" to control which atoms should be connected to the metal. For example, "``-smicat [[1, 4], [2, 7], [5], [1]]``" tells molSimplify to generate a complex with two bidentate ligands in the equatorial plane and two monodentate ligands at the axial plane. For the first bidentate, the first and forth atom in the SMILES string would be the connecting atoms (C and O for a SMILES string of C=NCO). 
 
 
+**Scripts:**
+
+[molSimplify_v1.pdf](molSimplify_v1.pdf)[1-struct1.PNG](1-struct1.PNG)[1-struct2.PNG](1-struct2.PNG)

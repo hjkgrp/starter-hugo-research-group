@@ -32,8 +32,10 @@ authors:
 - admin
 
 tags:
+- molsimplify
 
 categories:
+- molsimplify-tutorials
 - tutorials
 
 ---
@@ -52,7 +54,7 @@ You can see that the `-ligocc` argument indicates that we want two chloride grou
 `molsimplify -core Fe -lig pyridine chloride -ligocc 4 2 -spin 2 6 -oxstate III`
 
 
-![](/sites/default/files/basic.png)
+![](basic.png)
 
 
 
@@ -81,7 +83,7 @@ p { margin-bottom: 0.1in; direction: ltr; line-height: 120%; text-align: left; }
 Consider our pyridine ligand (you can use *draw ligand* from the GUI to get a quick picture for an arbitrary ligand). This view was produced in pymol, where you can view atom indicies by setting the label to atom index:
 
 
-![](/sites/default/files/lpyr.png)
+![](lpyr.png)
 
 
  
@@ -111,7 +113,7 @@ p { margin-bottom: 0.1in; direction: ltr; line-height: 120%; text-align: left; }
 `molsimplify -core Fe -lig pyridine chloride -ligocc 4 2 -decoration Cl -decoration_index 7`
 
 
-`![](/sites/default/files/pyr_cl.png)`![](/sites/default/files/basic_cl.png)
+`![](pyr_cl.png)`![](basic_cl.png)
 
 
  
@@ -138,7 +140,7 @@ p { margin-bottom: 0.1in; direction: ltr; line-height: 120%; text-align: left; }
 `molsimplify -core Fe -lig pyridine chloride -ligocc 4 2 -decoration [Cl,CO] -decoration_index [7,9]`
 
 
-![](/sites/default/files/only_pyr_cl_co.png)![](/sites/default/files/pyr_cl_co.png)
+![](only_pyr_cl_co.png)![](pyr_cl_co.png)
 
 
  
@@ -175,7 +177,7 @@ Additions to multiple liga1nds can be done by giving a list of SMILES and locati
 The three repeats of pyridine, and the three matching `–ligocc` values, are needed because we have three different types of pyridine. This will produce one pyridine with the Cl decoration at position 7, one pyridine with the decoration at position 9 and 2 pyridines with no decoration, which gives the following result:
 
 
-`![](/sites/default/files/compl.png)`
+`![](compl.png)`
 
 
 I hope you found this structure building tutorial helpful. If you have any questions about this tutorial or molsimplify, please [email us](mailto:molsimplify@mit.edu?subject=molsimplify%20ligand%20functionalization%20tutorial%20questions)!

@@ -32,8 +32,10 @@ authors:
 - admin
 
 tags:
+- molsimplify
 
 categories:
+- molsimplify-tutorials
 - tutorials
 
 ---
@@ -49,13 +51,13 @@ Today we're going to teach you about new features in molSimplify that make it po
 The transition state (TS) is the first-degree saddle point, the highest point along one and only one dimension on a multi-dimensional surface, on the potential surface. An example of one such point is shown in the figure below:
 
 
-![](/sites/default/files/ny1.png)
+![](ny1.png)
 
 
 TSs of chemical interest are usually the highest energy point along a reaction coordinate that connects reactants to products, i.e. a metal-oxo complex and a substrate containing a reactive C-H bond to a metal-hydroxo complex and a substrate radical in a proton-coupled electron transfer (PCET) reaction: 
 
 
-![](/sites/default/files/ny2.png)
+![](ny2.png)
 
 
 To find a transition state, many path-oriented search methods can be employed such as a coordinate scan or nudged elastic band. However, these methods usually require energy evaluations at various structures along the reaction coordinates requiring significant computational resources before precise TS optimization and characterization can be performed. Another method to generate an initial structural guess for TS optimization is to place the substrate of interest near the metal site of the complex and iterate by hand with trial and error. This method requires extensive labor and experience with similar reaction types and substrate-complex combinations and makes it difficult to automate TS discovery in virtual high-throughput screening.
@@ -82,7 +84,7 @@ First, we consider the iron-oxo complexes and the substrates separately. The gro
 The structure is shown below.
 
 
-![](/sites/default/files/ny3.png)
+![](ny3.png)
 
 
 Another way to generate the metal-oxo complex of interest is by loading the structure of the catalyst of your interest directly with an xyz file (e.g., named your\_catalyst.xyz) using: 
@@ -106,7 +108,7 @@ In summary, a TS structure of 3[FeIV(O)(H2O)5]2+abstracting the allylic hydroge
 The generated TS structure is shown below:
 
 
-![](/sites/default/files/ny4.png)
+![](ny4.png)
 
 
 There are two additional methods molSimplify identifies the connection atom(s) in the substrate, 1) `-subcatoms all` and 2) *no flag*. The first method is useful when there are multiple hydrogen atoms in the interested substrate and the TS structure for each of them is desirable (i.e., for steric accessibility assessment). molSimplify automatically determines all hydrogen atoms in the substrate and loop through each of them to generate TS structures:
@@ -124,7 +126,7 @@ There are two additional methods molSimplify identifies the connection atom(s) i
 Selected TS structures activating a primary, secondary, tertiary, aryl C-H, or O-H of estrogen are shown below: 
 
 
-![](/sites/default/files/ny5.png)
+![](ny5.png)
 
 
 The other method, without the specification of the subcatoms flag, will prompt molSimplify to automatically search throughout the substrate dictionary for all predefined functional groups and build a TS structure for each of them:
@@ -145,7 +147,7 @@ The other method, without the specification of the subcatoms flag, will prompt m
 The two predefined functional groups for cyclohexene are allyic C-H, which has two values in the substrate dictionary for two enantiotopic TS, and C=C bond, totaling to three separate generations of TS structures. The structures are shown below:
 
 
-![](/sites/default/files/ny6.png)
+![](ny6.png)
 
 
 I hope you found this transition state structure building tutorial helpful. If you have any questions about this tutorial or molSimplify, please email [molsimplify@mit.edu](mailto:molsimplify@mit.edu)!

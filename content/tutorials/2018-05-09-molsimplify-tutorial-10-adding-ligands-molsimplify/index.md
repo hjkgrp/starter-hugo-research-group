@@ -32,8 +32,10 @@ authors:
 - admin
 
 tags:
+- molsimplify
 
 categories:
+- molsimplify-tutorials
 - tutorials
 
 ---
@@ -46,7 +48,7 @@ molSimpliy comes with about 160 built in common ligands and a nifty [decoration
 The first ligand we will consider is an acetate ion, with SMILEs CC(=O)[O-]. We'll assume this coordinates in a bidentate fashion using both oxygens, i.e. atom numbers 3 ,4 – counting from the left, as SMILES strings are parsed left to right and hydrogens added later. The homoleptic complex with this ligand can be made as follows:
 
 
-![](/sites/default/files/oac.png)![](/sites/default/files/homooac.png)
+![](oac.png)![](homooac.png)
 
 
 `(molsimplify)$ molsimplify -lig "CC(=O)[O-]" -ligocc 3 -smicat 3,4 -skipANN True`
@@ -61,7 +63,7 @@ Notice how we call for 3 copies of the ligand and give the correct connection po
 The next ligand we consider is a nitrogen-substituted version of acetylacetone (ACAC), with the SMILES string O=C(C)C(N)(N)C(=O)C and connection atoms 1, 8.  Let's call it NACAC.  If you use a particular SMILES string often and want to add it to the built in database, you can do this easily from either GUI or, in the most recent release, from the command line. To use the GUI, select “add to local DB” and enter the information as below:
 
 
-![](/sites/default/files/gui_0.png)
+![](gui_0.png)
 
 
 alternatively, this can be achieved from the command line:
@@ -79,7 +81,7 @@ The corresponding homoleptic complex and be built as follows:
 `(molsimplify)$ molsimplify -lig NACAC -ligocc 3`-skipANN True 
 
 
-![](/sites/default/files/nacac.png)![](/sites/default/files/homonacac.png)
+![](nacac.png)![](homonacac.png)
 
 
 **3) Adding a mol or xyz file to the database**
@@ -100,7 +102,7 @@ Make sure the file gly.mol is available in the folder where you run the command.
 Note that in this case the exact provided 3D geometry will be used and molSimplify will not attempt to find a suitable conformation for you, so make sure any 3D geometry you supply is a reasonable ligand!
 
 
-![](/sites/default/files/gly.png)![](/sites/default/files/homogly.png)
+![](gly.png)![](homogly.png)
 
 
  
@@ -118,6 +120,6 @@ We can freely mix and match the above approaches. The hetroleptic complex with o
 Two notes:   we need to specify -ligocc 1 1 1 to tell molSimplify to use one copy of each ligand and we still need to provide the connection atoms for the SMILES ligand "CC(=O)[O-]" as it is not stored locally. We use the -skipANN flag to skip the loading of our machine learning models.
 
 
-![](/sites/default/files/hetro.png)
+![](hetro.png)
 
 

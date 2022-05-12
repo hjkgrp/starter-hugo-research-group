@@ -32,24 +32,26 @@ authors:
 - admin
 
 tags:
+- molsimplify
 
 categories:
+- molsimplify-tutorials
 - tutorials
 
 ---
-In the second part of our tutorial, we will demonstrate how to use R to conduct kernel based prediction of atomization energies based on RACs. You’ll need QM9\_descriptor\_file.csv, which we prepared using molSimplify in the previous [tutorial](http://hjkgrp.mit.edu/content/qm9-kernel-models-using-molsimplify-racs-and-r-part-1) and also provide [here](/sites/default/files/QM9_descriptor_file.csv). We’ll use R to conduct a simple KRR model using a radial basis function kernel – we recommend the excellent, free  [RStudio IDE](https://www.rstudio.com/) but a similar procedure could be followed in your favorite language. In particular, we’ll use the [CVST package](https://CRAN.R-project.org/package=CVST) to train our model and [DRR](https://CRAN.R-project.org/package=DRR) to conduct accelerated cross validation. Both packages are available from CRAN and depend on [kernlab](https://CRAN.R-project.org/package=kernlab]).
+In the second part of our tutorial, we will demonstrate how to use R to conduct kernel based prediction of atomization energies based on RACs. You’ll need QM9\_descriptor\_file.csv, which we prepared using molSimplify in the previous [tutorial](http://hjkgrp.mit.edu/content/qm9-kernel-models-using-molsimplify-racs-and-r-part-1) and also provide [here](QM9_descriptor_file.csv). We’ll use R to conduct a simple KRR model using a radial basis function kernel – we recommend the excellent, free  [RStudio IDE](https://www.rstudio.com/) but a similar procedure could be followed in your favorite language. In particular, we’ll use the [CVST package](https://CRAN.R-project.org/package=CVST) to train our model and [DRR](https://CRAN.R-project.org/package=DRR) to conduct accelerated cross validation. Both packages are available from CRAN and depend on [kernlab](https://CRAN.R-project.org/package=kernlab]).
 
 
 We’ll use 4000 points for training and the remaining ~131k molecules as a test set and construct a model the following general form:
 
 
-![](/sites/default/files/e1.png)
+![](e1.png)
 
 
 We use the same, slightly uncommon form of the kernel (sigma being the inverse width) as in the [kernlab implementation](https://cran.r-project.org/web/packages/kernlab/vignettes/kernlab.pdf). The sum here runs over the n=4000 training examples. Effectively, we are performing a non-linear transformation from our space of descriptors into to a high-(in this case, infinite-)dimensional space of transformed features. The kernel function returns the inner product in this space, and as can be seen from the above, the influence of each training points is controlled by the Euclidean distance between the training point and the query point. The rate of influence decay with distance is controlled by the hyperparameter σ. The weights α are learned during training, where we seek to minimize a loss function along with a regularization term controlled by λ:
 
 
-![](/sites/default/files/e2.png)
+![](e2.png)
 
 
 While the intention of this guide is not to review KRR methods, we'll make a brief comment that the model complexity is controlled by n, the number of training points used, and solving for the model coefficients typically involves the (approximate/blockwise) inversion of the nxn kernel matrix, and so in general shows poor scaling with large numbers of training examples.
@@ -173,3 +175,6 @@ krr test MAE =  7.20 kcal/mol
 
 ```
 We will warn that conducting detailed cross-validation is expensive, and adding the above lines of codes decreases the run time from seconds to minutes on a standard workstation.
+**Scripts:**
+
+[QM9_descriptor_file.csv](QM9_descriptor_file.csv)
