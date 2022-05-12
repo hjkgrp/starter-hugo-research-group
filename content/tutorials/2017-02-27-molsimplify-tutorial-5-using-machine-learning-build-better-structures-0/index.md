@@ -42,7 +42,7 @@ categories:
 We have recently implemented an artificial neural network (ANN) in molSimplify – you can read all about it in our recent Chemical Science paper [here](http://dx.doi.org/10.1039/C7SC01247K), but the basic principle is easy to understand. We first collected information from 2700 transition metal complexes that we optimized using DFT, and described them using a set of descriptors that we selected using LASSO regression. Our choice of descriptors includes information about the immediate environment around the transition metal center, for example the identity of the connecting atom and the difference in electronegativity between the connecting atom and its immediate neighborhood, as well as more general descriptors of ligand shape and size (for example, the Kier index [1]):
 
 
-![](http://hjkgrp.mit.edudescrip_0.png)
+![](descrip_0.png)
 
 
  
@@ -112,7 +112,7 @@ We can easily generate both complexes by modifying the spin line in the ann\_tut
 Running again, we get two different structures for the two spin states. The low spin state has the bond length from before, 2.03 Å, but the high spin result has a bond length of 2.14 Å. Plotting these two together, with the HS geometry in blue overlay, shows the difference:
 
 
-![](http://hjkgrp.mit.eduann_tut_2_0.png)
+![](ann_tut_2_0.png)
 
 
 When we run DFT on the these two geometries (at doublet and sextet spin respectively), we observe the final calculated bond lengths are 2.01 Å and 2.16 Å, which follow the trends of our predictions very well. In general, for complexes with training distances < 1.0, we observe an approximate average error of 0.03 Å across different metals and spin states, which rises to 0.1Å for compounds futher from our training data. Still, this gives us a good starting point for geometry optimization, tailored to the target spin and oxidation state (and HFX fraction!) used.
