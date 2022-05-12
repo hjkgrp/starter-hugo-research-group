@@ -42,7 +42,7 @@ categories:
 In this tutorial, we'll show how to use molSimplify to perform chemical database screening, leveraging on calls to [OpenBabel](http://openbabel.org/docs/dev/Fingerprints/intro.html) together with useful preprocessing and postprocessing tools for seamless integration with the rest of the molSimplify package.
 
 
-Today, we will demonstrate how to search a large chemical database for potential monodentate nitrogen-containing ligands. Although the GUI version of molSimplify contains a rudimentary database search interface, we have recently revamped the database search module to include new features only available through the command line. Hence, in order to follow this tutorial, please make sure that you have the latest molSimplify build (using [Conda](http://hjklol.mit.edu/content/new-installation-option-molsimplify) or from [source](http://github.com/hjkgrp/molSimplify/tree/compact)).
+Today, we will demonstrate how to search a large chemical database for potential monodentate nitrogen-containing ligands. Although the GUI version of molSimplify contains a rudimentary database search interface, we have recently revamped the database search module to include new features only available through the command line. Hence, in order to follow this tutorial, please make sure that you have the latest molSimplify build (using [Conda](../2021-10-27-installing-molsimplify/) or from [source](http://github.com/hjkgrp/molSimplify/tree/compact)).
 
 
 First, we need to download a suitable database to be searched. For this tutorial, we will adopt the [ChEMBL database](http://www.ebi.ac.uk/chembl/), a large (over 1.6 million distinct compounds), open-source, database of bioactive molecules maintained by the European Bioinformatics Institute. Please follow the instructions on the ChEMBL website to download the latest release of the database in the **sdf format** and extract it into the Data subdirectory of molSimplify. 
@@ -92,7 +92,7 @@ The results of the 20 molecule dissimilarity search should look like the followi
 ![](4-dissim.png)
 
 
-Lists of SMILES strings such as simres.smi and dissimres.smi produced above may then be specified as input to molSimplify structure generation in place of regular ligands. molSimplify then loops over the list and generates one structure for every entry. To illustrate this, let's return to the example in the [first tutorial](http://hjklol.mit.edu/content/molsimplify-tutorial-1-structure-generation) (porphyrin with imidazole axial ligand):
+Lists of SMILES strings such as simres.smi and dissimres.smi produced above may then be specified as input to molSimplify structure generation in place of regular ligands. molSimplify then loops over the list and generates one structure for every entry. To illustrate this, let's return to the example in the [first tutorial](../2016-06-18-molsimplify-tutorial-1-structure-generation/) (porphyrin with imidazole axial ligand):
 
 
 `-core cobalt # core  

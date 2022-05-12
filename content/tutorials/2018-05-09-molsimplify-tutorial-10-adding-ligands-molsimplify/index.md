@@ -39,7 +39,7 @@ categories:
 - tutorials
 
 ---
-molSimpliy comes with about 160 built in common ligands and a nifty [decoration manager](http://hjkgrp.mit.edu/content/molsimplify-tutorial-7-easy-ligand-functionalization-molsimplify) to modify them. However, this cannot hope to address the scope of possible ligands, so we also support providing your own ligands as SMILES or in 3D molecule formats.  Let's make a triple bidentate complex with three different ligands, none of which are available by default in molSimplify and each from a different source, to illustrate this. First, make sure you have an updated version of molSimplify, [ideally from conda](http://hjkgrp.mit.edu/content/installing-molsimplify).
+molSimpliy comes with about 160 built in common ligands and a nifty [decoration manager](../2017-10-02-molsimplify-tutorial-7-easy-ligand-functionalization-molsimplify/) to modify them. However, this cannot hope to address the scope of possible ligands, so we also support providing your own ligands as SMILES or in 3D molecule formats.  Let's make a triple bidentate complex with three different ligands, none of which are available by default in molSimplify and each from a different source, to illustrate this. First, make sure you have an updated version of molSimplify, [ideally from conda](../2021-10-27-installing-molsimplify/).
 
 
 **1) Directly from SMILES string**
