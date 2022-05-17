@@ -67,8 +67,8 @@ Now, we must write an input file which gives molSimplify the necessary informati
 
 ```
 -core Os
--geometry oct`
--coord 6` 
+-geometry oct
+-coord 6
 -lig bipy chloride [N] chloride
 -ligocc 1 1 1 2
 -smicat [1]
