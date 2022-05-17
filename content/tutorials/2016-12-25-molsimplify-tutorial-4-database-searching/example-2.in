@@ -1,0 +1,9 @@
+-core cobalt
+-geometry oct
+-coord
+-lig tpp,dissimres.smi,x
+-ligocc 1,1,1
+-ff MMFF94
+-ffoption BA
+-spin 1
+-oxstate II
