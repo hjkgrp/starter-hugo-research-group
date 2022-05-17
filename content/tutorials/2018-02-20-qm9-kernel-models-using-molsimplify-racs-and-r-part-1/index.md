@@ -47,9 +47,8 @@ We’ll begin by downloading the data from  [figshare](https://figshare.com/coll
 
 
 ```
-from molSimplify.Informatics.autocorrelation import*
-from molSimplify.Informatics.misc_descriptors import*
-from molSimplify.Informatics.graph_analyze import*
+from molSimplify.Informatics.autocorrelation import generate_full_complex_autocorrelations
+from molSimplify.Classes.mol3D import mol3D
 ```
 These lines load molSimplify informatics functions into the current python working environment and will provide us with methods to extract features for the data. Next, we will loop over each geometry, and extract a canonical xyz file by trimming off the extra information and saving this in a new folder named qm9\_geos. As we copy the coordinates over, we’ll make a note of how many atoms of each type are present and add the total atomization energy correction needed, which we’ll get from a dictionary atom\_u0\_dict built from the atomref.txt file:
 
