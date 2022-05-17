@@ -58,7 +58,7 @@ Relevant molSimplify options are listed below:
 
     -dbsearch True
     -dbcatoms 1 # index of connecting atom in SMARTS query, see below
-    -dbbase chembl\_21 # name of your database file without the file extension
+    -dbbase chembl_<Version Number> # name of your database file without the file extension
     -dbfname simres.smi # results file name, default is simres.smi
     -dbatoms <15 # atom filter
     -dbsmarts [#7D1,#7D2;!+]
@@ -112,7 +112,7 @@ SMARTS strings allow for fine-grained queries but can be very complicated for th
 
     -dbsearch True
     -dbcatoms 1 4
-    -dbbase chembl\_21
+    -dbbase chembl_<Version Number> #Database name
     -dbfname simres.smi
     -dbhuman yes
     -dbvdent bidentate # denticity
