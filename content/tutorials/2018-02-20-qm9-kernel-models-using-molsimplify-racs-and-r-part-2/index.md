@@ -39,7 +39,7 @@ categories:
 - tutorials
 
 ---
-In the second part of our tutorial, we will demonstrate how to use R to conduct kernel based prediction of atomization energies based on RACs. You’ll need QM9\_descriptor\_file.csv, which we prepared using molSimplify in the previous [tutorial](../2018-02-20-qm9-kernel-models-using-molsimplify-racs-and-r-part-1/) and also provide [here](QM9_descriptor_file.csv). We’ll use R to conduct a simple KRR model using a radial basis function kernel – we recommend the excellent, free  [RStudio IDE](https://www.rstudio.com/) but a similar procedure could be followed in your favorite language. In particular, we’ll use the [CVST package](https://CRAN.R-project.org/package=CVST) to train our model and [DRR](https://CRAN.R-project.org/package=DRR) to conduct accelerated cross validation. Both packages are available from CRAN and depend on [kernlab](https://CRAN.R-project.org/package=kernlab]).
+In the second part of our tutorial, we will demonstrate how to use R to conduct kernel based prediction of atomization energies based on RACs. You’ll need `QM9_descriptor_file.csv`, which we prepared using molSimplify in the previous [tutorial](../2018-02-20-qm9-kernel-models-using-molsimplify-racs-and-r-part-1/) and also provide [here](QM9_descriptor_file.csv). We’ll use R to conduct a simple KRR model using a radial basis function kernel – we recommend the excellent, free  [RStudio IDE](https://www.rstudio.com/) but a similar procedure could be followed in your favorite language. In particular, we’ll use the [CVST package](https://CRAN.R-project.org/package=CVST) to train our model and [DRR](https://CRAN.R-project.org/package=DRR) to conduct accelerated cross validation. Both packages are available from CRAN and depend on [kernlab](https://CRAN.R-project.org/package=kernlab]).
 
 
 We’ll use 4000 points for training and the remaining ~131k molecules as a test set and construct a model the following general form:
@@ -57,7 +57,7 @@ We use the same, slightly uncommon form of the kernel (sigma being the inverse w
 While the intention of this guide is not to review KRR methods, we'll make a brief comment that the model complexity is controlled by n, the number of training points used, and solving for the model coefficients typically involves the (approximate/blockwise) inversion of the nxn kernel matrix, and so in general shows poor scaling with large numbers of training examples.
 
 
-Again, we have provided a full script that will allow you conduct the calculation (simpleKRR.R), and we’ll skip some of the boilerplate and focus on the key lines. The first step is to read in the data and partition into test and training sets:
+Again, we have provided a full script that will allow you conduct the calculation (`simpleKRR.R`), and we’ll skip some of the boilerplate and focus on the key lines. The first step is to read in the data and partition into test and training sets:
 
 
 
@@ -111,7 +111,7 @@ krr_learner = constructFastKRRLearner()   ## Build the base learner
 ## first time around, don't do CV but use a reasonable kernel:
 params_krr = list(kernel="rbfdot", sigma=1E-6, lambda=1E-11,nblocks=4)
 ```
-The constructFastKRRLearner() comes from the DRR package and implements fast, divide-and-conquer matrix inversion that will be useful for doing cross validation a little later and is critical if we want to use larger kernel matrices. Now, we can train and test the model. We will convert back to original units (Ha) and then further convert units to kcal/mol, and print the results:
+The `constructFastKRRLearner()` comes from the DRR package and implements fast, divide-and-conquer matrix inversion that will be useful for doing cross validation a little later and is critical if we want to use larger kernel matrices. Now, we can train and test the model. We will convert back to original units (Ha) and then further convert units to kcal/mol, and print the results:
 
 
 
@@ -163,7 +163,7 @@ CV_ret_krr <-  CV(data= train_data_CVST, learner = krr_learner,params =  params_
 params_krr <- CV_ret_krr[[1]]
 
 ```
-These lines define our grid of hyperparameter values and conduct 10-fold cross-validation to choose the optimal combination. In general a much larger field of hyperparameter values should be considered and the grid should be iteratively refined, but we have preemptively narrowed down the range in order to reduce run time. Using the new params\_krr in the code above (the provided script does both) yields the following results for a typical run:
+These lines define our grid of hyperparameter values and conduct 10-fold cross-validation to choose the optimal combination. In general a much larger field of hyperparameter values should be considered and the grid should be iteratively refined, but we have preemptively narrowed down the range in order to reduce run time. Using the new `params_krr` in the code above (the provided script does both) yields the following results for a typical run:
 
 
 
@@ -177,8 +177,6 @@ krr test MAE =  7.20 kcal/mol
 We will warn that conducting detailed cross-validation is expensive, and adding the above lines of codes decreases the run time from seconds to minutes on a standard workstation.
 **Scripts and files:**
 
-
 [simpleKRR.R](simpleKRR.R)
-
 
 [QM9_descriptor_file.csv](QM9_descriptor_file.csv)
