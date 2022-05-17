@@ -54,16 +54,20 @@ Both the static classifier and LSE are implemented in molSimplify and are turned
 molsimplify -coord 6 -core fe -lig water -oxstate 2 -spin 5
 
 
-We can find the predictions of the static classifiers in "fe\_oct\_2\_water\_6\_s\_5.report" as
+We can find the predictions of the static classifiers in "fe_oct_2_water_6_s_5.report" as
 
-
-sc\_label, 1
-sc\_label\_trust, very high
-geo\_LSE, 0.056454913968045105
-geo\_prob, 0.8308638334274292
-sc\_LSE, 0.0010312223992481981
-geo\_label\_trust, very high
-geo\_label, 1
-sc\_prob, 0.7422247529029846
+```
+sc_label, 1
+sc_label_trust, very high
+geo_LSE, 0.056454913968045105
+geo_prob, 0.8308638334274292
+sc_LSE, 0.0010312223992481981
+geo_label_trust, very high
+geo_label, 1
+sc_prob, 0.7422247529029846
+```
  
 In the above output, spin contamination (sc) and geometry (geo) predictions and confidence are denoted. In this case, both the geometry and electronic structure are predicted as good (label of 1) with very high confidence (LSE close to 0), which is expected. Please make sure that keras and tensorflow are preinstalled in your conda environment to successfully activate static classifiers and other machine learning models built in molSimplify.
+
+# Files
+[fe_oct_2_water_6_s_5.zip](./fe_oct_2_water_6_s_5.zip)
