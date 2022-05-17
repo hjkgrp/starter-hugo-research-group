@@ -112,9 +112,9 @@ If we want to find metal atoms in this molecule, we can do that using the method
 
 
 ```
-metal\_atom\_index = rotaxane.findMetal() # use the findMetal method to identify metal atoms in our molecule
+metal_atom_index = rotaxane.findMetal() # use the findMetal method to identify metal atoms in our molecule
 
-print metal\_atom\_index # notice that findMetal() returns a list
+print(metal_atom_index) # notice that findMetal() returns a list
 ```
  
 
@@ -127,9 +127,9 @@ Our molecule contains one metal atom and the index of this metal atom is zero. W
 
 
 ```
-metal\_atom = rotaxane.getAtom(0) # Returns the zeroth atom as an atom3D class object
+metal_atom = rotaxane.getAtom(0) # Returns the zeroth atom as an atom3D class object
 
-print metal\_atom.symbol() # Print the symbol associated with this atom3D object
+print(metal_atom.symbol()) # Print the symbol associated with this atom3D object
 ```
  
 
@@ -209,4 +209,9 @@ When comparing the two structures, we can see that the rotaxane is not octahedra
 
 Thus, the geometry flags are assigned as 0 and 1 for rotaxane and FeII(NH3)6respectively, when analyzing the metal center for an octahedral geometry.
 
+# Files
 
+[Rotaxane.py](./Rotaxane.py)
+[Octahedral.xyz](./Octahedral.xyz)
+[No_Metal_Rotaxane.xyz](./No_Metal_Rotaxane.xyz)
+[Rotaxane.xyz](./Rotaxane.xyz)
