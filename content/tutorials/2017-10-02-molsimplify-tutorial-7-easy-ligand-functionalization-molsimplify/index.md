@@ -48,7 +48,7 @@ For this tutorial, we will consider modifying the properties of an Fe complex, d
 `molsimplify -core Fe -lig pyridine chloride -ligocc 4 2 -spin 1 5` 
 
 
-You can see that the `-ligocc` argument indicates that we want two chloride groups and four pyridines, while the list of low (singlet, s=1) and high (quintet, s=5) spins tells molSimplify to generate geometries for both using our  [artificial neural network (ANN)](../2017-02-27-molsimplify-tutorial-5-using-machine-learning-build-better-structures-0/). Speaking of the ANN, we notice that it gives a predicted HS ground state with a spin splitting energy of -9.3 kcal/mol, and notice that the distance to the training data is 0.85, which indicates this result should be used with caution (this is mainly due to chloride groups, which tend to dissociate in gas-phase DFT optimizations and so are sparse in our data). We'll end up with geometries for both spin states. We note that molSimplify will assumes a II oxidation state for Iron by default. If we want to look at redox potentials as well, we will also need the oxidation state III versions, which we can obtain with the following slight modification:
+You can see that the `-ligocc` argument indicates that we want two chloride groups and four pyridines, while the list of low (singlet, s=1) and high (quintet, s=5) spins tells molSimplify to generate geometries for both using our  [artificial neural network (ANN)](../2017-02-27-molsimplify-tutorial-5-using-machine-learning-build-better-structures-0/). Speaking of the ANN, we notice that it gives a predicted HS ground state with a spin splitting energy of -9.3 kcal/mol, and notice that the distance to the training data is 0.85, which indicates this result should be used with caution (this is mainly due to chloride groups, which tend to dissociate in gas-phase DFT optimizations and so are sparse in our data). We'll end up with geometries for both spin states. We note that molSimplify will assumes a II oxidation state for iron by default. If we want to look at redox potentials as well, we will also need the oxidation state III versions, which we can obtain with the following slight modification:
 
 
 `molsimplify -core Fe -lig pyridine chloride -ligocc 4 2 -spin 2 6 -oxstate III`
@@ -62,7 +62,7 @@ Remember to choose correct spin multiplicities to account for the one fewer elec
 
 **Decorating a single site in a single ligand:**
 
-Consider our pyridine ligand (you can use *draw ligand* from the GUI to get a quick picture for an arbitrary ligand). This view was produced in pymol, where you can view atom indicies by setting the label to atom index:
+Consider our pyridine ligand. We are showing an eample that shows atom indices. This view was produced in pymol, where you can view atom indicies by setting the label to atom index:
 
 
 ![](lpyr.png)
