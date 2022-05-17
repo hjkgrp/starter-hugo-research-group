@@ -48,7 +48,7 @@ In our first tutorial, we'll briefly discuss how to use molSimplify to generate 
 Before starting the tutorial, please remember to activate your conda environment using the following syntax, where environment\_name is the name of your conda environment:
 
 
-`conda activate <environment\_name>` 
+`conda activate <environment_name>` 
 
 
 Graphical User Interface
@@ -99,15 +99,15 @@ Command Line Interface and Input-file-based generation
 Next, we'll show how to use the input file generation. For purposes of this tutorial, we've created a file for you called example-1.in that will generate a porphyrin with an imidazole ligand. You can download it here. Alternatively, one could also copy and rename the input file generated from running the GUI. In theory, the options could also be entered into the command line manually but this is not recommended.
 
 
-`-core cobalt  \n
--geometry oct  
--coord 6  
--lig tpp,imidazole,x  
--ligocc 1,1,1   
--ff MMFF94   
--ffoption BA  
--spin 2   
--oxstate II`
+    -core cobalt 
+    -geometry oct  
+    -coord 6  
+    -lig tpp,imidazole,x  
+    -ligocc 1,1,1   
+    -ff MMFF94   
+    -ffoption BA  
+    -spin 2   
+    -oxstate II
 
 
 molSimplify input files contain one line per option (options that are not specified take their default values), with # signifying a comment (and not read) as in Python.
@@ -141,4 +141,6 @@ In subsequent tutorials, we'll demonstrate other capabilities of molSimplify, in
 
 **Scripts:**
 
-[molSimplify_v1.pdf](molSimplify_v1.pdf)[1-struct1.PNG](1-struct1.PNG)[1-struct2.PNG](1-struct2.PNG)
+[molSimplify_v1.pdf](molSimplify_v1.pdf)
+[1-struct1.PNG](1-struct1.PNG)
+[1-struct2.PNG](1-struct2.PNG)
