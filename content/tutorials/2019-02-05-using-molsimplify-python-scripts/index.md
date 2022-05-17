@@ -155,7 +155,7 @@ Finally, we can save our new molecule as a .xyz file:
 
 
 ```
-rotaxane.writexyz('No\_Metal\_Rotaxane.xyz') # mol3D objects can write xyz files using the writexyz() method
+rotaxane.writexyz('No_Metal_Rotaxane.xyz') # mol3D objects can write xyz files using the writexyz() method
 ```
 The resulting molecule (after the copper atom is deleted), looks like this:
 
@@ -180,7 +180,7 @@ rotaxane = mol3D()
 
 rotaxane.readfromxyz('Rotaxane.xyz')
 
-rotaxane.IsOct() 
+print(rotaxane.IsOct())
 ```
 This does the actual geometry check, and returns a tuple containing a flag, assigned 1 for a “good” geometry, and 0 for a “bad” geometry, the metrics that were failed, and a dictionary of all made measurements. A custom dictionary can be provided if certain metrics (such as long metal-ligand bond lengths) can be tolerated. Despite being named IsOct, this method can check tetrahedral and square planar geometries as well, provided reference dictionaries.
 
@@ -199,7 +199,7 @@ octahedral = mol3D()
 
 octahedral.readfromxyz(‘Octahedral.xyz')
 
-octahedral.IsOct()
+print(octahedral.IsOct())
 ```
 When comparing the two structures, we can see that the rotaxane is not octahedral with respect to the metal center (as visualized above), but the FeII(NH3)6(visualized below) is:
 
