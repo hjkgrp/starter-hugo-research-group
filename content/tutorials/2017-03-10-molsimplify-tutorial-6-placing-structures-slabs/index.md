@@ -51,7 +51,7 @@ molsimplify –core fe –lig porphyrin –ligocc 1 –coord 4 -geometry sqp
 but we have provided them all in geos.zip. You can also generate a slab and do placement at the same time, by combing the calls in this tutorial with the previous one. Before we begin, please ensure that you have slab.xyz, co.xyz, mno5.xyz and fepo.xyz in your current directory (or edit our input files to point to the correct path). To run our input files, invoke them with
 
 
-`molsimplify –i input.in`
+`molsimplify –i [input file name]`
 
 
 First, let’s place a CO molecule on the surface. Our most basic call to the placement module must specify 1) a path to our target molecule 2) how to place it and 3) what attachment points on the object and surface to use. Here, we set   “`-target_molecule`” to point to co.xyz, and selected that we want a centered placement, specified by the ‘`-align_method center`’ (with C-connecting to one surface Pd). The required input file is given as 1co.in, and this produces the left pane of Figure 1. The slab builder will write the loaded cell and input files to a folder called loaded in the default molSimplify run directory (control this with "`-rundir YOUR/PATH`").
@@ -63,7 +63,7 @@ First, let’s place a CO molecule on the surface. Our most basic call to the pl
 Figure 1: Centered and staggered placement options
 
 
-If we would like to have staggered placement on the surface between a number of different sites, we can control this by giving the “`-num_surface_atoms`” argument, which tells molSimplify how to share the placement between objects. Giving a value of 2 leads to a bridging placement, shown in right pane of Figure 1. We can also add multiple copies of the same adsorbate by changing the “`-num_placements`” flag, which is set to 2 and 3 on the left and right panes in Figure 2, and given as stag\_2co.in and stag\_3co.in respectively.
+If we would like to have staggered placement on the surface between a number of different sites, we can control this by giving the “`-num_surface_atoms`” argument, which tells molSimplify how to share the placement between objects. Giving a value of 2 leads to a bridging placement, shown in right pane of Figure 1 (stag\_1co.in). We can also add multiple copies of the same adsorbate by changing the “`-num_placements`” flag, which is set to 2 and 3 on the left and right panes in Figure 2, and given as stag\_2co.in and stag\_3co.in respectively.
 
 
 ![](tut_6_fig_2.png)
@@ -72,7 +72,7 @@ If we would like to have staggered placement on the surface between a number of 
 Figure 2: Multiple placement options
 
 
-Note how molSimplify attempts to space the adsorbates out as much as possible, paying attention the periodic nature of the boundaries. The placement will be done sequentially in a greedy way, by seeking additional placement sites that are not directly adjacent to occupied sites. The allocation of the third molecule can be seen in Figure 3, where yellow circles donate sites adjacent to occupied sites (red), and green circles denote free sites. Any further placements will be distributed onto the yellow sites.
+Note how molSimplify attempts to space the adsorbates out as much as possible, paying attention the periodic nature of the boundaries. The placement will be done sequentially in a greedy way, by seeking additional placement sites that are not directly adjacent to occupied sites. The allocation of the third molecule can be seen in Figure 3, where yellow circles denote sites adjacent to occupied sites (red), and green circles denote free sites. Any further placements will be distributed onto the yellow sites.
 
 
  
@@ -84,7 +84,7 @@ Note how molSimplify attempts to space the adsorbates out as much as possible, p
 Figure 3: Multiple placement logic illustration
 
 
-CO is a pretty easy molecule to place, so let’s try something else. We can use molSimplify to control the exact placement by giving atomic indices with the “`-object_align`” flag. To illustrate, let’s place an MnO5 complex on the surface in two different ways. First, consider (the somewhat unlikely) case of the single axial oxygen coordinating with the surface, which is index 6 in mno5.xyz, and gives the left frame of Figure 4. We can get a more natural configuration by giving indices 2,3,4,5 instead (along with increasing the number of surface sites to 4, so there are enough locations for binding each oxygen):
+CO is a pretty easy molecule to place, so let’s try something else. We can use molSimplify to control the exact placement by giving atomic indices with the “`-object_align`” flag. To illustrate, let’s place an MnO5 complex on the surface in two different ways. First, consider (the somewhat unlikely) case of the single axial oxygen coordinating with the surface, which is index 6 in mno5.xyz, and gives the left frame of Figure 4 (mno1.in). We can get a more natural configuration by giving indices 2,3,4,5 instead, along with increasing the number of surface sites to 4 to indicate the number of locations oxygen binds (mno4.in):
 
 
 ![](tut_6_fig_4.png)
