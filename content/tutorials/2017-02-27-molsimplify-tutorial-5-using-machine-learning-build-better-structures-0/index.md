@@ -61,25 +61,25 @@ The ANN in molSimplify is automatically activated for any suitable complex – w
 When using the ANN, it is important to provide a full specification (i.e. oxidation state and spin) or the complex is ambiguous and the ANN will not activate. Looking at the console output, we see:
 
 
-`******************************************************************`
-`************** ANN is engaged and advising on spin ***************`
-`************** and metal-ligand bond distances    ****************`
-`******************************************************************`
-`You have selected a low-spin state, multiplicity = 2`
-`('delta is', array([14.74659983]), ' spin is ', False)`
-`ANN predicts a spin splitting (HS - LS) of 14.75 kcal/mol at 20% HFX`
-`ANN low spin bond length (ax1/ax2/eq) is predicted to be: 2.03 /2.01 /2.00 angstrom`
-`ANN high spin bond length (ax1/ax2/eq) is predicted to be: 2.10 /2.08 /2.22 angstrom`
-`distance to splitting energy training data is 4.67`
-`ANN results are too far from training data, be cautious` 
-`ANN predicts a HOMO value of -16.11 eV at 20% HFX`
-`ANN predicts a LUMO-HOMO energetic gap value of 3.89 eV at 20% HFX`
-`ANN results should be trustworthy for this complex `
-`distance to HOMO training data is 0.55`
-`distance to GAP training data is 0.32`
-`*******************************************************************`
-`************** ANN complete, saved in record file *****************`
-`*******************************************************************`
+`******************************************************************
+************** ANN is engaged and advising on spin ***************
+************** and metal-ligand bond distances    ****************
+******************************************************************
+You have selected a low-spin state, multiplicity = 2
+('delta is', array([14.74659983]), ' spin is ', False)
+ANN predicts a spin splitting (HS - LS) of 14.75 kcal/mol at 20% HFX
+ANN low spin bond length (ax1/ax2/eq) is predicted to be: 2.03 /2.01 /2.00 angstrom
+ANN high spin bond length (ax1/ax2/eq) is predicted to be: 2.10 /2.08 /2.22 angstrom
+distance to splitting energy training data is 4.67
+ANN results are too far from training data, be cautious
+ANN predicts a HOMO value of -16.11 eV at 20% HFX
+ANN predicts a LUMO-HOMO energetic gap value of 3.89 eV at 20% HFX
+ANN results should be trustworthy for this complex 
+distance to HOMO training data is 0.55
+distance to GAP training data is 0.32
+*******************************************************************
+************** ANN complete, saved in record file *****************
+*******************************************************************`
 
 
 Taking this line by line, we are informed that we have selected a doublet state, and we get a measure of how close this compound is to our training data (measured by the Euclidean norm in our descriptor space). We have observed that the ANN results are typically reliable if this distance is <1, and less so otherwise. The ANN trust score of 66% indicates that we believe the predictions for the complex are worth using (instead of taking, for example, covalent radii to choose bond lengths).
