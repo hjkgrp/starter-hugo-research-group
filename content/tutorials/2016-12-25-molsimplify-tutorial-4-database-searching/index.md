@@ -134,4 +134,17 @@ Then copy the .fs file into the molSimplify Data subdirectory (together with the
 
 in the molSimplify input file.
 
+**Scripts:**
+
+[Database Search Results](simres.smi)
+
+[sim-db-search.in](sim-db-search.in)
+
+[Dissimilarity Search Results](dissimres.smi)
+
+[dissim-db-search.in](dissim-db-search.in)
+
+[example-loop.in](example-loop.in)
+
+[example-smarts.in](example-smarts.in)
 
