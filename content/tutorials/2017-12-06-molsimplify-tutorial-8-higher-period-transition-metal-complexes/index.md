@@ -65,29 +65,18 @@ Take note of the atom indices so that you can later specify where each ligand’
 
 Now, we must write an input file which gives molSimplify the necessary information for structure generation. The contents of a sample input file (input.in) are shown below.
 
-
-`-core Os` 
-
-
-`-geometry oct`
-
-
-`-coord 6` 
-
-
-`-lig bipy chloride [N] chloride` 
+```
+-core Os
+-geometry oct`
+-coord 6` 
+-lig bipy chloride [N] chloride
+-ligocc 1 1 1 2
+-smicat [1]
+-oxstate 6
+``` 
 
 
-`-ligocc 1 1 1 2` 
-
-
-`-smicat [1]`
-
-
-`-oxstate 6` 
-
-
-Let’s go through each argument one by one. The –core argument specifies the metal core as Osmium and the –lig argument specifies the ligands as bipyridine, chloride and nitrogen. The –ligocc argument specifies the frequency of the ligands in the complex. Note that the –ligocc values correspond to the order of ligands given in –lig argument. The ligands’ connecting atoms will be attached to the metal center in the order specified in –lig through 1 to 6 (as seen in the image produced from View geometry option in GUI). The –oxstate specifies the oxidation state of the metal. The -smicat argument provides a list of indices (1-indexed) for the SMILES atoms that coordinate the metal. In this case, [1] is provided since the ligand is a single element.
+Let’s go through each argument one by one. The `–core` argument specifies the metal core as Osmium and the `–lig` argument specifies the ligands as bipyridine, chloride and nitrogen. The `–ligocc` argument specifies the frequency of the ligands in the complex. Note that the `–ligocc` values correspond to the order of ligands given in `–lig` argument. The ligands’ connecting atoms will be attached to the metal center in the order specified in `–lig` through 1 to 6 (as seen in the image produced from View geometry option in GUI). The `–oxstate` specifies the oxidation state of the metal. The -smicat argument provides a list of indices (1-indexed) for the SMILES atoms that coordinate the metal. In this case, [1] is provided since the ligand is a single element.
 
 
 **3) Generating the structure**
