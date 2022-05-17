@@ -67,12 +67,16 @@ Consider our pyridine ligand. We are showing an eample that shows atom indices. 
 
 ![](lpyr.png)
 
+
 Let us replace the hydrogen in position 7 with a chloride group. We have implemented a simple syntax to control exact placement, and it works as follows. We need to give two arguments: a SMILES string describing the functionalization, and an index telling us where to place the group. The first atom in the SMILES string will be the new joining atom, and the atom given in the decoration index will be the atom to replace:
 
 `molsimplify -core Fe -lig pyridine chloride -ligocc 4 2 -decoration Cl -decoration_index 7`
 
 
-`![](pyr_cl.png)`![](basic_cl.png)
+![](pyr_cl.png)
+
+
+![](basic_cl.png)
 
 
 We notice that the decoration ends up on the first ligand that we listed (pyridine).
@@ -87,7 +91,11 @@ We can also add multiple groups. We’re going to add a CO group at the 9 positi
 `molsimplify -core Fe -lig pyridine chloride -ligocc 4 2 -decoration [Cl,CO] -decoration_index [7,9]`
 
 
-![](only_pyr_cl_co.png)![](pyr_cl_co.png)
+![](only_pyr_cl_co.png)
+
+
+![](pyr_cl_co.png)
+
 
 We can see that our decoration is applied to all the pyridine ligands. Let's see how this functionalization performs, generating both ox II and III complexes in the same way as before and computing their properties. We find that the addition of these groups raises the ionization potential by about 1 eV, up to 6.13 eV (based on high spin to high spin II -> III transition).
 
@@ -103,7 +111,7 @@ Additions to multiple liga1nds can be done by giving a list of SMILES and locati
 The three repeats of pyridine, and the three matching `–ligocc` values, are needed because we have three different types of pyridine. This will produce one pyridine with the Cl decoration at position 7, one pyridine with the decoration at position 9 and 2 pyridines with no decoration, which gives the following result:
 
 
-`![](compl.png)`
+![](compl.png)
 
 
 I hope you found this structure building tutorial helpful. If you have any questions about this tutorial or molsimplify, please [email us](mailto:molsimplify@mit.edu?subject=molsimplify%20ligand%20functionalization%20tutorial%20questions)!
