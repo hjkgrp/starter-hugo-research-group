@@ -118,8 +118,7 @@ Now, ensure that you are in the directory that contains the example-1.in input f
 
 `molsimplify -i example-1.in`
 
-
-If successful, you should get the same output as the previous GUI run. Job status is written to the command window.
+Be sure to inclue the -i flag so that molsimplify will read the input file provided. If successful, you should get the same output as the previous GUI run. Job status is written to the command window.
 
 
 You may see an openbabel warning with the following lines: ***Open Babel Warning in GetAtomicNum.
