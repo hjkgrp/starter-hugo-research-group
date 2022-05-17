@@ -57,7 +57,7 @@ categories:
 1. Once Conda is installed, create a new environment with:
 
 
-``$` conda create -n molSimplify python=3.6`
+`$ conda create -n molSimplify python=3.6`
 
 
 2. Activate this newly created environment with the command:
@@ -71,20 +71,17 @@ categories:
 
 3. Add package channels that molSimplify depends on.
 
-
+``` bash
 (molSimplify)$ conda config --add channels hjkgroup
-
-
 (molSimplify)$ conda config --add channels conda-forge
-
-
 (molSimplify)$ conda config --add channels defaults
-
+```
 
 4. Inside this new environment, you can install molSimplify using (**NOTE: case sensitive**):
 
-
-`(molSimplify)$ conda install -c hjkgroup molSimplify`
+``` bash
+(molSimplify)$ conda install -c hjkgroup molSimplify
+```
 
 
 Here, the “-c” indicates that the package will come from the Anaconda cloud and “hjkgroup” indicates our cloud account. All required dependencies, including OpenBabel and SciPy, will also be automatically installed. This will download a static image from conda that gets periodically updated. You can visit this link: [https://anaconda.org/hjkgroup/molsimplify](https://anaconda.org/hjkgroup/molsimplify ) which will give you the details of our conda image.
