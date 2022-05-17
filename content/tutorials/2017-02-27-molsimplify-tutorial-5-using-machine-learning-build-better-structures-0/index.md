@@ -61,11 +61,11 @@ The ANN in molSimplify is automatically activated for any suitable complex – w
 When using the ANN, it is important to provide a full specification (i.e. oxidation state and spin) or the complex is ambiguous and the ANN will not activate. Looking at the console output, we see:
 
 
-`******************************************************************
-************** ANN is engaged and advising on spin ***************
-************** and metal-ligand bond distances    ****************
-******************************************************************
-You have selected a low-spin state, multiplicity = 2
+`******************************************************************\n
+************** ANN is engaged and advising on spin ***************\n
+************** and metal-ligand bond distances    ****************\n
+******************************************************************\n
+You have selected a low-spin state, multiplicity = 2\n
 ('delta is', array([14.74659983]), ' spin is ', False)
 ANN predicts a spin splitting (HS - LS) of 14.75 kcal/mol at 20% HFX
 ANN low spin bond length (ax1/ax2/eq) is predicted to be: 2.03 /2.01 /2.00 angstrom
