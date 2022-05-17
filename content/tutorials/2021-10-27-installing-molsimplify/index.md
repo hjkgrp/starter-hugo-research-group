@@ -48,7 +48,7 @@ categories:
 **Special Instructions for M1 Mac:** For M1 Macs, please use [miniforge](https://github.com/conda-forge/miniforge) for Mac OSX arm64 instead of the normal Anaconda installation. A prebuilt conda environment and script to download an M1-compatible copy of Tensorflow is present in our Github instructions to build molSimplify from source. Please follow the [instructions on Github](https://github.com/hjkgrp/molSimplify#readme) for installation details.
 
 
-**Installation from Source:** molSimplify can also be installed from [source](https://github.com/hjkgrp/molSimplify/tree/master) using Git. This is the best option if you would like to modify the source code or get the most up to date code and features. The detailed instruction is on our github page (<https://github.com/hjkgrp/molSimplify>, section titled "installation, via conda"). In this installation method, we build molSimplify from source, but get all other dependencies from conda.
+**Installation from Source:** molSimplify can also be installed from [source](https://github.com/hjkgrp/molSimplify/tree/master) using Git. This is the best option if you would like to modify the source code or get the most up to date code and features. The detailed instruction is on our github page (<https://github.com/hjkgrp/molSimplify>, section titled "Installation via Conda"). In this installation method, we build molSimplify from source, but get all other dependencies from conda.
 
 
 **Installation via Conda:** [Conda](https://docs.conda.io/en/latest/) is the recommended mode of installation for our package when you do not want to install from source. Conda is a package and environment manager application that lets users easily download and install python, R, C, Scala, Java and other programs, without needing to worry about dependencies. First install Conda from the link above if you do not already have it. We recommend using the Anaconda version with Python 3 since Python 2 is no longer maintained. **Note: our conda image will not work for Mac computers with an M1 chip, and you will need to install from source following our instructions above.**
@@ -84,13 +84,13 @@ categories:
 ```
 
 
-Here, the “-c” indicates that the package will come from the Anaconda cloud and “hjkgroup” indicates our cloud account. All required dependencies, including OpenBabel and SciPy, will also be automatically installed. This will download a static image from conda that gets periodically updated. You can visit this link: [https://anaconda.org/hjkgroup/molsimplify](https://anaconda.org/hjkgroup/molsimplify ) which will give you the details of our conda image.
+Here, the `-c` indicates that the package will come from the Anaconda cloud and `hjkgroup` indicates our cloud account. All required dependencies, including OpenBabel and SciPy, will also be automatically installed. This will download a static image from conda that gets periodically updated. You can visit this link: [https://anaconda.org/hjkgroup/molsimplify](https://anaconda.org/hjkgroup/molsimplify ) which will give you the details of our conda image.
 
 
 When you use conda environments, you must activate your molSimplify environment before use (and again every time you close your terminal session or deactivate the environment). This environment will prevent the installation from conflicting with other Python-based software on your computer. Note that if you would like to use the molSimplify GUI, PyQt5 needs to be installed separately (see below).
 
 
-**NOTE on debugging:**If you encounter a tensorflow error, it is likely that your hardware is not compatible with the version of tensorflow (1.14.0) pre-installed and shipped with molSimplify. In this case, we suggest you to downgrade your tensorflow to an older version (e.g., 1.12.0). You can do this within conda.  If you have the "core dumped" error, it is likely that the OpenMP tries to run it with multiple treads and errors out. You can try doing "export OMP\_NUM\_THREADS=1" to fix it.
+**NOTE on debugging:**If you encounter a tensorflow error, it is likely that your hardware is not compatible with the version of tensorflow (1.14.0) pre-installed and shipped with molSimplify. In this case, we suggest you to downgrade your tensorflow to an older version (e.g., 1.12.0). You can do this within conda.  If you have the `core dumped` error, it is likely that the OpenMP tries to run it with multiple treads and errors out. You can try doing `export OMP_NUM_THREADS=1` to fix it.
 
 
 **Running the GUI (only OS X and Linux supported):**
