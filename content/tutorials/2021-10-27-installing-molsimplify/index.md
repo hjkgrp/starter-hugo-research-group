@@ -42,7 +42,7 @@ categories:
 **Install recommendations**: For users who intend to develop (i.e., change the source code) with molSimplify, we recommend an install from source. If you have difficulties installing from source, we recommend Docker or Conda, where we maintain a static image of molSimplify that includes machine learning models that we have published. If you have a Mac with an M1 chip, you must install from source.
 
 
-**System requirements:** The code should work on any recent OS supporting Python 3. These include Windows 7 to 10, OS X 10.10 to 10.13 and Ubuntu 14.14. There are no specific memory or processor requirements, but we recommend disabling the force field (-ffoption B) or switching to UFF from the default MMFF94 (-ff uff) if poor performance is observed.
+**System requirements:** The code should work on any recent OS supporting Python 3. These include Windows 7 to 10, OS X 10.10 to 10.13 and Ubuntu 14.14. There are no specific memory or processor requirements, but we recommend disabling the force field (`-ffoption B`) or switching to UFF from the default MMFF94 (`-ff uff`) if poor performance is observed.
 
 
 **Special Instructions for M1 Mac:** For M1 Macs, please use [miniforge](https://github.com/conda-forge/miniforge) for Mac OSX arm64 instead of the normal Anaconda installation. A prebuilt conda environment and script to download an M1-compatible copy of Tensorflow is present in our Github instructions to build molSimplify from source. Please follow the [instructions on Github](https://github.com/hjkgrp/molSimplify#readme) for installation details.
