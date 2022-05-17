@@ -6,10 +6,10 @@ rotaxane = mol3D() #Create an instance of the mol3D class, currently the molecul
 rotaxane.readfromxyz('Rotaxane.xyz') #Now load in the atoms and coordinate information from the .xyz file
 
 metal_atom_index = rotaxane.findMetal() #use the find metal method to indentify metal atoms in our molecule
-print metal_atom_index #notice the findMetal() returns a list
+print(metal_atom_index) #notice the findMetal() returns a list
 
 metal_atom = rotaxane.getAtom(0) #Returns the zeroth atom as a atom3D class object
-print metal_atom.symbol() #Print the symbol associated with this atom3D object
+print(metal_atom.symbol()) #Print the symbol associated with this atom3D object
 
 
 rotaxane.deleteatom(0) #use the deleteatom() to remove the copper atom
