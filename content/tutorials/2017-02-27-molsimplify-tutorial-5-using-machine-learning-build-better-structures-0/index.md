@@ -84,7 +84,7 @@ distance to GAP training data is 0.32
 ```
 
 
-Taking this line by line, we are informed that we have selected a doublet state, and we get a measure of how close this compound is to our training data (measured by the Euclidean norm in our descriptor space). We have observed that the ANN results are typically reliable if this distance is <1, and less so otherwise. The ANN trust score of 66% indicates that we believe the predictions for the complex are worth using (instead of taking, for example, covalent radii to choose bond lengths).
+Taking this line by line, we are informed that we have selected a doublet state, and we get a measure of how close this compound is to our training data (measured by the Euclidean norm in our descriptor space). We have observed that the ANN results are typically reliable if this distance is <1-2, and less so otherwise. The ANN trust distance of 4.67 indicates that we believe the predictions for the complex are a little far so should be treated with caution.
 
 
 The next few lines advise on ground state spin energies. In this case, the ANN predicts a low-spin ground state for this complex (which is verified by DFT), and gives an estimate of the spin splitting magnitude (based on B3LYP). The next line contains the predicted Fe-N bond length of 2.03 Å. 
