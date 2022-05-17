@@ -141,8 +141,6 @@ In subsequent tutorials, we'll demonstrate other capabilities of molSimplify, in
 
 **Scripts:**
 
-[molSimplify_v1.pdf](molSimplify_v1.pdf)
+[Mol Simplify User Guide](molSimplify_v1.pdf)
 
-[1-struct1.PNG](1-struct1.PNG)
-
-[1-struct2.PNG](1-struct2.PNG)
+[example-1.in](example-1.in)
