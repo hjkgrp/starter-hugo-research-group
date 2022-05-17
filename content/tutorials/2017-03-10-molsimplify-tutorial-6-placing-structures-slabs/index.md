@@ -44,17 +44,16 @@ In this follow up to our first [tutorial](../2016-12-02-molsimplify-tutorial-2-s
 
 `molsimplify –core mn –lig O –ligocc 5 –coord 5 -geometry spy`
 
+`molsimplify –core fe –lig porphyrin –ligocc 1 –coord 4 -geometry sqp`
 
-molsimplify –core fe –lig porphyrin –ligocc 1 –coord 4 -geometry sqp
 
-
-but we have provided them all in geos.zip. You can also generate a slab and do placement at the same time, by combing the calls in this tutorial with the previous one. Before we begin, please ensure that you have [slab.xyz](slab.xyz), [co.xyz](co.xyz), [mno5.xyz](mno5.xyz) and [fepo.xyz](fepo.xyz) in your current directory (or edit our input files to point to the correct path). To run our input files, invoke them with
+but we have provided them all in `geos.zip`. You can also generate a slab and do placement at the same time, by combing the calls in this tutorial with the previous one. Before we begin, please ensure that you have [slab.xyz](slab.xyz), [co.xyz](co.xyz), [mno5.xyz](mno5.xyz) and [fepo.xyz](fepo.xyz) in your current directory (or edit our input files to point to the correct path). To run our input files, invoke them with
 
 
 `molsimplify –i [input file name]`
 
 
-First, let’s place a CO molecule on the surface. Our most basic call to the placement module must specify 1) a path to our target molecule 2) how to place it and 3) what attachment points on the object and surface to use. Here, we set   “`-target_molecule`” to point to [co.xyz](co.xyz), and selected that we want a centered placement, specified by the ‘`-align_method center`’ (with C-connecting to one surface Pd). The required input file is given as [1co.in](1co.in), and this produces the left pane of Figure 1. The slab builder will write the loaded cell and input files to a folder called loaded in the default molSimplify run directory (control this with "`-rundir YOUR/PATH`").
+First, let’s place a CO molecule on the surface. Our most basic call to the placement module must specify 1) a path to our target molecule 2) how to place it and 3) what attachment points on the object and surface to use. Here, we set `-target_molecule` to point to [co.xyz](co.xyz), and selected that we want a centered placement, specified by the `-align_method center` (with C-connecting to one surface Pd). The required input file is given as [1co.in](1co.in), and this produces the left pane of Figure 1. The slab builder will write the loaded cell and input files to a folder called loaded in the default molSimplify run directory (control this with `-rundir YOUR/PATH`).
 
 
 ![](tut_6_fig_1.png)
@@ -63,7 +62,7 @@ First, let’s place a CO molecule on the surface. Our most basic call to the pl
 Figure 1: Centered and staggered placement options
 
 
-If we would like to have staggered placement on the surface between a number of different sites, we can control this by giving the “`-num_surface_atoms`” argument, which tells molSimplify how to share the placement between objects. Giving a value of 2 leads to a bridging placement, shown in right pane of Figure 1 ([stag\_1co.in](stag\_1co.in)). We can also add multiple copies of the same adsorbate by changing the “`-num_placements`” flag, which is set to 2 and 3 on the left and right panes in Figure 2, and given as [stag\_2co.in](stag\_2co.in) and [stag\_3co.in](stag\_3co.in) respectively.
+If we would like to have staggered placement on the surface between a number of different sites, we can control this by giving the `-num_surface_atoms` argument, which tells molSimplify how to share the placement between objects. Giving a value of 2 leads to a bridging placement, shown in right pane of Figure 1 ([stag\_1co.in](stag_1co.in)). We can also add multiple copies of the same adsorbate by changing the `-num_placements` flag, which is set to 2 and 3 on the left and right panes in Figure 2, and given as [stag\_2co.in](stag_2co.in) and [stag\_3co.in](stag_3co.in) respectively.
 
 
 ![](tut_6_fig_2.png)
@@ -84,7 +83,7 @@ Note how molSimplify attempts to space the adsorbates out as much as possible, p
 Figure 3: Multiple placement logic illustration
 
 
-CO is a pretty easy molecule to place, so let’s try something else. We can use molSimplify to control the exact placement by giving atomic indices with the “`-object_align`” flag. To illustrate, let’s place an MnO5 complex on the surface in two different ways. First, consider (the somewhat unlikely) case of the single axial oxygen coordinating with the surface, which is index 6 in [mno5.xyz](mno5.xyz), and gives the left frame of Figure 4. We can get a more natural configuration by giving indices 2,3,4,5 instead, along with increasing the number of surface sites to 4 to indicate the number of locations oxygen binds:
+CO is a pretty easy molecule to place, so let’s try something else. We can use molSimplify to control the exact placement by giving atomic indices with the `-object_align` flag. To illustrate, let’s place an MnO5 complex on the surface in two different ways. First, consider (the somewhat unlikely) case of the single axial oxygen coordinating with the surface, which is index 6 in [mno5.xyz](mno5.xyz), and gives the left frame of Figure 4. We can get a more natural configuration by giving indices 2, 3, 4, 5 instead, along with increasing the number of surface sites to 4 to indicate the number of locations oxygen binds:
 
 
 ![](tut_6_fig_4.png)
@@ -93,10 +92,10 @@ CO is a pretty easy molecule to place, so let’s try something else. We can use
 Figure 4: Placement by atomic indices
 
 
-The input files are [mno1.in](mno1.in) and [mno4.in](mno4.in). In these cases, we have also provided a specified vertical height of 2.0 Å with the “`-align_dist`” argument. If we don’t provide a distance, the code will use the covalent radii of the atomic species in question. Since we can’t guarantee that an arbitrary distance is achievable for a given arrangement of atoms, the code will try to position, rotate and distort (using a force field)  the molecule to get as close to the target distance as possible.
+The input files are [mno1.in](mno1.in) and [mno4.in](mno4.in). In these cases, we have also provided a specified vertical height of 2.0 Å with the `-align_dist` argument. If we don’t provide a distance, the code will use the covalent radii of the atomic species in question. Since we can’t guarantee that an arbitrary distance is achievable for a given arrangement of atoms, the code will try to position, rotate and distort (using a force field)  the molecule to get as close to the target distance as possible.
 
 
-Finally, we’ll demonstrate our layered placement approach. Start by placing a porphyrin on the surface – this is done by using “`-object_align Fe`”, referring to the metal center in the porphyrin. This gives the left pane of Figure 5 ([fepo.in](fepo.in)). In order to get the right pane of Figure 5, find the newly created cell, move it to the working directory, and rename it “loaded\_fepo.xyz” – or you can use the one we have [provided](loaded\_fepo.xyz). Now, we’ll give this file as the unit cell, and [co.xyz](co.xyz) as the object to place, with the “`-surface_atom_type Fe`” and “`-object_align C`” arguments. This gives us an easy way to exploit all of the features in the placement module to build arbitrarily complex structures in a layer-by-layer manner! The input file is [loaded\_fepo.in](loaded\_fepo.in) – be sure to check that all of the file locations match the paths in that file (it expects everything to be in the running directory).
+Finally, we’ll demonstrate our layered placement approach. Start by placing a porphyrin on the surface – this is done by using `-object_align Fe`, referring to the metal center in the porphyrin. This gives the left pane of Figure 5 ([fepo.in](fepo.in)). In order to get the right pane of Figure 5, find the newly created cell, move it to the working directory, and rename it `loaded_fepo.xyz` – or you can use the one we have [provided](loaded_fepo.xyz). Now, we’ll give this file as the unit cell, and [co.xyz](co.xyz) as the object to place, with the `-surface_atom_type Fe` and `-object_align C` arguments. This gives us an easy way to exploit all of the features in the placement module to build arbitrarily complex structures in a layer-by-layer manner! The input file is [loaded\_fepo.in](loaded_fepo.in) – be sure to check that all of the file locations match the paths in that file (it expects everything to be in the running directory).
 
 
 ![](tut_6_fig_5.png)
