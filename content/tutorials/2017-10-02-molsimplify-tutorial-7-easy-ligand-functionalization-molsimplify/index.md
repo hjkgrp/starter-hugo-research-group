@@ -57,66 +57,22 @@ You can see that the `-ligocc` argument indicates that we want two chloride grou
 ![](basic.png)
 
 
-
-<!--/*--><![CDATA[/* ><!--*/
-
-p { margin-bottom: 0.1in; direction: ltr; line-height: 120%; text-align: left; }a:link { }
-/*--><!]]>*/
-
-
-
 Remember to choose correct spin multiplicities to account for the one fewer electrons relative to Fe(II)! We see the ANN again predicts a HS ground state with a splitting energy of -6.6 kcal/mol. If we run single point calculations on these structures in Terachem, we find spin splitting energies of -20 kcal/mol and -13 kcal/mol respectively – remember that our ANN predicts properties of optimized structures, and we use the single point calculations here because they are much faster, but cannot be relied upon in general. We will assume that it suffices here and that we can assume the complex is high spin in general. We find that the high spin to high spin ionization potential based on single points is 5.2 eV. Let’s see if we can alter this value by functionalizing our ligand.
 
 
 **Decorating a single site in a single ligand:**
-
-
-
-
-<!--/*--><![CDATA[/* ><!--*/
-
-p { margin-bottom: 0.1in; direction: ltr; line-height: 120%; text-align: left; }a:link { }
-/*--><!]]>*/
-
-
 
 Consider our pyridine ligand (you can use *draw ligand* from the GUI to get a quick picture for an arbitrary ligand). This view was produced in pymol, where you can view atom indicies by setting the label to atom index:
 
 
 ![](lpyr.png)
 
-
- 
-
-
-
-
-<!--/*--><![CDATA[/* ><!--*/
-
-p { margin-bottom: 0.1in; direction: ltr; line-height: 120%; text-align: left; }a:link { }
-/*--><!]]>*/
-
-
-
 Let us replace the hydrogen in position 7 with a chloride group. We have implemented a simple syntax to control exact placement, and it works as follows. We need to give two arguments: a SMILES string describing the functionalization, and an index telling us where to place the group. The first atom in the SMILES string will be the new joining atom, and the atom given in the decoration index will be the atom to replace:
-
-
-
-
-<!--/*--><![CDATA[/* ><!--*/
-
-p { margin-bottom: 0.1in; direction: ltr; line-height: 120%; text-align: left; }a:link { }
-/*--><!]]>*/
-
-
 
 `molsimplify -core Fe -lig pyridine chloride -ligocc 4 2 -decoration Cl -decoration_index 7`
 
 
 `![](pyr_cl.png)`![](basic_cl.png)
-
-
- 
 
 
 We notice that the decoration ends up on the first ligand that we listed (pyridine).
@@ -128,45 +84,15 @@ We notice that the decoration ends up on the first ligand that we listed (pyridi
 We can also add multiple groups. We’re going to add a CO group at the 9 position as well. We can do this by providing a pair of SMILES strings and a pair of indices. In order to avoid ambiguity in the case with multiple ligands, you need to group these with brackets:
 
 
-
-
-<!--/*--><![CDATA[/* ><!--*/
-
-p { margin-bottom: 0.1in; direction: ltr; line-height: 120%; text-align: left; }a:link { }
-/*--><!]]>*/
-
-
-
 `molsimplify -core Fe -lig pyridine chloride -ligocc 4 2 -decoration [Cl,CO] -decoration_index [7,9]`
 
 
 ![](only_pyr_cl_co.png)![](pyr_cl_co.png)
 
-
- 
-
-
-
-<!--/*--><![CDATA[/* ><!--*/
-
-p { margin-bottom: 0.1in; direction: ltr; line-height: 120%; text-align: left; }a:link { }
-/*--><!]]>*/
-
-
-
 We can see that our decoration is applied to all the pyridine ligands. Let's see how this functionalization performs, generating both ox II and III complexes in the same way as before and computing their properties. We find that the addition of these groups raises the ionization potential by about 1 eV, up to 6.13 eV (based on high spin to high spin II -> III transition).
 
 
 **Decorating a single site in multiple ligands:**
-
-
-
-<!--/*--><![CDATA[/* ><!--*/
-
-p { margin-bottom: 0.1in; direction: ltr; line-height: 120%; text-align: left; }a:link { }
-/*--><!]]>*/
-
-
 
 Additions to multiple liga1nds can be done by giving a list of SMILES and locations, separated by a space. We will demonstrate how this would work with the following example, where we have given 3 different pyridine molecules as ligands:
 
