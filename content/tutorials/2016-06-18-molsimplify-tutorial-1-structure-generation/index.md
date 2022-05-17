@@ -48,7 +48,7 @@ In our first tutorial, we'll briefly discuss how to use molSimplify to generate 
 Before starting the tutorial, please remember to activate your conda environment using the following syntax, where environment\_name is the name of your conda environment:
 
 
-conda activate <environment\_name> 
+`conda activate <environment\_name>` 
 
 
 Graphical User Interface
@@ -99,7 +99,7 @@ Command Line Interface and Input-file-based generation
 Next, we'll show how to use the input file generation. For purposes of this tutorial, we've created a file for you called example-1.in that will generate a porphyrin with an imidazole ligand. You can download it here. Alternatively, one could also copy and rename the input file generated from running the GUI. In theory, the options could also be entered into the command line manually but this is not recommended.
 
 
-`-core cobalt  
+`-core cobalt  \n
 -geometry oct  
 -coord 6  
 -lig tpp,imidazole,x  
