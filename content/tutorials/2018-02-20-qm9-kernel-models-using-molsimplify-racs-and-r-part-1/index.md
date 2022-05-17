@@ -78,7 +78,7 @@ results_dictionary = generate_full_complex_autocorrelations(self.mol,depth=3,lou
 here, "loud" will determine if diagnostic output should be printed to standard out, but with the large number of molecules we are processing it is better left off. The rest of the script will write csv files containing the u0 values and RACs, and we shan’t dwell on them further.
 
 
-Since we are looping over 134k molecules and extracting standard geometries for each one, the processing of these files might take a while, depending on your configuration. It takes around 2 minutes on our workstation. We have supplied [QM9_descriptor_file.csv](QM9_descriptor_file.csv), which contains the autocorrelations and [QM9_smiles.csv](QM9_smiles.csv) which contains the SMILES strings.
+Since we are looping over 134k molecules and extracting standard geometries for each one, the processing of these files might take a while, depending on your configuration. It takes around 2 minutes on our workstation. We have supplied [QM9_descriptor_file.csv](QM9_descriptor_file.csv), which contains the autocorrelations and [QM9_smiles.csv](QM9_smiles.csv) which contains the SMILES strings. These are the outputs of the [qm9_preprocess.py](qm9_preprocess.py) script.
 
 
 We will make a final important comment that the use of the optimized geometry is not needed as the RAC function only encode connectivity information – in this case, it is convenient enough to use the built in function since we have the geometries. It would be possible to convert from SMILEs strings directly to RACs but in this case the data is supplied as individual geometry files already.
