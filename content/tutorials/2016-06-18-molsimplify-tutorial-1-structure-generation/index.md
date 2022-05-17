@@ -67,10 +67,7 @@ Within the GUI, hovering over each textbox brings up a popup briefly explaining 
 First, reproduce the settings in the image above by selecting 'cobalt' as the core, a coordination number of '6', and 'oct' to set an octahedral coordination environment.
 
 
-The available ligands can be checked by clicking the drop down box, and their chemical structures can be checked by clicking the "Draw ligands" button at the bottom left corner.
-
-
-Add ligands one row at a time. Once you have selected a ligand and designated a frequency, you can add another row by pressing the plus (+) button to right of the active ligand row. Add a 'tpp' ligand (tetraphenylporphyrin), an imidazole ligand, and an 'x' ligand, where the 'x' ligand represents a vacant coordination site. 
+The available ligands can be checked by clicking the drop down box. Add ligands one row at a time. Once you have selected a ligand and designated a frequency, you can add another row by pressing the plus (+) button to right of the active ligand row. Add a 'tpp' ligand (tetraphenylporphyrin), an imidazole ligand, and an 'x' ligand, where the 'x' ligand represents a vacant coordination site. 
 
 
 Other optional features that are relevant to structure generation include:
