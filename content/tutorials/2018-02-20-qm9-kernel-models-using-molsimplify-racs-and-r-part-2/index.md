@@ -175,6 +175,6 @@ krr test MAE =  7.20 kcal/mol
 
 ```
 We will warn that conducting detailed cross-validation is expensive, and adding the above lines of codes decreases the run time from seconds to minutes on a standard workstation.
-**Scripts:**
-
+**Scripts and files:**
+[simpleKRR.R](simpleKRR.R)
 [QM9_descriptor_file.csv](QM9_descriptor_file.csv)
