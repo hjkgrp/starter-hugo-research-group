@@ -70,8 +70,6 @@ Then, navigate to the folder and execute the script by typing:
 
 ```
 python <The Name of Your Script>.py
-
-
 ```
 An .xyz file can be imported using python using molSimplify by typing:
 
@@ -209,9 +207,12 @@ When comparing the two structures, we can see that the rotaxane is not octahedra
 
 Thus, the geometry flags are assigned as 0 and 1 for rotaxane and FeII(NH3)6respectively, when analyzing the metal center for an octahedral geometry.
 
-# Files
+## Scripts and Files
 
 [Rotaxane.py](./Rotaxane.py)
+
 [Octahedral.xyz](./Octahedral.xyz)
+
 [No_Metal_Rotaxane.xyz](./No_Metal_Rotaxane.xyz)
+
 [Rotaxane.xyz](./Rotaxane.xyz)
