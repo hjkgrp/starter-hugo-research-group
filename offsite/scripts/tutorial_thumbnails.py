@@ -27,7 +27,9 @@ for folder in folders:
     else:
         print(f'{old_page_name}: Multiple matches found')
         continue
-#     print(thumbnail_url)
+    ## post process url
+    thumbnail_url = thumbnail_url.replace('styles/thumbnail/public/','')
+    print(thumbnail_url)
     img_extension = [ext for ext in img_extensions if ext in thumbnail_url][0]
     ## save thumbnail as featured.ext
     file_dest = os.path.join(folder,f'featured{img_extension}')
