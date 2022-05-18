@@ -177,7 +177,7 @@ content:
       link:
         icon: graduation-cap
         icon_pack: fas
-        text: Read the paper
+        text: Read the opinion
         url: 'publication/vennelakanti-harder-2022'
 
     - title: DFT & catalysis
