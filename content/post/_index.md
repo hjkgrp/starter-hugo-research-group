@@ -11,7 +11,7 @@ view: 2
 filters:
   sort_by: 'date'
 # Optional header image (relative to `static/media/` folder).
-header:
+banner:
   caption: ""
   image: galaxy_UMAP.png
 ---

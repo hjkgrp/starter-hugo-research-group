@@ -2,7 +2,7 @@
 title: Publications
 view: 4
 
-header:
+banner:
   caption: ""
   image: ""
 ---
