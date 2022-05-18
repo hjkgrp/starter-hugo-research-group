@@ -1,0 +1,7 @@
+-core ferrcore
+-replig true
+-lig methyl
+-ligocc 1
+-ccatoms 21
+-keepHs yes
+-ffoption no
