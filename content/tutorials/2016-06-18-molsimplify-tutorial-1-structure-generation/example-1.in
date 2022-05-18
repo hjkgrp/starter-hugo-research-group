@@ -1,0 +1,9 @@
+-core cobalt
+-geometry oct
+-coord
+-lig tpp,imidazole,x
+-ligocc 1,1,1
+-ff MMFF94
+-ffoption BA
+-spin 2
+-oxstate II

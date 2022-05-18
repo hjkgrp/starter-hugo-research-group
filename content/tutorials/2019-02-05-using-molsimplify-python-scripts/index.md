@@ -70,8 +70,6 @@ Then, navigate to the folder and execute the script by typing:
 
 ```
 python <The Name of Your Script>.py
-
-
 ```
 An .xyz file can be imported using python using molSimplify by typing:
 
@@ -112,9 +110,9 @@ If we want to find metal atoms in this molecule, we can do that using the method
 
 
 ```
-metal\_atom\_index = rotaxane.findMetal() # use the findMetal method to identify metal atoms in our molecule
+metal_atom_index = rotaxane.findMetal() # use the findMetal method to identify metal atoms in our molecule
 
-print metal\_atom\_index # notice that findMetal() returns a list
+print(metal_atom_index) # notice that findMetal() returns a list
 ```
  
 
@@ -127,9 +125,9 @@ Our molecule contains one metal atom and the index of this metal atom is zero. W
 
 
 ```
-metal\_atom = rotaxane.getAtom(0) # Returns the zeroth atom as an atom3D class object
+metal_atom = rotaxane.getAtom(0) # Returns the zeroth atom as an atom3D class object
 
-print metal\_atom.symbol() # Print the symbol associated with this atom3D object
+print(metal_atom.symbol()) # Print the symbol associated with this atom3D object
 ```
  
 
@@ -155,7 +153,7 @@ Finally, we can save our new molecule as a .xyz file:
 
 
 ```
-rotaxane.writexyz('No\_Metal\_Rotaxane.xyz') # mol3D objects can write xyz files using the writexyz() method
+rotaxane.writexyz('No_Metal_Rotaxane.xyz') # mol3D objects can write xyz files using the writexyz() method
 ```
 The resulting molecule (after the copper atom is deleted), looks like this:
 
@@ -180,7 +178,7 @@ rotaxane = mol3D()
 
 rotaxane.readfromxyz('Rotaxane.xyz')
 
-rotaxane.IsOct() 
+print(rotaxane.IsOct())
 ```
 This does the actual geometry check, and returns a tuple containing a flag, assigned 1 for a “good” geometry, and 0 for a “bad” geometry, the metrics that were failed, and a dictionary of all made measurements. A custom dictionary can be provided if certain metrics (such as long metal-ligand bond lengths) can be tolerated. Despite being named IsOct, this method can check tetrahedral and square planar geometries as well, provided reference dictionaries.
 
@@ -199,7 +197,7 @@ octahedral = mol3D()
 
 octahedral.readfromxyz(‘Octahedral.xyz')
 
-octahedral.IsOct()
+print(octahedral.IsOct())
 ```
 When comparing the two structures, we can see that the rotaxane is not octahedral with respect to the metal center (as visualized above), but the FeII(NH3)6(visualized below) is:
 
@@ -209,4 +207,12 @@ When comparing the two structures, we can see that the rotaxane is not octahedra
 
 Thus, the geometry flags are assigned as 0 and 1 for rotaxane and FeII(NH3)6respectively, when analyzing the metal center for an octahedral geometry.
 
+## Scripts and Files
 
+[Rotaxane.py](./Rotaxane.py)
+
+[Octahedral.xyz](./Octahedral.xyz)
+
+[No_Metal_Rotaxane.xyz](./No_Metal_Rotaxane.xyz)
+
+[Rotaxane.xyz](./Rotaxane.xyz)
