@@ -9,7 +9,7 @@ summary:
 projects: []
 
 # Date published
-date: 2016-12-25
+date: '2016-12-25T00:00:00Z'
 
 # Date updated
 lastmod: 
@@ -66,7 +66,7 @@ Now click `Generate`, and the generated structure should look like this:
 ![](3-struct.png)
 
 
-Relevant command line options are as follows. You can use `molsimplify -i commands.in` using the file `commands.in` indicated below. Note that comments are not permitted in `.in` files, and therefore anything after the `#` should be deleted in your file.
+Relevant command line options are as follows. You can use `molsimplify -i commands.in` using the file `commands.in` indicated below ([commands.in](commands.in)). Note that comments are not permitted in `.in` files, and therefore anything after the `#` should be deleted in your file.
 
 ```
 -core ferrcore # custom core name  
