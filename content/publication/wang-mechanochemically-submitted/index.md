@@ -37,7 +37,7 @@ image:
 projects: []
 publishDate: '2022-05-09T22:07:42.921030Z'
 publication_types:
-- '2'
+- '3'
 abstract: Hydrogen fluoride (HF) is a versatile reagent for material remodeling, with
   applications in self-immolative polymers, remodeled siloxanes, and degradable polymers.
   The responsive, in situ generation of HF in materials therefore holds promise for

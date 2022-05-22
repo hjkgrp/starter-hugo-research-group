@@ -35,7 +35,7 @@ image:
 projects: []
 publishDate: '2022-05-09T22:07:42.691655Z'
 publication_types:
-- '2'
+- '3'
 abstract: 'Gut microbial decarboxylation of amino acid-derived arylacetates is a chemically
   challenging enzymatic transformation which generates small molecules that impact
   host physiology. The glycyl radical enzyme (GRE) indoleacetate decarboxylase from

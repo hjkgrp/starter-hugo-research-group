@@ -56,7 +56,7 @@ image:
 projects: []
 publishDate: '2022-05-09T22:07:41.998646Z'
 publication_types:
-- '2'
+- '3'
 abstract: Confined fluids and electrolytes in nanopores exhibit rich and surprising
   physics and chemistry that impact the mass transport and energy efficiency in many
   important natural systems and industrial applications. Existing theories often fail

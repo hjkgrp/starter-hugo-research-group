@@ -47,7 +47,7 @@ image:
 projects: []
 publishDate: '2021-06-21T01:48:11.712712Z'
 publication_types:
-- '3'
+- '2'
 abstract: Polymers that extend covalently in two dimensions have attracted recent
   attention as a means of combining the mechanical strength and in-plane energy conduction
   of conventional two-dimensional (2D) materials with the low densities, synthetic

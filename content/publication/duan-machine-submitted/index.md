@@ -34,7 +34,7 @@ image:
 projects: []
 publishDate: '2022-05-09T22:07:42.614249Z'
 publication_types:
-- '2'
+- '3'
 abstract: Virtual high-throughput screening (VHTS) and machine learning (ML) have
   greatly accelerated the design of single-site transition-metal catalysts. VHTS of
   catalysts, however, is often accompanied with high calculation failure rate and

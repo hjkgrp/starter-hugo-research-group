@@ -38,7 +38,7 @@ image:
 projects: []
 publishDate: '2022-05-09T22:07:42.370340Z'
 publication_types:
-- '2'
+- '3'
 abstract: 'The immobilization of homogeneous catalysts onto solid supports to improve
   recyclability while maintaining catalytic efficiency is often a trial-and-error
   process limited by poor control of the local catalyst environment and few strategies

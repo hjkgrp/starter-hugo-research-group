@@ -36,7 +36,7 @@ image:
 projects: []
 publishDate: '2022-05-09T22:07:42.767514Z'
 publication_types:
-- '2'
+- '3'
 abstract: 'The challenge of activating inert C–H bonds motivates a study of catalysts
   that draws from what can be accomplished by natural enzymes and translates these
   advantageous features into transition-metal complex (TMC) and material mimics. Inert

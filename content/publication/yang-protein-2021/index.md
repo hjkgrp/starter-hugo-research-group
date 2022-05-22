@@ -31,7 +31,7 @@ image:
 projects: []
 publishDate: '2021-06-21T01:48:10.790399Z'
 publication_types:
-- '3'
+- '2'
 abstract: The enzyme trans-4-Hydroxy-L-proline (Hyp) dehydratase (HypD) is among the
   most abundant glycyl radical enzymes (GREs) in the healthy human gut microbiome
   and is considered a promising antibiotic target for the prominent antibiotic-resistant
