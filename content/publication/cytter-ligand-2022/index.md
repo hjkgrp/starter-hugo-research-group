@@ -47,7 +47,7 @@ abstract: 'The predictive accuracy of density functional theory (DFT) is hampere
   an inverse relationship generally exists between global and local curvatures. We
   find that effects of ligand substitution on both measures of delocalization are
   typically additive, but the quantities seldom coincide.'
-publication: '*submitted*'
-url_pdf: https://arxiv.org/abs/2204.03810
-doi: 10.48550/arXiv.2204.03810
+publication: '*J.  Phys. Chem. Lett.*, **13**, 4549-4555 (2022)'
+url_pdf: https://pubs.acs.org/doi/full/10.1021/acs.jpclett.2c01026
+doi: 10.1021/acs.jpclett.2c01026
 ---
