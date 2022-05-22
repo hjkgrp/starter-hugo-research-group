@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Kulik Research Group # Website name
-baseURL: 'hjkgrp.mit.edu' # Website URL
+baseURL: 'http://hjkgrp.mit.edu' # Website URL
 
 ############################
 ## LANGUAGE
