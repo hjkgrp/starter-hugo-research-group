@@ -1,7 +1,7 @@
 ---
 title: Tutorials
 cms_exclude: true
-
+aliases: Tutorials
 # View.
 #   1 = List
 #   2 = Compact

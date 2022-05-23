@@ -1,7 +1,7 @@
 ---
 title: News
 cms_exclude: true
-
+aliases: News
 # View.
 #   1 = List
 #   2 = Compact
