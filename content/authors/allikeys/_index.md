@@ -42,6 +42,9 @@ social:
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=h7P9j9YAAAAJ&hl=en&oi=ao 
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/allison-keys-16949672/
 #- icon: github
 #  icon_pack: fab
 #  link: https://github.com/hjkgrp

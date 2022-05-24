@@ -43,6 +43,9 @@ social:
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?hl=en&user=UCYTZOYAAAAJ 
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/isuruariyarathna/
 #- icon: github
 #  icon_pack: fab
 #  link: https://github.com/hjkgrp
@@ -51,6 +54,7 @@ social:
 - icon: cv
   icon_pack: ai
   link: files/CV_Isuru.pdf
+
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 #email: "isuru@mit.edu"
