@@ -1,6 +1,8 @@
 ---
 title: "Population analysis and PDOS"
-subtitle: 
+subtitle:
+aliases: /content/population-analysis-and-pdos
+ 
 
 # Summary for listings and search engines
 summary: 

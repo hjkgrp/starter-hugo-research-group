@@ -1,6 +1,8 @@
 ---
 title: "Nudged elastic band"
-subtitle: 
+subtitle:
+aliases: /content/nudged-elastic-band
+ 
 
 # Summary for listings and search engines
 summary: 

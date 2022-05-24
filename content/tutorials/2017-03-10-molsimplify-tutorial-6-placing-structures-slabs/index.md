@@ -1,6 +1,8 @@
 ---
 title: "molSimplify Tutorial 6: Placing structures on slabs"
-subtitle: 
+subtitle:
+aliases: /content/molsimplify-tutorial-6-placing-structures-slabs
+ 
 
 # Summary for listings and search engines
 summary: 

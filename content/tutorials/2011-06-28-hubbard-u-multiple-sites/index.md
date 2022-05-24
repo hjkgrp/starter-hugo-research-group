@@ -1,6 +1,8 @@
 ---
 title: "Hubbard U for multiple sites"
-subtitle: 
+subtitle:
+aliases: /content/hubbard-u-multiple-sites
+ 
 
 # Summary for listings and search engines
 summary: 

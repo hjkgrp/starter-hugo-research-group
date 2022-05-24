@@ -1,6 +1,8 @@
 ---
 title: "Vibrational properties of molecules"
-subtitle: 
+subtitle:
+aliases: /content/vibrational-properties-molecules
+ 
 
 # Summary for listings and search engines
 summary: 

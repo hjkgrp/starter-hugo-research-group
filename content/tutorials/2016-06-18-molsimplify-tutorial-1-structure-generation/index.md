@@ -1,6 +1,8 @@
 ---
 title: "molSimplify Tutorial 1: Structure Generation"
-subtitle: 
+subtitle:
+aliases: /content/molsimplify-tutorial-1-structure-generation
+ 
 
 # Summary for listings and search engines
 summary: 

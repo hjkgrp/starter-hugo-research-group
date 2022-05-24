@@ -1,6 +1,8 @@
 ---
 title: "molSimplify: introduction"
-subtitle: 
+subtitle:
+aliases: /content/molsimplify-introduction
+ 
 
 # Summary for listings and search engines
 summary: 

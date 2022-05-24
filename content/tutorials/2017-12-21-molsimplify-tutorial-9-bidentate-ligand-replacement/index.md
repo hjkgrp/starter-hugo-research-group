@@ -1,6 +1,8 @@
 ---
 title: "molSimplify Tutorial 9: Bidentate Ligand Replacement"
-subtitle: 
+subtitle:
+aliases: /content/molsimplify-tutorial-9-bidentate-ligand-replacement
+ 
 
 # Summary for listings and search engines
 summary: 

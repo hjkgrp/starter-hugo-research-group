@@ -1,6 +1,8 @@
 ---
 title: "Reader's Choice: DFT+U"
-subtitle: 
+subtitle:
+aliases: /content/readers-choice-dftu
+ 
 
 # Summary for listings and search engines
 summary: 

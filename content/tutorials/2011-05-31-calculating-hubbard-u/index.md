@@ -1,6 +1,8 @@
 ---
 title: "Calculating the Hubbard U "
-subtitle: 
+subtitle:
+aliases: /content/calculating-hubbard-u
+ 
 
 # Summary for listings and search engines
 summary: 

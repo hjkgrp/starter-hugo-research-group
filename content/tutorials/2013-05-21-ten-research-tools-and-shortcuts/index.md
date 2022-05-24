@@ -1,6 +1,8 @@
 ---
 title: "Ten research tools and shortcuts"
-subtitle: 
+subtitle:
+aliases: /content/ten-research-tools-and-shortcuts
+ 
 
 # Summary for listings and search engines
 summary: 

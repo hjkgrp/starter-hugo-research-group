@@ -1,6 +1,8 @@
 ---
 title: "Quick tip: Maximally localized Wannier functions"
-subtitle: 
+subtitle:
+aliases: /content/quick-tip-maximally-localized-wannier-functions
+ 
 
 # Summary for listings and search engines
 summary: 
