@@ -1,6 +1,8 @@
 ---
 title: "Visualizing molecules built from SMILES strings in Jupyter Notebooks using molSimplify"
-subtitle: 
+subtitle:
+aliases: /content/visualizing-molecules-built-smiles-strings-jupyter-notebooks-using-molsimplify
+ 
 
 # Summary for listings and search engines
 summary: 

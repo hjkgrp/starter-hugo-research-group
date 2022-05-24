@@ -1,6 +1,8 @@
 ---
 title: "molSimplify Tutorial 11: Using molSimplify in Python scripts"
-subtitle: 
+subtitle:
+aliases: /content/using-molsimplify-python-scripts
+ 
 
 # Summary for listings and search engines
 summary: 

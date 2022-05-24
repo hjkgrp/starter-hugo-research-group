@@ -1,6 +1,8 @@
 ---
 title: "Job management 101"
-subtitle: 
+subtitle:
+aliases: /content/job-management-101
+ 
 
 # Summary for listings and search engines
 summary: 

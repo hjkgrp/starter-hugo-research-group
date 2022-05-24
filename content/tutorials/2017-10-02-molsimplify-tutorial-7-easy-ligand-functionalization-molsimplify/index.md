@@ -1,6 +1,8 @@
 ---
 title: "molSimplify Tutorial 7: Easy ligand functionalization in molSimplify"
-subtitle: 
+subtitle:
+aliases: /content/molsimplify-tutorial-7-easy-ligand-functionalization-molsimplify
+ 
 
 # Summary for listings and search engines
 summary: 

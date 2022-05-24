@@ -1,6 +1,8 @@
 ---
 title: "Converging and comparing multiple electronic states"
-subtitle: 
+subtitle:
+aliases: /content/converging-and-comparing-multiple-electronic-states
+ 
 
 # Summary for listings and search engines
 summary: 

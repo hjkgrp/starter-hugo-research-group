@@ -1,6 +1,8 @@
 ---
 title: "Quick-tip: Building molecules with Molden"
-subtitle: 
+subtitle:
+aliases: /content/quick-tip-building-molecules-molden
+ 
 
 # Summary for listings and search engines
 summary: 

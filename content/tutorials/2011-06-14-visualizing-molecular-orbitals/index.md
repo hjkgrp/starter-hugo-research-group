@@ -1,6 +1,8 @@
 ---
 title: "Visualizing molecular orbitals"
-subtitle: 
+subtitle:
+aliases: /content/visualizing-molecular-orbitals
+ 
 
 # Summary for listings and search engines
 summary: 

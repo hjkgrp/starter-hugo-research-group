@@ -1,6 +1,8 @@
 ---
 title: "Visualizing with VMD & rendering with POV-Ray"
-subtitle: 
+subtitle:
+aliases: /content/visualizing-vmd-rendering-pov-ray
+ 
 
 # Summary for listings and search engines
 summary: 

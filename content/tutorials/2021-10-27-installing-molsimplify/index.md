@@ -1,6 +1,8 @@
 ---
 title: "Installing molSimplify"
-subtitle: 
+subtitle:
+aliases: /content/installing-molsimplify
+ 
 
 # Summary for listings and search engines
 summary: 

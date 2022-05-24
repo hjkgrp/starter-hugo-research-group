@@ -1,6 +1,8 @@
 ---
 title: "molSimplify Tutorial 5: Using machine learning to build better structures"
-subtitle: 
+subtitle:
+aliases: /content/molsimplify-tutorial-5-using-machine-learning-build-better-structures-0
+ 
 
 # Summary for listings and search engines
 summary: 

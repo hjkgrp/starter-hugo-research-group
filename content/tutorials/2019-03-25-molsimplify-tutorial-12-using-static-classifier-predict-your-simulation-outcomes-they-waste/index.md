@@ -1,6 +1,8 @@
 ---
 title: "molSimplify Tutorial 12: Using the static classifier to predict your simulation outcomes before they waste your time"
-subtitle: 
+subtitle:
+aliases: /content/molsimplify-tutorial-12-using-static-classifier-predict-your-simulation-outcomes-they-waste
+ 
 
 # Summary for listings and search engines
 summary: 

@@ -1,6 +1,8 @@
 ---
 title: "molSimplify Tutorial 4: Database Searching"
-subtitle: 
+subtitle:
+aliases: /content/molsimplify-tutorial-4-database-searching
+ 
 
 # Summary for listings and search engines
 summary: 

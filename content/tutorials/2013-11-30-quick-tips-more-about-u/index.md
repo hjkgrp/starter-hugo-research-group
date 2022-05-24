@@ -1,6 +1,8 @@
 ---
 title: "Quick tips: More about U"
-subtitle: 
+subtitle:
+aliases: /content/quick-tips-more-about-u
+ 
 
 # Summary for listings and search engines
 summary: 
