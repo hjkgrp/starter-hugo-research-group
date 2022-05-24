@@ -40,6 +40,9 @@ social:
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?hl=en&user=vIZTq-EAAAAJ 
+- icon: linkedin
+icon_pack: fab
+link: https://www.linkedin.com/in/ilia-kevlishvili-977977135/
 #- icon: github
 #  icon_pack: fab
 #  link: https://github.com/hjkgrp

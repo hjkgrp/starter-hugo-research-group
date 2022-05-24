@@ -40,6 +40,9 @@ social:
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=-dB2LOMAAAAJ&hl=en 
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/gianmarco-terrones/
 #- icon: github
 #  icon_pack: fab
 #  link: https://github.com/hjkgrp
