@@ -1,5 +1,5 @@
 ---
-title: "molSimplify: introduction"
+title: "molSimplify: Introduction"
 subtitle:
 aliases: /content/molsimplify-introduction
  
