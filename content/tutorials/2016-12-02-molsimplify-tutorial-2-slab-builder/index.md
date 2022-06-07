@@ -1,6 +1,8 @@
 ---
 title: "molSimplify Tutorial 2: Slab Builder"
-subtitle: 
+subtitle:
+aliases: /content/molsimplify-tutorial-2-slab-builder
+ 
 
 # Summary for listings and search engines
 summary: 

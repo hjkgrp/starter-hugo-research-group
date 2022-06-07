@@ -1,6 +1,8 @@
 ---
 title: "molSimplify Tutorial 8: Higher Period Transition Metal Complexes "
-subtitle: 
+subtitle:
+aliases: /content/molsimplify-tutorial-8-higher-period-transition-metal-complexes
+ 
 
 # Summary for listings and search engines
 summary: 

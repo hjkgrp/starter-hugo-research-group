@@ -1,6 +1,8 @@
 ---
 title: "Quick tip: Choosing how to parallelize your jobs"
-subtitle: 
+subtitle:
+aliases: /content/quick-tip-choosing-how-parallelize-your-jobs
+ 
 
 # Summary for listings and search engines
 summary: 

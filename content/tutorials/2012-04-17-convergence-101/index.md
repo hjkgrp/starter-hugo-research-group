@@ -1,6 +1,8 @@
 ---
 title: "Convergence 101"
-subtitle: 
+subtitle:
+aliases: /content/convergence-101
+ 
 
 # Summary for listings and search engines
 summary: 

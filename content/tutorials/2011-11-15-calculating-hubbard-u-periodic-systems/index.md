@@ -1,6 +1,8 @@
 ---
 title: "Calculating Hubbard U for periodic systems"
-subtitle: 
+subtitle:
+aliases: /content/calculating-hubbard-u-periodic-systems
+ 
 
 # Summary for listings and search engines
 summary: 

@@ -1,6 +1,8 @@
 ---
 title: "Reader's Choice: X-ray absorption spectroscopy"
-subtitle: 
+subtitle:
+aliases: /content/readers-choice-x-ray-absorption-spectroscopy
+ 
 
 # Summary for listings and search engines
 summary: 

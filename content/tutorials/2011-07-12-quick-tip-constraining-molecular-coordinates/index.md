@@ -1,6 +1,8 @@
 ---
 title: "Quick tip: Constraining molecular coordinates"
-subtitle: 
+subtitle:
+aliases: /content/quick-tip-constraining-molecular-coordinates
+ 
 
 # Summary for listings and search engines
 summary: 

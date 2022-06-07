@@ -1,6 +1,8 @@
 ---
 title: "The right Hubbard U for any element"
-subtitle: 
+subtitle:
+aliases: /content/right-hubbard-u-any-element
+ 
 
 # Summary for listings and search engines
 summary: 

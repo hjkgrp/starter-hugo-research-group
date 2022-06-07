@@ -50,7 +50,7 @@ abstract: The Mo/W-containing metalloenzyme formate dehydrogenase (FDH) is an ef
   in the protein. Overall, our observations suggest that the terminal chalcogen ligand
   identity plays an important role in the enzymatic activity of FDH, suggesting opportunities
   for rational bioinspired catalyst design.
-publication: '*J. Phys. Chem. B*, **ahead of print**'
-url_pdf: https://chemrxiv.org/engage/chemrxiv/article-details/61c63087203b40ff3498f807
-doi: 10.26434/chemrxiv-2021-dfx2w
+publication: '*J. Phys. Chem. B*, **ASAP**'
+url_pdf: 'https://doi.org/10.1021/acs.jpcb.2c02260'
+doi: '10.1021/acs.jpcb.2c02260'
 ---

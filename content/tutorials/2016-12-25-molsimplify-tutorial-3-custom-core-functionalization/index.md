@@ -1,6 +1,8 @@
 ---
 title: "molSimplify Tutorial 3: Custom Core Functionalization"
-subtitle: 
+subtitle:
+aliases: /content/molsimplify-tutorial-3-custom-core-functionalization
+ 
 
 # Summary for listings and search engines
 summary: 

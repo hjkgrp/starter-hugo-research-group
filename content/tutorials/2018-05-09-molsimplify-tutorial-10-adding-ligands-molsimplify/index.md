@@ -1,6 +1,8 @@
 ---
 title: "molSimplify Tutorial 10: Adding ligands to molSimplify "
-subtitle: 
+subtitle:
+aliases: /content/molsimplify-tutorial-10-adding-ligands-molsimplify
+ 
 
 # Summary for listings and search engines
 summary: 

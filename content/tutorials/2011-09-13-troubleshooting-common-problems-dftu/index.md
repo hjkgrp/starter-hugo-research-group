@@ -1,6 +1,8 @@
 ---
 title: "Troubleshooting common problems with DFT+U"
-subtitle: 
+subtitle:
+aliases: /content/troubleshooting-common-problems-dftu
+ 
 
 # Summary for listings and search engines
 summary: 

@@ -1,5 +1,6 @@
 ---
 title: Kulik group alumni
+show_date: false
 ---
 
 - Sule Atahan-Evrenk, VS, [Assistant Professor at TOBB University of Economics and Technology](http://satahanevrenk.etu.edu.tr)

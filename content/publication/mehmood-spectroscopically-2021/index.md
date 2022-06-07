@@ -53,7 +53,5 @@ abstract: Nonheme iron halogenases, such as SyrB2, WelO5, and BesD, halogenate u
   proximity in halogenases.
 publication: '*ACS Catal.*, **11**, 12394-12408 (2021)'
 doi: 10.1021/acscatal.1c03169
-links:
-- name: URL
-  url: https://pubs.acs.org/doi/10.1021/acscatal.1c03169
+url_pdf: https://pubs.acs.org/doi/10.1021/acscatal.1c03169
 ---

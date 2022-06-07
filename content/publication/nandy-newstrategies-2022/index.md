@@ -12,7 +12,7 @@ authors:
 - Heather J. Kulik
 tags: []
 categories: []
-date: 0-01-01
+date: 2022-01-01
 lastmod: 2022-05-09T17:33:44-04:00
 featured: false
 draft: false
@@ -55,7 +55,7 @@ abstract: ' Despite decades of effort, no earth-abundant homogeneous catalysts h
   be beneficial for the search of large catalyst spaces where no prior designs have
   been identified and where linear scaling relationships between reaction energies
   or barriers may be limited or unknown. '
-publication: '*JACS Au*, **ASAP** (2022)'
+publication: '*JACS Au*, **2**, 1200-1213 (2022)'
 doi: 10.1021/jacsau.2c00176
 url_pdf: https://doi.org/10.1021/jacsau.2c00176
 ---

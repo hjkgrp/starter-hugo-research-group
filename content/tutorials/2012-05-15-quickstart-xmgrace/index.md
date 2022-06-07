@@ -1,6 +1,8 @@
 ---
 title: "Quickstart with xmgrace"
-subtitle: 
+subtitle:
+aliases: /content/quickstart-xmgrace
+ 
 
 # Summary for listings and search engines
 summary: 

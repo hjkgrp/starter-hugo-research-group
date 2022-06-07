@@ -1,6 +1,8 @@
 ---
 title: "molSimplify Tutorial 13: molscontrol -- an intelligent job control system to manage your DFT geometry optimizations for inorganic discovery.  "
-subtitle: 
+subtitle:
+aliases: /content/molsimplify-tutorial-13-molscontrol-intelligent-job-control-system-manage-your-dft-geometry
+ 
 
 # Summary for listings and search engines
 summary: 

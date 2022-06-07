@@ -1,6 +1,8 @@
 ---
 title: "molSimplify Tutorial 11: Transition state structure generation in molSimplify"
-subtitle: 
+subtitle:
+aliases: /content/molsimplify-tutorial-11-transition-state-structure-generation-molsimplify
+ 
 
 # Summary for listings and search engines
 summary: 

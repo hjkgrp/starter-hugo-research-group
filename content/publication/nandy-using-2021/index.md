@@ -55,7 +55,6 @@ abstract: 'Although the tailored metal active sites and porous architectures of 
   range of applications.'
 publication: '*J. Am. Chem. Soc.*, **143**, 17535-17547 (2021)'
 doi: 10.1021/jacs.1c07217
-links:
-- name: URL
-  url: https://pubs.acs.org/doi/10.1021/jacs.1c07217
+url_pdf: https://pubs.acs.org/doi/10.1021/jacs.1c07217
+ 
 ---

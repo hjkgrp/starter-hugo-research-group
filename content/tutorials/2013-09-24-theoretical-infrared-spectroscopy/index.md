@@ -1,6 +1,8 @@
 ---
 title: "Theoretical Infrared Spectroscopy"
-subtitle: 
+subtitle:
+aliases: /content/theoretical-infrared-spectroscopy
+ 
 
 # Summary for listings and search engines
 summary: 

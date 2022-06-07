@@ -96,7 +96,5 @@ abstract: ' Community efforts in the computational molecular sciences (CMS) are 
   complex computations and provide best practices options by default.'
 publication: '*J. Chem. Phys.*, **155**, 204801 (2021)'
 doi: 10.1063/5.0059356
-links:
-- name: URL
-  url: https://doi.org/10.1063/5.0059356
+url_pdf: https://doi.org/10.1063/5.0059356
 ---

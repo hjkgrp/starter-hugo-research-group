@@ -1,6 +1,8 @@
 ---
 title: "Low-lying electronic states"
-subtitle: 
+subtitle:
+aliases: /content/low-lying-electronic-states
+ 
 
 # Summary for listings and search engines
 summary: 

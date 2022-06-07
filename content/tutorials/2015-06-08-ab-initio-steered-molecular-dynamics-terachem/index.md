@@ -1,6 +1,8 @@
 ---
 title: "Ab initio steered molecular dynamics with TeraChem"
-subtitle: 
+subtitle:
+aliases: /content/ab-initio-steered-molecular-dynamics-terachem
+ 
 
 # Summary for listings and search engines
 summary: 
