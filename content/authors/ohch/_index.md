@@ -21,7 +21,7 @@ interests:
 education:
   courses:
   - course: MS in Materials Science and Engineering
-    institution: MIT
+    institution: Massachusetts Institute of Technology
     year: 2022
   - course: BS in Materials Science and Engineering
     institution: Seoul National University
