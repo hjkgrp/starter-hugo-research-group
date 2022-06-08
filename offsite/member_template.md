@@ -10,9 +10,6 @@ organizations:
 - name: Massachusetts Institute of Technology
   url: ""
 
-# Short bio (displayed in user profile at end of posts)
-#bio: 
-
 interests:
 - {interest 1}
 - {interest 2}
