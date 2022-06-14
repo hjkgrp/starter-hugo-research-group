@@ -39,15 +39,15 @@ social:
 #  link: https://twitter.com/<username>
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/citations?user=Eq6VkpgAAAAJ&hl=en
-#- icon: github
-#  icon_pack: fab
-#  link: https://github.com/hjkgrp
+  link: https://scholar.google.com/citations?user=Eq6VkpgAAAAJ
+- icon: github
+  icon_pack: fab
+  link: https://github.com/dbkchu
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/CV_User.pdf` and uncomment the lines below.
-#- icon: cv
-#  icon_pack: ai
-#  link: files/CV_User.pdf
+- icon: cv
+  icon_pack: ai
+  link: files/CV_dbkc.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 #email: "dbkchu@mit.edu"
@@ -60,5 +60,9 @@ highlight_name: false
 user_groups:
 - Grad Students
 ---
-Daniel joined the group in December 2019 as a Ph.D. student in chemical engineering. His research will focus on density-based approaches to improving approximate DFT.
+Daniel joined the group in December 2019 as a Ph.D. student in chemical engineering. 
+He graduated from UC Santa Barbara with a B.S. in chemical engineering and a minor in physics. 
+As an undergraduate, Daniel primarily worked on modeling LaMer burst nucleation in the Peters group. 
+He became interested in electronic structure theory while using DFT for a computational study on CO<sub>2</sub> reduction catalysts in Martin Head-Gordon's group at UC Berkeley. 
+Daniel's current research in the Kulik group examines multireference character in approximate DFT and its relation to prediction error
 
