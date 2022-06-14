@@ -45,7 +45,7 @@ social:
   link: https://www.linkedin.com/in/adityanandy/
 - icon: github
   icon_pack: fab
-  link: https://github.com/hjkgrp
+  link: https://github.com/adityanandy
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/CV_Nandy.pdf` and uncomment the lines below.
 #- icon: cv
