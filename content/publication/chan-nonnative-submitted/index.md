@@ -7,9 +7,9 @@ summary: ''
 authors:
 - Natalie H. Chan
 - Christian Gomez
-- Vyshnavi Vennelakanti
+- vyshnavi
 - Qian Du
-- Heather J. Kulik
+- admin
 - Jared C. Lewis
 tags: []
 categories: []

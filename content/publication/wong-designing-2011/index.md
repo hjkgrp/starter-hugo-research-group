@@ -7,7 +7,7 @@ summary: ''
 authors:
 - Sergio E. Wong
 - Edmond Y. Lau
-- Heather J. Kulik
+- admin
 - Joseph H. Satcher
 - Carlos Valdez
 - Marcus Worsely

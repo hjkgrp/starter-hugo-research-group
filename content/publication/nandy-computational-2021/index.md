@@ -6,12 +6,12 @@ title: 'Computational Discovery of Transition-Metal Complexes: From High-through
 subtitle: ''
 summary: ''
 authors:
-- Aditya Nandy
-- Chenru Duan
+- nandy
+- crduan
 - Michael G. Taylor
 - Fang Liu
 - Adam H. Steeves
-- H. J. Kulik
+- admin
 tags: []
 categories: []
 date: '2021-01-01'

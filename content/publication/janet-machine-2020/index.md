@@ -6,7 +6,7 @@ subtitle: ''
 summary: ''
 authors:
 - Jon Paul Janet
-- Heather J. Kulik
+- admin
 tags:
 - '"Science / Chemistry / Computational & Molecular Modeling"'
 categories: []

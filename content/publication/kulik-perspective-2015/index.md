@@ -5,7 +5,7 @@ title: 'Perspective: Treating electron over-delocalization with the DFT+U method
 subtitle: ''
 summary: ''
 authors:
-- Heather J. Kulik
+- admin
 tags: []
 categories: []
 date: '2015-06-01'

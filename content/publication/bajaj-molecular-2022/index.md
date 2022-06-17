@@ -7,10 +7,10 @@ subtitle: ''
 summary: ''
 authors:
 - Akash Bajaj
-- Chenru Duan
-- Aditya Nandy
+- crduan
+- nandy
 - Michael G Taylor
-- Heather J. Kulik
+- admin
 tags: []
 categories: []
 date: '2022-01-01'

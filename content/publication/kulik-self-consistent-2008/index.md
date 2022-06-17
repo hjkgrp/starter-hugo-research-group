@@ -6,7 +6,7 @@ title: A self-consistent Hubbard U density-functional theory approach to the add
 subtitle: ''
 summary: ''
 authors:
-- Heather J. Kulik
+- admin
 - Nicola Marzari
 tags: []
 categories: []

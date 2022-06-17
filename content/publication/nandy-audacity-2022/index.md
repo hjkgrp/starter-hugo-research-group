@@ -6,9 +6,9 @@ title: 'Audacity of huge: overcoming challenges of data scarcity and data qualit
 subtitle: ''
 summary: ''
 authors:
-- Aditya Nandy
-- Chenru Duan
-- H. J. Kulik
+- nandy
+- crduan
+- admin
 tags: []
 categories: []
 date: '2022-01-01'

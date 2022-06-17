@@ -6,7 +6,7 @@ title: 'Developing an approach for first-principles catalyst design: application
 subtitle: ''
 summary: ''
 authors:
-- Heather J. Kulik
+- admin
 - S. E. Wong
 - S. E. Baker
 - C. A. Valdez

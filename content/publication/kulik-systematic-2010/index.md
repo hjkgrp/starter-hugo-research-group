@@ -6,7 +6,7 @@ title: 'Systematic study of first-row transition-metal diatomic molecules: A sel
 subtitle: ''
 summary: ''
 authors:
-- Heather J. Kulik
+- admin
 - Nicola Marzari
 tags: []
 categories: []

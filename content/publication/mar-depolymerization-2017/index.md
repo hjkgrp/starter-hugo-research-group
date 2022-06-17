@@ -7,7 +7,7 @@ subtitle: ''
 summary: ''
 authors:
 - Brendan D. Mar
-- Heather J. Kulik
+- admin
 tags: []
 categories: []
 date: '2017-01-01'

@@ -6,7 +6,7 @@ title: Making machine learning a useful tool in the accelerated discovery of tra
 subtitle: ''
 summary: ''
 authors:
-- Heather J. Kulik
+- admin
 tags:
 - '"machine learning"'
 - '"density functional theory"'

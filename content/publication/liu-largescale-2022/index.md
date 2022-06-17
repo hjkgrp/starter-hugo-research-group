@@ -9,10 +9,10 @@ authors:
 - Mingjie Liu
 - Azadeh Nazemi
 - Michael G. Taylor
-- Aditya Nandy
-- Chenru Duan
+- nandy
+- crduan
 - Adam H. Steeves
-- H. J. Kulik
+- admin
 tags: []
 categories: []
 date: '2022-01-01'

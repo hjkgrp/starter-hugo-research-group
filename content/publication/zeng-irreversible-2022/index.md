@@ -20,7 +20,7 @@ authors:
 - Pingwei Liu
 - Albert Tianxiang Liu
 - Jingfan Yang
-- Heather J. Kulik
+- admin
 - Michael S. Strano
 tags:
 - '"Condensed Matter - Materials Science"'

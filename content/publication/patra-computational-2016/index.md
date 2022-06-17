@@ -8,7 +8,7 @@ summary: ''
 authors:
 - Niladri Patra
 - Efthymios I. Ioannidis
-- Heather J. Kulik
+- admin
 tags:
 - '"Anions"'
 - '"Catecholamines"'

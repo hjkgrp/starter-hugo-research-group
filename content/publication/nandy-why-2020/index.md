@@ -6,8 +6,8 @@ title: Why Conventional Design Rules for C–H Activation Fail for Open-Shell Tr
 subtitle: ''
 summary: ''
 authors:
-- Aditya Nandy
-- Heather J. Kulik
+- nandy
+- admin
 tags: []
 categories: []
 date: '2020-12-01'

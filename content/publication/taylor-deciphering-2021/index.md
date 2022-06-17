@@ -7,9 +7,9 @@ subtitle: ''
 summary: ''
 authors:
 - Michael G. Taylor
-- Aditya Nandy
+- nandy
 - Connie C. Lu
-- H. J. Kulik
+- admin
 tags: []
 categories: []
 date: '2021-01-01'

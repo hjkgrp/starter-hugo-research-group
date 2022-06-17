@@ -7,10 +7,10 @@ subtitle: ''
 summary: ''
 authors:
 - Jon Paul Janet
-- Chenru Duan
+- crduan
 - Tzuhsiung Yang
-- Aditya Nandy
-- Heather J. Kulik
+- nandy
+- admin
 tags: []
 categories: []
 date: '2019-01-01'

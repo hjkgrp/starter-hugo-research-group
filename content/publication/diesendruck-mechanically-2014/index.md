@@ -7,7 +7,7 @@ summary: ''
 authors:
 - Charles E. Diesendruck
 - Gregory I. Peterson
-- Heather J. Kulik
+- admin
 - Joshua A. Kaitz
 - Brendan D. Mar
 - Preston A. May

@@ -5,7 +5,7 @@ title: Electronic Structure and Reactivity of Transition Metal Complexes
 subtitle: ''
 summary: ''
 authors:
-- Heather J. Kulik
+- admin
 - Nicola Marzari
 tags:
 - '"electronic structure and transition metal complex reactivity"'

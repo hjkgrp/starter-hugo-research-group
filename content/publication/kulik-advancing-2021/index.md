@@ -6,7 +6,7 @@ title: 'Advancing Discovery in Chemistry with Artificial Intelligence: From Reac
 subtitle: ''
 summary: ''
 authors:
-- Heather J. Kulik
+- admin
 - Matthew S. Sigman
 tags: []
 categories: []

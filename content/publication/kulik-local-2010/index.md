@@ -5,7 +5,7 @@ title: Local Effects in the X-ray Absorption Spectrum of Salt Water
 subtitle: ''
 summary: ''
 authors:
-- Heather J. Kulik
+- admin
 - Nicola Marzari
 - Alfredo A. Correa
 - David Prendergast

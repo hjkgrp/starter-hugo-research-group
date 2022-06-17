@@ -6,14 +6,14 @@ subtitle: ''
 summary: ''
 authors:
 - Seyed Mohamad Moosavi
-- Aditya Nandy
+- nandy
 - Kevin Maik Jablonka
 - Daniele Ongari
 - Jon Paul Janet
 - Peter G. Boyd
 - Yongjin Lee
 - Berend Smit
-- Heather J. Kulik
+- admin
 tags: []
 categories: []
 date: '2020-08-01'

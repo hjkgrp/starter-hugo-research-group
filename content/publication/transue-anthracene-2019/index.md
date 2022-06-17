@@ -18,7 +18,7 @@ authors:
 - Pierre Kennepohl
 - Jonathan S. Owen
 - Simon J. L. Billinge
-- Heather J. Kulik
+- admin
 - Christopher C. Cummins
 tags: []
 categories: []

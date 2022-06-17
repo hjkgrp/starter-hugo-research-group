@@ -6,11 +6,11 @@ title: Machine learning models predict calculation outcomes with the transferabi
 subtitle: ''
 summary: ''
 authors:
-- Chenru Duan
-- Aditya Nandy
-- Husain Adamji
+- crduan
+- nandy
+- hadamji
 - Yuriy Roman-Leshkov
-- H. J. Kulik
+- admin
 tags: []
 categories: []
 date: 0-01-01

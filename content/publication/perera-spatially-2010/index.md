@@ -7,7 +7,7 @@ subtitle: ''
 summary: ''
 authors:
 - U. G. E. Perera
-- Heather J. Kulik
+- admin
 - V. Iancu
 - L. G. G. V. Dias da Silva
 - S. E. Ulloa

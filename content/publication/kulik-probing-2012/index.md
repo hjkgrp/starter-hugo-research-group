@@ -6,7 +6,7 @@ title: Probing the Structure of Salt Water under Confinement with First-Principl
 subtitle: ''
 summary: ''
 authors:
-- Heather J. Kulik
+- admin
 - Eric Schwegler
 - Giulia Galli
 tags: []

@@ -7,11 +7,11 @@ subtitle: ''
 summary: ''
 authors:
 - Daniel R. Harper
-- Aditya Nandy
-- Naveen Arunachalam
-- Chenru Duan
+- nandy
+- narunach
+- crduan
 - Jon Paul Janet
-- H. J. Kulik
+- admin
 tags: []
 categories: []
 date: '2022-01-01'

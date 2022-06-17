@@ -7,7 +7,7 @@ subtitle: ''
 summary: ''
 authors:
 - Xiao Su
-- Heather J. Kulik
+- admin
 - Timothy F. Jamison
 - T. Alan Hatton
 tags:

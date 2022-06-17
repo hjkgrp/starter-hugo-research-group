@@ -6,11 +6,11 @@ title: 'Harder, better, faster, stronger: large-scale QM and QM/MM for predictiv
 subtitle: ''
 summary: ''
 authors:
-- Vyshnavi Vennelakanti
+- vyshnavi
 - Azadeh Nazemi
 - Rimsha Mehmood
 - Adam H. Steeves
-- Heather J. Kulik
+- admin
 tags:
 - '"Physics - Biological Physics"'
 - '"Physics - Chemical Physics"'

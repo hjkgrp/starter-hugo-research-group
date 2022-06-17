@@ -6,11 +6,11 @@ title: Strategies and Software for Machine Learning Accelerated Discovery in Tra
 subtitle: ''
 summary: ''
 authors:
-- Aditya Nandy
-- Chenru Duan
+- nandy
+- crduan
 - Jon Paul Janet
 - Stefan Gugler
-- Heather J. Kulik
+- admin
 tags: []
 categories: []
 date: '2018-10-01'

@@ -6,10 +6,10 @@ title: Putting Density Functional Theory to the Test in Machine-Learning-Acceler
 subtitle: ''
 summary: ''
 authors:
-- Chenru Duan
+- crduan
 - Fang Liu
-- Aditya Nandy
-- H. J. Kulik
+- nandy
+- admin
 tags: []
 categories: []
 date: '2021-01-01'

@@ -5,7 +5,7 @@ title: Modeling Mechanochemistry from First Principles
 subtitle: ''
 summary: ''
 authors:
-- Heather J. Kulik
+- admin
 tags:
 - '"chemical transformation"'
 - '"computational methodology"'

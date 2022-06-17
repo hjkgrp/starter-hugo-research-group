@@ -13,7 +13,7 @@ authors:
 - Maanasa Narayanamoorthy
 - Chaoxiang Ren
 - Jan Paulo T. Zaragoza
-- Heather J. Kulik
+- admin
 - Wenjun Zhang
 - Catherine L. Drennan
 tags:

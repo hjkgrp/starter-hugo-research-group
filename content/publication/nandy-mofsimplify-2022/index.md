@@ -6,12 +6,12 @@ title: MOFSimplify, machine learning models with extracted stability data of thr
 subtitle: ''
 summary: ''
 authors:
-- Aditya Nandy
-- Gianmarco Terrones
-- Naveen Arunachalam
-- Chenru Duan
-- David W. Kastner
-- H. J. Kulik
+- nandy
+- gterrone
+- narunach
+- crduan
+- kastner
+- admin
 tags: []
 categories: []
 date: '2022-01-01'

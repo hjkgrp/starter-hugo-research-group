@@ -5,7 +5,7 @@ title: Ab Initio Quantum Chemistry for Protein Structures
 subtitle: ''
 summary: ''
 authors:
-- Heather J. Kulik
+- admin
 - Nathan Luehr
 - Ivan S. Ufimtsev
 - Todd J. Martinez

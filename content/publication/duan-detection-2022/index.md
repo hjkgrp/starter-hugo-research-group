@@ -6,10 +6,10 @@ title: Detection of multi-reference character imbalances enables a transfer lear
 subtitle: ''
 summary: ''
 authors:
-- Chenru Duan
-- Daniel B. K. Chu
-- Aditya Nandy
-- H. J. Kulik
+- crduan
+- dbkchu
+- nandy
+- admin
 tags: []
 categories: []
 date: '2022-01-01'

@@ -7,7 +7,7 @@ subtitle: ''
 summary: ''
 authors:
 - Efthymios I. Ioannidis
-- Heather J. Kulik
+- admin
 tags: []
 categories: []
 date: '2015-07-01'

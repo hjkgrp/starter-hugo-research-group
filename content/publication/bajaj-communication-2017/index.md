@@ -8,7 +8,7 @@ summary: ''
 authors:
 - Akash Bajaj
 - Jon Paul Janet
-- Heather J. Kulik
+- admin
 tags: []
 categories: []
 date: '2017-11-01'

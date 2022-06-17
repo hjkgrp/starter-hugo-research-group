@@ -6,11 +6,11 @@ title: Machine learning to tame divergent density functional approximations a ne
 subtitle: ''
 summary: ''
 authors:
-- Chenru Duan
+- crduan
 - Shuxin Chen
 - Michael G. Taylor
 - Fang Liu
-- H. J. Kulik
+- admin
 tags: []
 categories: []
 date: '2021-01-01'

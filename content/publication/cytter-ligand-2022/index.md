@@ -6,10 +6,10 @@ title: Ligand Additivity and Divergent Trends in Two Types of Delocalization Err
 subtitle: ''
 summary: ''
 authors:
-- Yael Cytter
-- Aditya Nandy
+- yaelc
+- nandy
 - Akash Bajaj
-- H. J. Kulik
+- admin
 tags: []
 categories: []
 date: 2022-01-01

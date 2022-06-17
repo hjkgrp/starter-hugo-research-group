@@ -7,7 +7,7 @@ subtitle: ''
 summary: ''
 authors:
 - Michael G. Taylor
-- H. J. Kulik
+- admin
 tags: []
 categories: []
 date: '2021-01-01'

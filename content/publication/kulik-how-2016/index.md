@@ -6,7 +6,7 @@ title: How Large Should the QM Region Be in QM/MM Calculations? The Case of Cate
 subtitle: ''
 summary: ''
 authors:
-- Heather J. Kulik
+- admin
 - Jianyu Zhang
 - Judith P. Klinman
 - Todd J. Martínez

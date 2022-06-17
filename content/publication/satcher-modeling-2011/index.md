@@ -8,7 +8,7 @@ summary: ''
 authors:
 - J. H. Satcher
 - S. E. Baker
-- Heather J. Kulik
+- admin
 - C. A. Valdez
 - R. L. Krueger
 - Felice C. Lightstone

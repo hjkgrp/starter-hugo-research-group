@@ -11,9 +11,9 @@ authors:
 - Lindsey R. F. Backman
 - Chip Le
 - Jennifer X. Wang
-- Vyshnavi Vennelakanti
+- vyshnavi
 - Zhongyue Yang
-- Heather J. Kulik
+- admin
 - Catherine L. Drennan
 - Emily P. Balskus
 tags:

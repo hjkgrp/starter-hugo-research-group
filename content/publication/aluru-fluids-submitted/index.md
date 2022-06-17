@@ -16,7 +16,7 @@ authors:
 - John T. Fourkas
 - Volodymyr B. Koman
 - Matthias Kuehne
-- H. J. Kulik
+- admin
 - Hao-Kun Li
 - Zhongwu Li
 - Arun Majumdar

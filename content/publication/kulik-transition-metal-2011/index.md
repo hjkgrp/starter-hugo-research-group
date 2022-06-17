@@ -6,7 +6,7 @@ title: 'Transition-metal dioxides: A case for the intersite term in Hubbard-mode
 subtitle: ''
 summary: ''
 authors:
-- Heather J. Kulik
+- admin
 - Nicola Marzari
 tags: []
 categories: []

@@ -6,9 +6,9 @@ title: Using Machine Learning and Data Mining to Leverage Community Knowledge fo
 subtitle: ''
 summary: ''
 authors:
-- Aditya Nandy
-- Chenru Duan
-- H. J. Kulik
+- nandy
+- crduan
+- admin
 tags: []
 categories: []
 date: '2021-01-01'
