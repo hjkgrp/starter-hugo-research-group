@@ -2,6 +2,10 @@
 # Display name
 title: Daniel B. K. Chu
 
+# Username (this should match the folder name)
+authors:
+  - dbkchu
+
 # Is this the primary user of the site?
 
 # Role/position

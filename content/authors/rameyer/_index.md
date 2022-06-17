@@ -2,6 +2,10 @@
 # Display name
 title: Ralf Meyer
 
+# Username (this should match the folder name)
+authors:
+  - rameyer
+
 # Is this the primary user of the site?
 
 # Role/position

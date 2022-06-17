@@ -2,6 +2,10 @@
 # Display name
 title: Changhwan Oh
 
+# Username (this should match the folder name)
+authors:
+  - ohch
+
 # Role/position
 role: Graduate Student
 

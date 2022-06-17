@@ -2,6 +2,10 @@
 # Display name
 title: Chenru Duan
 
+# Username (this should match the folder name)
+authors:
+  - crduan
+
 # Is this the primary user of the site?
 
 # Role/position

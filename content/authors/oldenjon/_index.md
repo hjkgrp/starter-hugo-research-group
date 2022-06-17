@@ -2,6 +2,10 @@
 # Display name
 title: Jonas Oldenstaedt
 
+# Username (this should match the folder name)
+authors:
+  - oldenjon
+
 # Is this the primary user of the site?
 
 # Role/position

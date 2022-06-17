@@ -2,6 +2,8 @@
 # Display name
 title: Husain Adamji
 
+authors: hadamji
+
 # Is this the primary user of the site?
 
 # Role/position

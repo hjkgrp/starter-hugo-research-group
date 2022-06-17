@@ -2,6 +2,10 @@
 # Display name
 title: Allison Keys
 
+# Username (this should match the folder name)
+authors:
+  - allikeys
+
 # Is this the primary user of the site?
 
 # Role/position

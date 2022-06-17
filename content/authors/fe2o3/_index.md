@@ -2,6 +2,10 @@
 # Display name
 title: Freya Edholm
 
+# Username (this should match the folder name)
+authors:
+  - fe2o3
+
 # Is this the primary user of the site?
 
 # Role/position

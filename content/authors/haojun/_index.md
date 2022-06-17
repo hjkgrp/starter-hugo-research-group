@@ -2,6 +2,10 @@
 # Display name
 title: Haojun Jia
 
+# Username (this should match the folder name)
+authors:
+  - haojun
+
 # Is this the primary user of the site?
 
 # Role/position

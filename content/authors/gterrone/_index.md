@@ -2,6 +2,10 @@
 # Display name
 title: Gianmarco Terrones
 
+# Username (this should match the folder name)
+authors:
+  - gterrone
+
 # Is this the primary user of the site?
 
 # Role/position

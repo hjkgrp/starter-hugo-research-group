@@ -2,6 +2,8 @@
 # Display name
 title: Naveen Arunachalam
 
+authors: narunach
+
 # Is this the primary user of the site?
 
 # Role/position

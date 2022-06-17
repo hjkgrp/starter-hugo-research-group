@@ -2,6 +2,10 @@
 # Display name
 title: Mugyeom Jeon
 
+# Username (this should match the folder name)
+authors:
+  - mckaylj
+
 # Is this the primary user of the site?
 
 # Role/position

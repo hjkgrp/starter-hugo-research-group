@@ -2,6 +2,10 @@
 # Display name
 title: Yael Cytter
 
+# Username (this should match the folder name)
+authors:
+  - yaelc
+
 # Is this the primary user of the site?
 
 # Role/position

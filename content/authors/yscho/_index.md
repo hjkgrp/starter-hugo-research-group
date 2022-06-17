@@ -2,6 +2,10 @@
 # Display name
 title: Yeongsu Cho
 
+# Username (this should match the folder name)
+authors:
+  - yscho
+
 # Is this the primary user of the site?
 
 # Role/position
