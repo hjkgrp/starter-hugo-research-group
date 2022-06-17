@@ -5,6 +5,9 @@ title: {your name}
 # Role/position
 role: {Graduate Student|Postdoctoral Associate|Course {MIT course numeral} UROP|Masters Student}
 
+# Is this the primary user of the site?
+superuser: false
+
 # Organizations/Affiliations
 organizations:
 - name: Massachusetts Institute of Technology
