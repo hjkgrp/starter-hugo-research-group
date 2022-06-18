@@ -1,8 +1,9 @@
 {{ $item := .item }}
 {{ $has_attachments := partial "functions/has_attachments" $item }}
 
-<div class="pub-list-item view-citation" style="margin-bottom: 1rem">
-  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+<div class="pub-list-item view-citation" style="margin-bottom: 1rem; margin-left: 2em">
+  <li>
+  <!-- <i class="far fa-file-alt pub-icon" aria-hidden="true"></i> -->
 
   {{/* APA Style */}}
   {{ if eq (site.Params.publications.citation_style | default "apa") "apa" }}
@@ -38,4 +39,5 @@
   {{ end }}
 
   {{ end }}
+  </li>
 </div>
