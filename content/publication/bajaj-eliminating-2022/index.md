@@ -7,7 +7,7 @@ subtitle: ''
 summary: ''
 authors:
 - Akash Bajaj
-- H. J. Kulik
+- admin
 tags: []
 categories: []
 date: '2022-01-01'

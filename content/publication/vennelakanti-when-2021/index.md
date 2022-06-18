@@ -6,10 +6,10 @@ title: When are two hydrogen bonds better than one? Accurate first-principles mo
 subtitle: ''
 summary: ''
 authors:
-- Vyshnavi Vennelakanti
+- vyshnavi
 - Helena W. Qi
 - Rimsha Mehmood
-- Heather J. Kulik
+- admin
 tags: []
 categories: []
 date: '2021-01-01'

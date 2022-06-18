@@ -9,10 +9,10 @@ authors:
 - Michael G. Taylor
 - Tzuhsiung Yang
 - Sean Lin
-- Aditya Nandy
+- nandy
 - Jon Paul Janet
-- Chenru Duan
-- Heather J. Kulik
+- crduan
+- admin
 tags: []
 categories: []
 date: '2020-04-01'

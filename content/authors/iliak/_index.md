@@ -2,7 +2,12 @@
 # Display name
 title: Ilia Kevlishvili
 
+# Username (this should match the folder name)
+authors:
+  - iliak
+
 # Is this the primary user of the site?
+superuser: false
 
 # Role/position
 role: Postdoctoral Associate

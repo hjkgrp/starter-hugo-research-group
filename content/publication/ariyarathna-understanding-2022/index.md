@@ -6,9 +6,9 @@ title: Understanding the chemical bonding of ground and excited states of HfO an
 subtitle: ''
 summary: ''
 authors:
-- Isuru Ariyarathna
-- Chenru Duan
-- Heather J. Kulik
+- isuru
+- crduan
+- admin
 tags: []
 categories: []
 date: '2022-01-01'

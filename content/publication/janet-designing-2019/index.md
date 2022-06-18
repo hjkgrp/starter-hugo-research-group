@@ -8,11 +8,11 @@ summary: ''
 authors:
 - Jon Paul Janet
 - Fang Liu
-- Aditya Nandy
-- Chenru Duan
+- nandy
+- crduan
 - Tzuhsiung Yang
 - Sean Lin
-- Heather J. Kulik
+- admin
 tags: []
 categories: []
 date: '2019-08-01'

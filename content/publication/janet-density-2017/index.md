@@ -9,7 +9,7 @@ authors:
 - Jon Paul Janet
 - Qing Zhao
 - Efthymios I. Ioannidis
-- Heather J. Kulik
+- admin
 tags:
 - '"transition metals"'
 - '"Density functional theory"'

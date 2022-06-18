@@ -1,6 +1,13 @@
 ---
 # Display name
-title: Prof. Heather J. Kulik
+title: Heather J. Kulik
+
+# Username (this should match the folder name)
+authors:
+  - admin
+
+aliases:
+  - /author/prof.-heather-j.-kulik
 
 # Is this the primary user of the site?
 superuser: true

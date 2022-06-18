@@ -5,7 +5,7 @@ title: Roadmap on Machine Learning in Electronic Structure
 subtitle: ''
 summary: ''
 authors:
-- Heather Kulik
+- admin
 - Thomas Hammerschmidt
 - Jonathan Schmidt
 - Silvana Botti

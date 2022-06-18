@@ -6,7 +6,7 @@ title: Large-scale QM/MM free energy simulations of enzyme catalysis reveal the 
 subtitle: ''
 summary: ''
 authors:
-- Heather J. Kulik
+- admin
 tags: []
 categories: []
 date: '2018-01-01'

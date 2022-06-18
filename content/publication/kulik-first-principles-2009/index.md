@@ -5,7 +5,7 @@ title: First-Principles Study of Non-heme Fe(II) Halogenase SyrB2 Reactivity
 subtitle: ''
 summary: ''
 authors:
-- Heather J. Kulik
+- admin
 - Leah C. Blasiak
 - Nicola Marzari
 - Catherine L. Drennan

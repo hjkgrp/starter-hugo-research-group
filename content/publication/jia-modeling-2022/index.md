@@ -6,10 +6,10 @@ title: Modeling the roles of rigidity and dopants in single-atom methane-to-meth
 subtitle: ''
 summary: ''
 authors:
-- Haojun Jia
-- Aditya Nandy
+- haojun
+- nandy
 - Mingjie Liu
-- H. J. Kulik
+- admin
 tags: []
 categories: []
 date: '2022-01-01'

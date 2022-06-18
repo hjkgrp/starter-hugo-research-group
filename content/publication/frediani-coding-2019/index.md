@@ -7,7 +7,7 @@ summary: ''
 authors:
 - Luca Frediani
 - Oliviero Andreussi
-- Heather J. Kulik
+- admin
 tags: []
 categories: []
 date: '2019-01-01'

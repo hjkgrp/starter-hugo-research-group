@@ -17,7 +17,7 @@ authors:
 - Razi Epsztein
 - John T. Fourkas
 - Ananth Govind Rajan
-- Heather J. Kulik
+- admin
 - Amir Levy
 - Arun Majumdar
 - Charles Martin

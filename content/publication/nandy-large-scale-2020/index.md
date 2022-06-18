@@ -6,13 +6,13 @@ title: Large-scale comparison of 3d and 4d transition metal complexes illuminate
 subtitle: ''
 summary: ''
 authors:
-- Aditya Nandy
-- Daniel B. K. Chu
+- nandy
+- dbkchu
 - Daniel R. Harper
-- Chenru Duan
-- Naveen Arunachalam
-- Yael Cytter
-- Heather J. Kulik
+- crduan
+- narunach
+- yaelc
+- admin
 tags: []
 categories: []
 date: '2020-01-01'

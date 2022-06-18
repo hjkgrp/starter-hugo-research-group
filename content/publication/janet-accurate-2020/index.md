@@ -8,8 +8,8 @@ summary: ''
 authors:
 - Jon Paul Janet
 - Sahasrajit Ramesh
-- Chenru Duan
-- Heather J. Kulik
+- crduan
+- admin
 tags: []
 categories: []
 date: '2020-04-01'

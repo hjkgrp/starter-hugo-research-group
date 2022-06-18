@@ -6,10 +6,10 @@ title: Semi-supervised Machine Learning Enables the Robust Detection of Multiref
 subtitle: ''
 summary: ''
 authors:
-- Chenru Duan
+- crduan
 - Fang Liu
-- Aditya Nandy
-- Heather J. Kulik
+- nandy
+- admin
 tags: []
 categories: []
 date: '2020-08-01'

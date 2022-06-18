@@ -6,7 +6,7 @@ subtitle: ''
 summary: ''
 authors:
 - Maria Karelina
-- Heather J. Kulik
+- admin
 tags: []
 categories: []
 date: '2017-02-01'

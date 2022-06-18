@@ -2,6 +2,13 @@
 # Display name
 title: Changhwan Oh
 
+# Username (this should match the folder name)
+authors:
+  - ohch
+
+# Is this the primary user of the site?
+superuser: false
+
 # Role/position
 role: Graduate Student
 

@@ -2,7 +2,12 @@
 # Display name
 title: Daniel B. K. Chu
 
+# Username (this should match the folder name)
+authors:
+  - dbkchu
+
 # Is this the primary user of the site?
+superuser: false
 
 # Role/position
 role: Graduate Student

@@ -6,12 +6,12 @@ title: Machine Learning Accelerates the Discovery of Design Rules and Exceptions
 subtitle: ''
 summary: ''
 authors:
-- Aditya Nandy
+- nandy
 - Jiazhou Zhu
 - Jon Paul Janet
-- Chenru Duan
+- crduan
 - Rachel B. Getman
-- Heather J. Kulik
+- admin
 tags: []
 categories: []
 date: '2019-09-01'

@@ -6,7 +6,7 @@ subtitle: ''
 summary: ''
 authors:
 - Jianyu Zhang
-- Heather J. Kulik
+- admin
 - Todd J. Martinez
 - Judith P. Klinman
 tags: []

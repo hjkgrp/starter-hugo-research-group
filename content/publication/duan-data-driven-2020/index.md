@@ -6,10 +6,10 @@ title: Data-Driven Approaches Can Overcome the Cost–Accuracy Trade-Off in Mult
 subtitle: ''
 summary: ''
 authors:
-- Chenru Duan
+- crduan
 - Fang Liu
-- Aditya Nandy
-- Heather J. Kulik
+- nandy
+- admin
 tags: []
 categories: []
 date: '2020-07-01'

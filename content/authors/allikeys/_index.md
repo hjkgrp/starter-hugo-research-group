@@ -2,7 +2,12 @@
 # Display name
 title: Allison Keys
 
+# Username (this should match the folder name)
+authors:
+  - allikeys
+
 # Is this the primary user of the site?
+superuser: false
 
 # Role/position
 role: Graduate Student

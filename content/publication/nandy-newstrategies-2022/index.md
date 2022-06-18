@@ -6,10 +6,10 @@ title: New Strategies for Direct Methane-to-Methanol Conversion from Active Lear
 subtitle: ''
 summary: ''
 authors:
-- Aditya Nandy
-- Chenru Duan
+- nandy
+- crduan
 - Conrad Goffinet
-- Heather J. Kulik
+- admin
 tags: []
 categories: []
 date: 2022-01-01

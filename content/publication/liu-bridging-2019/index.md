@@ -11,7 +11,7 @@ authors:
 - Jing Yang
 - Eve Xu
 - Akash Bajaj
-- Heather J. Kulik
+- admin
 tags:
 - '"Catalysis"'
 - '"Density Functional Theory"'

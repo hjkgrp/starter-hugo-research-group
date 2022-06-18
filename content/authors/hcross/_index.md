@@ -2,7 +2,12 @@
 # Display name
 title: Hannah Cross
 
+# Username (this should match the folder name)
+authors:
+  - hcross
+
 # Is this the primary user of the site?
+superuser: false
 
 # Role/position
 role: Administrative Assistant

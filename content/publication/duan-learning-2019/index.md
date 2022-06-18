@@ -6,11 +6,11 @@ title: 'Learning from Failure: Predicting Electronic Structure Calculation Outco
 subtitle: ''
 summary: ''
 authors:
-- Chenru Duan
+- crduan
 - Jon Paul Janet
 - Fang Liu
-- Aditya Nandy
-- Heather J. Kulik
+- nandy
+- admin
 tags: []
 categories: []
 date: '2019-04-01'

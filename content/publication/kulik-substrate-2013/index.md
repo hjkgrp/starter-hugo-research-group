@@ -6,7 +6,7 @@ title: Substrate Placement Influences Reactivity in Non-heme Fe(II) Halogenases 
 subtitle: ''
 summary: ''
 authors:
-- Heather J. Kulik
+- admin
 - Catherine L. Drennan
 tags:
 - '"Ab Initio"'

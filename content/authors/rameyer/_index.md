@@ -2,7 +2,12 @@
 # Display name
 title: Ralf Meyer
 
+# Username (this should match the folder name)
+authors:
+  - rameyer
+
 # Is this the primary user of the site?
+superuser: false
 
 # Role/position
 role: Postdoctoral Associate

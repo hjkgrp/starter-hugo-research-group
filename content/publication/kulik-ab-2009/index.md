@@ -6,7 +6,7 @@ title: Ab initio investigation of high multiplicity Σ+–Σ+ optical transition
 subtitle: ''
 summary: ''
 authors:
-- Heather J. Kulik
+- admin
 - Adam H. Steeves
 - Robert W. Field
 tags:

@@ -5,9 +5,9 @@ title: Machine Learning for the Discovery, Design, and Engineering of Materials
 subtitle: ''
 summary: ''
 authors:
-- Chenru Duan
-- Aditya Nandy
-- H. J. Kulik
+- crduan
+- nandy
+- admin
 tags: []
 categories: []
 date: '2022-01-01'

@@ -8,10 +8,10 @@ authors:
 - Christopher Brown
 - David Lundberg
 - Jessica Lamb
-- Ilia Kevlishvili
+- iliak
 - Denise Kleinschmidt
 - Yasmeen Alfaraj
-- H. J. Kulik
+- admin
 - Maria Ottaviani
 - Nathan Oldenhuis
 - Jeremiah Johnson

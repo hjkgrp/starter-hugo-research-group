@@ -5,7 +5,7 @@ title: What's Left for a Computational Chemist To Do in the Age of Machine Learn
 subtitle: ''
 summary: ''
 authors:
-- Heather J. Kulik
+- admin
 tags:
 - '"computational chemistry"'
 - '"density functional calculations"'

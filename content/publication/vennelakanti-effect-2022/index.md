@@ -6,9 +6,9 @@ title: The Effect of Hartree-Fock Exchange on Scaling Relations and Reaction Ene
 subtitle: ''
 summary: ''
 authors:
-- Vyshnavi Vennelakanti
-- Aditya Nandy
-- Heather J. Kulik
+- vyshnavi
+- nandy
+- admin
 tags: []
 categories: []
 date: '2021-06-01'

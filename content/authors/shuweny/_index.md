@@ -2,7 +2,12 @@
 # Display name
 title: Shuwen Yue
 
+# Username (this should match the folder name)
+authors:
+  - shuweny
+
 # Is this the primary user of the site?
+superuser: false
 
 # Role/position
 role: Postdoctoral Associate

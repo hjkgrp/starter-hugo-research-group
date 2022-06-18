@@ -7,7 +7,7 @@ summary: ''
 authors:
 - Efthymios I. Ioannidis
 - Terry Z. H. Gani
-- Heather J. Kulik
+- admin
 tags:
 - '"high-throughput screening"'
 - '"chemical discovery"'

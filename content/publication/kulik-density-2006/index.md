@@ -6,7 +6,7 @@ title: 'Density Functional Theory in Transition-Metal Chemistry: A Self-Consiste
 subtitle: ''
 summary: ''
 authors:
-- Heather J. Kulik
+- admin
 - Matteo Cococcioni
 - Damian A. Scherlis
 - Nicola Marzari

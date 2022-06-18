@@ -5,7 +5,7 @@ title: Accurate potential energy surfaces with a DFT+U(R) approach
 subtitle: ''
 summary: ''
 authors:
-- Heather J. Kulik
+- admin
 - Nicola Marzari
 tags: []
 categories: []

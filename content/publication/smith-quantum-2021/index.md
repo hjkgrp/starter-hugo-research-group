@@ -40,7 +40,7 @@ authors:
 - Jamshed Anwar
 - John D. Chodera
 - Andreas Dreuw
-- Heather J. Kulik
+- admin
 - Fang Liu
 - Todd J. Martínez
 - Devin A. Matthews

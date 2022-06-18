@@ -6,7 +6,7 @@ title: Adapting DFT+U for the Chemically Motivated Correction of Minimal Basis S
 subtitle: ''
 summary: ''
 authors:
-- Heather J. Kulik
+- admin
 - Natasha Seelam
 - Brendan D. Mar
 - Todd J. Martínez

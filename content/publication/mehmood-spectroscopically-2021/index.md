@@ -7,8 +7,8 @@ subtitle: ''
 summary: ''
 authors:
 - Rimsha Mehmood
-- Vyshnavi Vennelakanti
-- H. J. Kulik
+- vyshnavi
+- admin
 tags: []
 categories: []
 date: '2021-01-01'
