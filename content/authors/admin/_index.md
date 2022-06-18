@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Prof. Heather J. Kulik
+title: Heather J. Kulik
 
 # Username (this should match the folder name)
 authors:
