@@ -16,7 +16,7 @@ main:
     url: people
     weight: 30
   - name: Prof. Kulik
-    url: author/prof.-heather-j.-kulik
+    url: author/heather-j.-kulik
     parent: group
     weight: 10
   - name: Group Members

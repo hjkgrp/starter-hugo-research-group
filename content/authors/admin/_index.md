@@ -6,6 +6,9 @@ title: Heather J. Kulik
 authors:
   - admin
 
+aliases:
+  - /author/prof.-heather-j.-kulik
+
 # Is this the primary user of the site?
 superuser: true
 
