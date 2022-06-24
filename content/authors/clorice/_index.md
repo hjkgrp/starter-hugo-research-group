@@ -4,7 +4,7 @@ title: Clorice Reinhardt
 
 # Username (this should match the folder name)
 authors:
-  - allikeys
+  - clorice
 
 # Role/position
 role: Postdoctoral Associate
