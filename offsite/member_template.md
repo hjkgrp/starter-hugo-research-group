@@ -2,6 +2,10 @@
 # Display name
 title: {your name}
 
+# Username (this should match the folder name)
+authors:
+  - {kerberos}
+
 # Role/position
 role: {Graduate Student|Postdoctoral Associate|Course {MIT course numeral} UROP|Masters Student}
 
@@ -30,8 +34,8 @@ education:
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
 # - icon: envelope
-#  icon_pack: fas
-#  link: '{email}'
+#   icon_pack: fas
+#   link: 'mailto:{kerberos} AT mit DOT edu'
 # - icon: twitter
 #   icon_pack: fab
 #   link: https://twitter.com/{twitter handle}
@@ -45,7 +49,7 @@ social:
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
 #   icon_pack: ai
-#   link: files/{cv filename}
+#   link: files/CV_{initials}.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
