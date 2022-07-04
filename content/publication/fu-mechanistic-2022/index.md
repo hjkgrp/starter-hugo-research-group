@@ -14,8 +14,8 @@ authors:
 - Emily P. Balskus
 tags: []
 categories: []
-date: 0-01-01
-lastmod: 2022-05-09T18:07:42-04:00
+date: '2022-06-15'
+lastmod: 2022-07-04T18:09:20-04:00
 featured: false
 draft: false
 
@@ -33,9 +33,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-05-09T22:07:42.691655Z'
+publishDate: '2022-07-04T22:09:20.151788Z'
 publication_types:
-- '3'
+- '2'
 abstract: 'Gut microbial decarboxylation of amino acid-derived arylacetates is a chemically
   challenging enzymatic transformation which generates small molecules that impact
   host physiology. The glycyl radical enzyme (GRE) indoleacetate decarboxylase from
@@ -52,5 +52,9 @@ abstract: 'Gut microbial decarboxylation of amino acid-derived arylacetates is a
   by GRE decarboxylases and non-oxidative decarboxylases, more broadly. Elucidating
   the mechanism of IAD decarboxylation enhances our understanding of radical enzymes
   and may inform downstream efforts to modulate this disease-associated metabolism.'
-publication: '*submitted*'
+publication: '*J. Am. Chem. Soc.*, **144**, 11110--11119 (2022)'
+doi: 10.1021/jacs.1c13580
+links:
+- name: URL
+  url: https://pubs.acs.org/doi/10.1021/jacs.1c13580
 ---
