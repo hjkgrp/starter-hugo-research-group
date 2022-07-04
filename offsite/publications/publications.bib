@@ -123,12 +123,13 @@ https://doi.org/10.1063/5.0089460
  year = {2020}
 }
 
-@article{brown_plugandplay_submitted,
+@article{brown_plugandplay_2022,
  abstract = {The immobilization of homogeneous catalysts onto solid supports to improve recyclability while maintaining catalytic efficiency is often a trial-and-error process limited by poor control of the local catalyst environment and few strategies to append catalysts to support materials. Here, we introduce a modular heterogenous catalysis platform that addresses these challenges. Our approach leverages the well-defined interiors of self-assembled Pd12L24 metal–organic cages/polyhedra (MOCs): through a combination of catalyst-ligands, polymeric ligands, and spacer ligands, we demonstrate facile self-assembly of novel acetylene-linked Pd12L24-crosslinked polymer gels featuring endohedrally-catalyst-functionalized junctions. Semi-empirical calculations show that catalyst incorporation into these MOC junctions does not affect their geometry, giving rise to well-defined nanoconfined catalyst domains as confirmed experimentally using electron paramagnetic resonance spectroscopy. Given the unique network topology of these freestanding gels, they are mechanically robust regardless of their endohedral catalyst composition, allowing them to be physically manipulated and transferred from one reaction to another to achieve multiple rounds of catalysis. Moreover, by decoupling the catalyst environment (interior of MOC junctions) from the physical properties of the support (the elastic polymer matrix), this strategy enables catalysis in environments where homogeneous catalyst analogs are not viable, as demonstrated for the Au(I)-catalyzed cyclization of 4-pentynoic acid in aqueous media.},
  author = {Brown, Christopher and Lundberg, David and Lamb, Jessica and Kevlishvili, Ilia and Kleinschmidt, Denise and Alfaraj, Yasmeen and Kulik, H. J. and Ottaviani, Maria and Oldenhuis, Nathan and Johnson, Jeremiah},
- journal = {submitted},
+ journal = {J. Am. Chem. Soc.},
  title = {Plug-and-Play Heterogeneous Catalysis with Metal–Organic Cage-Crosslinked Polymers},
  type = {Journal Article},
+ volume = {Accepted},
  year = {submitted}
 }
 
@@ -236,12 +237,15 @@ Subject_term_id: polymer-characterization},
  year = {2022}
 }
 
-@article{duan_exploiting_submitted,
+@article{duan_exploiting_2022,
  abstract = {Accurate virtual high-throughput screening (VHTS) of transition metal complexes (TMCs) remains challenging due to the possibility of high multi-reference (MR) character that complicates property evaluation. We compute MR diagnostics for over 5,000 ligands present in previously synthesized transition metal complexes in the Cambridge Structural Database (CSD). To accomplish this task, we introduce an iterative approach for consistent ligand charge assignment for ligands in the CSD. Across this set, we observe that MR character correlates linearly with the inverse value of the averaged bond order over all bonds in the molecule. We then demonstrate that ligand additivity of MR character holds in TMCs, which suggests that the TMC MR character can be inferred from the sum of the MR character of the ligands. Encouraged by this observation, we leverage ligand additivity and develop a ligand-derived machine learning representation to train neural networks to predict the MR character of TMCs from properties of the constituent ligands. This approach yields models with excellent performance and superior transferability to unseen ligand chemistry and compositions.},
  author = {Duan, Chenru and Ladera, Adriana J. and Liu, Julian C.-L. and Taylor, Michael G. and Ariyarathna, Isuru R. and Kulik, H. J.},
+ eprint = {https://arxiv.org/abs/2205.02879},
+ journal = {J. Chem. Theory Comput.},
  title = {Exploiting Ligand Additivity for Transferable Machine Learning of Multireference Character Across Known Transition Metal Complex Ligands},
  type = {Journal Article},
- year = {submitted}
+ volume = {Accepted},
+ year = {2022}
 }
 
 @article{duan_learning_2019,
@@ -291,12 +295,16 @@ Subject_term_id: polymer-characterization},
  year = {2022}
 }
 
-@article{duan_machine_submitted,
+@article{duan_machine-outcomes_2022,
  abstract = {Virtual high-throughput screening (VHTS) and machine learning (ML) have greatly accelerated the design of single-site transition-metal catalysts. VHTS of catalysts, however, is often accompanied with high calculation failure rate and wasted computational resources due to the difficulty of simultaneously converging all mechanistically relevant reactive intermediates to expected geometries and electronic states. We demonstrate a dynamic classifier approach, i.e., a convolutional neural network that monitors geometry optimizations on the fly, and exploit its good performance and transferability on identifying geometry optimization failures for catalyst design. We show that the dynamic classifier performs well on all reactive intermediates in the representative catalytic cycle of the radical rebound mechanism for the conversion of methane to methanol despite being trained on only one reactive intermediate. The dynamic classifier also generalizes to chemically distinct intermediates and metal centers absent from the training data without loss of accuracy or model confidence. We rationalize this superior model transferability as arising from the use of on-the-fly electronic structure and geometric information generated from on-the-fly density functional theory calculations and the convolutional layer in the dynamic classifier. When used in combination with uncertainty quantification, the dynamic classifier saves more than half of the computational resources that would have been wasted on unsuccessful calculations for all reactive intermediates being considered.},
  author = {Duan, Chenru and Nandy, Aditya and Adamji, Husain and Roman-Leshkov, Yuriy and Kulik, H. J.},
+ doi = {10.1021/acs.jctc.2c00331},
+ journal = {J. Chem. Theory Comput.},
  title = {Machine learning models predict calculation outcomes with the transferability necessary for computational catalysis},
  type = {Journal Article},
- year = {submitted}
+ url = {https://pubs.acs.org/doi/10.1021/acs.jctc.2c00331},
+ volume = {Accepted},
+ year = {2022}
 }
 
 @article{duan_putting_2021,
@@ -1515,13 +1523,14 @@ https://doi.org/10.1021/jacsau.2c00176
  year = {2021}
 }
 
-@article{nandy_using_submitted,
+@article{nandy_using_2022,
  abstract = {The challenge of activating inert C–H bonds motivates a study of catalysts that draws from what can be accomplished by natural enzymes and translates these advantageous features into transition-metal complex (TMC) and material mimics. Inert C–H bond activation reactivity has been observed in a diverse number of predominantly iron-containing enzymes from the heme-P450s to non-heme iron α-ketoglutarate-dependent enzymes and methane monooxygenases. Computational studies have played a key role in correlating active site variables such as the primary coordination sphere, oxidation state, and spin state to reactivity. TMCs, zeolites, metal organic frameworks (MOFs), and single-atom catalysts (SACs) are synthetic inorganic materials that have been designed to incorporate Fe active sites in analogy to single sites in enzymes. In these systems, computational studies have been essential in supporting spectroscopic assignments and quantifying the effects of the metal-local environment on C–H bond reactivity. High-throughput virtual screening tools that have been widely used for bulk metal catalysis do not readily extend to the single-site inorganic catalysts where metal–ligand bonding and localized d-electrons govern reaction energetics. These localized d-electrons can also necessitate wavefunction theory calculations when density functional theory (DFT) is not sufficiently accurate. Where sufficient computational or experimental data can be gathered, machine learning has helped uncover more general design rules for reactivity or stability. As we continue to investigate metalloprotein active sites, we gain insights that enable us to design stable, active, and selective single-site catalysts. },
  author = {Nandy, Aditya and Adamji, Husain and Kastner, David W. and Vennelakanti, Vyshnavi and Nazemi, Azadeh and Liu, Mingjie and Kulik, H. J.},
- journal = {submitted},
+ journal = {ACS Catal.},
  title = {Using Computational Chemistry to Reveal Nature's Blueprints for Single-Site Catalysis of C–H Activation},
  type = {Journal Article},
- year = {submitted}
+ volume = {Accepted},
+ year = {2022}
 }
 
 @article{nandy_why_2020,
