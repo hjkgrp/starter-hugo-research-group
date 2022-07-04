@@ -59,5 +59,5 @@ abstract: 'The immobilization of homogeneous catalysts onto solid supports to im
   enables catalysis in environments where homogeneous catalyst analogs are not viable,
   as demonstrated for the Au(I)-catalyzed cyclization of 4-pentynoic acid in aqueous
   media.'
-publication: '*J. Am. Chem. Soc.*'
+publication: '*J. Am. Chem. Soc.*, **Accepted** (2022)'
 ---

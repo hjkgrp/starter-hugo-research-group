@@ -58,5 +58,5 @@ abstract: 'The challenge of activating inert C–H bonds motivates a study of ca
   uncover more general design rules for reactivity or stability. As we continue to
   investigate metalloprotein active sites, we gain insights that enable us to design
   stable, active, and selective single-site catalysts. '
-publication: '*ACS Catal.*'
+publication: '*ACS Catal.*, **Accepted** (2022)'
 ---
