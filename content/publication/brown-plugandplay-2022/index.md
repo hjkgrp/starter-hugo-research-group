@@ -17,7 +17,7 @@ authors:
 - Jeremiah Johnson
 tags: []
 categories: []
-date: 0-01-01
+date: '2022-01-01'
 lastmod: 2022-05-09T18:07:42-04:00
 featured: false
 draft: false
@@ -36,7 +36,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-05-09T22:07:42.370340Z'
+publishDate: '2022-07-04T21:06:28.587855Z'
 publication_types:
 - '3'
 abstract: 'The immobilization of homogeneous catalysts onto solid supports to improve
@@ -59,5 +59,5 @@ abstract: 'The immobilization of homogeneous catalysts onto solid supports to im
   enables catalysis in environments where homogeneous catalyst analogs are not viable,
   as demonstrated for the Au(I)-catalyzed cyclization of 4-pentynoic acid in aqueous
   media.'
-publication: '*submitted*'
+publication: '*J. Am. Chem. Soc.*'
 ---

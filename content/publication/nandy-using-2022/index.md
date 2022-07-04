@@ -15,7 +15,7 @@ authors:
 - admin
 tags: []
 categories: []
-date: 0-01-01
+date: '2022-01-01'
 lastmod: 2022-05-09T18:07:42-04:00
 featured: false
 draft: false
@@ -34,7 +34,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-05-09T22:07:42.767514Z'
+publishDate: '2022-07-04T21:10:51.342471Z'
 publication_types:
 - '3'
 abstract: 'The challenge of activating inert C–H bonds motivates a study of catalysts
@@ -58,5 +58,5 @@ abstract: 'The challenge of activating inert C–H bonds motivates a study of ca
   uncover more general design rules for reactivity or stability. As we continue to
   investigate metalloprotein active sites, we gain insights that enable us to design
   stable, active, and selective single-site catalysts. '
-publication: '*submitted*'
+publication: '*ACS Catal.*'
 ---
