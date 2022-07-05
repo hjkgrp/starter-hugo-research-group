@@ -45,7 +45,7 @@ abstract: An understanding of protein stability requires capturing dynamic rearr
   coupling to both sequence-adjacent and more sequence-distant residues. Non-nearest-neighbor
   couplings are stronger in the more stable variant, indicating a network of residues
   that help stabilize the protein. Our study highlights the complementary benefit
-  of charge coupling analysis to interpret protein structure¬¬¬–function relationships.
+  of charge coupling analysis to interpret protein structure–function relationships.
 publication: '*submitted*'
 doi: 10.26434/chemrxiv-2022-mzmcw
 links:
