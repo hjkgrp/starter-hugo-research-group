@@ -6,11 +6,11 @@ subtitle: ''
 summary: ''
 authors:
 - Woo-Seok Lee
-- Yeongsu Cho
+- yscho
 - Eric R. Powers
 - Watcharaphol Paritmongkol
 - Tomoaki Sakurada
-- Heather J. Kulik
+- admin
 - William A. Tisdale
 tags: []
 categories: []
@@ -35,7 +35,7 @@ image:
 projects: []
 publishDate: '2022-07-05T15:03:22.308768Z'
 publication_types:
-- '0'
+- '3'
 abstract: ''
-publication: ''
+publication: '*submitted*'
 ---

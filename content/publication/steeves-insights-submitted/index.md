@@ -7,7 +7,7 @@ subtitle: ''
 summary: ''
 authors:
 - Adam Steeves
-- Heather Kulik
+- admin
 tags: []
 categories: []
 date: submitted-01-01
@@ -31,7 +31,7 @@ image:
 projects: []
 publishDate: '2022-07-05T15:03:23.340722Z'
 publication_types:
-- '0'
+- '3'
 abstract: An understanding of protein stability requires capturing dynamic rearrangements
   and coupled properties over long lengthscales. Nevertheless, the extent of coupling
   in these systems has typically only been studied for classical degrees of freedom.
@@ -46,7 +46,7 @@ abstract: An understanding of protein stability requires capturing dynamic rearr
   couplings are stronger in the more stable variant, indicating a network of residues
   that help stabilize the protein. Our study highlights the complementary benefit
   of charge coupling analysis to interpret protein structure¬¬¬–function relationships.
-publication: '*Chemistry*'
+publication: '*submitted*'
 doi: 10.26434/chemrxiv-2022-mzmcw
 links:
 - name: URL
