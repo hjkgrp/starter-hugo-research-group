@@ -12,8 +12,8 @@ authors:
 - admin
 tags: []
 categories: []
-date: 0-01-01
-lastmod: 2022-05-09T18:07:42-04:00
+date: '2022-05-01'
+lastmod: 2022-07-04T18:12:02-04:00
 featured: false
 draft: false
 
@@ -31,9 +31,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-05-09T22:07:42.844949Z'
+publishDate: '2022-07-04T22:12:01.891738Z'
 publication_types:
-- '3'
+- '2'
 abstract: The Mo/W-containing metalloenzyme formate dehydrogenase (FDH) is an efficient
   and selective natural catalyst that reversibly converts CO2 to formate under ambient
   conditions. In this study, we investigate the impact of the greater protein environment
@@ -50,7 +50,9 @@ abstract: The Mo/W-containing metalloenzyme formate dehydrogenase (FDH) is an ef
   in the protein. Overall, our observations suggest that the terminal chalcogen ligand
   identity plays an important role in the enzymatic activity of FDH, suggesting opportunities
   for rational bioinspired catalyst design.
-publication: '*J. Phys. Chem. B*, **ASAP**'
-url_pdf: 'https://doi.org/10.1021/acs.jpcb.2c02260'
-doi: '10.1021/acs.jpcb.2c02260'
+publication: '*The Journal of Physical Chemistry B*, **126**, 4069--4079 (2022)'
+doi: 10.1021/acs.jpcb.2c02260
+links:
+- name: URL
+  url: https://doi.org/10.1021/acs.jpcb.2c02260
 ---

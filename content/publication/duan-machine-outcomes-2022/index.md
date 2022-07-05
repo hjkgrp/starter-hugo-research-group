@@ -13,7 +13,7 @@ authors:
 - admin
 tags: []
 categories: []
-date: 0-01-01
+date: '2022-06-01'
 lastmod: 2022-05-09T18:07:42-04:00
 featured: false
 draft: false
@@ -32,9 +32,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-05-09T22:07:42.614249Z'
+publishDate: '2022-07-04T21:09:46.332078Z'
 publication_types:
-- '3'
+- '2'
 abstract: Virtual high-throughput screening (VHTS) and machine learning (ML) have
   greatly accelerated the design of single-site transition-metal catalysts. VHTS of
   catalysts, however, is often accompanied with high calculation failure rate and
@@ -54,7 +54,10 @@ abstract: Virtual high-throughput screening (VHTS) and machine learning (ML) hav
   When used in combination with uncertainty quantification, the dynamic classifier
   saves more than half of the computational resources that would have been wasted
   on unsuccessful calculations for all reactive intermediates being considered.
-publication: '*submitted*'
+publication: '*J. Chem. Theory Comput.*, **ASAP** (2022)'
 url_pdf: https://arxiv.org/abs/2203.01276
-doi: 10.48550/arXiv.2203.01276
+doi: 10.1021/acs.jctc.2c00331
+links:
+- name: URL
+  url: https://pubs.acs.org/doi/10.1021/acs.jctc.2c00331
 ---
