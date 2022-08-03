@@ -6,16 +6,16 @@ title: Using Computational Chemistry to Reveal Nature's Blueprints for Single-Si
 subtitle: ''
 summary: ''
 authors:
-- nandy
-- hadamji
-- kastner
-- vyshnavi
+- Aditya Nandy
+- Husain Adamji
+- David W. Kastner
+- Vyshnavi Vennelakanti
 - Azadeh Nazemi
 - Mingjie Liu
-- admin
+- H. J. Kulik
 tags: []
 categories: []
-date: '2022-06-01'
+date: '2022-07-01'
 lastmod: 2022-05-09T18:07:42-04:00
 featured: false
 draft: false
@@ -34,9 +34,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-07-04T21:10:51.342471Z'
+publishDate: '2022-08-03T18:22:34.170730Z'
 publication_types:
-- '3'
+- '2'
 abstract: 'The challenge of activating inert C–H bonds motivates a study of catalysts
   that draws from what can be accomplished by natural enzymes and translates these
   advantageous features into transition-metal complex (TMC) and material mimics. Inert
@@ -58,5 +58,9 @@ abstract: 'The challenge of activating inert C–H bonds motivates a study of ca
   uncover more general design rules for reactivity or stability. As we continue to
   investigate metalloprotein active sites, we gain insights that enable us to design
   stable, active, and selective single-site catalysts. '
-publication: '*ACS Catal.*, **Accepted** (2022)'
+publication: '*ACS Catal.*, **12**, 9281--9306 (2021)'
+doi: 10.1021/acscatal.2c02096
+links:
+- name: URL
+  url: https://doi.org/10.1021/acscatal.2c02096
 ---
