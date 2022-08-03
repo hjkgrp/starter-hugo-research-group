@@ -6,13 +6,13 @@ title: Using Computational Chemistry to Reveal Nature's Blueprints for Single-Si
 subtitle: ''
 summary: ''
 authors:
-- Aditya Nandy
-- Husain Adamji
-- David W. Kastner
-- Vyshnavi Vennelakanti
+- nandy
+- hadamji
+- kastner
+- vyshnavi
 - Azadeh Nazemi
 - Mingjie Liu
-- H. J. Kulik
+- admin
 tags: []
 categories: []
 date: '2022-07-01'
