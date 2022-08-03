@@ -54,7 +54,7 @@ abstract: Virtual high-throughput screening (VHTS) and machine learning (ML) hav
   When used in combination with uncertainty quantification, the dynamic classifier
   saves more than half of the computational resources that would have been wasted
   on unsuccessful calculations for all reactive intermediates being considered.
-publication: '*J. Chem. Theory Comput.*, **ASAP** (2022)'
+publication: '*J. Chem. Theory Comput.*, **18**, 4282--4292 (2022)'
 url_pdf: https://arxiv.org/abs/2203.01276
 doi: 10.1021/acs.jctc.2c00331
 links:
