@@ -13,6 +13,7 @@ title: Meet the Team
 subtitle:
 
 content:
+  text: test
   # Choose which groups/teams of users to display.
   #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
   user_groups:
@@ -22,8 +23,8 @@ content:
   - Grad Students
   - Masters Students
   - Undergraduate Students
-  - Visitors
-  - Alumni
+  # - Visitors
+  # - Alumni
 design:
   show_interests: false
   show_role: true
