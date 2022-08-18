@@ -2,7 +2,7 @@
 title: Kulik group alumni
 show_date: false
 ---
-
+- [Chenru Duan](../../author/chenru-duan), GS, Ph.D. '22 
 - Sule Atahan-Evrenk, VS, [Assistant Professor at TOBB University of Economics and Technology](http://satahanevrenk.etu.edu.tr)
 - Anna Bair, UROP, MIT SB Course 5 expected '23
 - Akash Bajaj, GS, Ph.D. '21 DMSE and now postdoc at Trinity College Dublin (Sanvito group)

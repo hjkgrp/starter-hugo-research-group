@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Graduate Student
+role: Chemistry PhD
 
 # Organizations/Affiliations
 organizations:
@@ -27,6 +27,9 @@ interests:
 
 education:
   courses:
+  - course: PhD in Chemistry 
+    institution: Massachusetts Institute of Technology
+    year: 2022
   - course: BS in Physics 
     institution: Zhejiang University 
     year: 2017
@@ -36,6 +39,9 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
+- icon: globe
+  icon_pack: fas
+  link: 'https://www.crduan.com/'
 - icon: envelope
   icon_pack: fas
   link: 'mailto:crduan AT mit DOT edu'
@@ -63,6 +69,6 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Grad Students
+- Alumni
 ---
 Chenru joined the Kulik group in November 2017 as a PhD student in Chemistry. He received his B.S. in the Physics Department, Zhejiang University, China in fall 2017. He is now focusing on inorganic catalysts design with machine learning techniques. Assuming one can build a good surrogate model with thousands of training data (proved to be true by works in our and other groups), he focuses on faster and more accurate data generation with first-principles method by building an automated and multi-fidelity job control system. Back in his undergraduate study, he worked on the dynamics of open quantum systems, heat transport and quantum phase transition of model systems.
