@@ -90,7 +90,7 @@ abstract: In recent years, we have been witnessing a paradigm shift in computati
   theory, the solution of the many-body problem, and more. In spite of the already
   numerous and exciting success stories, we are just at the beginning of a long path
   that will reshape materials science for the many challenges of the XXIth century.
-publication: '*Electron. Struct.*, **Accepted Manuscript** (2022)'
+publication: '*Electron. Struct.*, **4**, 023004 (2022)'
 doi: 10.1088/2516-1075/ac572f
 url_pdf: http://iopscience.iop.org/article/10.1088/2516-1075/ac572f
 ---
