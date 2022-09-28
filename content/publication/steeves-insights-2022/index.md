@@ -6,12 +6,12 @@ title: Insights into the Stability of Engineered Mini-Proteins from Their Dynami
 subtitle: ''
 summary: ''
 authors:
-- Adam Steeves
+- Adam H Steeves
 - admin
 tags: []
 categories: []
-date: submitted-01-01
-lastmod: 2022-07-05T11:03:23-04:00
+date: '2022-09-01'
+lastmod: 2022-09-28T14:39:47-04:00
 featured: false
 draft: false
 
@@ -29,9 +29,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-07-05T15:03:23.340722Z'
+publishDate: '2022-09-28T18:39:47.374469Z'
 publication_types:
-- '3'
+- '2'
 abstract: An understanding of protein stability requires capturing dynamic rearrangements
   and coupled properties over long lengthscales. Nevertheless, the extent of coupling
   in these systems has typically only been studied for classical degrees of freedom.
@@ -45,10 +45,10 @@ abstract: An understanding of protein stability requires capturing dynamic rearr
   coupling to both sequence-adjacent and more sequence-distant residues. Non-nearest-neighbor
   couplings are stronger in the more stable variant, indicating a network of residues
   that help stabilize the protein. Our study highlights the complementary benefit
-  of charge coupling analysis to interpret protein structure–function relationships.
-publication: '*Electron. Struct.*, **Accepted Manuscript** (2022).'
-doi:  10.1088/2516-1075/ac8c73
+  of charge coupling analysis to interpret protein structure-function relationships.
+publication: '*Electron. Struct.*, **4**, 034005 (2022)'
+doi: 10.1088/2516-1075/ac8c73
 links:
 - name: URL
-  url:  https://doi.org/10.1088/2516-1075/ac8c73
+  url: https://iopscience.iop.org/article/10.1088/2516-1075/ac8c73
 ---
