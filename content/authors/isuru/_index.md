@@ -10,11 +10,11 @@ authors:
 superuser: false
 
 # Role/position
-role: Postdoctoral Associate
+role: Senior Research Engineer
 
 # Organizations/Affiliations
 organizations:
-- name: Massachusetts Institute of Technology
+- name: Intel
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -39,9 +39,9 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: envelope
-  icon_pack: fas
-  link: 'mailto:isuru AT mit DOT edu'
+# - icon: envelope
+#   icon_pack: fas
+#   link: 'mailto:isuru AT mit DOT edu'
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/IR_Ariyarathna
@@ -70,6 +70,6 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Postdocs
+- Alumni
 ---
-Isuru Joined the group in June 2021 as a postdoctoral associate. He completed his PhD at Auburn University with Prof. Evangelos Miliordos. His PhD focused on high-level ab initio calculations of molecules to understand their chemical and physical properties. In Kulik group he carryout multireference wavefunction theory studies and machine learning as part of the CESMIX PSAAP-3 center.
+Isuru Joined the group in June 2021 as a postdoctoral associate. He completed his PhD at Auburn University with Prof. Evangelos Miliordos. His PhD focused on high-level *ab initio* calculations of molecules to understand their chemical and physical properties. In the Kulik group, he carried out multireference wavefunction theory studies and machine learning as part of the CESMIX PSAAP-3 center.

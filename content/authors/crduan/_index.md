@@ -42,9 +42,9 @@ social:
 - icon: globe
   icon_pack: fas
   link: 'https://www.crduan.com/'
-- icon: envelope
-  icon_pack: fas
-  link: 'mailto:crduan AT mit DOT edu'
+# - icon: envelope
+#   icon_pack: fas
+#   link: 'mailto:crduan AT mit DOT edu'
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/chenru_duan
@@ -71,4 +71,4 @@ highlight_name: false
 user_groups:
 - Alumni
 ---
-Chenru joined the Kulik group in November 2017 as a PhD student in Chemistry. He received his B.S. in the Physics Department, Zhejiang University, China in fall 2017. He is now focusing on inorganic catalysts design with machine learning techniques. Assuming one can build a good surrogate model with thousands of training data (proved to be true by works in our and other groups), he focuses on faster and more accurate data generation with first-principles method by building an automated and multi-fidelity job control system. Back in his undergraduate study, he worked on the dynamics of open quantum systems, heat transport and quantum phase transition of model systems.
+Chenru joined the Kulik group in November 2017 as a PhD student in Chemistry and graduated in July 2022. He received his B.S. in the Physics Department, Zhejiang University, China in fall 2017. In the Kulik group, studied on inorganic catalyst design with machine learning techniques. Assuming one can build a good surrogate model with thousands of training data (proved to be true by works in our and other groups), he focused on faster and more accurate data generation with first-principles method by building an automated and multi-fidelity job control system. Back in his undergraduate study, he worked on the dynamics of open quantum systems, heat transport and quantum phase transition of model systems.

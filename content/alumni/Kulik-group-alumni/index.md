@@ -2,6 +2,7 @@
 title: Kulik group alumni
 show_date: false
 ---
+- [Isuru Ariyarathna](../../author/isuru-ariyarathna/), PD, Senior Engineer, Intel
 - [Chenru Duan](../../author/chenru-duan), GS, Ph.D. '22 
 - Sule Atahan-Evrenk, VS, [Assistant Professor at TOBB University of Economics and Technology](http://satahanevrenk.etu.edu.tr)
 - Anna Bair, UROP, MIT SB Course 5 expected '23
