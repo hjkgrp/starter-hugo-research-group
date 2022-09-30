@@ -1,4 +1,7 @@
 ---
+# fill out fields in {}, deleting the {}
+# e.g. {your name} --> John Doe
+
 # Display name
 title: {your name}
 
@@ -22,11 +25,17 @@ interests:
 - {interest 2}
 - {interest 3}
 
+# remove the second course if you do not have multiple degrees (i.e. are not a postdoc/do not have a Master's)
 education:
   courses:
   - course: {degree title}
     institution: {degree institution}
     year: {graduation year}
+  - course: {degree title}
+    institution: {degree institution}
+    year: {graduation year}
+
+
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -51,8 +60,6 @@ social:
 #   icon_pack: ai
 #   link: files/CV_{initials}.pdf
 
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
