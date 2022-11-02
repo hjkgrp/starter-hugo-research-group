@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'DFT-based Multireference Diagnostics in the Solid State: Focusing on Metal-organic
+title: 'DFT-based Multireference Diagnostics in the Solid State: Application to Metal-organic
   Frameworks'
 subtitle: ''
 summary: ''

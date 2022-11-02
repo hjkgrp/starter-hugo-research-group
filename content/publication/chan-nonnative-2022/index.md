@@ -55,7 +55,7 @@ abstract: Mononuclear non-heme Fe(II)- and alpha-ketoglutarate dependent oxygena
   of different anionic ligands, their ability to promote rebound involving those ligands,
   and inherent rebound preferences relative to HO• that will aid efforts to develop
   non-native catalysis using these enzymes.
-publication: '*Inorg. Chem.*'
+publication: '*Inorg. Chem.*, **61**, 14477-14485 (2022)'
 doi: 10.1021/acs.inorgchem.2c02872
 links:
 - name: URL

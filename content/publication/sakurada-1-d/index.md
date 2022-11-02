@@ -1,21 +1,22 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Highly Efficient Bromine Capture and Storage Using N-containing Porous Organic
-  Cages
+title: 1D Hybrid Semiconductor Silver 2,6-Difluorophenylselenolate
 subtitle: ''
 summary: ''
 authors:
-- Suk Lee
-- iliak
-- admin
-- Hee-Tak Kim
-- Yongchul G Chung
-- Dong‐Yeun Koh
+- Tomoaki Sakurada
+- yscho
+- Watcharaphol Paritmongkol
+- Ruomeng Wan
+- A Su
+- Woo-Seok Lee
+- Wenbi Shcherbakov-Wu
+- P Müller
 tags: []
 categories: []
-date: submitted-01-01
-lastmod: 2022-07-05T11:03:22-04:00
+date: -01-01
+lastmod: 2022-11-02T13:35:04-04:00
 featured: false
 draft: false
 
@@ -33,9 +34,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-07-05T15:03:21.865155Z'
+publishDate: '2022-11-02T17:35:03.688457Z'
 publication_types:
 - '3'
 abstract: ''
-publication: '*submitted*.'
+publication: '*submitted*'
 ---

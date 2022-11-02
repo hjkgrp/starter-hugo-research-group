@@ -14,3 +14,12 @@ Otherwise,
     2. Upload your picture with the name "avatar" (e.g. `avatar.png` or `avatar.jpg`)
 3. If you upload a CV, it should be placed [here](../people/static/files).
 4. Open a pull request to merge the `people` branch to the `main` branch and let the website manager know.
+
+## Publication updates
+1. Download/export (Better) BibTex citations to `publications/publications.bib` (recommended to use Zotero + manually add preprints w/o arXiv)
+2. From top-level directory
+    1. Run `academic --bibtex offsite/publications/publications.bib` from top-level directory (using [Hugo Academic CLI](https://github.com/wowchemy/hugo-academic-cli/))
+    2. Run `python offsite/publications/postprocess.py`
+3. Manually adjust `index.md` files
+    1. Change `publication_types` of preprints to `'3'`
+    2. Add issue, pages, and year to `publication` such that it reads `'*journal*, **issue**, pages, (year)'`
