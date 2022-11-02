@@ -8,7 +8,7 @@ summary: ''
 authors:
 - narunach
 - Stefan Gugler
-- Michael G. Taylor
+- Michael G Taylor
 - crduan
 - nandy
 - Jon Paul Janet
@@ -16,10 +16,12 @@ authors:
 - oldenjon
 - dbkchu
 - admin
-tags: []
+tags:
+- Condensed Matter - Materials Science
+- Physics - Chemical Physics
 categories: []
-date: '2022-09-01'
-lastmod: 2022-09-28T14:39:44-04:00
+date: '2022-10-01'
+lastmod: 2022-11-02T13:35:01-04:00
 featured: false
 draft: false
 
@@ -37,9 +39,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-09-28T18:39:43.875948Z'
+publishDate: '2022-11-02T17:35:00.267020Z'
 publication_types:
-- '3'
+- '2'
 abstract: To accelerate exploration of chemical space, it is necessary to identify
   the compounds that will provide the most additional information or value. A large-scale
   analysis of mononuclear octahedral transition metal complexes deposited in an experimental
@@ -58,10 +60,11 @@ abstract: To accelerate exploration of chemical space, it is necessary to identi
   our approach on 9 new binary and ternary complexes predicted to be in a targeted
   zone of discovery, suggesting opportunities for efficient transition metal complex
   discovery.
-publication: '*submitted*'
+publication: '*J. Chem. Phys.*, **In Press** (2022)'
+doi: 10.1063/5.0125700
 links:
 - name: arXiv
   url: https://arxiv.org/abs/2209.05412
 - name: URL
-  url: http://arxiv.org/abs/2209.05412
+  url: https://aip.scitation.org/doi/abs/10.1063/5.0125700
 ---
