@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Self-Trapped Excitons in 2D Silver Phenylchalcogenolates
+title: Light Emission in 2D Silver Phenylchalcogenolates
 subtitle: ''
 summary: ''
 authors:
