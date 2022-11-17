@@ -1,7 +1,7 @@
 ## Onboarding
 1. Download/copy the `member_template.md` file in this folder
     1. Fill out the fields in curly braces, e.g. {example}
-    2. The {bio} field should be a few sentences about yourself. Click on anyone's page on [our website]{http://hjkgrp.mit.edu/people/} to see an example.
+    2. The {bio} field should be a few sentences about yourself. Click on anyone's page on [our website](http://hjkgrp.mit.edu/people/) to see an example.
     3. Social links are optional
 2. Pick a picture of yourself to display on the website
 3. Optionally, prepare a PDF of your CV.
