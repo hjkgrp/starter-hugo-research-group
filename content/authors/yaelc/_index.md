@@ -10,11 +10,11 @@ authors:
 superuser: false
 
 # Role/position
-role: Postdoctoral Associate
+role: Research Scientist
 
 # Organizations/Affiliations
 organizations:
-- name: Massachusetts Institute of Technology
+- name: Israel
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -36,9 +36,9 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: envelope
-  icon_pack: fas
-  link: 'mailto:yaelc AT mit DOT edu'
+# - icon: envelope
+#   icon_pack: fas
+#   link: 'mailto:yaelc AT mit DOT edu'
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/yaelc1984
@@ -66,6 +66,6 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Postdocs
+- Alumni
 ---
-Yael joined the group as a postdoc in February 2020. She received her Ph.D. at Hebrew University of Jerusalem with Prof. Roi Baer. Her dissertation was focused on a stochastic approach to thermal density functional theory within the warm dense matter regime. In the Kulik group, she is working on the interface of electronic structure method development with machine learning methods.
+Yael joined the group as a postdoc in February 2020. She received her Ph.D. at Hebrew University of Jerusalem with Prof. Roi Baer. Her dissertation was focused on a stochastic approach to thermal density functional theory within the warm dense matter regime. In the Kulik group, she worked on the interface of electronic structure method development with machine learning methods.
