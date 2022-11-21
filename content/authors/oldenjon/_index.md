@@ -13,9 +13,9 @@ superuser: false
 role: Masters Student
 
 # Organizations/Affiliations
-organizations:
-- name: Massachusetts Institute of Technology
-  url: ""
+# organizations:
+# - name: Massachusetts Institute of Technology
+#   url: ""
 
 # Short bio (displayed in user profile at end of posts)
 #bio: 
@@ -35,10 +35,10 @@ education:
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
-social:
-- icon: envelope
-  icon_pack: fas
-  link: 'mailto:oldenjon AT mit DOT edu'
+# social:
+# - icon: envelope
+#   icon_pack: fas
+#   link: 'mailto:oldenjon AT mit DOT edu'
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/<username>
@@ -63,6 +63,6 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Masters Students
+- Alumni
 ---
-Jonas is a masters student visiting the Kulik group from April until September 2022
+Jonas was a masters student visiting the Kulik group from April until September 2022
