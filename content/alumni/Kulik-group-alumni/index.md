@@ -3,7 +3,7 @@ title: Kulik group alumni
 show_date: false
 ---
 - [Yael Cytter](../../author/yael-cytter), PD, Research Scientist in Israel
-- [Jonas Oldenstaedt](../../author/jonas-oldenstaedt), MS, TUM
+- [Jonas Oldenstaedt](../../author/jonas-oldenstaedt), MS, TUM expected '23 CSE
 - [Isuru Ariyarathna](../../author/isuru-ariyarathna/), PD, Senior Engineer, Intel
 - [Chenru Duan](../../author/chenru-duan), GS, Ph.D. '22 
 - Sule Atahan-Evrenk, VS, [Assistant Professor at TOBB University of Economics and Technology](http://satahanevrenk.etu.edu.tr)
