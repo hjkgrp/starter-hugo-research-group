@@ -11,10 +11,13 @@ authors:
 - rameyer
 - narunach
 - admin
-tags: []
+tags:
+- Computer Science - Machine Learning
+- Condensed Matter - Materials Science
+- Physics - Chemical Physics
 categories: []
-date: 'submitted-01-01'
-lastmod: 2022-08-03T13:54:09-04:00
+date: in press-01-01
+lastmod: 2022-11-29T14:44:25-05:00
 featured: false
 draft: false
 
@@ -32,9 +35,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-08-03T17:54:09.167193Z'
+publishDate: '2022-11-29T19:44:24.480889Z'
 publication_types:
-- '3'
+- '2'
 abstract: Approximate density functional theory (DFT) has become indispensable owing
   to its cost-accuracy trade-off in comparison to more computationally demanding but
   accurate correlated wavefunction theory. To date, however, no single density functional
@@ -48,9 +51,11 @@ abstract: Approximate density functional theory (DFT) has become indispensable o
   for chemical discovery, outperforming both individual transfer learning models and
   the single best functional in a set of 48 DFAs. We demonstrate the transferability
   of the DFA recommender to experimentally synthesized compounds with distinct chemistry.
-publication: '*submitted*'
+publication: '*Nature Computational Science*, **in press**'
 doi: 10.48550/arXiv.2207.10747
 links:
+- name: arXiv
+  url: https://arxiv.org/abs/2207.10747
 - name: URL
   url: http://arxiv.org/abs/2207.10747
 ---
