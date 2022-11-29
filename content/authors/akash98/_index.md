@@ -53,8 +53,8 @@ social:
    icon_pack: ai
    link: https://scholar.google.com/citations?user=RJz88gcAAAAJ&hl=en
  - icon: linkedin
- - icon_pack: fab
- - link: https://www.linkedin.com/in/akash-ball1998/
+   icon_pack: fab
+   link: https://www.linkedin.com/in/akash-ball1998/
 # - icon: github
 #   icon_pack: fab
 #   link: https://github.com/{GitHub username}
