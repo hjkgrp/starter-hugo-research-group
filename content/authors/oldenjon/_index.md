@@ -12,7 +12,7 @@ superuser: false
 # Role/position
 role: Masters Student
 
-Organizations/Affiliations
+# Organizations/Affiliations
 organizations:
 - name: Technical University of Munich
   url: ""
