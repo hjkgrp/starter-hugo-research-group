@@ -18,7 +18,7 @@ Otherwise,
 ## Publication updates
 1. Download/export (Better) BibTex citations to `publications/publications.bib` (recommended to use Zotero + manually add preprints w/o arXiv)
 2. From top-level directory
-    1. Run `academic --bibtex offsite/publications/publications.bib` from top-level directory (using [Hugo Academic CLI](https://github.com/wowchemy/hugo-academic-cli/))
+    1. Run `academic import --bibtex offsite/publications/publications.bib` from top-level directory (using [Hugo Academic CLI](https://github.com/wowchemy/hugo-academic-cli/))
     2. Run `python offsite/publications/postprocess.py`
 3. Manually adjust `index.md` files
     1. Change `publication_types` of preprints to `'3'`

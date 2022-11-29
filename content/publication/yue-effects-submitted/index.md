@@ -1,22 +1,20 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: A Database of Ultrastable MOFs Reassembled from Stable Fragments with Machine
-  Learning Models
+title: Effects of MOF Linker Rotation and Functionalization on Methane Uptake and
+  Diffusion
 subtitle: ''
 summary: ''
 authors:
-- nandy
 - shuweny
 - ohch
-- crduan
+- nandy
 - gterrone
-- Yongchul G Chung
 - admin
 tags: []
 categories: []
-date: in preparation-01-01
-lastmod: 2022-09-28T14:39:46-04:00
+date: submitted-01-01
+lastmod: 2022-11-29T14:44:26-05:00
 featured: false
 draft: false
 
@@ -34,9 +32,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-09-28T18:39:46.489202Z'
+publishDate: '2022-11-29T19:44:25.761481Z'
 publication_types:
 - '3'
 abstract: ''
-publication: ''
+publication: '*submitted*'
 ---

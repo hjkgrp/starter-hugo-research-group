@@ -11,10 +11,14 @@ authors:
 - gterrone
 - kastner
 - admin
-tags: []
+tags:
+- Computer Science - Machine Learning
+- Condensed Matter - Materials Science
+- Physics - Chemical Physics
+- Quantitative Biology - Biomolecules
 categories: []
-date: '2022-09-01'
-lastmod: 2022-09-28T14:39:45-04:00
+date: '2022-09-15'
+lastmod: 2022-11-29T15:00:33-05:00
 featured: false
 draft: false
 
@@ -32,9 +36,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-09-28T18:39:44.720374Z'
+publishDate: '2022-11-29T20:00:32.835886Z'
 publication_types:
-- '3'
+- '2'
 abstract: Transition metal chromophores with earth-abundant transition metals are
   an important design target for their applications in lighting and non-toxic bioimaging,
   but their design is challenged by the scarcity of complexes that simultaneously
@@ -55,7 +59,7 @@ abstract: Transition metal chromophores with earth-abundant transition metals ar
   The observation that constituent ligands from our leads have demonstrated interesting
   optical properties in the literature exemplifies the effectiveness of our construction
   of a realistic design space and active learning approach.
-publication: '*submitted*'
+publication: '*JACS Au*, **in press**'
 links:
 - name: arXiv
   url: https://arxiv.org/abs/2208.05444

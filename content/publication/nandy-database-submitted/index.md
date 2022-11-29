@@ -1,21 +1,22 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Light Emission in 2D Silver Phenylchalcogenolates
+title: A Database of Ultrastable MOFs Reassembled from Stable Fragments with Machine
+  Learning Models
 subtitle: ''
 summary: ''
 authors:
-- Woo-Seok Lee
-- yscho
-- Eric R. Powers
-- Watcharaphol Paritmongkol
-- Tomoaki Sakurada
+- nandy
+- shuweny
+- ohch
+- crduan
+- gterrone
+- Yongchul G Chung
 - admin
-- William A. Tisdale
 tags: []
 categories: []
 date: submitted-01-01
-lastmod: 2022-07-05T11:03:22-04:00
+lastmod: 2022-09-28T14:39:46-04:00
 featured: false
 draft: false
 
@@ -33,7 +34,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-07-05T15:03:22.308768Z'
+publishDate: '2022-09-28T18:39:46.489202Z'
 publication_types:
 - '3'
 abstract: ''
