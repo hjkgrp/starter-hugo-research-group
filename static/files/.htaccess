@@ -1,1 +1,7 @@
-Redirect "/files/CV_HJK_May22.pdf" "/files/CV_HJK_Jun22.pdf"
+Redirect "/files/CV_HJK_May22.pdf" "/files/CV_HJK_Dec22.pdf"
+Redirect "/files/CV_HJK_Jun22.pdf" "/files/CV_HJK_Dec22.pdf"
+Redirect "/files/CV_HJK_Jul22.pdf" "/files/CV_HJK_Dec22.pdf"
+Redirect "/files/CV_HJK_Aug22.pdf" "/files/CV_HJK_Dec22.pdf"
+Redirect "/files/CV_HJK_Sep22.pdf" "/files/CV_HJK_Dec22.pdf"
+Redirect "/files/CV_HJK_Oct22.pdf" "/files/CV_HJK_Dec22.pdf"
+Redirect "/files/CV_HJK_Nov22.pdf" "/files/CV_HJK_Dec22.pdf"
