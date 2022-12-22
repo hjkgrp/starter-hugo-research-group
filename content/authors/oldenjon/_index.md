@@ -13,9 +13,9 @@ superuser: false
 role: Masters Student
 
 # Organizations/Affiliations
-# organizations:
-# - name: Massachusetts Institute of Technology
-#   url: ""
+organizations:
+- name: Technical University of Munich
+  url: ""
 
 # Short bio (displayed in user profile at end of posts)
 #bio: 

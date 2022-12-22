@@ -36,9 +36,9 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: envelope
-  icon_pack: fas
-  link: 'mailto:dbkchu AT mit DOT edu'
+# - icon: envelope
+#   icon_pack: fas
+#   link: 'mailto:dbkchu AT mit DOT edu'
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/dbkchu
@@ -48,14 +48,14 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/dbkchu
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/danielbkchu/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/CV_User.pdf` and uncomment the lines below.
 - icon: cv
   icon_pack: ai
   link: files/CV_dbkc.pdf
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-#email: "dbkchu@mit.edu"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
