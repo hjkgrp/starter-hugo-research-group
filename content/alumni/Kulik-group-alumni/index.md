@@ -2,10 +2,7 @@
 title: Kulik group alumni
 show_date: false
 ---
-- [Yael Cytter](../../author/yael-cytter), PD, Research Scientist in Israel
-- [Jonas Oldenstaedt](../../author/jonas-oldenstaedt), MS, TUM expected '23 CSE
 - [Isuru Ariyarathna](../../author/isuru-ariyarathna/), PD, Senior Engineer, Intel
-- [Chenru Duan](../../author/chenru-duan), GS, Ph.D. '22 
 - Sule Atahan-Evrenk, VS, [Assistant Professor at TOBB University of Economics and Technology](http://satahanevrenk.etu.edu.tr)
 - Anna Bair, UROP, MIT SB Course 5 expected '23
 - Akash Bajaj, GS, Ph.D. '21 DMSE and now postdoc at Trinity College Dublin (Sanvito group)
@@ -13,6 +10,8 @@ show_date: false
 - Lydia Chan, SS, Troy H.S. '18 and now Stanford University BS expected '22
 - Shouping Chen, SS, Ph.D. Student in UC Berkeley ChE
 - Shuxin Chen, UROP, MIT SB Course X expected '22
+- [Yael Cytter](../../author/yael-cytter), PD, Research Scientist in Israel
+- [Chenru Duan](../../author/chenru-duan), GS, Ph.D. '22, Research Engineer, Microsoft Quantum 
 - Kristen Eller, UROP, Ph.D Student in CU Boulder ChE
 - Terry Gani, GS, Ph.D. '20 ChemE (w/ Roman group) and now postdoc in ETH Zürich Chemistry (Coperet group)
 - Zach Giaccone, SS, Grad Student in UConn Dental School
@@ -38,6 +37,7 @@ show_date: false
 - Rimsha Mehmood, GS, Ph.D. '21 Chemistry and now Senior Scientist at Merck
 - Mohamad Seyed Moosavi, VS, Ph.D EPFL '20, now PD in Noe Group, Free University Berlin
 - Azadeh Nazemi, PD, Senior Scientist at Pfizer
+- [Jonas Oldenstaedt](../../author/jonas-oldenstaedt), MS, TUM expected '23 CSE
 - Niladri Patra, PD, [Assistant Professor at IIT Dhanbad](https://npatra2.wixsite.com/iitism)
 - Helena W. Qi, GS, Ph.D. '19 Chemistry and now Principal Scientist at Pfizer
 - Sahasrajit Ramesh, MS, Oxford MS '19 Materials

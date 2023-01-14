@@ -12,8 +12,8 @@ authors:
 - admin
 tags: []
 categories: []
-date: '2022-09-01'
-lastmod: 2022-11-02T13:35:03-04:00
+date: '2023-01-05'
+lastmod: 2023-01-05T13:35:03-04:00
 featured: false
 draft: false
 
@@ -31,9 +31,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-11-02T17:35:02.766661Z'
+publishDate: '2023-01-05T17:35:02.766661Z'
 publication_types:
-- '3'
+- '2'
 abstract: Non-heme iron halogenases and hydroxylases activate inert C-H bonds to selectively
   catalyze the functionalization of a diversity of biological products under physiological
   conditions. To better understand the differences in substrate positioning key to
@@ -54,7 +54,7 @@ abstract: Non-heme iron halogenases and hydroxylases activate inert C-H bonds to
   complex. Analysis of the halogenase reaction coordinates reveals the formation of
   hydrogen bonding networks between the Fe(II)-hydroxyl, monodentate succinate, and
   a member of the second coordination sphere that may inhibit the hydroxyl rebound.
-publication: '*submitted*'
+publication: '*ACS Catal.*, **in press** (2023)'
 doi: 10.26434/chemrxiv-2022-wbw80
 links:
 - name: URL

@@ -35,8 +35,8 @@ authors:
 - Ze Zhang
 tags: []
 categories: []
-date: 0-01-01
-lastmod: 2022-05-09T18:07:42-04:00
+date: 2022-12-29
+lastmod: 2023-01-13T18:07:42-04:00
 featured: false
 draft: false
 
@@ -54,9 +54,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-05-09T22:07:41.998646Z'
+publishDate: '2023-01-13T22:07:41.998646Z'
 publication_types:
-- '3'
+- '2'
 abstract: Confined fluids and electrolytes in nanopores exhibit rich and surprising
   physics and chemistry that impact the mass transport and energy efficiency in many
   important natural systems and industrial applications. Existing theories often fail
@@ -79,5 +79,5 @@ abstract: Confined fluids and electrolytes in nanopores exhibit rich and surpris
   We also identify new knowledge gaps in our understanding of nanofluidic transport
   and provide an outlook for the future challenges and opportunities at this rapidly
   advancing frontier.
-publication: '*submitted*'
+publication: '*Chem. Rev.*, **ASAP**'
 ---

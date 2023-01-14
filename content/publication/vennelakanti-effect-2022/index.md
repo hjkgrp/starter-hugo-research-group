@@ -32,7 +32,7 @@ image:
 projects: []
 publishDate: '2021-06-21T01:48:09.118717Z'
 publication_types:
-- '3'
+- '2'
 abstract: High-throughput computational catalyst studies are typically carried out
   using density functional theory (DFT) with a single, approximate exchange-correlation
   functional. In open shell transition metal complexes (TMCs) that are promising for

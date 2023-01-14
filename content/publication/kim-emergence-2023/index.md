@@ -17,7 +17,7 @@ authors:
 tags: []
 categories: []
 date: submitted-01-01
-lastmod: 2022-08-03T13:54:09-04:00
+lastmod: 2023-01-04T13:54:09-04:00
 featured: false
 draft: false
 
@@ -35,9 +35,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-08-03T17:54:09.609126Z'
+publishDate: '2023-01-04T17:54:09.609126Z'
 publication_types:
-- '3'
+- '2'
 abstract: Plants contain rapidly evolving specialized metabolic enzymes to support
   the synthesis of a myriad of functionally diverse natural products. In the case
   of coumarin biosynthesis, a BAHD acyltransferase-family enzyme COSY was recently
@@ -57,7 +57,7 @@ abstract: Plants contain rapidly evolving specialized metabolic enzymes to suppo
   study unveils the emergence of an unconventional catalytic mechanism mediated by
   a BAHD-family enzyme, and sheds light on the potential evolutionary origin of COSY
   and its recruitment to the evolutionarily new coumarin biosynthetic pathway in eudicots.
-publication: '*submitted*'
+publication: '*Nat. Commun.*, **in press** (2023)'
 doi: 10.1101/2022.07.19.500703
 links:
 - name: URL

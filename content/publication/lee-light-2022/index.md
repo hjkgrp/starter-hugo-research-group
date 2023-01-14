@@ -53,7 +53,7 @@ abstract: Silver phenylselenolate (AgSePh, also known as ``mithrene'') and silve
   along the $Γ$-N1 direction. The correlation between the unique band structure of
   AgTePh and exciton self-trapping behavior is unclear, prompting further exploration
   of excitonic phenomena in this emerging class of hybrid 2D semiconductors.
-publication: '*ACS Nano*, **in press**'
+publication: '*ACS Nano*, **16**, 20318-20328 (2022)'
 doi: 10.1021/acsnano.2c06204
 links:
 - name: URL

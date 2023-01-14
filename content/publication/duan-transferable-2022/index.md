@@ -51,11 +51,11 @@ abstract: Approximate density functional theory (DFT) has become indispensable o
   for chemical discovery, outperforming both individual transfer learning models and
   the single best functional in a set of 48 DFAs. We demonstrate the transferability
   of the DFA recommender to experimentally synthesized compounds with distinct chemistry.
-publication: '*Nature Computational Science*, **in press**'
-doi: 10.48550/arXiv.2207.10747
+publication: '*Nat. Comput. Sci.*, **in press** (2022)'
+doi: 10.1038/s43588-022-00384-0
 links:
 - name: arXiv
   url: https://arxiv.org/abs/2207.10747
 - name: URL
-  url: http://arxiv.org/abs/2207.10747
+  url: https://doi.org/10.1038/s43588-022-00384-0
 ---

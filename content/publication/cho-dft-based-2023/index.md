@@ -31,9 +31,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-09-28T18:39:44.295036Z'
+publishDate: '2022-12-22T18:39:44.295036Z'
 publication_types:
-- '3'
+- '2'
 abstract: 'When a many-body wave function of a system deviates far from a single reference
   determinant, high-level multireference methods are required to properly explain
   the system. Multireference diagnostics to estimate the magnitude of such static
@@ -54,9 +54,9 @@ abstract: 'When a many-body wave function of a system deviates far from a single
   feature of the multireference character discussed here suggests molecular derivatives
   as a good representation of a MOF, facilitating accurate and efficient high throughput
   screening of MOFs and other porous solids.'
-publication: '*submitted*'
-doi: 10.26434/chemrxiv-2022-c129n
+publication: '*J. Chem. Theory Comput.*, **19**, 190-197 (2023)'
+doi: 10.1021/acs.jctc.2c01033
 links:
 - name: URL
-  url: https://chemrxiv.org/engage/chemrxiv/article-details/6309d2630c527730e4c46d2b
+  url: https://doi.org/10.1021/acs.jctc.2c01033
 ---

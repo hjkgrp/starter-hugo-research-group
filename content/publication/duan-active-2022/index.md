@@ -59,10 +59,11 @@ abstract: Transition metal chromophores with earth-abundant transition metals ar
   The observation that constituent ligands from our leads have demonstrated interesting
   optical properties in the literature exemplifies the effectiveness of our construction
   of a realistic design space and active learning approach.
+doi: 10.1021/jacsau.2c00547
 publication: '*JACS Au*, **in press**'
 links:
 - name: arXiv
   url: https://arxiv.org/abs/2208.05444
 - name: URL
-  url: http://arxiv.org/abs/2208.05444
+  url: https://pubs.acs.org/doi/10.1021/jacsau.2c00547
 ---
