@@ -37,7 +37,7 @@ abstract: 'Prediction of the properties of excited states of photoactive iridium
 publication: '*Chem. Sci.*, **Advance article** (2023)'
 - name: URL
   url: https://doi.org/10.1039/D2SC06150C
--name: arXiv
+- name: arXiv
   url: https://arxiv.org/abs/2209.08595
 doi: 10.1039/D2SC06150C
 ---
