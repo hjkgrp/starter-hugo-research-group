@@ -12,8 +12,8 @@ authors:
 - admin
 tags: []
 categories: []
-date: '2022-08-01'
-lastmod: 2022-09-28T14:39:44-04:00
+date: '2023-01-10'
+lastmod: 2023-01-10T14:39:44-04:00
 featured: false
 draft: false
 
@@ -31,7 +31,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-12-22T18:39:44.295036Z'
+publishDate: '2023-01-10T18:39:44.295036Z'
 publication_types:
 - '2'
 abstract: 'When a many-body wave function of a system deviates far from a single reference

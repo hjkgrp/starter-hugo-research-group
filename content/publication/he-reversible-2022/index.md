@@ -15,8 +15,8 @@ authors:
 - Mircea Dinca
 tags: []
 categories: []
-date: '2022-07-01'
-lastmod: 2022-11-02T13:35:02-04:00
+date: 'submitted-01-01'
+lastmod: 2023-01-01T13:35:02-04:00
 featured: false
 draft: false
 
@@ -34,7 +34,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-11-02T17:35:02.301962Z'
+publishDate: '2023-01-01T17:35:02.301962Z'
 publication_types:
 - '3'
 abstract: 'The scission of the O–O bond in O2 and the formation of O–O bonds during

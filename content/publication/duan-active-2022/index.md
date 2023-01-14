@@ -17,8 +17,8 @@ tags:
 - Physics - Chemical Physics
 - Quantitative Biology - Biomolecules
 categories: []
-date: '2022-09-15'
-lastmod: 2022-11-29T15:00:33-05:00
+date: '2023-01-02'
+lastmod: 2023-01-03T15:00:33-05:00
 featured: false
 draft: false
 
@@ -36,7 +36,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-11-29T20:00:32.835886Z'
+publishDate: '2023-01-03T20:00:32.835886Z'
 publication_types:
 - '2'
 abstract: Transition metal chromophores with earth-abundant transition metals are
