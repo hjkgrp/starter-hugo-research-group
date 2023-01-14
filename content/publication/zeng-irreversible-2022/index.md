@@ -26,8 +26,8 @@ tags:
 - '"Condensed Matter - Materials Science"'
 - '"Condensed Matter - Soft Condensed Matter"'
 categories: []
-date: '2021-03-01'
-lastmod: 2021-06-20T14:45:38-04:00
+date: '2022-01-01'
+lastmod: 2022-01-01T14:45:38-04:00
 featured: false
 draft: false
 
@@ -45,7 +45,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-06-21T01:48:11.712712Z'
+publishDate: '2022-01-01T01:48:11.712712Z'
 publication_types:
 - '2'
 abstract: Polymers that extend covalently in two dimensions have attracted recent

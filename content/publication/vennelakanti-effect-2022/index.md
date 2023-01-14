@@ -11,8 +11,8 @@ authors:
 - admin
 tags: []
 categories: []
-date: '2021-06-01'
-lastmod: 2021-06-20T14:45:37-04:00
+date: '2022-01-01'
+lastmod: 2022-01-01T14:45:37-04:00
 featured: false
 draft: false
 
@@ -30,7 +30,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-06-21T01:48:09.118717Z'
+publishDate: '2022-01-01T01:48:09.118717Z'
 publication_types:
 - '2'
 abstract: High-throughput computational catalyst studies are typically carried out
