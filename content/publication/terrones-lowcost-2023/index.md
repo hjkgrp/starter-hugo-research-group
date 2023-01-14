@@ -33,8 +33,9 @@ projects: []
 publishDate: '2023-01-05T17:35:04.176568Z'
 publication_types:
 - '2'
-abstract: ''
+abstract: 'Prediction of the properties of excited states of photoactive iridium complexes challenges ab initio methods such as time-dependent density functional theory (TDDFT) both from the perspectives of accuracy and of computational cost, complicating high-throughput virtual screening (HTVS). We instead leverage low-cost machine learning (ML) models and experimental data for 1,380 iridium complexes to perform these prediction tasks. We find the best-performing and most transferable models to be those trained on electronic structure features from low-cost density functional theory tight binding calculations. Using artificial neural network (ANN) models, we predict the mean emission energy of phosphorescence, the excited state lifetime, and the emission spectral integral with accuracy competitive with or superseding that of TDDFT. We conduct feature importance analysis to determine that high cyclometalating ligand ionization potential correlates to high Em50/50, while high ancillary ligand ionization potential correlates to low lifetime and low spectral integral. As a demonstration of how our ML models can be used for HTVS and the acceleration of chemical discovery, we curate a set of novel hypothetical iridium complexes and use uncertainty-controlled predictions to identify promising ligands for the design of new phosphors while retaining confidence in the quality of the ANN predictions.'
 publication: '*Chem. Sci.*, **Advance article** (2023)'
+links:
 - name: URL
   url: https://doi.org/10.1039/D2SC06150C
 - name: arXiv
