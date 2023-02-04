@@ -44,7 +44,7 @@ publishDate: '2023-01-13T17:54:08.046005Z'
 publication_types:
 - '2'
 abstract: 'Convenient strategies for the deconstruction and reprocessing of thermosets could improve the circularity of these materials, but most approaches developed to date do not involve established, high-performance engineering materials. Here, we show that bifunctional silyl ether, i.e., R′O–SiR2–OR′′, (BSE)-based comonomers generate covalent adaptable network analogues of the industrial thermoset polydicyclopentadiene (pDCPD) through a novel BSE exchange process facilitated by the low-cost food-safe catalyst octanoic acid. Experimental studies and density functional theory calculations suggest an exchange mechanism involving silyl ester intermediates with formation rates that strongly depend on the Si–R2 substituents. As a result, pDCPD thermosets manufactured with BSE comonomers display temperature- and time-dependent stress relaxation as a function of their substituents. Moreover, bulk remolding of pDCPD thermosets is enabled for the first time. Altogether, this work presents a new approach toward the installation of exchangeable bonds into commercial thermosets and establishes acid-catalyzed BSE exchange as a versatile addition to the toolbox of dynamic covalent chemistry.'
-publication: '*J. Am. Chem. Soc.*, **in press**, (2023)'
+publication: '*J. Am. Chem. Soc.*, **145**, 1916-1923 (2023)'
 doi: 10.1021/jacs.2c11858
 links:
 - name: URL
