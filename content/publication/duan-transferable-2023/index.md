@@ -16,8 +16,8 @@ tags:
 - Condensed Matter - Materials Science
 - Physics - Chemical Physics
 categories: []
-date: in press-01-01
-lastmod: 2022-11-29T14:44:25-05:00
+date: 2023-01-26
+lastmod: 2023-01-26T14:44:25-05:00
 featured: false
 draft: false
 
@@ -35,7 +35,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-11-29T19:44:24.480889Z'
+publishDate: '2023-01-26T19:44:24.480889Z'
 publication_types:
 - '2'
 abstract: Approximate density functional theory (DFT) has become indispensable owing
@@ -51,7 +51,7 @@ abstract: Approximate density functional theory (DFT) has become indispensable o
   for chemical discovery, outperforming both individual transfer learning models and
   the single best functional in a set of 48 DFAs. We demonstrate the transferability
   of the DFA recommender to experimentally synthesized compounds with distinct chemistry.
-publication: '*Nat. Comput. Sci.*, **in press** (2022)'
+publication: '*Nat. Comput. Sci.*, **3**, 38-47 (2023)'
 doi: 10.1038/s43588-022-00384-0
 links:
 - name: arXiv

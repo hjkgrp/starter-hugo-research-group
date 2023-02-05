@@ -12,8 +12,8 @@ authors:
 - admin
 tags: []
 categories: []
-date: '2023-01-05'
-lastmod: 2023-01-05T13:35:03-04:00
+date: '2023-02-03'
+lastmod: 2023-02-03T13:35:03-04:00
 featured: false
 draft: false
 
@@ -31,7 +31,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-01-05T17:35:02.766661Z'
+publishDate: '2023-02-03T17:35:02.766661Z'
 publication_types:
 - '2'
 abstract: Non-heme iron halogenases and hydroxylases activate inert C-H bonds to selectively
@@ -54,9 +54,11 @@ abstract: Non-heme iron halogenases and hydroxylases activate inert C-H bonds to
   complex. Analysis of the halogenase reaction coordinates reveals the formation of
   hydrogen bonding networks between the Fe(II)-hydroxyl, monodentate succinate, and
   a member of the second coordination sphere that may inhibit the hydroxyl rebound.
-publication: '*ACS Catal.*, **in press** (2023)'
-doi: 10.26434/chemrxiv-2022-wbw80
+publication: '*ACS Catal.*, **13**, 2489-2501 (2023)'
+doi: 10.1021/acscatal.2c06241
 links:
-- name: URL
+- name: preprint
   url: https://chemrxiv.org/engage/chemrxiv/article-details/630f110d58843b153fa4036f
+- name: URL
+  url: https://doi.org/10.1021/acscatal.2c06241 
 ---
