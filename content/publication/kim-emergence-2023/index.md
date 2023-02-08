@@ -16,8 +16,8 @@ authors:
 - Jing-Ke Weng
 tags: []
 categories: []
-date: submitted-01-01
-lastmod: 2023-01-04T13:54:09-04:00
+date: 2023-02-03
+lastmod: 2023-02-03T13:54:09-04:00
 featured: false
 draft: false
 
@@ -57,9 +57,11 @@ abstract: Plants contain rapidly evolving specialized metabolic enzymes to suppo
   study unveils the emergence of an unconventional catalytic mechanism mediated by
   a BAHD-family enzyme, and sheds light on the potential evolutionary origin of COSY
   and its recruitment to the evolutionarily new coumarin biosynthetic pathway in eudicots.
-publication: '*Nat. Commun.*, **in press** (2023)'
-doi: 10.1101/2022.07.19.500703
+publication: '*Nat. Commun.*, **14**, 597 (2023)'
+doi: 10.1038/s41467-023-36299-1
 links:
 - name: URL
+  url: https://www.nature.com/articles/s41467-023-36299-1
+- name: bioRxiv
   url: https://www.biorxiv.org/content/10.1101/2022.07.19.500703v1
 ---
