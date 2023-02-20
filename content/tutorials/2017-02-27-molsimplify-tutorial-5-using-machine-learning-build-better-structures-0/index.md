@@ -107,7 +107,7 @@ Running again, we get two different structures for the two spin states. The low 
 When we run DFT on the these two geometries (at doublet and sextet spin respectively), we observe the final calculated bond lengths are 2.01 Å and 2.16 Å, which follow the trends of our predictions very well. In general, for complexes with training distances < 1.0, we observe an approximate average error of 0.03 Å across different metals and spin states, which rises to 0.1Å for compounds futher from our training data. Still, this gives us a good starting point for geometry optimization, tailored to the target spin and oxidation state (and HFX fraction!) used.
 
 
-If you ever don’t want to use the ANN for a given complex, you can disable it by passing the optional `-skipANN True` flag to molSimplify.
+If you ever don’t want to use the ANN for a given complex, you can disable it by passing the optional `-skipANN` flag to molSimplify.
 
 
 [1] Kier, L. B. (1985), A Shape Index from Molecular Graphs. Quant. Struct.-Act. Relat., 4: 109–116. doi:10.1002/qsar.19850040303
