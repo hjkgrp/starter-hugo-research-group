@@ -60,7 +60,7 @@ abstract: Transition metal chromophores with earth-abundant transition metals ar
   optical properties in the literature exemplifies the effectiveness of our construction
   of a realistic design space and active learning approach.
 doi: 10.1021/jacsau.2c00547
-publication: '*JACS Au*, **in press**'
+publication: '*JACS Au*, **3**, 391-401 (2023)'
 links:
 - name: arXiv
   url: https://arxiv.org/abs/2208.05444

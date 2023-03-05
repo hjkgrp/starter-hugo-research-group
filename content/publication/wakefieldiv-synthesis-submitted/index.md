@@ -1,22 +1,27 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: A Database of Ultrastable MOFs Reassembled from Stable Fragments with Machine
-  Learning Models
+title: Synthesis and Ring-opening Metathesis Polymerization of a Strained trans-Silacycloheptene and Single Molecule Mechanics of its Polymer 
 subtitle: ''
 summary: ''
 authors:
-- nandy
-- shuweny
-- ohch
-- crduan
-- gterrone
-- Yongchul G Chung
+- H. Wakefield IV
+- iliak
+- K. E. Wentz
+- Y. Yao 
+- T. B. Kouznetsova
+- S. J. Melvin
+- E. G. Ambrosius
+- A. Herzog-Arbeitman
+- M. A. Siegler
+- J. A. Johnson
+- S. L. Craig
 - admin
+- R. S. Klausen
 tags: []
 categories: []
-date: submitted-01-01
-lastmod: 2023-01-02T14:39:46-04:00
+date: 'submitted-01-01'
+lastmod: 2023-02-01T13:35:02-04:00
 featured: false
 draft: false
 
@@ -34,9 +39,12 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-01-02T18:39:46.489202Z'
+publishDate: '2023-02-01T17:35:02.301962Z'
 publication_types:
 - '3'
 abstract: ''
-publication: '*submitted*'
+doi: 10.26434/chemrxiv-2022-14g3n
+#links:
+#- name: URL
+#  url: https://chemrxiv.org/engage/chemrxiv/article-details/62c489659c9c6b63162ce94d
 ---

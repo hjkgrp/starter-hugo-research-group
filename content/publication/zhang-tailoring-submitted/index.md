@@ -1,23 +1,22 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 1D Hybrid Semiconductor Silver 2,6-Difluorophenylselenolate
+title: Tailoring Dynamic Hydrogels by Controlling Associative Exchange Rates
 subtitle: ''
 summary: ''
 authors:
-- Tomoaki Sakurada
-- yscho
-- Watcharaphol Paritmongkol
-- Ruomeng Wan
-- A Su
-- Woo-Seok Lee
-- Wenbi Shcherbakov-Wu
+- Vivian Zhang
+- Joseph V. Accardo
+- iliak
+- Eliot F. Woods
+- Steven J. Chapman
+- Christopher T. Eckdahl
 - admin
-- P Müller
+- Julia A. Kalow
 tags: []
 categories: []
-date: submitted-01-01
-lastmod: 2023-01-12T13:35:04-04:00
+date: 'submitted-01-01'
+lastmod: 2023-02-15T13:35:02-04:00
 featured: false
 draft: false
 
@@ -35,9 +34,13 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-01-12T17:35:03.688457Z'
+publishDate: '2023-02-15T17:35:02.301962Z'
 publication_types:
 - '3'
 abstract: ''
 publication: '*submitted*'
+#doi: 10.26434/chemrxiv-2022-14g3n
+#links:
+#- name: URL
+#  url: https://chemrxiv.org/engage/chemrxiv/article-details/62c489659c9c6b63162ce94d
 ---
