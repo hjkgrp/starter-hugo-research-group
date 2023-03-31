@@ -1,18 +1,18 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Computational Discovery of Stable Metal-Organic Frameworks for Methane-to-Methanol Catalysis
+title: 'Computational Discovery of Stable Metal-Organic Frameworks for Methane-to-Methanol Catalysis'
 subtitle: ''
 summary: ''
 authors:
 - hadamji
 - nandy
 - iliak
-- Y. Roman-Leshkov
+- Yuriy Roman-Leshkov
 - admin
 tags: []
 categories: []
-date: 'submitted-01-01'
+date: '2023-03-31'
 lastmod: 2023-03-30T14:39:46-04:00
 featured: false
 draft: false
