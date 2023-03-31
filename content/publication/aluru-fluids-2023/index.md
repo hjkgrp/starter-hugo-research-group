@@ -79,5 +79,8 @@ abstract: Confined fluids and electrolytes in nanopores exhibit rich and surpris
   We also identify new knowledge gaps in our understanding of nanofluidic transport
   and provide an outlook for the future challenges and opportunities at this rapidly
   advancing frontier.
-publication: '*Chem. Rev.*, **ASAP**'
+publication: '*Chem. Rev.*, **123** 2737-2831 (2023)'
+url_pdf: https://doi.org/10.1021/acs.chemrev.2c00155
+doi: 10.1021/acs.chemrev.2c00155
+
 ---

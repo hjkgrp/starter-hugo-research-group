@@ -1,27 +1,20 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Synthesis and Ring-opening Metathesis Polymerization of a Strained trans-Silacycloheptene and Single Molecule Mechanics of its Polymer 
+title: SESAMI APP: An Accessible Interface for Surface Area Calculation of Materials from Adsorption Isotherms
 subtitle: ''
 summary: ''
 authors:
-- H. Wakefield IV
-- iliak
-- K. E. Wentz
-- Y. Yao 
-- T. B. Kouznetsova
-- S. J. Melvin
-- E. G. Ambrosius
-- A. Herzog-Arbeitman
-- M. A. Siegler
-- J. A. Johnson
-- S. L. Craig
+- gterrone
+- Y. Chen
+- A. Datar
+- L.-C. Lin
 - admin
-- R. S. Klausen
+- Y. G. Chung
 tags: []
 categories: []
-date: 'submitted-01-01'
-lastmod: 2023-02-01T13:35:02-04:00
+date: '2023-03-23'
+lastmod: 2023-03-23T13:35:04-04:00
 featured: false
 draft: false
 
@@ -39,12 +32,15 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-02-01T17:35:02.301962Z'
+publishDate: '2023-01-05T17:35:04.176568Z'
 publication_types:
 - '3'
 abstract: ''
-#doi: 10.26434/chemrxiv-2022-14g3n
-#links:
+publication: '*submitted*'
+links:
 #- name: URL
-#  url: https://chemrxiv.org/engage/chemrxiv/article-details/62c489659c9c6b63162ce94d
+#  url: https://doi.org/10.1039/D2SC06150C
+- name: ChemrXiv
+  url: https://doi.org/10.26434/chemrxiv-2023-pzkl0
+#doi: 10.1039/D2SC06150C
 ---
