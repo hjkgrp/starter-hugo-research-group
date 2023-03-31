@@ -12,7 +12,7 @@ authors:
 - admin
 tags: []
 categories: []
-date: submitted-01-01
+date: 'submitted-01-01'
 lastmod: 2023-03-31T14:39:46-04:00
 featured: false
 draft: false
@@ -36,6 +36,6 @@ publication_types:
 - '3'
 abstract: ''
 publication: '*submitted*'
-#- name: ChemrXiv
-#  url: https://doi.org/10.26434/chemrxiv-2023-cj9p9
+- name: ChemrXiv
+  url: https://doi.org/10.26434/chemrxiv-2023-cj9p9
 ---
