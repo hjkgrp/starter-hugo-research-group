@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: SESAMI APP\: An Accessible Interface for Surface Area Calculation of Materials from Adsorption Isotherms
+title: "SESAMI APP: An Accessible Interface for Surface Area Calculation of Materials from Adsorption Isotherms"
 subtitle: ''
 summary: ''
 authors:
