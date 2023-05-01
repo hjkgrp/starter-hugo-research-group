@@ -64,6 +64,6 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Grad Students
+- Alumni
 ---
 Naveen joined the Kulik group in December 2018 as a PhD student in Chemical Engineering. He received his B.S. in Chemical Engineering from Caltech in Spring 2018. At Caltech, he worked with Prof. Thomas Miller on ion diffusion in polymers and with Prof. William Goddard on olfactory protein structure determination. Currently, Naveen’s research is focused on using machine learning and experimental databases to inform inorganic catalyst discovery. Naveen holds an NSF Graduate Research Fellowship.
