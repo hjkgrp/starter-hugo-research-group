@@ -1,5 +1,6 @@
 ---
 title: Naveen's paper accepted in JCP
+reading_time: false
 date: 2022-10-24
 ---
 

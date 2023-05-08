@@ -1,5 +1,6 @@
 ---
 title: Chenru's paper accepted in JACS Au
+reading_time: false
 date: 2022-11-16
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: Vyshnavi's paper published in Inorg. Chem.
+reading_time: false
 date: 2022-08-31
 ---
 

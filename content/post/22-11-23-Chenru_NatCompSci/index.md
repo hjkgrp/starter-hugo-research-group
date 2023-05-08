@@ -1,5 +1,6 @@
 ---
 title: Chenru's paper accepted in Nature Computational Science
+reading_time: false
 date: 2022-11-23
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: Gianmarco's paper accepted in Chem. Sci.
+reading_time: false
 date: 2023-01-05
 ---
 

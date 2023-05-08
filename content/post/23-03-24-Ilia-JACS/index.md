@@ -1,5 +1,6 @@
 ---
 title: Ilia's collaborative MONET paper on ring opening metathesis of silanes is accepted in JACS!
+reading_time: false
 date: 2023-03-24
 ---
 

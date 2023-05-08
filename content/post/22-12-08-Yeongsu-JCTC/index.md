@@ -1,5 +1,6 @@
 ---
 title: Yeongsu's paper accepted in JCTC
+reading_time: false
 date: 2022-12-08
 ---
 

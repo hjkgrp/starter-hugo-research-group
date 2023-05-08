@@ -1,5 +1,6 @@
 ---
 title: Yeongsu's collaborative paper accepted in ACS Nano
+reading_time: false
 date: 2022-11-15
 ---
 

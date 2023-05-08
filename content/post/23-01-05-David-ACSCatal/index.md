@@ -1,5 +1,6 @@
 ---
 title: David's first-author paper accepted in ACS Catal.
+reading_time: false
 date: 2023-01-05
 ---
 
