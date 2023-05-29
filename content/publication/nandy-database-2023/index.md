@@ -4,7 +4,7 @@
 title: A Database of Ultrastable MOFs Reassembled from Stable Fragments with Machine
   Learning Models
 subtitle: ''
-summary: 'High-throughput screening of hypothetical metal-organic frame- work (MOF) databases can uncover new materials, but their stability in real-world applications is often unknown. We leverage commu- nity knowledge and machine learning (ML) models to identify MOFs that are thermally stable and stable upon activation. We sepa- rate these MOFs into their building blocks and recombine them to make a new hypothetical MOF database of over 50,000 structures with orders of magnitude more (1) connectivity nets and (2) inor- ganic building blocks than were present in prior databases. This database shows a 10-fold enrichment of ultrastable MOF structures that are stable upon activation and more than 1 standard deviation more thermally stable than the average experimentally character- ized MOF. For nearly 10,000 ultrastable MOFs, we compute elastic moduli to confirm that these materials have good mechanical stabil- ity, and we report methane deliverable capacities. We identify priv- ileged metal nodes in ultrastable MOFs that optimize gas storage and mechanical stability simultaneously.'
+abstract: 'High-throughput screening of hypothetical metal-organic frame- work (MOF) databases can uncover new materials, but their stability in real-world applications is often unknown. We leverage commu- nity knowledge and machine learning (ML) models to identify MOFs that are thermally stable and stable upon activation. We sepa- rate these MOFs into their building blocks and recombine them to make a new hypothetical MOF database of over 50,000 structures with orders of magnitude more (1) connectivity nets and (2) inor- ganic building blocks than were present in prior databases. This database shows a 10-fold enrichment of ultrastable MOF structures that are stable upon activation and more than 1 standard deviation more thermally stable than the average experimentally character- ized MOF. For nearly 10,000 ultrastable MOFs, we compute elastic moduli to confirm that these materials have good mechanical stabil- ity, and we report methane deliverable capacities. We identify priv- ileged metal nodes in ultrastable MOFs that optimize gas storage and mechanical stability simultaneously.'
 authors:
 - nandy
 - shuweny
@@ -16,7 +16,7 @@ authors:
 tags: []
 categories: []
 date: 2023-04-03
-lastmod: 2023-04-03T14:39:46-04:00
+lastmod: 2023-05-03T14:39:46-04:00
 featured: false
 draft: false
 

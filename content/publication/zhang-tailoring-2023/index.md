@@ -15,8 +15,8 @@ authors:
 - Julia A. Kalow
 tags: []
 categories: []
-date: 'submitted-01-01'
-lastmod: 2023-02-15T13:35:02-04:00
+date: '2023-05-16'
+lastmod: 2023-05-16T13:35:02-04:00
 featured: false
 draft: false
 
@@ -34,11 +34,11 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-02-15T17:35:02.301962Z'
+publishDate: '2023-05-16T17:35:02.301962Z'
 publication_types:
-- '3'
+- '2'
 abstract: ''
-publication: '*submitted*'
+publication: '*Chem*, **in press**'
 #doi: 10.26434/chemrxiv-2022-14g3n
 #links:
 #- name: URL

@@ -20,8 +20,8 @@ authors:
 - R. S. Klausen
 tags: []
 categories: []
-date: '2023-03-24'
-lastmod: 2023-03-24T13:35:02-04:00
+date: '2023-04-05'
+lastmod: 2023-04-05T13:35:02-04:00
 featured: false
 draft: false
 
@@ -42,10 +42,13 @@ projects: []
 publishDate: '2023-03-24T17:35:02.301962Z'
 publication_types:
 - '2'
-abstract: ''
-publication: '*J. Am. Chem. Soc.*, **in press**'
-#doi: 10.26434/chemrxiv-2022-14g3n
-#links:
-#- name: URL
-#  url: https://chemrxiv.org/engage/chemrxiv/article-details/62c489659c9c6b63162ce94d
+abstract: 'The cis- and trans-isomers of a silacycloheptene were selectively synthesized by the alkylation of a silyl dianion, a novel approach to strained cycloalkenes. The trans-silacycloheptene (trans-SiCH) was significantly more strained than the cis isomer, as predicted by quantum chemical calculations and confirmed by crystallographic signatures of a twisted alkene. Each isomer exhibited distinct reactivity toward ring-opening metathesis polymerization (ROMP), where only trans-SiCH afforded high-molar-mass polymer under enthalpy-driven ROMP. Hypothesizing that the introduction of silicon might result in increased molecular compliance at large extensions, we compared poly(trans-SiCH) to organic polymers by single-molecule force spectroscopy (SMFS). Force-extension curves from SMFS showed that poly(trans-SiCH) is more easily overstretched than two carbon-based analogues, polycyclooctene and polybutadiene, with stretching constants that agree well with the results of computational simulations.'
+publication: '*J. Am. Chem. Soc.*, **145**, 10187-10196 (2023)'
+doi: 10.1021/jacs.3c01004
+#doi: 10.26434/chemrxiv-2022-14gn
+links:
+- name: PDF
+url: https://doi.org/10.1021/jacs.3c01004
+- name: ChemRxiv
+  url: https://chemrxiv.org/engage/chemrxiv/article-details/62c489659c9c6b63162ce94d
 ---
