@@ -39,4 +39,11 @@ publication_types:
 - '2'
 abstract: ''
 publication: '*Matter*, **6**, 1585-1603 (2023)'
+doi: 10.1016/j.matt.2023.03.009
+links:
+- name: PDF
+  url: https://doi.org/10.1016/j.matt.2023.03.009
+- name: arxiv
+  url: https://doi.org/10.48550/arXiv.2210.14191
+
 ---
