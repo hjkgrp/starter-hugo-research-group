@@ -37,6 +37,7 @@ show_date: false
 - Brendan Mar, VS, [Tenure Track Lecturer at DeAnza College](https://www.deanza.edu/directory/user.html?u=marbrendan)
 - Rimsha Mehmood, GS, Ph.D. '21 Chemistry and now Senior Scientist at Merck
 - Mohamad Seyed Moosavi, VS, Ph.D EPFL '20, now PD in Noe Group, Free University Berlin
+- [Aditya Nandy](../../author/aditya-nandy), GS, Ph.D. '23 Chemistry and now Schmidt AI Futures Fellow U. Chicago 23-25 and incoming TT. Asst. Prof. UCLA CBE 2025
 - Azadeh Nazemi, PD, Senior Scientist at Pfizer
 - [Jonas Oldenstaedt](../../author/jonas-oldenstaedt), MS, TUM expected '23 CSE
 - Niladri Patra, PD, [Assistant Professor at IIT Dhanbad](https://npatra2.wixsite.com/iitism)

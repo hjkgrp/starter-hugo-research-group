@@ -66,6 +66,6 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Grad Students
+- Alumni
 ---
 Aditya joined the Kulik group in November 2017 as a PhD student in Chemistry. He received his B.S. in Chemical Engineering from U.C. Berkeley in Spring 2017. At Cal, Aditya worked with Prof. Jeffrey A. Reimer, using solid-state NMR and other methods to study diffusion and adsorption of small molecules inside of MOF materials. Aditya holds an NSF Graduate Research Fellowship.
