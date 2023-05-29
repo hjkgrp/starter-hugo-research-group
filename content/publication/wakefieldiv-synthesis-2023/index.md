@@ -48,7 +48,7 @@ doi: 10.1021/jacs.3c01004
 #doi: 10.26434/chemrxiv-2022-14gn
 links:
 - name: PDF
-url: https://doi.org/10.1021/jacs.3c01004
+  url: https://doi.org/10.1021/jacs.3c01004
 - name: ChemRxiv
   url: https://chemrxiv.org/engage/chemrxiv/article-details/62c489659c9c6b63162ce94d
 ---
