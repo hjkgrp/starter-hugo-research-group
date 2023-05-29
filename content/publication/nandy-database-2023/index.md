@@ -37,7 +37,6 @@ projects: []
 publishDate: '2023-04-03T18:39:46.489202Z'
 publication_types:
 - '2'
-abstract: ''
 publication: '*Matter*, **6**, 1585-1603 (2023)'
 doi: 10.1016/j.matt.2023.03.009
 links:
