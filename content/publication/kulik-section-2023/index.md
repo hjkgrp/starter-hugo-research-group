@@ -34,7 +34,7 @@ abstract: 'Catalysts, be they molecular, heterogeneous, or enzymatic, greatly ac
 publication: 'in *Comprehensive Computational Chemistry*, eds. Russell Boyd and M. Yanez, **in press**'
 links:
 - name: URL
-   url: https://www.sciencedirect.com/science/article/abs/pii/B9780128219782000817
+  url: https://www.sciencedirect.com/science/article/abs/pii/B9780128219782000817
 #- name: ChemrXiv
 #  url: https://chemrxiv.org/engage/chemrxiv/article-details/6453e66527fccdb3ea7f5bb0
 doi: 10.1016/B978-0-12-821978-2.00081-7
