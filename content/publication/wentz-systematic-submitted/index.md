@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Polymer networks with cubic, mixed Pd(II) and Pt(II) M6L12 metal– organic cage junctions display tunable relaxation behavior
+title: Systematic Investigation of Silicon Substitution on Single Macromolecule Mechanics 
 subtitle: ''
 summary: ''
 authors:
