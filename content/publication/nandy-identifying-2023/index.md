@@ -33,7 +33,7 @@ publishDate: '2023-06-20T18:39:46.489202Z'
 publication_types:
 - '2'
 abstract: 'We survey over 230,000 crystallized mononuclear transition metal complexes (TMCs) to identify trends in preferred geometric structure and metal coordination. While we observe increased d-filling to correlate to lower coordination number preference, we note exceptions, and we observe undersampling of 4d/5d transition metals and 3p-coordinating ligands. For the one third of mononuclear TMCs that are octahedral, analysis of the 67 symmetry classes of their ligand environments reveals that complexes often contain monodentate ligands that may be removable, forming an open site amenable to catalysis.  Due to their use in catalysis, we analyze trends in coordination by tetradentate ligands in terms of the capacity to support multiple metals and the variability of coordination geometry. We identify promising tetradentate ligands that co-occur in crystallized complexes with labile monodentate ligands that would lead to reactive sites. Literature mining suggests that these ligands are untapped as catalysts, motivating proposal of a promising octa-functionalized porphyrin.'
-publication: '*The Journal of Physical Chemistry Letters*, **14**, 5798-5804 (2023)'
+publication: '*J. Phys. Chem. Lett.*, **14**, 5798-5804 (2023)'
 links:
 - name: ChemrXiv
   url: https://chemrxiv.org/engage/chemrxiv/article-details/6453e66527fccdb3ea7f5bb0

@@ -35,7 +35,7 @@ publishDate: '2023-06-20T18:39:46.489202Z'
 publication_types:
 - '2'
 abstract: ''
-publication: '*Journal of the American Chemical Society*, **in press**'
+publication: '*J. Am. Chem. Soc.*, **in press**'
 links:
 - name: URL
   url: https://pubs.acs.org/doi/10.1021/jacs.3c03351

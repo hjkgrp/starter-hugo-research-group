@@ -36,7 +36,7 @@ publishDate: '2023-06-13T17:35:04.176568Z'
 publication_types:
 - '2'
 abstract: ''
-publication: '*Journal of Open Source Software*, **8**, 5429 (2023)'
+publication: '*J. Open Source Softw.*, **8**, 5429 (2023)'
 links:
 - name: URL
   url: https://joss.theoj.org/papers/10.21105/joss.05429
