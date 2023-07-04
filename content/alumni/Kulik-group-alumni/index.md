@@ -13,6 +13,7 @@ show_date: false
 - Shuxin Chen, UROP, MIT SB Course X expected '22
 - [Yael Cytter](../../author/yael-cytter), PD, Research Scientist in Israel
 - [Chenru Duan](../../author/chenru-duan), GS, Ph.D. '22, Research Engineer, Microsoft Quantum 
+- Freya Edholm, UROP, MIT CSE S.M. Student '24
 - Kristen Eller, UROP, Ph.D Student in CU Boulder ChE
 - Terry Gani, GS, Ph.D. '20 ChemE (w/ Roman group) and now senior scientist, Cabot Corporation
 - Zach Giaccone, SS, Grad Student in UConn Dental School

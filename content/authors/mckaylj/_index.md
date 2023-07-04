@@ -63,6 +63,6 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Undergraduate Students
+- Alumni
 ---
 Mugyeom is a UROP in the Kulik group working on isomers of non-heme iron enzymes.
