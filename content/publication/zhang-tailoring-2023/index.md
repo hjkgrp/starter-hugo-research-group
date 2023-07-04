@@ -38,9 +38,9 @@ publishDate: '2023-05-16T17:35:02.301962Z'
 publication_types:
 - '2'
 abstract: ''
-publication: '*Chem*, **in press**'
-#doi: 10.26434/chemrxiv-2022-14g3n
-#links:
-#- name: URL
-#  url: https://chemrxiv.org/engage/chemrxiv/article-details/62c489659c9c6b63162ce94d
+publication: '*Chem*, **9**, 1-20 (2023)'
+doi: 10.1016/j.chempr.2023.05.018
+links:
+- name: URL
+  url: https://www.sciencedirect.com/science/article/abs/pii/S2451929423002504?via%3Dihub
 ---
