@@ -10,8 +10,8 @@ authors:
 - admin
 tags: []
 categories: []
-date: '2023-05-05'
-lastmod: 2023-05-05T14:39:46-04:00
+date: '2023-06-20'
+lastmod: 2023-06-20T14:39:46-04:00
 featured: false
 draft: false
 
@@ -29,11 +29,11 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-05-05T18:39:46.489202Z'
+publishDate: '2023-06-20T18:39:46.489202Z'
 publication_types:
-- '3'
+- '2'
 abstract: 'Spin crossover (SCO) complexes, which exhibit changes in spin state in response to external stimuli, have applications in molecular electronics and are challenging materials for computational design. We curate a data set of 95 Fe(II) SCO complexes (SCO-95) from the Cambridge Structural Database that have available low- and high-temperature crystal structures and, in most cases, confirmed experimental spin transition temperatures (T1/2). We study these complexes using density functional theory (DFT) with thirty functionals spanning across multiple rungs of “Jacob’s ladder” to understand the effect of exchange-correlation functional on electronic and Gibbs free energies associated with spin crossover. We specifically assess the effect of varying the Hartree–Fock exchange fraction (aHF) in structures and properties within the B3LYP family of functionals. We identify three best-performing functionals, a modified version of B3LYP (aHF = 0.10), M06-L, and TPSSh, that accurately predict SCO behavior for the majority of the complexes. Contrary to observations from prior studies, double-hybrids with higher aHF values are found to strongly stabilize high-spin states and therefore exhibit poor performance in predicting SCO behavior. Computationally predicted T1/2 values are consistent among the three functionals but show limited correlation to experimentally reported T1/2 values. These failures are attributed to the lack of crystal packing effects and counter-anions in the DFT calculations that would be needed to account for phenomena like hysteresis and two-step SCO behavior. The SCO-95 set thus presents opportunities for method development, both in terms of increasing model complexity and method fidelity.'
-publication: '*submitted*'
+publication: '*Journal of Chemical Physics*, **in press**'
 links:
 - name: ChemrXiv
   url: https://doi.org/10.26434/chemrxiv-2023-kqbhs
