@@ -13,8 +13,8 @@ authors:
 - Y. G. Chung
 tags: []
 categories: []
-date: '2023-03-23'
-lastmod: 2023-03-23T13:35:04-04:00
+date: '2023-06-13'
+lastmod: 2023-06-13T13:35:04-04:00
 featured: false
 draft: false
 
@@ -32,15 +32,13 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-01-05T17:35:04.176568Z'
+publishDate: '2023-06-13T17:35:04.176568Z'
 publication_types:
-- '3'
+- '2'
 abstract: ''
-publication: '*submitted*'
+publication: '*Journal of Open Source Software*, **8**, 5429 (2023)'
 links:
-#- name: URL
-#  url: https://doi.org/10.1039/D2SC06150C
-- name: ChemrXiv
-  url: https://doi.org/10.26434/chemrxiv-2023-pzkl0
-#doi: 10.1039/D2SC06150C
+- name: URL
+  url: https://joss.theoj.org/papers/10.21105/joss.05429
+doi: 10.21105/joss.05429
 ---

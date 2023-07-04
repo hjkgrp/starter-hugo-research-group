@@ -12,8 +12,8 @@ authors:
 - admin
 tags: []
 categories: []
-date: '2023-03-31'
-lastmod: 2023-03-30T14:39:46-04:00
+date: '2023-06-20'
+lastmod: 2023-06-20T14:39:46-04:00
 featured: false
 draft: false
 
@@ -31,12 +31,15 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-03-30T18:39:46.489202Z'
+publishDate: '2023-06-20T18:39:46.489202Z'
 publication_types:
-- '3'
+- '2'
 abstract: ''
-publication: '*submitted*'
+publication: '*Journal of the American Chemical Society*, **in press**'
 links:
+- name: URL
+  url: https://pubs.acs.org/doi/10.1021/jacs.3c03351
 - name: ChemrXiv
   url: https://doi.org/10.26434/chemrxiv-2023-cj9p9
+doi: 10.1021/jacs.3c03351
 ---

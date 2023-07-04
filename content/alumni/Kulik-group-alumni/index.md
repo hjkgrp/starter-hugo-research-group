@@ -2,7 +2,7 @@
 title: Kulik group alumni
 show_date: false
 ---
-- [Isuru Ariyarathna](../../author/isuru-ariyarathna/), PD, Senior Engineer, Intel
+- [Isuru Ariyarathna](../../author/isuru-ariyarathna/), PD, Postdoctoral Associate, Los Alamos National Laboratory
 - [Naveen Arunachalam](../../author/naveen-arunachalam/), GS, Ph.D. '23 ChemE and now Independent Consultant, NTA Capital
 - Sule Atahan-Evrenk, VS, [Assistant Professor at TOBB University of Economics and Technology](http://satahanevrenk.etu.edu.tr)
 - Anna Bair, UROP, MIT SB Course 5 expected '23
