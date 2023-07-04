@@ -14,7 +14,7 @@ show_date: false
 - [Yael Cytter](../../author/yael-cytter), PD, Research Scientist in Israel
 - [Chenru Duan](../../author/chenru-duan), GS, Ph.D. '22, Research Engineer, Microsoft Quantum 
 - Kristen Eller, UROP, Ph.D Student in CU Boulder ChE
-- Terry Gani, GS, Ph.D. '20 ChemE (w/ Roman group) and now postdoc in ETH Zürich Chemistry (Coperet group)
+- Terry Gani, GS, Ph.D. '20 ChemE (w/ Roman group) and now senior scientist, Cabot Corporation
 - Zach Giaccone, SS, Grad Student in UConn Dental School
 - Conrad Goffinet, UROP, MIT MSECP Program S.M. '21
 - Stefan Gugler, MS, ETH Zürich MS '18 Chemistry (with M. Reiher) and now [Ph.D. student in ETH Zürich Chemistry (Reiher group)](https://reiher.ethz.ch/the-group/people/person-detail.html?persid=196709)
@@ -55,6 +55,7 @@ show_date: false
 - Jing Yang, PD, Assistant Professor at Sun Yat-sen University
 - Tzuhsiung Yang, PD, Assistant Professor at National Tsing Hua University (NTHU)
 - Zhongyue Yang, PD, [Assistant Professor at Vanderbilt University](https://www.vanderbilt.edu/chemistry/faculty/yang.php)
+- Shuwen Yue, PD, [Assistant Professor at Cornell University](https://www.cheme.cornell.edu/faculty-directory/shuwen-yue)
 - Qing Zhao, GS, Ph.D. '18 MechE, [Assistant Professor at Northeastern University](https://www.qzhao-neu.com)
 
 SS = summer student, UROP = undergraduate, VS = visiting scientist, MS = masters student resulting in degree, GS = graduate student, PD = postdoc

@@ -69,6 +69,6 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Postdocs
+- Alumni
 ---
-Shuwen joined the group as a postdoc in October 2021. She received her Ph.D. from Princeton University with Prof. Thanos Panagiotopoulos. Her Ph.D. work focused on the prediction of thermodynamic and transport properties of aqueous electrolyte solutions. In the Kulik group, she studies water and electrolyte solutions in confinement as part of the CENT EFRC.
+Shuwen joined the group as a postdoc in October 2021. She received her Ph.D. from Princeton University with Prof. Thanos Panagiotopoulos. Her Ph.D. work focused on the prediction of thermodynamic and transport properties of aqueous electrolyte solutions. In the Kulik group, she studies water and electrolyte solutions in confinement as part of the CENT EFRC. Shuwen is now an assistant professor at Cornell.
