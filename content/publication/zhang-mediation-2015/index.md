@@ -38,9 +38,9 @@ abstract: Enzymatic methyl transfer, catalyzed by catechol-O-methyltransferase (
   lifetimes, Stokes shifts, and extended graphics processing unit (GPU)-based quantum
   mechanics/molecular mechanics (QM/MM) approaches. The WT enzyme is compared with
   mutants at Tyr68, a conserved residue that is located behind the reactive sulfur
-  of cofactor. Small (textgreater1) BIEs are observed for an S-adenosylmethionine
+  of cofactor. Small (>1) BIEs are observed for an S-adenosylmethionine
   (AdoMet)-binary and abortive ternary complex containing 8-hydroxyquinoline, and
-  contrast with previously reported inverse (textless1) kinetic isotope effects (KIEs).
+  contrast with previously reported inverse (<1) kinetic isotope effects (KIEs).
   Extended GPU-based computational studies of a ternary complex containing catecholate
   show a clear trend in ground state structures, from noncanonical bond lengths for
   WT toward solution values with mutants. Structural and dynamical differences that

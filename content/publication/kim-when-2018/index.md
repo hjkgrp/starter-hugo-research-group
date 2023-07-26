@@ -32,7 +32,7 @@ projects: []
 publishDate: '2021-06-21T01:48:20.656094Z'
 publication_types:
 - '2'
-abstract: We present a detailed study of nearly 70 Zn molecular catalysts for CO2
+abstract: We present a detailed study of nearly 70 Zn molecular catalysts for CO<sub>2</sub>
   hydration from four diverse ligand classes ranging from well-studied carbonic anhydrase
   mimics (e.g., cyclen) to new structures we obtain by leveraging diverse hits from
   large organic libraries. Using microkinetic analysis and establishing linear free
@@ -40,7 +40,7 @@ abstract: We present a detailed study of nearly 70 Zn molecular catalysts for CO
   stability of reactive hydroxyl and bound bicarbonate moieties. We observe a wide
   range of thermodynamic stabilities for these intermediates, showing up to 6 kcal/mol
   improvement over well-studied cyclen catalysts. We observe a good correlation between
-  the pKa of the Zn–OH2 moiety and the resulting relative stability of hydroxyl moieties
+  the pKa of the Zn–OH<sub>2</sub> moiety and the resulting relative stability of hydroxyl moieties
   over bicarbonate, which may be rationalized by the dominant effect of the difference
   in higher Zn−OH bond order in comparison to weaker bonding in bicarbonate and water.
   A direct relationship is identified between isolated organic ligand pKa and the

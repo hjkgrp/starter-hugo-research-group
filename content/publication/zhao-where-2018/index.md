@@ -42,7 +42,7 @@ abstract: Approximate density functional theory (DFT) is widely used in chemistr
   DFT+U and global hybrids on a diverse set of 34 transition-metal-containing solids
   with varying magnetic state, electron configuration and valence shell, and coordinating-atom
   orbital diffuseness (i.e., O, S, Se). We also study open-framework solids in which
-  the metal is coordinated by molecular ligands, i.e., MCO3, M(OH)2, M(NCNH)2, K3M(CN)6
+  the metal is coordinated by molecular ligands, i.e., MCO<sub>3</sub>, M(OH)<sub>2</sub>, M(NCNH)<sub>2</sub>, K<sub>3</sub>M(CN)<sub>6</sub>
   (M = V–Ni). As in transition-metal complexes, incorporation of Hartree–Fock exchange
   consistently localizes density away from the metal, but DFT+U exhibits diverging
   behavior, localizing density (i) onto the metal in low-spin and late transition

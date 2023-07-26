@@ -56,4 +56,7 @@ abstract: Accelerated discovery with machine learning (ML) has begun to provide 
 publication: '*J. Phys. Chem. Lett.*, **12**, 4628-4637 (2021)'
 doi: 10.1021/acs.jpclett.1c00631
 url_pdf: https://pubs.acs.org/doi/10.1021/acs.jpclett.1c00631
+links:
+ - name: arXiv
+   url: https://doi.org/10.48550/arXiv.2205.02967
 ---

@@ -51,4 +51,7 @@ abstract: Computational prediction of enzyme mechanism and protein function requ
 publication: '*Curr. Opin. Struct. Biol.*, **72**, 9-17 (2022)'
 url_pdf: https://www.sciencedirect.com/science/article/pii/S0959440X21001068
 doi: 10.1016/j.sbi.2021.07.004
+links:
+ - name: arXiv
+   url: https://doi.org/10.48550/arXiv.2105.12873
 ---

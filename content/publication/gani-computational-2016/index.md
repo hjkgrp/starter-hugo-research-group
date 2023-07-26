@@ -35,18 +35,18 @@ publication_types:
 - '2'
 abstract: Selective ion separation is a major challenge with far-ranging impact from
   water desalination to product separation in catalysis. Recently introduced ferrocene
-  (Fc)/ferrocenium (Fc+) polymer electrode materials have been demonstrated experimentally
+  (Fc)/ferrocenium (Fc<sup>+</sup>) polymer electrode materials have been demonstrated experimentally
   and theoretically to selectively bind carboxylates over perchlorate through weak
   C–H···O hydrogen bond (HB) interactions that favor carboxylates, despite the comparable
   size and charge of the two species. However, practical application of this technology
   in aqueous environments requires further selectivity enhancement. Using a first-principles
-  discovery approach, we investigate the effect of Fc/Fc+ functional groups (FGs)
-  on the selectivity and reversibility of formate–Fc+ adsorption with respect to perchlorate
+  discovery approach, we investigate the effect of Fc/Fc<sup>+</sup> functional groups (FGs)
+  on the selectivity and reversibility of formate–Fc<sup>+</sup> adsorption with respect to perchlorate
   in aqueous solution. Our wide design space of 44 FGs enables identification of FGs
   with higher selectivity and rationalization of trends through electronic energy
   decomposition analysis or geometric hydrogen bonding analysis. Overall, we observe
-  weaker, longer HBs for perchlorate as compared to formate with Fc+. We further identify
-  Fc+ functionalizations that simultaneously increase selectivity for formate in aqueous
+  weaker, longer HBs for perchlorate as compared to formate with Fc<sup>+</sup>. We further identify
+  Fc<sup>+</sup> functionalizations that simultaneously increase selectivity for formate in aqueous
   environments but permit rapid release from neutral Fc. We introduce the materiaphore,
   a 3D abstraction of these design rules, to help guide next-generation material optimization
   for selective ion sorption. This approach is expected to have broad relevance in

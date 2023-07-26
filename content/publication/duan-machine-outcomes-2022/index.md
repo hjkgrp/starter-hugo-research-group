@@ -55,9 +55,9 @@ abstract: Virtual high-throughput screening (VHTS) and machine learning (ML) hav
   saves more than half of the computational resources that would have been wasted
   on unsuccessful calculations for all reactive intermediates being considered.
 publication: '*J. Chem. Theory Comput.*, **18**, 4282--4292 (2022)'
-url_pdf: https://arxiv.org/abs/2203.01276
+url_pdf: https://pubs.acs.org/doi/10.1021/acs.jctc.2c00331
 doi: 10.1021/acs.jctc.2c00331
 links:
-- name: URL
-  url: https://pubs.acs.org/doi/10.1021/acs.jctc.2c00331
+- name: arXiv
+  url: https://arxiv.org/abs/2203.01276
 ---

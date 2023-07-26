@@ -32,10 +32,9 @@ projects: []
 publishDate: '2022-11-02T17:35:01.942076Z'
 publication_types:
 - '2'
-abstract: ''
+abstract: 'Empirical principles and structure--property relations derived from chemical intuition have for centuries driven the design and synthesis of materials and molecules. In recent years, thanks to the compilation of curated experimental and computational databases of compounds and reactions and to the general advances in the application of machine-learning techniques to all fields of science, the design of molecules and materials has been increasingly augmented or even led by data-driven approaches.'
 publication: '*J. Chem. Phys.*, **157**, 120401, (2022)'
 doi: 10.1063/5.0123281
-links:
-- name: URL
-  url: https://aip.scitation.org/doi/full/10.1063/5.0123281
+url_pdf: https://aip.scitation.org/doi/full/10.1063/5.0123281
+
 ---

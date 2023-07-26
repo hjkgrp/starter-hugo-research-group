@@ -41,11 +41,11 @@ abstract: ' Designing single-species selective membranes for high-precision sepa
   the separation of 18 different anions by nanoporous cellulose acetate membranes.
   Our analysis identifies the limitations of bulk solvation characteristics to explain
   ion transport, highlighted by the poor correlation between hydration energy and
-  the measured permselectivity (R2 = 0.37). Entropy-enthalpy compensation, spanning
-  40 kilojoules per mole, leads to a free-energy barrier (∆G‡) variation of only ~8
+  the measured permselectivity (R<sup>2</sup> = 0.37). Entropy-enthalpy compensation, spanning
+  40 kilojoules per mole, leads to a free-energy barrier (∆G<sup>‡</sup>) variation of only ~8
   kilojoules per mole across all anions. We apply machine learning to elucidate descriptors
   for energetic barriers from a set of 126 collected features. Notably, electrostatic
-  features account for 75% of the overall features used to describe ∆G‡, despite the
+  features account for 75% of the overall features used to describe ∆G<sup>‡</sup>, despite the
   relatively uncharged state of cellulose acetate. Our work presents an approach for
   studying ion transport across nanoporous membranes that could enable the design
   of ion-selective membranes.'

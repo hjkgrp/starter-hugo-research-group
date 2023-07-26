@@ -57,4 +57,7 @@ abstract: Biosynthetic enzyme complexes selectively catalyze challenging chemica
 publication: '*ACS Catal.*, **9**, 4930-4943 (2019)'
 url_pdf: https://doi.org/10.1021/acscatal.9b00865
 doi: 10.1021/acscatal.9b00865
+links:
+ - name: ChemRxiv
+   url: https://doi.org/10.26434/chemrxiv.7234058.v1
 ---

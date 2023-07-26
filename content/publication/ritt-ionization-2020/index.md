@@ -46,7 +46,7 @@ abstract: Escalating global water scarcity necessitates high-performance desalin
   chemically similar selective layers of controlled thickness. We then demonstrate
   location-dependent ionization of carboxyl groups in NF polyamide films. Specifically,
   only surface carboxyl groups ionize under neutral pH, whereas interior carboxyl
-  ionization requires pH textgreater9. Conversely, amine ionization behaves invariably
+  ionization requires pH > 9. Conversely, amine ionization behaves invariably
   across the film. First-principles simulations reveal that the low permittivity of
   nanoconfined water drives the anomalous carboxyl ionization behavior. Furthermore,
   we report that interior carboxyl ionization could improve the water–salt permselectivity

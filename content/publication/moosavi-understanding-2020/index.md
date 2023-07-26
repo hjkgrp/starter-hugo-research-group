@@ -53,4 +53,7 @@ abstract: Millions of distinct metal-organic frameworks (MOFs) can be made by co
 publication: '*Nat. Commun.*, **11**, 4068 (2020)'
 url_pdf: https://www.nature.com/articles/s41467-020-17755-8%C2%BB
 doi: 10.1038/s41467-020-17755-8
+links:
+ - name: ChemRxiv
+   url: https://doi.org/10.26434/chemrxiv.12251186.v1
 ---

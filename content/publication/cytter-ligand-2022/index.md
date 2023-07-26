@@ -50,4 +50,7 @@ abstract: 'The predictive accuracy of density functional theory (DFT) is hampere
 publication: '*J.  Phys. Chem. Lett.*, **13**, 4549-4555 (2022)'
 url_pdf: https://pubs.acs.org/doi/full/10.1021/acs.jpclett.2c01026
 doi: 10.1021/acs.jpclett.2c01026
+links:
+ - name: arXiv
+   url: https://doi.org/10.48550/arXiv.2204.03810
 ---

@@ -48,7 +48,8 @@ abstract: An understanding of protein stability requires capturing dynamic rearr
   of charge coupling analysis to interpret protein structure-function relationships.
 publication: '*Electron. Struct.*, **4**, 034005 (2022)'
 doi: 10.1088/2516-1075/ac8c73
+url_pdf: https://iopscience.iop.org/article/10.1088/2516-1075/ac8c73
 links:
-- name: URL
-  url: https://iopscience.iop.org/article/10.1088/2516-1075/ac8c73
+ - name: ChemRxiv
+   url: https://doi.org/10.26434/chemrxiv-2022-mzmcw
 ---

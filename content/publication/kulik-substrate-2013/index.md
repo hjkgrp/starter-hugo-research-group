@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: Substrate Placement Influences Reactivity in Non-heme Fe(II) Halogenases and
-  Hydroxylases*
+  Hydroxylases
 subtitle: ''
 summary: ''
 authors:

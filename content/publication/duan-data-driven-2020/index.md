@@ -47,7 +47,7 @@ abstract: High-throughput computational screening typically employs methods (i.e
   to six heavy atoms. Conflicting MR character assignments and low pairwise linear
   correlations among diagnostics are also observed over this set. We evaluate the
   ability of existing diagnostics to predict the percent recovery of the correlation
-  energy, %Ecorr. None of the DFT-based diagnostics are nearly as predictive of %Ecorr
+  energy, %E<sub>corr</sub>. None of the DFT-based diagnostics are nearly as predictive of %E<sub>corr</sub>
   as the best WFT-based diagnostics. To overcome the limitation of this cost–accuracy
   trade-off, we develop machine learning (ML, i.e., kernel ridge regression) models
   to predict WFT-based diagnostics from a combination of DFT-based diagnostics and
@@ -59,4 +59,7 @@ abstract: High-throughput computational screening typically employs methods (i.e
 publication: '*J. Chem. Theory Comput.*, **16**, 4373-4387 (2020)'
 url_pdf: https://doi.org/10.1021/acs.jctc.0c00358
 doi: 10.1021/acs.jctc.0c00358
+links:
+ - name: ChemRxiv
+   url: https://doi.org/10.26434/chemrxiv.12115944.v1
 ---

@@ -56,9 +56,8 @@ abstract: Non-heme iron halogenases and hydroxylases activate inert C-H bonds to
   a member of the second coordination sphere that may inhibit the hydroxyl rebound.
 publication: '*ACS Catal.*, **13**, 2489-2501 (2023)'
 doi: 10.1021/acscatal.2c06241
+url_pdf: https://doi.org/10.1021/acscatal.2c06241
 links:
-- name: preprint
+- name: ChemRxiv
   url: https://chemrxiv.org/engage/chemrxiv/article-details/630f110d58843b153fa4036f
-- name: URL
-  url: https://doi.org/10.1021/acscatal.2c06241 
 ---

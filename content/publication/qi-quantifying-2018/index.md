@@ -46,7 +46,7 @@ abstract: Multi-scale quantum-mechanical/molecular-mechanical (QM/MM) and large-
   now demonstrate and analyze distance and residue dependence of Fukui function shifts
   in pairs of residues representing different non-covalent interactions. We also show
   how the interpretation of the Fukui function as a measure of relative nucleophilicity
-  provides insight into enzymes that carry out SN2 methyl transfer. The FSA method
+  provides insight into enzymes that carry out S<sub>N</sub>2 methyl transfer. The FSA method
   represents a promising approach for the systematic, unbiased determination of quantum
   mechanical effects in enzymes and for other complex systems that necessitate multi-scale
   modeling.

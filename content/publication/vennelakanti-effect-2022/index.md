@@ -56,4 +56,7 @@ abstract: High-throughput computational catalyst studies are typically carried o
 publication: '*Top. Catal.*, **65**, 296-311 (2022)'
 url_pdf: https://link.springer.com/article/10.1007/s11244-021-01482-5
 doi: 10.1007/s11244-021-01482-5
+links:
+ - name: ChemRxiv
+   url: https://doi.org/10.26434/chemrxiv.14766531.v1
 ---

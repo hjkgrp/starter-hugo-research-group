@@ -54,4 +54,7 @@ abstract: The design of selective and active C–H activation catalysts for dire
 publication: '*ACS Catal.*, **10**, 15033-15047 (2020)'
 url_pdf: https://doi.org/10.1021/acscatal.0c04300
 doi: 10.1021/acscatal.0c04300
+links:
+ - name: ChemRxiv
+   url: https://doi.org/10.26434/chemrxiv.13043156.v1
 ---

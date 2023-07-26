@@ -57,4 +57,7 @@ abstract: Despite being attractive targets for functional materials, the discove
 publication: '*Mol. Sys. Des. Eng.*, **5**, 139-152 (2020)'
 url_pdf: https://pubs.rsc.org/en/content/articlelanding/2020/me/c9me00069k
 doi: 10.1039/C9ME00069K
+links:
+ - name: ChemRxiv
+   url: https://doi.org/10.26434/chemrxiv.8279609.v1
 ---

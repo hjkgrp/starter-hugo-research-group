@@ -50,7 +50,7 @@ abstract: A delicate interplay of covalent and noncovalent interactions gives pr
   insight can be gained from evaluating the mutual information of charge distributions.
   We show that a significant number of residues couple most strongly with residues
   that are distant in both sequence and space over a range of secondary structures
-  including a-helical, b-sheet, disulfide bridging, and lasso motifs. The mutual information
+  including α-helical, β-sheet, disulfide bridging, and lasso motifs. The mutual information
   analysis is necessary to capture coupling between some polar and charged residues.
   These analyses are expected to be broadly useful in understanding the mechanisms
   of long-range charge transfer in proteins and for determining what interactions
@@ -59,4 +59,7 @@ abstract: A delicate interplay of covalent and noncovalent interactions gives pr
 publication: '*Chem. Methods*, **1**, 362-373 (2021)'
 url_pdf: https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/cmtd.202100012
 doi: 10.1002/cmtd.202100012
+links:
+ - name: ChemRxiv
+   url: https://doi.org/10.26434/chemrxiv.13368692.v1
 ---

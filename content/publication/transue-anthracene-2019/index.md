@@ -46,12 +46,12 @@ publication_types:
 - '2'
 abstract: 'Thermolysis of a pair of dibenzo-7-phosphanorbornadiene compounds is shown
   to lead to differing behaviors: phosphinidene sulfide release and formation of amorphous
-  P2S. These compounds, tBuP(S)A (1, A = C14H10 or anthracene; 59% isol. yield) and
+  P<sub>2</sub>S. These compounds, tBuP(S)A (1, A = C<sub>14</sub>H<sub>10</sub> or anthracene; 59% isol. yield) and
   HP(S)A (2; 63%), are available through thionation of tBuPA and the new secondary
-  phosphine HPA (5), prepared from Me2NPA and DIBAL-H in 50% yield. Phosphinidene
+  phosphine HPA (5), prepared from Me<sub>2</sub>NPA and DIBAL-H in 50% yield. Phosphinidene
   sulfide [tBuP═S] transfer is shown to proceed efficiently from 1 to 2,3-dimethyl-1,3-butadiene
   to form Diels–Alder product 3 with a zero-order dependence on diene. Platinum complex
-  (Ph3P)2Pt(η2-tBuPS) (4, 47%) is also accessed from 1 and structurally characterized.
+  (Ph<sub>3</sub>P)<sub>2</sub>Pt(η<sup>2</sup>-tBuPS) (4, 47%) is also accessed from 1 and structurally characterized.
   In contrast, heating parent species 2 (3 h, 135 °C) under vacuum instead produces
   an insoluble, nonvolatile yellow residual material 6 of composition P2S that displays
   semiconductor properties with an optical band gap of 2.4 eV. Material 6 obtained
@@ -59,13 +59,13 @@ abstract: 'Thermolysis of a pair of dibenzo-7-phosphanorbornadiene compounds is 
   the phosphorus–sulfur phase diagram and has therefore been subjected to a range
   of spectroscopic techniques to gain structural insight. X-ray spectroscopic and
   diffraction techniques, including Raman, XANES, EXAFS, and PDF, reveal 6 to have
-  similarities with related compounds including P4S3, Hittorf’s violet phosphorus.
+  similarities with related compounds including P<sub>4</sub>S<sub>3</sub>, Hittorf’s violet phosphorus.
   Various possible structures have been explored as well using quantum chemical calculations
   under the constraint that each phosphorus atom is trivalent with no terminal sulfide
   groups, and each sulfur atom is divalent. The structural conclusions are supported
   by data from phosphorus-31 magic angle spinning (MAS) solid state NMR spectroscopy,
   bolstering the structural comparisons to other phosphorus–sulfur systems while excluding
-  the formulation of P2S as a simple mixture of P4S3 and phosphorus.'
+  the formulation of P<sub>2</sub>S as a simple mixture of P<sub>4</sub>S<sub>3</sub> and phosphorus.'
 publication: '*J. Am. Chem. Soc.*, **141**, 431-440 (2019)'
 url_pdf: https://doi.org/10.1021/jacs.8b10775
 doi: 10.1021/jacs.8b10775

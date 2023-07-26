@@ -51,7 +51,7 @@ abstract: The isonitrile moiety is found in marine sponges and some microbes, wh
   only one route was known for isonitrile biosynthesis, a condensation reaction that
   brings together a nitrogen atom of l-Trp/l-Tyr with a carbon atom from ribulose-5-phosphate.
   With the discovery of ScoE, a mononuclear Fe(II) α-ketoglutarate-dependent dioxygenase
-  from Streptomyces coeruleorubidus, a second route was identified. ScoE forms isonitrile
+  from *Streptomyces coeruleorubidus*, a second route was identified. ScoE forms isonitrile
   from a glycine adduct, with both the nitrogen and carbon atoms coming from the same
   glycyl moiety. This reaction is part of the nonribosomal biosynthetic pathway of
   isonitrile lipopeptides. Here, we present structural, biochemical, and computational
@@ -59,7 +59,7 @@ abstract: The isonitrile moiety is found in marine sponges and some microbes, wh
   reaction in the mononuclear Fe(II) α-ketoglutarate-dependent dioxygenase superfamily.
   The stoichiometry of this enzymatic reaction is measured, and multiple high-resolution
   (1.45–1.96 Å resolution) crystal structures of Fe(II)-bound ScoE are presented,
-  providing insight into the binding of substrate, (R)-3-((carboxylmethyl)amino)butanoic
+  providing insight into the binding of substrate, (*R*)-3-((carboxylmethyl)amino)butanoic
   acid (CABA), cosubstrate α-ketoglutarate, and an Fe(IV)=O mimic oxovanadium. Comparison
   to a previously published crystal structure of ScoE suggests that ScoE has an “inducible”
   α-ketoglutarate binding site, in which two residues arginine-157 and histidine-299

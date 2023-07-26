@@ -58,4 +58,7 @@ abstract: ' Despite decades of effort, no earth-abundant homogeneous catalysts h
 publication: '*JACS Au*, **2**, 1200-1213 (2022)'
 doi: 10.1021/jacsau.2c00176
 url_pdf: https://doi.org/10.1021/jacsau.2c00176
+links:
+ - name: ChemRxiv
+   url: https://doi.org/10.26434/chemrxiv-2022-kg3s5
 ---

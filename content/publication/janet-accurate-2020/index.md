@@ -59,4 +59,7 @@ abstract: The accelerated discovery of materials for real world applications req
 publication: '*ACS Cent. Sci.*, **6**, 513-524 (2020)'
 url_pdf: https://doi.org/10.1021/acscentsci.0c00026
 doi: 10.1021/acscentsci.0c00026
+links:
+ - name: ChemRxiv
+   url: https://doi.org/10.26434/chemrxiv.11367572.v1
 ---

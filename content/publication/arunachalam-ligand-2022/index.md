@@ -48,12 +48,12 @@ abstract: To accelerate the exploration of chemical space, it is necessary to id
   database confirms an under-representation of lower-symmetry complexes. From a set
   of around 1000 previously studied Fe(II) complexes, we show that the theoretical
   space of synthetically accessible complexes formed from the relatively small number
-  of unique ligands is significantly ($∼$816k) larger. For the properties of these
+  of unique ligands is significantly (∼816k) larger. For the properties of these
   complexes, we validate the concept of ligand additivity by inferring heteroleptic
   properties from a stoichiometric combination of homoleptic complexes. An improved
   interpolation scheme that incorporates information about cis and trans isomer effects
   predicts the adiabatic spin-splitting energy to around 2 kcal/mol and the HOMO level
-  to less than 0.2~eV. We demonstrate a multi-stage strategy to discover leads from
+  to less than 0.2 eV. We demonstrate a multi-stage strategy to discover leads from
   the 816k Fe(II) complexes within a targeted property region. We carry out a coarse
   interpolation from homoleptic complexes that we refine over a subspace of ligands
   based on the likelihood of generating complexes with targeted properties. We validate
@@ -62,9 +62,8 @@ abstract: To accelerate the exploration of chemical space, it is necessary to id
   discovery.
 publication: '*J. Chem. Phys.*, **157**, 184112 (2022)'
 doi: 10.1063/5.0125700
+url_pdf: https://aip.scitation.org/doi/10.1063/5.0125700
 links:
 - name: arXiv
   url: https://arxiv.org/abs/2209.05412
-- name: URL
-  url: https://aip.scitation.org/doi/10.1063/5.0125700
 ---

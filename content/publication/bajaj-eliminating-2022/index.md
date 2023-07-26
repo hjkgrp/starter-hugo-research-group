@@ -46,12 +46,15 @@ abstract: ' Approximate semilocal density functional theory (DFT) is known to un
   U correction, we systematically construct multi-atom-centered molecular-orbital-like
   projectors for DFT + U. We demonstrate this molecular DFT + U approach for tuning
   adsorption energies and surface formation energies of minimal two-dimensional models
-  of representative early (i.e., TiO2) and late (i.e., PtO2) transition-metal oxides.
+  of representative early (i.e., TiO<sub>2</sub>) and late (i.e., PtO<sub>2</sub>) transition-metal oxides.
   Molecular DFT + U simultaneously corrects adsorption energies and surface formation
-  energies of multilayer models of rutile TiO2(110) and PtO2(110) to resolve the paradoxical
+  energies of multilayer models of rutile TiO<sub>2</sub>(110) and PtO<sub>2</sub>(110) to resolve the paradoxical
   description of surface stability and surface reactivity of semilocal DFT.'
 publication: '*J. Chem. Theory Comput.*, **18**, 1142-1155 (2022)'
 doi: 10.1021/acs.jctc.1c01178
 links:
 url_pdf: https://pubs.acs.org/doi/10.1021/acs.jctc.1c01178
+links:
+ - name: arXiv
+   url: https://doi.org/10.48550/arXiv.2111.11614
 ---

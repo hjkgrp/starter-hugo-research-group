@@ -53,7 +53,7 @@ abstract: Metal–oxo moieties are important catalytic intermediates in the sele
   as well as exceptions, such as weak correlations with indicators of oxidative stability
   of the metal in the resting state or unexpected spin-state dependence in reactivity.
   We carry out uncertainty-aware evolutionary optimization using the ANN to explore
-  a textgreater37 000 candidate catalyst space. New metal and oxidation state combinations
+  a >37 000 candidate catalyst space. New metal and oxidation state combinations
   are uncovered and validated with density functional theory (DFT), including counterintuitive
   oxo formation energies for oxidatively stable complexes. This approach doubles the
   density of confirmed DFT leads in originally sparsely populated regions of property
@@ -62,4 +62,7 @@ abstract: Metal–oxo moieties are important catalytic intermediates in the sele
 publication: '*ACS Catal.*, **9**, 8243-8255 (2019)'
 url_pdf: https://doi.org/10.1021/acscatal.9b02165
 doi: 10.1021/acscatal.9b02165
+links:
+ - name: ChemRxiv 
+   url: https://doi.org/10.26434/chemrxiv.8182025.v1
 ---

@@ -57,4 +57,7 @@ abstract: Hybrid quantum mechanical–molecular mechanical (QM/MM) simulations a
 publication: '*J. Phys. Chem. B*, **120**, 11381-11394 (2016)'
 url_pdf: https://doi.org/10.1021/acs.jpcb.6b07814
 doi: 10.1021/acs.jpcb.6b07814
+links:
+ - name: arXiv
+   url: https://doi.org/10.48550/arXiv.1505.05730
 ---

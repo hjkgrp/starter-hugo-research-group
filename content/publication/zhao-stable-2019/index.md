@@ -51,4 +51,7 @@ abstract: Approximate, semilocal density functional theory (DFT) suffers from de
 publication: '*J. Phys. Chem. Lett.*, **10**, 5090-5098 (2019)'
 url_pdf: https://doi.org/10.1021/acs.jpclett.9b01650
 doi: 10.1021/acs.jpclett.9b01650
+links:
+ - name: ChemRxiv
+   url: https://doi.org/10.26434/chemrxiv.8230940.v1
 ---

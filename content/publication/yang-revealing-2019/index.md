@@ -44,9 +44,9 @@ abstract: 'Enzymes have evolved to facilitate challenging reactions at ambient c
   the full QM treatment needed to understand electronic structure in enzyme active
   sites, the relative importance of these two strategies for understanding enzyme
   mechanism is not well known. We explore challenges in QM/MM for studying the reactivity
-  and stability of three diverse enzymes: i) Mg2+-dependent catechol O-methyltransferase
+  and stability of three diverse enzymes: i) Mg<sup>2+</sup>-dependent catechol O-methyltransferase
   (COMT), ii) radical enzyme choline trimethylamine lyase (CutC), and iii) DNA methyltransferase
-  (DNMT1), which has structural Zn2+ binding sites. In COMT, strong non-covalent interactions
+  (DNMT1), which has structural Zn<sup>2+</sup> binding sites. In COMT, strong non-covalent interactions
   lead to long range coupling of electronic structure properties across the active
   site, but the more isolated nature of the metallocofactor in DNMT1 leads to faster
   convergence of some properties. We quantify these effects in COMT by computing covariance
@@ -59,4 +59,7 @@ abstract: 'Enzymes have evolved to facilitate challenging reactions at ambient c
 publication: '*React. Chem. Eng.*, **4**, 298-315 (2019)'
 url_pdf: https://pubs.rsc.org/en/content/articlelanding/2019/re/c8re00213d
 doi: 10.1039/C8RE00213D
+links:
+ - name: ChemRxiv
+   url: https://doi.org/10.26434/chemrxiv.7130795.v1
 ---

@@ -36,7 +36,7 @@ abstract: 'Indium phosphide quantum dots (QDs) have emerged as a promising candi
   with targeted properties requires a better understanding of their growth. We develop
   a first-principles-derived model that unifies InP QD formation from isolated precursor
   and early stage cluster reactions to 1.3 nm magic sized clusters and rationalize
-  experimentally observed properties of full sized textgreater3 nm QDs. Our first-principles
+  experimentally observed properties of full sized >3 nm QDs. Our first-principles
   study on realistic QD models reveals large surface-dependent reactivity for all
   elementary growth process steps, including In-ligand bond cleavage and P precursor
   addition. These thermodynamic trends correlate well to kinetic properties at all
@@ -56,4 +56,7 @@ abstract: 'Indium phosphide quantum dots (QDs) have emerged as a promising candi
 publication: '*Chem. Mater.*, **30**, 7154-7165 (2018)'
 url_pdf: https://doi.org/10.1021/acs.chemmater.8b03125
 doi: 10.1021/acs.chemmater.8b03125
+links:
+ - name: ChemRxiv
+   url: https://doi.org/10.26434/chemrxiv.6750062.v1
 ---

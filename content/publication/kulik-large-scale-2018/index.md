@@ -35,4 +35,7 @@ abstract: 'Hybrid quantum mechanical–molecular mechanical (QM/MM) simulations 
 publication: '*Phys. Chem. Chem. Phys.*, **20**, 20650-20660 (2018)'
 url_pdf: https://pubs.rsc.org/en/content/articlelanding/2018/cp/c8cp03871f
 doi: 10.1039/C8CP03871F
+links:
+ - name: ChemRxiv
+   url: https://doi.org/10.26434/chemrxiv.5985187.v2
 ---

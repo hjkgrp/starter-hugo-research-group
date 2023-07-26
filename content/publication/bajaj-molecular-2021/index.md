@@ -50,4 +50,7 @@ abstract: While density functional theory (DFT) is widely applied for its combin
 publication: '*J. Phys. Chem. Lett.*, **12**, 3633-3640 (2021)'
 url_pdf: https://doi.org/10.1021/acs.jpclett.1c00796
 doi: 10.1021/acs.jpclett.1c00796
+links:
+ - name: arXiv
+   url: https://doi.org/10.48550/arXiv.2103.06781
 ---

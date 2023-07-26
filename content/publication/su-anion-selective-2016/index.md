@@ -47,9 +47,9 @@ abstract: Redox species have been explored extensively for catalysis, energy sto
   the selective sorptive separation of dilute organic anions from strong aqueous and
   organic electrolyte solutions, and subsequent release of the sorbed ions to a stripping
   phase through electrochemical control of the specific binding processes. A remarkable
-  degree of selectivity is shown for carboxylates (–COO–), sulfonates (–SO3−), and
-  phosphonates (–PO3−2) over inorganic anions such as PF6− and ClO4− (separation factor
-  textgreater140 in aqueous and textgreater3000 in organic systems), and between carboxylates
+  degree of selectivity is shown for carboxylates (–COO<sup>–</sup>), sulfonates (–SO<sub>3</sub><sup>−</sup>), and
+  phosphonates (–PO<sub>3</sub><sup>−2</sup>) over inorganic anions such as PF<sub>6</sub><sup>−</sup> and ClO<sub>4</sub><sup>−</sup> 
+  (separation factor >140 in aqueous and >3000 in organic systems), and between carboxylates
   with various substituents, based on differences in electronic structure and density
   of the adsorbates, beyond size, and charge. Our organometallic redox electrodes
   are a promising platform for targeting aqueous and organic systems requiring high

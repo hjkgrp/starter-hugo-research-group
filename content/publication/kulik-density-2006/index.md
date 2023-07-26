@@ -41,10 +41,13 @@ abstract: Transition-metal centers are the active sites for a broad variety of b
   sites. We suggest here an alternative approach, derived from the Hubbard U correction
   to solid-state problems, that provides an excellent agreement with correlated-electron
   quantum chemistry calculations in test cases that range from the ground state of
-  Fe2 and Fe−2 to the addition elimination of molecular hydrogen on FeO+. The Hubbard
+  Fe<sub>2</sub> and Fe<sup>−</sup><sub>2</sub> to the addition elimination of molecular hydrogen on FeO<sup>+</sup>. The Hubbard
   U is determined with a novel self-consistent procedure based on a linear-response
   approach.
 publication: '*Phys. Rev. Lett.*, **97**, 103001 (2006)'
 url_pdf: https://link.aps.org/doi/10.1103/PhysRevLett.97.103001
 doi: 10.1103/PhysRevLett.97.103001
+links:
+ - name: arXiv
+   url: https://doi.org/10.48550/arXiv.cond-mat/0608285
 ---

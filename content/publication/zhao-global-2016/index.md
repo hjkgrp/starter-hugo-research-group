@@ -49,8 +49,8 @@ abstract: Piecewise linearity of the energy with respect to fractional electron 
   deviations from linearity and demonstrate that a “+U” correction will never worsen
   the deviation from linearity of the underlying xc approximation. However, we explain
   varying degrees of efficiency of the approach over 27 octahedral transition metal
-  complexes with respect to transition metal (Sc–Cu) and ligand strength (CO, NH3,
-  and H2O) and investigate select pathological cases where the delocalization error
+  complexes with respect to transition metal (Sc–Cu) and ligand strength (CO, NH<sub>3</sub>,
+  and H<sub>2</sub>O) and investigate select pathological cases where the delocalization error
   is invisible to DFT+U within an atomic projection framework. Finally, we demonstrate
   that the global and local curvatures represent different quantities that show opposing
   behavior with increasing ligand field strength, and we identify where these two

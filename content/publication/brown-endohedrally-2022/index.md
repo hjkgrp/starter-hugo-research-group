@@ -45,9 +45,9 @@ abstract: 'The immobilization of homogeneous catalysts onto supports to improve 
   by poor control of the local catalyst environment and few strategies to append catalysts
   to support materials. Here, we introduce a modular heterogenous catalysis platform
   that addresses these challenges. Our approach leverages the well-defined interiors
-  of self-assembled Pd12L24 metal–organic cages/polyhedra (MOCs): simple mixing of
+  of self-assembled Pd<sub>12</sub>L<sub>24</sub> metal–organic cages/polyhedra (MOCs): simple mixing of
   a catalyst-ligand of choice with a polymeric ligand, spacer ligands, and a Pd salt
-  induces self-assembly of Pd12L24-cross-linked polymer gels featuring endohedrally
+  induces self-assembly of Pd<sub>12</sub>L<sub>24</sub>-cross-linked polymer gels featuring endohedrally
   catalyst-functionalized junctions. Semi-empirical calculations show that catalyst
   incorporation into the MOC junctions of these materials has minimal affect on the
   MOC geometry, giving rise to well-defined nanoconfined catalyst domains as confirmed
@@ -61,7 +61,6 @@ abstract: 'The immobilization of homogeneous catalysts onto supports to improve 
   cyclization of 4-pentynoic acid in aqueous media.'
 publication: '*J. Am. Chem. Soc.*, **144**, 13276--13284 (2022)'
 doi: 10.1021/jacs.2c04289
-links:
-- name: URL
-  url: https://doi.org/10.1021/jacs.2c04289
+url_pdf: https://doi.org/10.1021/jacs.2c04289
+
 ---

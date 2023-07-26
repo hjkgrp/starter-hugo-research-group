@@ -55,4 +55,7 @@ abstract: Multireference (MR) diagnostics are common tools for identifying stron
 publication: '*J. Phys. Chem. Lett.*, **11**, 6640-6648 (2020)'
 url_pdf: https://doi.org/10.1021/acs.jpclett.0c02018
 doi: 10.1021/acs.jpclett.0c02018
+links:
+ - name: ChemRxiv
+   url: https://doi.org/10.26434/chemrxiv.12592346.v1
 ---

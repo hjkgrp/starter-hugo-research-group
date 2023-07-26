@@ -37,20 +37,20 @@ publishDate: '2021-06-21T01:48:31.236966Z'
 publication_types:
 - '2'
 abstract: Based on high-level ab initio calculations, we predict the existence of
-  a strong 4Σ+–4Σ+ optical transition (dav=1.6D) near 328nm (T00=30460cm-1), analogous
-  to the B2Σ+–X2Σ+ violet system, (dav=1.7D) in the near-ultraviolet spectrum of CN.
+  a strong <sup>4</sup>Σ<sup>+</sup>–<sup>4</sup>Σ<sup>+</sup> optical transition (d<sub>av</sub>=1.6 D) near 328 nm (T<sub>00</sub>=30460 cm<sup>-1</sup>), analogous
+  to the B <sup>2</sup>Σ<sup>+</sup>–X <sup>2</sup>Σ<sup>+</sup> violet system, (d<sub>av</sub>=1.7 D) in the near-ultraviolet spectrum of CN.
   The lower state of the predicted transition is the lowest-lying state of quartet
   multiplicity and has been observed previously through its perturbations of the B
   state. The predicted transition will enable determination of the equilibrium properties
   of the metastable lowest quartet state of CN. The lowest energy metastable sextet
-  state of CN is also calculated to be quasi-bound (re=1.76Å,ωe=365cm-1), and a 6Σ+–6Σ+
+  state of CN is also calculated to be quasi-bound (r<sub>e</sub>=1.76 Å, ω<sub>e</sub>=365 cm<sup>-1</sup>), and a <sup>6</sup>Σ<sup>+</sup>–<sup>6</sup>Σ<sup>+</sup>
   transition, analogous to those for the doublet and quartet multiplicities, is predicted
-  (dav=2.2D). Investigation of the isoelectronic BO, C2-, and N2+ molecules reveals
-  that differences in 2s22px and 2s12px+1 atomic energies play the key role in determining
-  the magnitude of the 5σ(2p)←4σ(2s)-derived Σ+–Σ+ transition energies for the different
-  multiplicities. Furthermore, the strong stabilization of 2s22px character with respect
-  to 2s12px+1 in BO and N2+ leads to strongly bound lowest 6Σ+states with binding
-  energies as high as 2.0eV. We believe that these newly predicted sextet states could
+  (d<sub>av</sub>=2.2 D). Investigation of the isoelectronic BO, C<sub>2</sub><sup>-</sup>, and N<sub>2</sub><sup>+</sup> molecules reveals
+  that differences in 2s<sup>2</sup>2p<sup>x</sup> and 2s<sup>1</sup>2p<sup>x+1</sup> atomic energies play the key role in determining
+  the magnitude of the 5σ(2p)←4σ(2s)-derived Σ<sup>+</sup>–Σ<sup>+</sup> transition energies for the different
+  multiplicities. Furthermore, the strong stabilization of 2s<sup>2</sup>2p<sup>x</sup> character with respect
+  to 2s<sup>1</sup>2p<sup>x+1</sup> in BO and N<sub>2</sub><sup>+</sup> leads to strongly bound lowest <sup>6</sup>Σ<sup>+</sup> states with binding
+  energies as high as 2.0 eV. We believe that these newly predicted sextet states could
   be identified through their perturbations of quartet states of the relevant molecules.
 publication: '*Journal of Molecular Spectroscopy*, **258**, 6-12 (2009)'
 url_pdf: https://www.sciencedirect.com/science/article/pii/S0022285209001970

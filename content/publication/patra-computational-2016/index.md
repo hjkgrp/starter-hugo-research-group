@@ -41,11 +41,11 @@ projects: []
 publishDate: '2021-06-21T01:48:25.716278Z'
 publication_types:
 - '2'
-abstract: 'Catechol O-methyltransferase (COMT) is a SAM- and Mg2+-dependent methyltransferase
+abstract: 'Catechol O-methyltransferase (COMT) is a SAM- and Mg<sup>2+</sup>-dependent methyltransferase
   that regulates neurotransmitters through methylation. Simulations and experiments
   have identified divergent catecholamine substrate orientations in the COMT active
   site: molecular dynamics simulations have favored a monodentate coordination of
-  catecholate substrates to the active site Mg2+, and crystal structures instead preserve
+  catecholate substrates to the active site Mg<sup>2+</sup>, and crystal structures instead preserve
   bidentate coordination along with short (2.65 Å) methyl donor-acceptor distances.
   We carry out longer dynamics (up to 350 ns) to quantify interconversion between
   bidentate and monodentate binding poses. We provide a systematic determination of
@@ -56,10 +56,10 @@ abstract: 'Catechol O-methyltransferase (COMT) is a SAM- and Mg2+-dependent meth
   free energy barrier. Analysis of interactions in the two binding modes reveals that
   the driving force for monodentate catecholate orientations in classical molecular
   dynamics simulations is derived from stronger electrostatic stabilization afforded
-  by alternate Mg2+ coordination with strongly charged active site carboxylates. Mixed
+  by alternate Mg<sup>2+</sup> coordination with strongly charged active site carboxylates. Mixed
   semi-empirical-classical (SQM/MM) substrate C-O distances (2.7 Å) for the bidentate
   case are in excellent agreement with COMT X-ray crystal structures, as long as charge
-  transfer between the substrates, Mg2+, and surrounding ligands is permitted. SQM/MM
+  transfer between the substrates, Mg<sup>2+</sup>, and surrounding ligands is permitted. SQM/MM
   free energy barriers for methyl transfer from bidentate and monodentate catecholate
   configurations are comparable at around 21–22 kcal/mol, in good agreement with experiment
   (18–19 kcal/mol). Overall, the work suggests that both binding poses are viable

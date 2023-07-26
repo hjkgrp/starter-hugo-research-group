@@ -45,7 +45,7 @@ abstract: High-throughput computational screening has emerged as a critical comp
   and do not require precise three-dimensional structural information for prediction.
   Using these descriptors, our ANN predicts spin-state splittings of single-site transition
   metal complexes (i.e., Cr–Ni) at arbitrary amounts of Hartree–Fock exchange to within
-  3 kcal mol−1 accuracy of DFT calculations. Our exchange-sensitivity ANN enables
+  3 kcal mol<sup>−1</sup> accuracy of DFT calculations. Our exchange-sensitivity ANN enables
   improved predictions on a diverse test set of experimentally-characterized transition
   metal complexes by extrapolation from semi-local DFT to hybrid DFT. The ANN also
   outperforms other machine learning models (i.e., support vector regression and kernel
@@ -60,4 +60,7 @@ abstract: High-throughput computational screening has emerged as a critical comp
 publication: '*Chem. Sci.*, **8**, 5137-5152 (2017)'
 url_pdf: https://pubs.rsc.org/en/content/articlelanding/2017/sc/c7sc01247k
 doi: 10.1039/C7SC01247K
+links:
+ - name: arXiv
+   url: https://doi.org/10.48550/arXiv.1702.05771
 ---
