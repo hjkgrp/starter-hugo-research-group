@@ -38,7 +38,7 @@ publishDate: '2022-05-09T14:11:43.830831Z'
 publication_types:
 - '2'
 abstract: The design of inorganic molecular complexes for the reversible conversion
-  of formate into CO2 inspired by formate dehydrogenase (FDH) enzymes is challenged
+  of formate into CO<sub>2</sub> inspired by formate dehydrogenase (FDH) enzymes is challenged
   by a lack of understanding of how to mimic the enzyme action. Here, we carry out
   a large-scale, high-throughput screening study on all mononuclear Mo/W complexes
   currently deposited in Cambridge Structural Database (CSD) that resemble the coordination
@@ -58,4 +58,7 @@ abstract: The design of inorganic molecular complexes for the reversible convers
 publication: '*ACS Catal.*, **12**, 383-396 (2022)'
 doi: 10.1021/acscatal.1c04624
 url_pdf: https://pubs.acs.org/doi/10.1021/acscatal.1c04624
+links:
+ - name: ChemRxiv
+   url: https://doi.org/10.26434/chemrxiv-2021-397ph
 ---

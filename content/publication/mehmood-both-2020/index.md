@@ -36,18 +36,18 @@ abstract: 'Quantum-mechanical/molecular-mechanical (QM/MM) methods are essential
   the study of metalloproteins, but the relative importance of sampling and degree
   of QM treatment in achieving quantitative predictions is poorly understood. We study
   the relative magnitude of configurational and QM-region sensitivity of energetic
-  and electronic properties in a representative Zn2+ metal binding site of a DNA methyltransferase.
+  and electronic properties in a representative Zn<sup>2+</sup> metal binding site of a DNA methyltransferase.
   To quantify property variations, we analyze snapshots extracted from 250 ns of molecular
   dynamics simulation. To understand the degree of QM-region sensitivity, we perform
   analysis using QM regions ranging from a minimal 49-atom region consisting only
-  of the Zn2+ metal and its four coordinating Cys residues up to a 628-atom QM region
+  of the Zn<sup>2+</sup> metal and its four coordinating Cys residues up to a 628-atom QM region
   that includes residues within 12 Å of the metal center. Over the configurations
-  sampled, we observe that illustrative properties (e.g., rigid Zn2+ removal energy)
+  sampled, we observe that illustrative properties (e.g., rigid Zn<sup>2+</sup> removal energy)
   exhibit large fluctuations that are well captured with even minimal QM regions.
   Nevertheless, for both energetic and electronic properties, we observe a slow approach
   to asymptotic limits with similarly large changes in absolute values that converge
   only with larger (ca. 300-atom) QM region sizes. For the smaller QM regions, the
-  electronic description of Zn2+ binding is incomplete: the metal binds too tightly
+  electronic description of Zn<sup>2+</sup> binding is incomplete: the metal binds too tightly
   and is too stabilized by the strong electrostatic potential of MM point charges,
   and the Zn–S bond covalency is overestimated. Overall, this work suggests that efficient
   sampling with QM/MM in small QM regions is an effective method to explore the influence
@@ -58,4 +58,7 @@ abstract: 'Quantum-mechanical/molecular-mechanical (QM/MM) methods are essential
 publication: '*J. Chem. Theory Comput.*, **16**, 3121-3134 (2020)'
 url_pdf: https://doi.org/10.1021/acs.jctc.0c00153
 doi: 10.1021/acs.jctc.0c00153
+links:
+ - name: ChemRxiv
+   url: https://doi.org/10.26434/chemrxiv.11857668.v1
 ---

@@ -56,7 +56,8 @@ abstract: 'When a many-body wave function of a system deviates far from a single
   screening of MOFs and other porous solids.'
 publication: '*J. Chem. Theory Comput.*, **19**, 190-197 (2023)'
 doi: 10.1021/acs.jctc.2c01033
+url_pdf: https://doi.org/10.1021/acs.jctc.2c01033
 links:
-- name: URL
-  url: https://doi.org/10.1021/acs.jctc.2c01033
+ - name: ChemRxiv
+   url: https://doi.org/10.26434/chemrxiv-2022-c129n
 ---

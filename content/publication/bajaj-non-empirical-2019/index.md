@@ -39,7 +39,7 @@ abstract: Density functional theory (DFT) is widely applied to both molecules an
   methods that correct energetic delocalization errors, such as the Hubbard U correction
   in DFT+U or Hartree-Fock exchange in global hybrids, do so at the cost of worsening
   static correlation errors. We recently introduced an alternate approach [Bajaj et
-  al., J. Chem. Phys. 147, 191101 (2017)] known as judiciously modified DFT (jmDFT),
+  al., *J. Chem. Phys.* **147**, 191101 (2017)] known as judiciously modified DFT (jmDFT),
   wherein the deviation from exact behavior of semilocal functionals over both fractional
   spin and charge, i.e., the so-called flat plane, was used to motivate functional
   forms of second order analytic corrections. In this work, we introduce fully nonempirical

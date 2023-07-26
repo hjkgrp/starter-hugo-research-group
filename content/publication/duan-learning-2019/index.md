@@ -60,4 +60,7 @@ abstract: High-throughput computational screening for chemical discovery mandate
 publication: '*J. Chem. Theory Comput.*, **15**, 2331-2345 (2019)'
 url_pdf: https://doi.org/10.1021/acs.jctc.9b00057
 doi: 10.1021/acs.jctc.9b00057
+links:
+ - name: ChemRxiv
+   url: https://doi.org/10.26434/chemrxiv.7616009.v1
 ---

@@ -59,4 +59,7 @@ abstract: Strategies for machine-learning (ML)-accelerated discovery that are ge
 publication: '*J. Chem. Phys.*, **156**, 074101 (2022)'
 doi: 10.1063/5.0082964
 url_pdf: https://aip.scitation.org/doi/full/10.1063/5.0082964
+links:
+ - name: arXiv
+   url: https://doi.org/10.1063/5.0082964
 ---

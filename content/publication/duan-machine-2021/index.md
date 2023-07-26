@@ -56,4 +56,7 @@ abstract: Virtual high-throughput screening (VHTS) with density functional theor
 publication: '*Chem. Sci.*, **12**, 13021-13036 (2021)'
 doi: 10.1039/D1SC03701C
 url_pdf: https://pubs.rsc.org/en/Content/ArticleLanding/2021/SC/D1SC03701C
+links:
+ - name: arXiv
+   url: https://doi.org/10.48550/arXiv.2106.13109
 ---

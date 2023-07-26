@@ -49,7 +49,8 @@ abstract: ' Modifying the optoelectronic properties of nanostructured materials 
   favorability from DFT can efficiently guide rational design.'
 publication: '*Chem. Mater.*, **33**, 7113-7123 (2021)'
 doi: 10.1021/acs.chemmater.1c02556
+url_pdf: https://pubs.acs.org/doi/10.1021/acs.chemmater.1c02556
 links:
-- name: URL
-  url: https://pubs.acs.org/doi/10.1021/acs.chemmater.1c02556
+ - name: arXiv
+   url: https://doi.org/10.48550/arXiv.2107.04696
 ---

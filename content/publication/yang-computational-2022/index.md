@@ -37,4 +37,7 @@ abstract: 'Benenodin-1 is a thermally actuated lasso peptide rotaxane switch wit
 publication: '*J. Phys. Chem. B*, **126**, 3398-3406 (2022)'
 doi: 10.1021/acs.jpcb.2c00762
 url_pdf: https://doi.org/10.1021/acs.jpcb.2c00762
+links:
+ - name: ChemRxiv
+   url: https://doi.org/10.26434/chemrxiv-2022-jntqv
 ---

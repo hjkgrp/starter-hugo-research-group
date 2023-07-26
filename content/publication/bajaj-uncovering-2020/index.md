@@ -41,7 +41,7 @@ abstract: Polymer electrolyte membrane fuel cells (PEMFCs) represent promising e
   defect-containing models of Nafion. Degradation of pristine Nafion initiated by
   hydrogen radicals involves moderate (ca. 20 kcal/mol) barriers lower than alternative
   pathways initiated by hydroxyl radicals. We propose a new pathway for continued
-  Nafion degradation after initial H radical attack in the presence of H2O2. This
+  Nafion degradation after initial H radical attack in the presence of H<sub>2</sub>O<sub>2</sub>. This
   pathway has a modest barrier and provides a mechanistic basis for the production
   of experimentally observed trifluoroacetic acid and hydrogen fluoride. Our work
   suggests inherent limits to mechanistic studies that use hydroxyl radical as the
@@ -55,4 +55,7 @@ abstract: Polymer electrolyte membrane fuel cells (PEMFCs) represent promising e
 publication: '*J. Phys. Chem. C*, **124**, 15094-15106 (2020)'
 url_pdf: https://doi.org/10.1021/acs.jpcc.0c04417
 doi: 10.1021/acs.jpcc.0c04417
+links:
+ - name: ChemRxiv
+   url: https://doi.org/10.26434/chemrxiv.11888205.v1
 ---

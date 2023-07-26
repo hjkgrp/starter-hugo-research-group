@@ -35,7 +35,7 @@ projects: []
 publishDate: '2021-06-21T01:48:11.957447Z'
 publication_types:
 - '2'
-abstract: ConspectusThe variability of chemical bonding in open-shell transition-metal
+abstract: The variability of chemical bonding in open-shell transition-metal
   complexes not only motivates their study as functional materials and catalysts but
   also challenges conventional computational modeling tools. Here, tailoring ligand
   chemistry can alter preferred spin or oxidation states as well as electronic structure

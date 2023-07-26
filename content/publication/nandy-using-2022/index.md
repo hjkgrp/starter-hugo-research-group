@@ -60,7 +60,6 @@ abstract: 'The challenge of activating inert C–H bonds motivates a study of ca
   stable, active, and selective single-site catalysts. '
 publication: '*ACS Catal.*, **12**, 9281--9306 (2022)'
 doi: 10.1021/acscatal.2c02096
-links:
-- name: URL
-  url: https://doi.org/10.1021/acscatal.2c02096
+url_pdf: https://doi.org/10.1021/acscatal.2c02096
+
 ---

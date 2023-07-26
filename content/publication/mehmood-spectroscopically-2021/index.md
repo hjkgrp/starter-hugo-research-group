@@ -54,4 +54,7 @@ abstract: Nonheme iron halogenases, such as SyrB2, WelO5, and BesD, halogenate u
 publication: '*ACS Catal.*, **11**, 12394-12408 (2021)'
 doi: 10.1021/acscatal.1c03169
 url_pdf: https://pubs.acs.org/doi/10.1021/acscatal.1c03169
+links:
+ - name: ChemRxiv
+   url: https://doi.org/10.26434/chemrxiv-2021-m7dh3
 ---

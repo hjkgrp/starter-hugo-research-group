@@ -67,4 +67,7 @@ abstract: Polymers that extend covalently in two dimensions have attracted recen
 publication: '*Nature*, **602**, 91-95 (2022)'
 url_pdf: https://www.nature.com/articles/s41586-021-04296-3
 doi: 10.1038/s41586-021-04296-3
+links:
+ - name: arXiv
+   url: https://doi.org/10.48550/arXiv.2103.13925
 ---

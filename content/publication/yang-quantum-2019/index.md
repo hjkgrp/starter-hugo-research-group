@@ -38,7 +38,7 @@ abstract: Methyl transferases (MTases) are a well-studied class of enzymes for w
   competing enzymatic enhancement mechanisms have been suggested, ranging from structural
   methyl group CH···X hydrogen bonds (HBs) to electrostatic- and charge-transfer-driven
   stabilization of the transition state (TS). We identified all Class I MTases for
-  which reasonable resolution (textless2.0 Å) crystal structures could be used to
+  which reasonable resolution (<2.0 Å) crystal structures could be used to
   form catalytically competent ternary complexes for multiscale (i.e., quantum-mechanical/molecular-mechanical
   or QM/MM) simulation of the SN2 methyl transfer reaction coordinate. The four Class
   I MTases studied have both distinct functions (e.g., protein repair or biosynthesis)
@@ -51,4 +51,7 @@ abstract: Methyl transferases (MTases) are a well-studied class of enzymes for w
 publication: '*J. Phys. Chem. Lett.*, **10**, 3779-3787 (2019)'
 url_pdf: https://doi.org/10.1021/acs.jpclett.9b01555
 doi: 10.1021/acs.jpclett.9b01555
+links:
+ - name: ChemRxiv
+   url: https://doi.org/10.26434/chemrxiv.8206721.v1
 ---

@@ -35,7 +35,7 @@ publishDate: '2022-07-04T22:12:01.891738Z'
 publication_types:
 - '2'
 abstract: The Mo/W-containing metalloenzyme formate dehydrogenase (FDH) is an efficient
-  and selective natural catalyst that reversibly converts CO2 to formate under ambient
+  and selective natural catalyst that reversibly converts CO<sub>2</sub> to formate under ambient
   conditions. In this study, we investigate the impact of the greater protein environment
   on the electrostatic potential (ESP) of the active site. To model the enzyme environment,
   we used a combination of classical molecular dynamics and multiscale quantum-mechanical/molecular-mechanical
@@ -52,7 +52,9 @@ abstract: The Mo/W-containing metalloenzyme formate dehydrogenase (FDH) is an ef
   for rational bioinspired catalyst design.
 publication: '*The Journal of Physical Chemistry B*, **126**, 4069--4079 (2022)'
 doi: 10.1021/acs.jpcb.2c02260
+url_pdf: https://doi.org/10.1021/acs.jpcb.2c02260
 links:
-- name: URL
-  url: https://doi.org/10.1021/acs.jpcb.2c02260
+ - name: ChemRxiv
+   url: https://doi.org/10.26434/chemrxiv-2021-dfx2w
+
 ---

@@ -43,10 +43,10 @@ abstract: Prediction of spin-state ordering in transition metal complexes is ess
   the Laplacian of the density (i.e., a meta-GGA) in exchange on spin-state ordering.
   We employ a diverse test set of M(II) and M(III) first-row transition metal ions
   from Ti to Cu as well as octahedral complexes of these ions with ligands of increasing
-  field strength (i.e., H2O, NH3, and CO). We show that the sensitivity of spin-state
+  field strength (i.e., H<sub>2</sub>O, NH<sub>3</sub>, and CO). We show that the sensitivity of spin-state
   ordering to meta-GGA exchange is highly ligand-field dependent, stabilizing high-spin
   states in strong-field (i.e., CO) cases and stabilizing low-spin states in weak-field
-  (i.e., H2O, NH3, and isolated ions) cases. This diverging behavior leads to generally
+  (i.e., H<sub>2</sub>O, NH<sub>3</sub>, and isolated ions) cases. This diverging behavior leads to generally
   improved treatment of isolated ions and strong field complexes over a standard GGA
   but worsened treatment for the hexa-aqua or hexa-ammine complexes. These observations
   highlight the sensitivity of functional performance to subtle changes in chemical

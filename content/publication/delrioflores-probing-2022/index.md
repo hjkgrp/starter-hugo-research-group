@@ -52,10 +52,10 @@ abstract: ' The isonitrile moiety is an electron-rich functionality that decorat
   work, we employed in vitro biochemistry, chemical synthesis, spectroscopy techniques,
   and computational simulations that enabled us to propose a plausible molecular mechanism
   for isonitrile formation. Our findings demonstrate that the ScoE reaction initiates
-  with C5 hydroxylation of (R)-3-((carboxymethyl)amino)butanoic acid to generate 1,
-  which undergoes dehydration, presumably mediated by Tyr96 to synthesize 2 in a trans
+  with C5 hydroxylation of (*R*)-3-((carboxymethyl)amino)butanoic acid to generate **1**,
+  which undergoes dehydration, presumably mediated by Tyr96 to synthesize **2** in a trans
   configuration. (R)-3-isocyanobutanoic acid is finally generated through radical-based
-  decarboxylation of 2, instead of the common hydroxylation pathway employed by this
+  decarboxylation of **2**, instead of the common hydroxylation pathway employed by this
   enzyme superfamily.'
 publication: '*J. Am. Chem. Soc.*, **144**, 5893-5901 (2022)'
 doi: 10.1021/jacs.1c12891

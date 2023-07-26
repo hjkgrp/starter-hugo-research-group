@@ -53,7 +53,7 @@ abstract: Accurate predictions of spin-state ordering, reaction energetics, and 
   the utility of the bond valence as a robust descriptor of how differences in metal–ligand
   delocalization produce differing relative energetics with exchange tuning. Our unified
   description explains the overall effect of exact exchange tuning on the paradigmatic
-  two-state FeO+/CH4 reaction that combines challenges of spin-state and reactivity
+  two-state FeO<sup>+</sup>/CH<sub>4</sub> reaction that combines challenges of spin-state and reactivity
   predictions. This new descriptor-sensitivity relationship provides a path to quantifying
   how predictions in transition-metal complex screening are sensitive to the method
   used.

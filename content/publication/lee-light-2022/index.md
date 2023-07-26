@@ -36,10 +36,10 @@ projects: []
 publishDate: '2022-11-29T19:44:25.370843Z'
 publication_types:
 - '2'
-abstract: Silver phenylselenolate (AgSePh, also known as ``mithrene'') and silver
-  phenyltellurolate (AgTePh, also known as ``tethrene'') are two-dimensional (2D)
-  van der Waals semiconductors belonging to an emerging class of hybrid organic– inorganic
-  materials called metal– organic chalcogenolates. Despite having the same crystal
+abstract: Silver phenylselenolate (AgSePh, also known as "mithrene") and silver
+  phenyltellurolate (AgTePh, also known as "tethrene") are two-dimensional (2D)
+  van der Waals semiconductors belonging to an emerging class of hybrid organic–inorganic
+  materials called metal–organic chalcogenolates. Despite having the same crystal
   structure, AgSePh and AgTePh exhibit a strikingly different excitonic behavior.
   Whereas AgSePh exhibits narrow, fast luminescence with a minimal Stokes shift, AgTePh
   exhibits comparatively slow luminescence that is significantly broadened and red-shifted
@@ -49,13 +49,12 @@ abstract: Silver phenylselenolate (AgSePh, also known as ``mithrene'') and silve
   behavior, whereas dynamics in AgSePh films are dominated by the interaction of band-edge
   excitons with a finite number of extrinsic defect/trap states. Density functional
   theory calculations reveal that AgSePh has simple parabolic band edges with a direct
-  gap at $Γ$, whereas AgTePh has a saddle point at $Γ$ with a horizontal splitting
-  along the $Γ$-N1 direction. The correlation between the unique band structure of
+  gap at Γ, whereas AgTePh has a saddle point at Γ with a horizontal splitting
+  along the Γ-N<sub>1</sub> direction. The correlation between the unique band structure of
   AgTePh and exciton self-trapping behavior is unclear, prompting further exploration
   of excitonic phenomena in this emerging class of hybrid 2D semiconductors.
 publication: '*ACS Nano*, **16**, 20318-20328 (2022)'
 doi: 10.1021/acsnano.2c06204
-links:
-- name: URL
-  url: https://doi.org/10.1021/acsnano.2c06204
+url_pdf: https://doi.org/10.1021/acsnano.2c06204
+
 ---

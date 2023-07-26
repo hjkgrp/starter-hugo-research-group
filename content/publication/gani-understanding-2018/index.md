@@ -41,10 +41,10 @@ abstract: Computational high-throughput screening is an essential tool for catal
   these LFERs to single-site catalysts remains unclear, owing to the directional,
   covalent metal–ligand bonds and the broader chemical space of accessible ligand
   scaffolds. Through a computational screen of nearly 500 model Fe(II) complexes for
-  CH4 hydroxylation, we observe that (1) tuning ligand field strength yields LFERs
+  CH<sub>4</sub> hydroxylation, we observe that (1) tuning ligand field strength yields LFERs
   by comparably shifting energetics of the metal 3d levels that govern the stability
   of different intermediates and (2) distortion of the metal coordination geometry
-  breaks these LFERs by increasing the splitting between the dxz/dyz and dz2 metal
+  breaks these LFERs by increasing the splitting between the d<sub>xz</sub>/d<sub>yz</sub> and d<sub>z<sup>2</sup></sub> metal
   states that govern reactivity. Thus, in single-site catalysts, low Brønsted–Evans–Polanyi
   slopes for oxo formation, which would limit peak turnover frequency achievable through
   ligand field tuning alone, can be overcome through structural distortions achievable
@@ -55,4 +55,7 @@ abstract: Computational high-throughput screening is an essential tool for catal
 publication: '*ACS Catal.*, **8**, 975-986 (2018)'
 url_pdf: https://doi.org/10.1021/acscatal.7b03597
 doi: 10.1021/acscatal.7b03597
+links:
+ - name: ChemRxiv
+   url: https://doi.org/10.26434/chemrxiv.5525572.v1
 ---

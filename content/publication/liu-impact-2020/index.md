@@ -35,7 +35,7 @@ publication_types:
 abstract: For approximate density functional theory (DFT) to be useful in catalytic
   applications of transition metal complexes, modeling strategies must simultaneously
   address electronic, geometric, and energetic properties of the relevant species.
-  We show that for representative transition metal triatomics (MO2, where M = Cr,
+  We show that for representative transition metal triatomics (MO<sub>2</sub>, where M = Cr,
   Mn, Fe, Co, or Ni) and related diatomics the incorporation of Hartree–Fock (HF)
   exchange in most cases improves the properties of the Born–Oppenheimer potential
   energy surface (PES) with respect to accurate experimental or CCSD(T) references.
@@ -45,7 +45,7 @@ abstract: For approximate density functional theory (DFT) to be useful in cataly
   exchange fraction is both property and system specific, incorporating HF exchange
   synergistically improves properties of density, structure, and energetics within
   a single PES characterized by moderately covalent bonding. The same improvement
-  is not observed in the ordering of MO2 spin states, as good agreement of semi-local
+  is not observed in the ordering of MO<sub>2</sub> spin states, as good agreement of semi-local
   DFT spin state ordering is worsened by over-stabilization of higher spin states
   when HF exchange is added. More work is needed to understand minimal functional
   forms capable of improving multiple properties with respect to semi-local DFT descriptions
@@ -53,4 +53,7 @@ abstract: For approximate density functional theory (DFT) to be useful in cataly
 publication: '*J. Chem. Theory Comput.*, **16**, 264-277 (2020)'
 url_pdf: https://doi.org/10.1021/acs.jctc.9b00842
 doi: 10.1021/acs.jctc.9b00842
+links:
+ - name: ChemRxiv
+   url: https://doi.org/10.26434/chemrxiv.9765065.v1
 ---

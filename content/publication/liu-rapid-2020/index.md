@@ -52,4 +52,7 @@ abstract: Despite its widespread use in chemical discovery, approximate density 
 publication: '*J. Phys. Chem. Lett.*, **11**, 8067-8076 (2020)'
 url_pdf: https://doi.org/10.1021/acs.jpclett.0c02288
 doi: 10.1021/acs.jpclett.0c02288
+links:
+ - name: ChemRxiv
+   url: https://doi.org/10.26434/chemrxiv.12685922.v2
 ---

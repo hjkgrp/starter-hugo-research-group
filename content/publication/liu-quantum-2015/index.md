@@ -59,4 +59,7 @@ abstract: 'The conductor-like polarization model (C-PCM) with switching/Gaussian
 publication: '*J. Chem. Theory Comput.*, **11**, 3131-3144 (2015)'
 url_pdf: https://doi.org/10.1021/acs.jctc.5b00370
 doi: 10.1021/acs.jctc.5b00370
+links:
+ - name: arXiv
+   url: https://doi.org/10.48550/arXiv.1505.07851
 ---

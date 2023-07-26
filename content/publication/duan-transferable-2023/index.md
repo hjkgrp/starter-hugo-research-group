@@ -53,9 +53,8 @@ abstract: Approximate density functional theory (DFT) has become indispensable o
   of the DFA recommender to experimentally synthesized compounds with distinct chemistry.
 publication: '*Nat. Comput. Sci.*, **3**, 38-47 (2023)'
 doi: 10.1038/s43588-022-00384-0
+url_pdf: https://doi.org/10.1038/s43588-022-00384-0
 links:
 - name: arXiv
   url: https://arxiv.org/abs/2207.10747
-- name: URL
-  url: https://doi.org/10.1038/s43588-022-00384-0
 ---

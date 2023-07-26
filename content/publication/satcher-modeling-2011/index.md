@@ -43,7 +43,7 @@ publication_types:
 - '2'
 abstract: Two structurally similar carbonic anhydrase active site mimics are explored
   computationally and experimentally in order to gain insight into the impact of subtle
-  differences in scaffold structure on CO2 hydration rates.
+  differences in scaffold structure on CO<sub>2</sub> hydration rates.
 publication: '*Energy Procedia*, **4**, 2090-2095 (2011)'
 url_pdf: https://www.sciencedirect.com/science/article/pii/S187661021100289X
 doi: 10.1016/j.egypro.2011.02.092

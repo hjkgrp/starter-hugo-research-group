@@ -15,7 +15,7 @@ authors:
 - Mircea Dinca
 tags: []
 categories: []
-date: 'submitted-01-01'
+date: '2023-07-20'
 lastmod: 2023-01-01T13:35:02-04:00
 featured: false
 draft: false
@@ -36,38 +36,39 @@ image:
 projects: []
 publishDate: '2023-01-01T17:35:02.301962Z'
 publication_types:
-- '3'
-abstract: 'The scission of the O–O bond in O2 and the formation of O–O bonds during
-  the evolution of O2 in photosynthesis are the engines of aerobic life as we know
+- '2'
+abstract: 'The scission of the O–O bond in O<sub>2</sub> and the formation of O–O bonds during
+  the evolution of O<sub>2</sub> in photosynthesis are the engines of aerobic life as we know
   it. Likewise, the reduction of O2 and its reverse, the oxidation of reduced oxygen
-  species to form O2, are indispensable components of emerging renewable technologies
+  species to form O<sub>2</sub>, are indispensable components of emerging renewable technologies
   for energy storage and conversion. Storing and unleashing the energy contained within
-  the O2 molecule requires control over the formation or scission of the four-electron
+  the O<sub>2</sub> molecule requires control over the formation or scission of the four-electron
   double bond between two oxygen atoms. Nature performs these demanding multi-electron
   transformations by distributing the redox burden among multiple metal ions: evolution
   created metalloenzymes with polynuclear clusters wherein metal ions act in concert
   to deliver or accept multiple electrons. Most relevant in this sense are the tetramanganese-calcium
-  (Mn4CaO5) cluster in the oxygen-evolving complex of photosystem II, responsible
-  for O2 formation, and the tricopper clusters in multi-copper oxidases, which mediate
-  O2 reduction. The critical step in both O2 reduction and O2 evolution is the interconversion
+  (Mn<sub>4</sub>CaO<sub>5</sub>) cluster in the oxygen-evolving complex of photosystem II, responsible
+  for O<sub>2</sub> formation, and the tricopper clusters in multi-copper oxidases, which mediate
+  O<sub>2</sub> reduction. The critical step in both O<sub>2</sub> reduction and O<sub>2</sub> evolution is the interconversion
   between multinuclear metal-oxo species, where the O atoms carry formal –2 charges,
   and O–O bonded species where the oxygen atoms are more oxidized. Attempts to mimic
   the natural systems with synthetic analogs have led to a number of elegant molecular
   clusters that shed light on the electron transfer events and stepwise mechanism
   of O–O bond cleavage and formation. To our knowledge, however, the interconversion
-  between molecular O2 and metal-oxo species in either synthetic or enzymatic discrete
+  between molecular O<sub>2</sub> and metal-oxo species in either synthetic or enzymatic discrete
   systems has not been documented. Here, we report that a tetramangenese cluster formed
   by self-assembly within a metal–organic framework (MOF) spontaneously cleaves the
-  oxygen-oxygen double bond and reduces O2 by four electrons at room temperature.
+  oxygen-oxygen double bond and reduces O<sub>2</sub> by four electrons at room temperature.
   The ensuing tetranuclear manganese-oxo cluster engages in weak C–H bond activation
-  and, more importantly, is competent for O–O bond formation and O2 evolution at elevated
+  and, more importantly, is competent for O–O bond formation and O<sub>2</sub> evolution at elevated
   temperature, enabled by the head-to-head orientation of two fully reduced oxo atoms
   that bridge neighboring Mn pairs. This study demonstrates the viability of four-electron
-  interconversion between molecular O2 and metal-oxo species and highlights the importance
+  interconversion between molecular O<sub>2</sub> and metal-oxo species and highlights the importance
   of site-isolation for achieving multi-electron chemistry at polynuclear metal clusters.'
-publication: '*submitted*'
-doi: 10.26434/chemrxiv-2022-14g3n
+publication: '*J. Am. Chem. Soc.*, **in press**'
+doi: 10.1021/jacs.3c05374
+url_pdf: https://pubs.acs.org/doi/epdf/10.1021/jacs.3c05374
 links:
-- name: URL
+- name: ChemRxiv
   url: https://chemrxiv.org/engage/chemrxiv/article-details/62c489659c9c6b63162ce94d
 ---

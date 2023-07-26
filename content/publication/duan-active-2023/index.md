@@ -52,7 +52,7 @@ abstract: Transition metal chromophores with earth-abundant transition metals ar
   while minimizing MR character, we use 2D efficient global optimization to sample
   candidate low-spin chromophores from multi-million complex spaces. Despite the scarcity
   (i.e., approx. 0.01%) of potential chromophores in this large chemical space, we
-  identify candidates with high likelihood (i.e., $>$ 10%) of computational validation
+  identify candidates with high likelihood (i.e., >10%) of computational validation
   as the ML models improve during active learning, representing a 1,000-fold acceleration
   in discovery. Absorption spectra of promising chromophores from time-dependent density
   functional theory verify that 2/3 of candidates have the desired excited state properties.
@@ -61,9 +61,8 @@ abstract: Transition metal chromophores with earth-abundant transition metals ar
   of a realistic design space and active learning approach.
 doi: 10.1021/jacsau.2c00547
 publication: '*JACS Au*, **3**, 391-401 (2023)'
+url_pdf: https://pubs.acs.org/doi/10.1021/jacsau.2c00547
 links:
 - name: arXiv
   url: https://arxiv.org/abs/2208.05444
-- name: URL
-  url: https://pubs.acs.org/doi/10.1021/jacsau.2c00547
 ---

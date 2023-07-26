@@ -41,7 +41,7 @@ abstract: While computational screening with first-principles density functional
   and energetic properties for 19 mononuclear Ru transition-metal complexes (TMCs)
   from three experimental water oxidation catalysis studies. We discover that 15 of
   these TMCs have experimental activities that correlate with a single property, the
-  ionization potential of the Ru(II)–O2 catalytic intermediate. This scaling parameter
+  ionization potential of the Ru(II)–O<sub>2</sub> catalytic intermediate. This scaling parameter
   allows the quantitative understanding of activity trends and provides insight into
   the rate-limiting behavior. We use this approach to rationalize differences in activity
   with different experimental conditions, and we qualitatively analyze the source
@@ -51,4 +51,7 @@ abstract: While computational screening with first-principles density functional
 publication: '*Inorg. Chem.*, **61**, 2186-2197 (2022)'
 doi: 10.1021/acs.inorgchem.1c03376
 url_pdf: https://pubs.acs.org/doi/10.1021/acs.inorgchem.1c03376
+links:
+ - name: ChemRxiv
+   url: https://doi.org/10.26434/chemrxiv-2021-vjbh3
 ---

@@ -46,7 +46,7 @@ abstract: Mononuclear non-heme Fe(II)- and alpha-ketoglutarate dependent oxygena
   halogenation reactions but that all anions investigated, including azide, cyanate,
   formate, and fluoride, significantly accelerate and influence the site selectivity
   of SadX hydroxylation catalysis. Azide and cyanate also lead to the formation of
-  products resulting from N3•, NCO•, and OCN• rebound. While fluoride rebound is not
+  products resulting from N<sub>3</sub>•, NCO•, and OCN• rebound. While fluoride rebound is not
   observed, the rate acceleration provided by this ligand led us to calculate barriers
   for HO• and F• rebound from a putative Fe(III)(OH)(F) intermediate. These calculations
   suggest that the lack of fluorination is due to the relative barriers of the HO•
@@ -57,7 +57,8 @@ abstract: Mononuclear non-heme Fe(II)- and alpha-ketoglutarate dependent oxygena
   non-native catalysis using these enzymes.
 publication: '*Inorg. Chem.*, **61**, 14477-14485 (2022)'
 doi: 10.1021/acs.inorgchem.2c02872
+url_pdf: https://pubs.acs.org/doi/10.1021/acs.inorgchem.2c02872
 links:
-- name: URL
-  url: https://pubs.acs.org/doi/10.1021/acs.inorgchem.2c02872
+ - name: ChemRxiv
+   url: https://doi.org/10.26434/chemrxiv-2022-8h07c-v2
 ---

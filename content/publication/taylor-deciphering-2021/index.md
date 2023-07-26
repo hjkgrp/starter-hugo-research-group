@@ -52,4 +52,8 @@ abstract: We demonstrate an alternative, data-driven approach to uncovering stru
 publication: '*J. Phys. Chem. Lett.*, **12**, 9812-9820 (2021)'
 doi: 10.1021/acs.jpclett.1c02852
 url_pdf: https://pubs.acs.org/doi/abs/10.1021/acs.jpclett.1c02852
+links:
+ - name: arXiv
+   url: https://doi.org/10.48550/arXiv.2107.14280
+
 ---

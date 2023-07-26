@@ -33,7 +33,7 @@ publishDate: '2021-06-21T01:48:31.651357Z'
 publication_types:
 - '2'
 abstract: We present a detailed analysis of the addition-elimination reaction pathways
-  for the gas-phase conversion of molecular hydrogen and methane on FeO+ to water
+  for the gas-phase conversion of molecular hydrogen and methane on FeO<sup>+</sup> to water
   and methanol, respectively, using first-principles calculations. These two reactions
   represent paradigmatic, challenging test cases for electronic structure approaches
   to transition-metal catalysis. We compare here density-functional approaches against

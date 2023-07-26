@@ -37,7 +37,7 @@ abstract: We employ high-temperature ab initio molecular dynamics (AIMD) as a sa
   approach to discover low-energy, semiconducting, indium phosphide nanostructures.
   Starting from undercoordinated models of InP (e.g., a single layer of InP(111)),
   rapid rearrangement into a stabilized, higher-coordinate but amorphous cluster is
-  observed across the size range considered (In3P3 to In22P22). These clusters exhibit
+  observed across the size range considered (In<sub>3</sub>P<sub>3</sub> to In<sub>22</sub>P<sub>22</sub>). These clusters exhibit
   exponential decrease in energy per atom with system size as effective coordination
   increases, which we define through distance-cutoff coordination number assignment
   and partial charge analysis. The sampling approach is robust to initial configuration

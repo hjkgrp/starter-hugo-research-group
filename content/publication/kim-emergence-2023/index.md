@@ -59,9 +59,8 @@ abstract: Plants contain rapidly evolving specialized metabolic enzymes to suppo
   and its recruitment to the evolutionarily new coumarin biosynthetic pathway in eudicots.
 publication: '*Nat. Commun.*, **14**, 597 (2023)'
 doi: 10.1038/s41467-023-36299-1
+url_pdf: https://www.nature.com/articles/s41467-023-36299-1
 links:
-- name: URL
-  url: https://www.nature.com/articles/s41467-023-36299-1
 - name: bioRxiv
   url: https://www.biorxiv.org/content/10.1101/2022.07.19.500703v1
 ---

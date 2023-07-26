@@ -50,4 +50,7 @@ abstract: We estimate the prediction sensitivity with respect to Hartree-Fock ex
 publication: '*J. Chem. Phys.*, **143**, 034104 (2015)'
 url_pdf: https://aip.scitation.org/doi/abs/10.1063/1.4926836
 doi: 10.1063/1.4926836
+links:
+ - name: arXiv
+   url: https://doi.org/10.48550/arXiv.1507.02261
 ---

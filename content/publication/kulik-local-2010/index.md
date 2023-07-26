@@ -37,8 +37,8 @@ publication_types:
 - '2'
 abstract: Both first-principles molecular dynamics and theoretical X-ray absorption
   spectroscopy have been used to investigate the aqueous solvation of cations in 0.5
-  M MgCl2, CaCl2, and NaCl solutions. We focus here on the species-specific effects
-  that Mg2+, Ca2+, and Na+ have on the X-ray absorption spectrum of the respective
+  M MgCl<sub>2</sub>, CaCl<sub>2</sub>, and NaCl solutions. We focus here on the species-specific effects
+  that Mg<sup>2+</sup>, Ca<sup>2+</sup>, and Na<sup>+</sup> have on the X-ray absorption spectrum of the respective
   solutions. For the divalent cations, we find that the hydrogen-bonding characteristics
   of the more rigid magnesium first-shell water molecules differ from those in the
   more flexible solvation shell surrounding calcium. In particular, the first solvation
@@ -49,7 +49,7 @@ abstract: Both first-principles molecular dynamics and theoretical X-ray absorpt
   post-main-edge peak. For the sodium monovalent cation we find that the broad tilt
   angle distribution results in a broadening of postedge features, despite populations
   in donor-and-acceptor configurations consistent with calcium. We also present the
-  reaveraged spectra of the MgCl2, CaCl2, and NaCl solutions and show that trends
+  reaveraged spectra of the MgCl<sub>2</sub>, CaCl<sub>2</sub>, and NaCl solutions and show that trends
   apparent with increasing concentration (0.5, 2.0, 4.0 M) are consistent with experiment.
   Finally, we examine more closely both the effect that cation coordination number
   has on the hydrogen-bonding network and the relative perturbation strength of the

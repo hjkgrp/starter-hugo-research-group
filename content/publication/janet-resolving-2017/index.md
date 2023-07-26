@@ -57,4 +57,7 @@ abstract: Machine learning (ML) of quantum mechanical properties shows promise f
 publication: '*J. Phys. Chem. A*, **121**, 8939-8954 (2017)'
 url_pdf: https://doi.org/10.1021/acs.jpca.7b08750
 doi: 10.1021/acs.jpca.7b08750
+links:
+ - name: arXiv
+   url: https://doi.org/10.48550/arXiv.1708.06017
 ---

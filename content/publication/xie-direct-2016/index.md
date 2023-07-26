@@ -59,4 +59,7 @@ abstract: Colloidal quantum dots (QDs) exhibit highly desirable size- and shape-
 publication: '*J. Phys. Chem. C*, **120**, 2472-2483 (2016)'
 url_pdf: https://doi.org/10.1021/acs.jpcc.5b12091
 doi: 10.1021/acs.jpcc.5b12091
+links:
+ - name: arXiv
+   url: https://doi.org/10.48550/arXiv.1512.08565
 ---

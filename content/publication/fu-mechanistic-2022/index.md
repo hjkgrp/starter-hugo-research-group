@@ -39,22 +39,21 @@ publication_types:
 abstract: 'Gut microbial decarboxylation of amino acid-derived arylacetates is a chemically
   challenging enzymatic transformation which generates small molecules that impact
   host physiology. The glycyl radical enzyme (GRE) indoleacetate decarboxylase from
-  Olsenella uli (Ou IAD) performs the non-oxidative radical decarboxylation of indole
-  3 acetate (I3A) to yield skatole, a disease-associated metabolite produced in the
+  *Olsenella uli* (*Ou* IAD) performs the non-oxidative radical decarboxylation of
+  indole-3-acetate (I3A) to yield skatole, a disease-associated metabolite produced in the
   guts of swine and ruminants. Despite the importance of IAD, our understanding of
   its mechanism is limited. Here, we characterize the mechanism of Ou IAD, evaluating
   previously proposed hypotheses of: (1) a Kolbe-type decarboxylation reaction involving
   an initial 1-e– oxidation of the carboxylate of I3A or (2) a hydrogen atom abstraction
   from the α carbon of I3A to generate an initial carbon-centered radical. Site-directed
   mutagenesis, kinetic isotope effect experiments, analysis of reactions performed
-  in D2O, and computational modeling are consistent with a mechanism involving initial
+  in D<sub>2</sub>O, and computational modeling are consistent with a mechanism involving initial
   hydrogen atom transfer. This finding expands the types of radical mechanisms employed
   by GRE decarboxylases and non-oxidative decarboxylases, more broadly. Elucidating
   the mechanism of IAD decarboxylation enhances our understanding of radical enzymes
   and may inform downstream efforts to modulate this disease-associated metabolism.'
 publication: '*J. Am. Chem. Soc.*, **144**, 11110--11119 (2022)'
 doi: 10.1021/jacs.1c13580
-links:
-- name: URL
-  url: https://pubs.acs.org/doi/10.1021/jacs.1c13580
+url_pdf: https://pubs.acs.org/doi/10.1021/jacs.1c13580
+
 ---

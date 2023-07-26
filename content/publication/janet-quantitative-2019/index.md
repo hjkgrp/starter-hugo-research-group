@@ -54,4 +54,7 @@ abstract: Machine learning (ML) models, such as artificial neural networks, have
 publication: '*Chem. Sci.*, **10**, 7913-7922 (2019)'
 url_pdf: https://pubs.rsc.org/en/content/articlelanding/2019/sc/c9sc02298h
 doi: 10.1039/C9SC02298H
+links:
+ - name: ChemRxiv
+   url: https://doi.org/10.26434/chemrxiv.7900277.v2
 ---

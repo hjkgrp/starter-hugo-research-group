@@ -43,15 +43,18 @@ abstract: Appropriately identifying and treating molecules and materials with si
   molecules. We observe that only some MR diagnostics are transferable from one chemical
   space to another. By studying the influence of MR character on chemical properties
   (i.e., MR effect) that involve multiple potential energy surfaces (i.e., adiabatic
-  spin splitting, ΔEH–L, and ionization potential, IP), we show that differences in
+  spin splitting, ΔE<sub>H–L</sub>, and ionization potential, IP), we show that differences in
   MR character are more important than the cumulative degree of MR character in predicting
   the magnitude of an MR effect. Motivated by this observation, we build transfer
-  learning models to predict CCSD(T)-level adiabatic ΔEH–L and IP from lower levels
+  learning models to predict CCSD(T)-level adiabatic ΔE<sub>H–L</sub> and IP from lower levels
   of theory. By combining these models with uncertainty quantification and multi-level
   modeling, we introduce a multi-pronged strategy that accelerates data acquisition
   by at least a factor of three while achieving coupled cluster accuracy (i.e., to
-  within 1 kcal mol−1 MAE) for robust VHTS.
+  within 1 kcal mol<sup>−1</sup> MAE) for robust VHTS.
 publication: '*Chem. Sci.*, **13**, 4962-4971 (2022)'
 doi: 10.1039/D2SC00393G
 url_pdf: https://pubs.rsc.org/en/Content/ArticleLanding/2022/SC/D2SC00393G
+links:
+ - name: arXiv
+   url: https://doi.org/10.48550/arXiv.2201.04243
 ---
