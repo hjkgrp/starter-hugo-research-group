@@ -13,7 +13,7 @@ content:
     author: ""
     category: ""
     exclude_featured: false
-    publication_type: ""
+    publication_type: '2'
     tag: ""
   offset: 0
   order: desc
