@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Reversible O–O Bond Scission and O2 Evolution at MOF-supported Tetramanganese
+title: Reversible O–O Bond Scission and O₂ Evolution at MOF-supported Tetramanganese
   Clusters
 subtitle: ''
 summary: ''
