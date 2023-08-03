@@ -8,7 +8,7 @@ authors: narunach
 superuser: false
 
 # Role/position
-role: Graduate Student
+role: ChemE PhD
 
 # Organizations/Affiliations
 organizations:
@@ -25,9 +25,13 @@ interests:
 
 education:
   courses:
+  - course: PhD in Chemical Engineering 
+    institution: Massachusetts Institute of Technology
+    year: 2023
   - course: BS in Chemical Engineering 
     institution: Caltech
     year: 2018
+ 
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons

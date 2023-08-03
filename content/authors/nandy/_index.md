@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Graduate Student
+role: Chemistry PhD
 
 # Organizations/Affiliations
 organizations:
@@ -27,6 +27,9 @@ interests:
 
 education:
   courses:
+  - course: PhD in Chemistry
+    institution: Massachusetts Institute of Technology
+    year: 2023
   - course: BS in Chemical Engineering
     institution: UC Berkeley
     year: 2017
@@ -68,4 +71,5 @@ highlight_name: false
 user_groups:
 - Alumni
 ---
-Aditya joined the Kulik group in November 2017 as a PhD student in Chemistry. He received his B.S. in Chemical Engineering from U.C. Berkeley in Spring 2017. At Cal, Aditya worked with Prof. Jeffrey A. Reimer, using solid-state NMR and other methods to study diffusion and adsorption of small molecules inside of MOF materials. Aditya holds an NSF Graduate Research Fellowship.
+Aditya joined the Kulik group in November 2017 as a PhD student in Chemistry. He received his B.S. in Chemical Engineering from U.C. Berkeley in Spring 2017. At Cal, Aditya worked with Prof. Jeffrey A. Reimer, using solid-state NMR and other methods to study diffusion and adsorption of small molecules inside of MOF materials. While at MIT, Aditya held a NSF Graduate Research Fellowship. He is now a Schmidt AI + Science Fellow at UChicago and will start as an Assistant Professor at UCLA
+in 2025.
