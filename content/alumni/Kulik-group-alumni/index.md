@@ -18,7 +18,7 @@ show_date: false
 - Terry Gani, GS, Ph.D. '20 ChemE (w/ Roman group) and now senior scientist, Cabot Corporation
 - Zach Giaccone, SS, Grad Student in UConn Dental School
 - Conrad Goffinet, UROP, MIT MSECP Program S.M. '21
-- Stefan Gugler, MS, ETH Zürich MS '18 Chemistry (with M. Reiher) and now [Ph.D. student in ETH Zürich Chemistry (Reiher group)](https://reiher.ethz.ch/the-group/people/person-detail.html?persid=196709)
+- Stefan Gugler, MS, ETH Zürich MS '18 Chemistry (with M. Reiher) and now postdoc at TU Berlin 
 - Natalia Hajlasz, UROP, BS Harvard expected '22
 - Daniel R. Harper, GS, S.M. '21 and now Consultant, Sage Analysis
 - Efthymios Ioannidis, GS, Ph.D. '16 ChemE MBA '18 and now Quantitative Researcher at Ellington Management Group
@@ -33,7 +33,7 @@ show_date: false
 - Greg Lever, PD, IQVIA
 - Sean Lin, SS, Troy H.S. '19 and now UC Berkeley BS expected '23
 - Fang Liu, PD, [Assistant Professor at Emory University](https://flgroup.emorychem.science)
-- Mingjie Liu, PD, Assistant Professor at the University of Florida (starting August 2022)
+- Mingjie Liu, PD, [Assistant Professor at the University of Florida](https://liu.chem.ufl.edu/)
 - Yusu Liu, GS, Weiss Asset Management LP
 - Brendan Mar, VS, [Tenure Track Lecturer at DeAnza College](https://www.deanza.edu/directory/user.html?u=marbrendan)
 - Rimsha Mehmood, GS, Ph.D. '21 Chemistry and now Senior Scientist at Merck
@@ -54,7 +54,7 @@ show_date: false
 - Lisi Xie, GS, Ph.D. '16 ChemE and now Process Engineer at Lam Research
 - Eve Xu, UROP, Smith B.S. '20 and now Princeton Ph.D. student, Chemistry
 - Jing Yang, PD, Assistant Professor at Sun Yat-sen University
-- Tzuhsiung Yang, PD, Assistant Professor at National Tsing Hua University (NTHU)
+- Tzuhsiung Yang, PD, [Assistant Professor at National Tsing Hua University (NTHU)](https://www.tyanglab.com/)
 - Zhongyue Yang, PD, [Assistant Professor at Vanderbilt University](https://www.vanderbilt.edu/chemistry/faculty/yang.php)
 - Shuwen Yue, PD, [Assistant Professor at Cornell University](https://www.cheme.cornell.edu/faculty-directory/shuwen-yue)
 - Qing Zhao, GS, Ph.D. '18 MechE, [Assistant Professor at Northeastern University](https://www.qzhao-neu.com)
