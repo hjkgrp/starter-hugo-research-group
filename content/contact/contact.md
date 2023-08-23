@@ -55,14 +55,14 @@ design:
 ---
 ## Openings for graduate students
 
-For **current/incoming MIT students**, we have openings for graduate students in **Fall 2022**! Opportunities are broadly in the areas of multi-objective materials design accelerated with machine learning and automation including for polymer upcycling, polymer design, and photocatalyst design, metal-organic framework discovery, and uncertainty quantification of DFT in materials discovery with new autonomous computational chemistry tools for large-scale simulation of glasses. Other opportunities include screening of water-stable MOFs with a combination of data-driven models and machine learning for water purification.
+For **current/incoming MIT students**, we do not anticipate any openings for graduate students in **Fall 2023**. Students with external fellowship support or with a strong interest in group research are still welcome to reach out. 
 
-For **students interested in coming to MIT** for graduate school, MIT ChemE, where we are located, carries out department-wide admissions and does not admit students based on the needs of an individual professor. We are also affiliated with CSBi, which maintains similar policies, and offers rotations. Once admitted to MIT, graduate students can join our group from any department inside MIT. For example, in addition to ChemE, we regularly take students into our group from chemistry, mechanical engineering, materials science, among others. Students are encouraged to apply to the appropriate PhD program that matches their undergraduate training.
+For **students interested in coming to MIT** for graduate school, MIT ChemE and Chemistry, where we are jointly located, carries out department-wide admissions and does not admit students based on the needs of an individual professor. We are also affiliated with CSBi, which maintains similar policies, and offers rotations. We are also affiliated with the Computational Science and Engineering PhD program. Once admitted to MIT, graduate students can join our group from any department inside MIT. For example, in addition to ChemE and Chemistry, we regularly take students into our group from mechanical engineering and materials science, among others. Students are encouraged to apply to the appropriate PhD program that matches their undergraduate training.
 ***
 
 ## Postdoctoral openings
 
-We do not currently have any funded **postdoctoral openings** anticipated until the end of 2023. Areas of interest, especially for partially funded postdocs, include multi-scale enzyme modeling, electronic structure method development, and machine learning for high-throughput materials discovery.
+We do not currently have any funded **postdoctoral openings** anticipated until Spring 2024. Areas of interest, especially for partially funded postdocs, include multi-scale enzyme modeling, electronic structure method development, and machine learning for high-throughput materials discovery.
 
 ***
 
