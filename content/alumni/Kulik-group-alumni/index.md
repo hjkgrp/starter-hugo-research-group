@@ -9,21 +9,27 @@ show_date: false
 - Akash Bajaj, GS, Ph.D. '21 DMSE and now postdoc at Trinity College Dublin (Sanvito group)
 - Naomi Bright, UROP, MIT SB '19 ChemE and now Associate Research Scientist at Bristol-Myers Squibb
 - Lydia Chan, SS, Troy H.S. '18 and now Stanford University BS expected '22
+- Rafa Chavez, UROP, MIT SB CS expected '25
 - Shouping Chen, SS, Ph.D. Student in UC Berkeley ChE
 - Shuxin Chen, UROP, MIT SB Course X expected '22
 - [Yael Cytter](../../author/yael-cytter), PD, Research Scientist in Israel
 - [Chenru Duan](../../author/chenru-duan), GS, Ph.D. '22, Research Engineer, Microsoft Quantum 
-- Freya Edholm, UROP, MIT CSE S.M. Student '24
+- [Freya Edholm](../../author/freya-edholm), UROP, MIT ChemE SB '23, now MIT CSE S.M. Student '24
 - Kristen Eller, UROP, Ph.D Student in CU Boulder ChE
 - Terry Gani, GS, Ph.D. '20 ChemE (w/ Roman group) and now senior scientist, Cabot Corporation
 - Zach Giaccone, SS, Grad Student in UConn Dental School
 - Conrad Goffinet, UROP, MIT MSECP Program S.M. '21
+- David Gonzalez Narvaez, UROP, University of Puerto Rico-Cayey, now PhD student Columbia University Chemistry
+- Bryan Gough, UROP, MIT SB expected '24
 - Stefan Gugler, MS, ETH Zürich MS '18 Chemistry (with M. Reiher) and now postdoc at TU Berlin 
 - Natalia Hajlasz, UROP, BS Harvard expected '22
 - Daniel R. Harper, GS, S.M. '21 and now Consultant, Sage Analysis
+- Alondra Hernandez, UROP, MIT ChemE SB expected '25
 - Efthymios Ioannidis, GS, Ph.D. '16 ChemE MBA '18 and now Quantitative Researcher at Ellington Management Group
 - Jon Paul Janet, GS, Ph.D. '19 ChemE and now Senior Scientist at AstraZeneca, Gothenburg, Sweden
+- [Mugyeom Jeon](../../author/mugyeom-jeon/), UROP, MIT Chemistry SB expected '25
 - Yu Jin, SS, Peking University BS '18 Chemistry and now [Ph.D. student in U Chicago Chemistry (Galli Group)](https://galligroup.uchicago.edu/People/yjin.php)
+- Jelissa Kamguem, UROP, Lafayette College ChemE BS '23, now PhD student Cornell University ChemE
 - Maria Karelina, UROP, MIT SB '17 Biology/EECS (6-7) and now Ph.D. Student in Stanford Biophysics (Dror Group)
 - Irem Kilic, SS, Bogazici University BS expected '23
 - Jeong Yun Kim, PD, Samsung Korea
@@ -31,11 +37,13 @@ show_date: false
 - John La, UROP, MIT SB '17 EECS and now Oculus VR
 - Adriana Ladera, SS, University of South Florida BS expected '22
 - Greg Lever, PD, IQVIA
+- Grace Li, UROP, MIT CSE SB expected '25
 - Sean Lin, SS, Troy H.S. '19 and now UC Berkeley BS expected '23
 - Fang Liu, PD, [Assistant Professor at Emory University](https://flgroup.emorychem.science)
 - Mingjie Liu, PD, [Assistant Professor at the University of Florida](https://liu.chem.ufl.edu/)
 - Yusu Liu, GS, Weiss Asset Management LP
 - Brendan Mar, VS, [Tenure Track Lecturer at DeAnza College](https://www.deanza.edu/directory/user.html?u=marbrendan)
+- Maximiliano Martinez, UROP, MIT ChemE SB expected '25
 - Rimsha Mehmood, GS, Ph.D. '21 Chemistry and now Senior Scientist at Merck
 - Mohamad Seyed Moosavi, VS, Ph.D EPFL '20, now PD in Noe Group, Free University Berlin
 - [Aditya Nandy](../../author/aditya-nandy), GS, Ph.D. '23 Chemistry and now Schmidt AI Futures Fellow U. Chicago 23-25 and incoming TT. Asst. Prof. UCLA CBE 2025
@@ -48,6 +56,7 @@ show_date: false
 - Dechen Rota, UROP, MIT SB Course X expected '23
 - Jose Salcedo-Perez, SS, S.M. MIT Nuclear Engineering '19, now Staff Scientist ORNL, Oak Ridge, TN
 - Natasha Seelam, GS, Machine learning engineer @ MindsDB
+- Shaheer Syed, UROP, Mount St. Mary's University BS expected '24
 - Michael Taylor, PD, Postdoc at Los Alamos National Lab
 - Ava Waggett, UROP, MIT SB '19 ChemE and now Exxon-Mobil
 - Mengyi Wang, GS, S.M. MIT DMSE '20
@@ -58,6 +67,8 @@ show_date: false
 - Zhongyue Yang, PD, [Assistant Professor at Vanderbilt University](https://www.vanderbilt.edu/chemistry/faculty/yang.php)
 - Shuwen Yue, PD, [Assistant Professor at Cornell University](https://www.cheme.cornell.edu/faculty-directory/shuwen-yue)
 - Qing Zhao, GS, Ph.D. '18 MechE, [Assistant Professor at Northeastern University](https://www.qzhao-neu.com)
+- Hongqian Zheng, UROP, USTC '23, now PhD student UC Berkeley Materials
+
 
 SS = summer student, UROP = undergraduate, VS = visiting scientist, MS = masters student resulting in degree, GS = graduate student, PD = postdoc
 <!--more-->

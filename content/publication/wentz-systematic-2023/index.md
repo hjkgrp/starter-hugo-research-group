@@ -15,7 +15,7 @@ authors:
 - Rebekka S. Klausen
 tags: []
 categories: []
-date: '2023-06-21'
+date: '2023-08-18'
 lastmod: 2023-06-21T13:54:08-04:00
 featured: false
 draft: false
@@ -36,11 +36,11 @@ image:
 projects: []
 publishDate: '2023-06-21T17:54:08.046005Z'
 publication_types:
-- '3'
-abstract: 'Four unsaturated polycarbooligosilanes (P1-P4) were prepared via acyclic diene metathesis
-(ADMET) polycondensation of new oligosilane diene monomers (1-4). These novel polymers with varying main chain Si incorporation have high trans internal olefin stereochemistry (ca. 80%), and molecular weights (9,500 - 21,700 g mol-1). Post-polymerization epoxidation converted all alkene moieties to epoxides and rendered the polymers (P5-P8) more electrophilic, which allowed for single molecule force spectroscopy studies via a modified atomic force microscope (AFM) set-up with a silicon tip and cantilever. The single-chain elasticity of the polycarbooligosilanes decreased with increasing numbers of Si–Si bonds, a finding reproduced by quantum chemical calculations.'
-publication: '*submitted*'
-#doi: 10.1021/jacs.2c11858
+- '2'
+abstract: 'Four unsaturated poly(carbooligosilane)s (**P1–P4**) were prepared via acyclic diene metathesis polycondensation of new oligosilane diene monomers (**1–4**). These novel polymers with varying main-chain Si incorporation have high trans internal olefin stereochemistry (ca. 80%) and molecular weights (9500–21,700 g mol<sup>–1</sup>). Postpolymerization epoxidation converted all alkene moieties to epoxides and rendered the polymers (**P5–P8**) more electrophilic, which allowed for single-molecule force spectroscopy studies via a modified atomic force microscope setup with a silicon tip and cantilever. The single-chain elasticity of the polycarbooligosilanes decreased with increasing numbers of Si–Si bonds, a finding reproduced by quantum chemical calculations.'
+publication: '*Macromolecules*, **in press**'
+url_pdf: https://pubs.acs.org/doi/epdf/10.1021/acs.macromol.3c01066
+doi: 10.1021/acs.macromol.3c01066
 #links:
 #- name: URL
 #  url: https://doi.org/10.1021/jacs.2c11858

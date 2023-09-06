@@ -5,13 +5,13 @@ title: Visible-Light-Mediated aza Paternò-Büchi Reaction of Acyclic Oximes and
 subtitle: ''
 summary: ''
 authors:
-- Corinna Schindler
-- admin
 - Emily Wearing
 - Yu-Cheng Yeh
 - gterrone
 - Seren Parikh
 - iliak
+- admin
+- Corinna Schindler
 tags: []
 categories: []
 date: '2023-07-13'
