@@ -5,13 +5,13 @@ title: Visible Light-Mediated [2+2]-Cycloadditions for the Formation of Macrocyc
 subtitle: ''
 summary: ''
 authors:
-- Corinna Schindler
 - Cody Ng
 - Scott Kim
 - iliak
 - gterrone
 - Emily Wearing
 - admin
+- Corinna Schindler
 tags: []
 categories: []
 date: '2023-07-24'

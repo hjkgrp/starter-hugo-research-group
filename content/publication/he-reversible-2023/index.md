@@ -65,7 +65,7 @@ abstract: 'The scission of the O–O bond in O<sub>2</sub> and the formation of 
   that bridge neighboring Mn pairs. This study demonstrates the viability of four-electron
   interconversion between molecular O<sub>2</sub> and metal-oxo species and highlights the importance
   of site-isolation for achieving multi-electron chemistry at polynuclear metal clusters.'
-publication: '*J. Am. Chem. Soc.*, **in press**'
+publication: '*J. Am. Chem. Soc.*, **145**, 16872--16878 (2023)'
 doi: 10.1021/jacs.3c05374
 url_pdf: https://pubs.acs.org/doi/epdf/10.1021/jacs.3c05374
 links:
