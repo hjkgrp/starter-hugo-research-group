@@ -23,7 +23,7 @@ content:
   - Grad Students
   - Masters Students
   - Undergraduate Students
-  # - Visitors
+  - Visitors
   # - Alumni
 design:
   show_interests: false
