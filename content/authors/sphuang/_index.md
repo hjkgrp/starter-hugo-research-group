@@ -14,7 +14,7 @@ superuser: false
 
 # Organizations/Affiliations
 organizations:
-- name: MIT
+- name: Massachusetts Institute of Technology
 
 #interests:
 # - machine learning
