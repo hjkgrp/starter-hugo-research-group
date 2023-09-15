@@ -41,6 +41,10 @@ categories:
 - tutorials
 
 ---
+{{% callout note %}}
+Note: The molSimplify GUI is no longer supported
+{{% /callout %}}
+
 So far in our molSimplify tutorials, we have been focusing on generating structures for first row transition metal complexes. While the study of such complexes is certainly crucial for research areas such as catalysis and pharmacology, it is imperative that we also include heavy metal complexes in our investigations in order to motivate rapid advancement of inorganic chemistry research. Hence, today in our tutorial we will show how to use molSimplify for generating structures of second and third row transition metal complexes.
 
 

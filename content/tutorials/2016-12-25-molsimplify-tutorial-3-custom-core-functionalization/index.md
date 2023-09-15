@@ -41,8 +41,9 @@ categories:
 - tutorials
 
 ---
-![](molsimplify-logo.png)
-
+{{% callout note %}}
+Note: The molSimplify GUI is no longer supported
+{{% /callout %}}
 
 In this tutorial, we'll show how to use molSimplify's custom core functionalization feature. This feature allows new functional groups (FGs) or ligands to be attached to user-specified positions in existing structures, and is most useful for studying the effects of ligand functionalization on transition metal complexes. Our example today is based on our [previous work](http://pubs.acs.org/doi/abs/10.1021/acs.chemmater.6b02378) on hydrogen bonding in functionalized ferrocenium (Fc+) complexes.
 

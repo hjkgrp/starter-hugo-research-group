@@ -41,6 +41,10 @@ categories:
 - tutorials
 
 ---
+{{% callout note %}}
+Note: The molSimplify GUI is no longer supported
+{{% /callout %}}
+
 One of the most common ways in which we can think about improving on a given molecule, whether it is an inorganic catalyst or even an organic drug, is to explore small functionalizations of the basic structure – adding small new groups or replacing existing ones while keeping the core intact. molSimplify supports replacing ligands in already-built inorganic complexes using the [custom core](../2016-12-25-molsimplify-tutorial-3-custom-core-functionalization/) functionality. However, often we might want to explore a large number of simple functionalizations easily and automatically. Here, we will introduce the latest feature of molSimplify: inline ligand decoration. This feature will allow us to add small functional groups to existing ligands while we build the structure.
 
 

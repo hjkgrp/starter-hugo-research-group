@@ -41,6 +41,10 @@ categories:
 - tutorials
 
 ---
+{{% callout note %}}
+Note: The molSimplify GUI is no longer supported
+{{% /callout %}}
+
 molSimplify comes with about 160 built in common ligands and a nifty [decoration manager](../2017-10-02-molsimplify-tutorial-7-easy-ligand-functionalization-molsimplify/) to modify them. However, this cannot hope to address the scope of possible ligands, so we also support providing your own ligands as SMILES or in 3D molecule formats.  Let's make a triple bidentate complex with three different ligands, none of which are available by default in molSimplify and each from a different source, to illustrate this. First, make sure you have an updated version of molSimplify, [ideally from conda](../2021-10-27-installing-molsimplify/).
 
 
@@ -123,6 +127,8 @@ Two notes:   we need to specify `-ligocc 1 1 1` to tell molSimplify to use one
 
 
 ![](hetro.png)
+
+You can see what ligands are in the molSimplify Ligand set using the command `molsimplify -h liganddict`. You can also make your own ligands and add them to the Ligand set in molSimplify/Ligands (need to add both a structure file and an additional line in `ligands.dict` file). Another option for custom ligands is to input a SMILES string after `-lig` during complex generation. 
 
 # Files
 

@@ -41,6 +41,10 @@ categories:
 - tutorials
 
 ---
+{{% callout note %}}
+Note: The molSimplify GUI is no longer supported
+{{% /callout %}}
+
 In this tutorial, we will show how to replace multidentate ligands in a prebuilt complex. This feature, which facilitates screening of diverse catalyst scaffolds, was recently added to molSimplify.
 
 
