@@ -128,6 +128,8 @@ Two notes:   we need to specify `-ligocc 1 1 1` to tell molSimplify to use one
 
 ![](hetro.png)
 
+You can see what ligands are in the molSimplify Ligand set using the command `molsimplify -h liganddict`. You can also make your own ligands and add them to the Ligand set in molSimplify/Ligands (need to add both a structure file and an additional line in `ligands.dict` file). Another option for custom ligands is to input a SMILES string after `-lig` during complex generation. 
+
 # Files
 
 [gly.mol](./gly.mol)

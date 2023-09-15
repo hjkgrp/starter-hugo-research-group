@@ -134,7 +134,7 @@ This is a harmless warning regarding the site with no ligand, and it can be igno
 In subsequent tutorials, we'll demonstrate other capabilities of molSimplify, including the custom core functionalization feature and database search features.
 
 
-**Notes in structure generation:**
+**Notes on structure generation:**
 
 
 1) One can have `-ligloc True` in the input file to make sure that the order of the input ligands is maintained in the octahedral structure generation, where ligands will be placed at the equatorial plane first then the axial plane.
@@ -142,6 +142,12 @@ In subsequent tutorials, we'll demonstrate other capabilities of molSimplify, in
 
 2) For SMILES string ligands, one can use the keyword  `smicat` to control which atoms should be connected to the metal. For example, `-smicat [[1, 4], [2, 7], [5], [1]]` tells molSimplify to generate a complex with two bidentate ligands in the equatorial plane and two monodentate ligands at the axial plane. For the first bidentate, the first and forth atom in the SMILES string would be the connecting atoms (C and O for a SMILES string of `C=NCO`). 
 
+3) In the command line, you can enter a command like: 
+`molsimplify -core Fe -geometry li -lig benzene_pi -oxstate 2 -ligocc 2 -spin 0 -coord 2`. 
+One can also specify multiple types of ligands, with a command that looks like the following:
+`molsimplify -core Ir -oxstate 3 -spin 1 -geometry oct -lig h2o cl -ligocc 4 2 -coord 6`. 
+
+4) Available coordination geometries are present in `molSimplify/molSimplify/Data/coordinations.dict`. For more information, use the command `molsimplify -h` in the command line.
 
 **Scripts and files:**
 
