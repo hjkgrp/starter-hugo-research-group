@@ -55,7 +55,9 @@ Before starting the tutorial, please remember to activate your conda environment
 
 Graphical User Interface
 ------------------------
-
+{{% callout note %}}
+Note: The molSimplify GUI is no longer supported
+{{% /callout %}}
 
 Firstly, we'll show how to use the graphical user interface (GUI). The GUI can be started by entering `molsimplify` at the command line with no additional arguments. A new window resembling the image below should open on your screen.
 

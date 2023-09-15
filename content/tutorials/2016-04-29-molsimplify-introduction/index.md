@@ -49,6 +49,9 @@ categories:
 
 A diverse array of metals, ligands and coordination geometries are supported. Further, the code can also functionalize a more complex structure (e.g. a porphyrin or other metal-ligand complex) by including additional ligands or replacing existing ones.
 
+{{% callout note %}}
+Note: The molSimplify GUI is no longer supported
+{{% /callout %}}
 
 The user can specify many options either from the commandline or using an input file. Alternatively, molSimplify also includes a Graphical User Interface (GUI) that can be used to access some functionality in a user-friendly manner. Click [here](../2021-10-27-installing-molsimplify/) for installation instructions, and refer to our [tutorials](../../molsimplify-tutorials/) for demonstrations of how to use key features.
 

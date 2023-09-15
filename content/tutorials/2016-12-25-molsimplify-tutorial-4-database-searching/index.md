@@ -41,6 +41,10 @@ categories:
 - tutorials
 
 ---
+{{% callout note %}}
+Note: The molSimplify GUI is no longer supported
+{{% /callout %}}
+
 In this tutorial, we'll show how to use molSimplify to perform chemical database screening, leveraging on calls to [OpenBabel](http://openbabel.org/docs/dev/Fingerprints/intro.html) together with useful preprocessing and postprocessing tools for seamless integration with the rest of the molSimplify package.
 
 

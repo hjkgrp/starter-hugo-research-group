@@ -41,6 +41,10 @@ categories:
 - tutorials
 
 ---
+{{% callout note %}}
+Note: The molSimplify GUI is no longer supported
+{{% /callout %}}
+
 We have recently implemented an artificial neural network (ANN) in molSimplify – you can read all about it in our recent Chemical Science paper [here](http://dx.doi.org/10.1039/C7SC01247K), but the basic principle is easy to understand. We first collected information from 2700 transition metal complexes that we optimized using DFT, and described them using a set of descriptors that we selected using LASSO regression. Our choice of descriptors includes information about the immediate environment around the transition metal center, for example the identity of the connecting atom and the difference in electronegativity between the connecting atom and its immediate neighborhood, as well as more general descriptors of ligand shape and size (for example, the Kier index [1]):
 
 
