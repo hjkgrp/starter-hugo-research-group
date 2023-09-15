@@ -97,6 +97,9 @@ When you use conda environments, you must activate your molSimplify environm
 
 **Running the GUI (only OS X and Linux supported):**
 
+{{% callout note %}}
+Note: The molSimplify GUI is no longer supported
+{{% /callout %}}
 
 PyQt5 is required for our GUI. If you don't already have it, you can install it using the command:
 
