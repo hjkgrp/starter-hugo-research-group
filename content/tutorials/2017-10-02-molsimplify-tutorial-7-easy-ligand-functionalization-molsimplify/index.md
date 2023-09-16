@@ -5,7 +5,7 @@ aliases: /content/molsimplify-tutorial-7-easy-ligand-functionalization-molsimpli
  
 
 # Summary for listings and search engines
-summary: 
+summary:  In this tutorial, we introduce inline ligand decoration. This feature allows us to add small functional groups to existing ligands while we build the structure, enabling the exploration of a large number of simple functionalizations easily and automatically.
 
 # Link this post with a project
 projects: []
@@ -31,7 +31,7 @@ image:
   preview_only: false
 
 authors:
-- admin
+#- admin
 
 tags:
 - molsimplify

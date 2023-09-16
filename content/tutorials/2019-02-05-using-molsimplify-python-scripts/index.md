@@ -5,7 +5,7 @@ aliases: /content/using-molsimplify-python-scripts
  
 
 # Summary for listings and search engines
-summary: 
+summary: In this tutorial, we show how you can use the classes and methods of molSimplify to build your own custom analysis or molecule generation scripts.
 
 # Link this post with a project
 projects: []
@@ -31,7 +31,7 @@ image:
   preview_only: false
 
 authors:
-- admin
+#- admin
 
 tags:
 - molsimplify

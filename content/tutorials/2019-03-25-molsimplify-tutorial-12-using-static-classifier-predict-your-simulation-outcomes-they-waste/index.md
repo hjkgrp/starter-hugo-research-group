@@ -5,7 +5,7 @@ aliases: /content/molsimplify-tutorial-12-using-static-classifier-predict-your-s
  
 
 # Summary for listings and search engines
-summary: 
+summary: In this tutorial, we demonstrate the use of a machine learning classification model that predicts whether a geometry optimization will be successful.
 
 # Link this post with a project
 projects: []
@@ -31,7 +31,7 @@ image:
   preview_only: false
 
 authors:
-- admin
+#- admin
 
 tags:
 - molsimplify

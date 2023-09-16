@@ -5,7 +5,7 @@ aliases: /content/molsimplify-tutorial-5-using-machine-learning-build-better-str
  
 
 # Summary for listings and search engines
-summary: 
+summary: In this tutorial, we show how molSimplify can use an artificial neural network (ANN) and geometry-free descriptors to predict metal--liagnd bond lengths. 
 
 # Link this post with a project
 projects: []
@@ -31,7 +31,7 @@ image:
   preview_only: false
 
 authors:
-- admin
+#- admin
 
 tags:
 - molsimplify

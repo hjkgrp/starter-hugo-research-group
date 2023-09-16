@@ -5,7 +5,7 @@ aliases: /content/molsimplify-tutorial-9-bidentate-ligand-replacement
  
 
 # Summary for listings and search engines
-summary: 
+summary: In this tutorial, we will show how to replace multidentate ligands in a prebuilt complex. This feature, which facilitates screening of diverse catalyst scaffolds, was recently added to molSimplify.
 
 # Link this post with a project
 projects: []
@@ -31,7 +31,7 @@ image:
   preview_only: false
 
 authors:
-- admin
+#- admin
 
 tags:
 - molsimplify
