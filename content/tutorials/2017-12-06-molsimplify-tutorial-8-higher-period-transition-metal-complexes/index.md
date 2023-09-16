@@ -5,7 +5,7 @@ aliases: /content/molsimplify-tutorial-8-higher-period-transition-metal-complexe
  
 
 # Summary for listings and search engines
-summary: 
+summary: In this tutorial, we will show how to use molSimplify for generating structures of second and third row transition metal complexes.
 
 # Link this post with a project
 projects: []
@@ -31,7 +31,7 @@ image:
   preview_only: false
 
 authors:
-- admin
+#- admin
 
 tags:
 - molsimplify

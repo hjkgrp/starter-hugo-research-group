@@ -5,7 +5,7 @@ aliases: /content/installing-molsimplify
  
 
 # Summary for listings and search engines
-summary: 
+summary: This tutorial describes installation options for molSimplify, including from Conda and building from source.
 
 # Link this post with a project
 projects: []
@@ -31,7 +31,7 @@ image:
   preview_only: false
 
 authors:
-- admin
+#- admin
 
 tags:
 - molsimplify

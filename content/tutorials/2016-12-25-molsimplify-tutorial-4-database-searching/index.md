@@ -5,7 +5,7 @@ aliases: /content/molsimplify-tutorial-4-database-searching
  
 
 # Summary for listings and search engines
-summary: 
+summary: In this tutorial, we'll show how to use molSimplify to perform chemical database screening, leveraging calls to OpenBabel together with useful preprocessing and postprocessing tools for seamless integration with the rest of the molSimplify package.
 
 # Link this post with a project
 projects: []
@@ -31,7 +31,7 @@ image:
   preview_only: false
 
 authors:
-- admin
+#- admin
 
 tags:
 - molsimplify
@@ -42,10 +42,10 @@ categories:
 
 ---
 {{% callout note %}}
-Note: The molSimplify GUI is no longer supported
+Note: The molSimplify GUI is no longer supported.
 {{% /callout %}}
 
-In this tutorial, we'll show how to use molSimplify to perform chemical database screening, leveraging on calls to [OpenBabel](http://openbabel.org/docs/dev/Fingerprints/intro.html) together with useful preprocessing and postprocessing tools for seamless integration with the rest of the molSimplify package.
+In this tutorial, we'll show how to use molSimplify to perform chemical database screening, leveraging calls to [OpenBabel](http://openbabel.org/docs/dev/Fingerprints/intro.html) together with useful preprocessing and postprocessing tools for seamless integration with the rest of the molSimplify package.
 
 
 Today, we will demonstrate how to search a large chemical database for potential monodentate nitrogen-containing ligands. Although the GUI version of molSimplify contains a rudimentary database search interface, we have recently revamped the database search module to include new features only available through the command line. Hence, in order to follow this tutorial, please make sure that you have the latest molSimplify build (using [Conda](../2021-10-27-installing-molsimplify/) or from [source](http://github.com/hjkgrp/molSimplify/tree/compact)).

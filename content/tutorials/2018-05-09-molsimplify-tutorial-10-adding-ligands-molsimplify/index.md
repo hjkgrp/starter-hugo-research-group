@@ -5,7 +5,7 @@ aliases: /content/molsimplify-tutorial-10-adding-ligands-molsimplify
  
 
 # Summary for listings and search engines
-summary: 
+summary: In this tutorial, we demonstrate how you can use your own ligands in molSimplify by providing either SMILES strings or using 3D molecule formats.
 
 # Link this post with a project
 projects: []
@@ -31,7 +31,7 @@ image:
   preview_only: false
 
 authors:
-- admin
+#- admin
 
 tags:
 - molsimplify
