@@ -38,7 +38,7 @@ publishDate: '2023-06-21T17:54:08.046005Z'
 publication_types:
 - '2'
 abstract: 'Four unsaturated poly(carbooligosilane)s (**P1–P4**) were prepared via acyclic diene metathesis polycondensation of new oligosilane diene monomers (**1–4**). These novel polymers with varying main-chain Si incorporation have high trans internal olefin stereochemistry (ca. 80%) and molecular weights (9500–21,700 g mol<sup>–1</sup>). Postpolymerization epoxidation converted all alkene moieties to epoxides and rendered the polymers (**P5–P8**) more electrophilic, which allowed for single-molecule force spectroscopy studies via a modified atomic force microscope setup with a silicon tip and cantilever. The single-chain elasticity of the polycarbooligosilanes decreased with increasing numbers of Si–Si bonds, a finding reproduced by quantum chemical calculations.'
-publication: '*Macromolecules*, **in press**'
+publication: '*Macromolecules*, **56**, 6776--6782 (2023)'
 url_pdf: https://pubs.acs.org/doi/epdf/10.1021/acs.macromol.3c01066
 doi: 10.1021/acs.macromol.3c01066
 #links:
