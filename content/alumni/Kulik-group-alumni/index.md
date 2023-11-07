@@ -58,6 +58,7 @@ show_date: false
 - Natasha Seelam, GS, Machine learning engineer @ MindsDB
 - Shaheer Syed, UROP, Mount St. Mary's University BS expected '24
 - Michael Taylor, PD, Postdoc at Los Alamos National Lab
+- [Vyshnavi Vennelakanti](../../author/vyshnavi-vennelakanti), GS, Ph.D. '23 Chemistry and now Postdoctoral Associate with Emily Carter at Princeton
 - Ava Waggett, UROP, MIT SB '19 ChemE and now Exxon-Mobil
 - Mengyi Wang, GS, S.M. MIT DMSE '20
 - Lisi Xie, GS, Ph.D. '16 ChemE and now Process Engineer at Lam Research
