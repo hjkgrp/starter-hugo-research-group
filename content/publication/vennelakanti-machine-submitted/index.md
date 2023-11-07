@@ -1,18 +1,18 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'Protein3D: Enabling Analysis and Extraction of Metal-Containing Sites from the Protein Data Bank with molSimplify'
+title: 'Machine Learning Prediction of the Experimental Transition Temperature of Fe(II) Spin-Crossover Complexes'
 subtitle: ''
 summary: ''
 authors:
-- fe2o3
-- nandy
-- clorice
-- kastner
+- vyshnavi
+- Irem B. Kilic
+- gterrone
+- crduan
 - admin
 tags: []
 categories: []
-date: '2023-08-15'
+date: '2023-10-28'
 lastmod: 2023-06-08T13:54:08-04:00
 featured: false
 draft: false
@@ -37,7 +37,7 @@ publication_types:
 abstract: 
 publication: '*submitted*'
 #doi: 10.1021/jacs.2c11858
-#links:
+links:
 #- name: ChemRxiv
-#  url: https://doi.org/10.26434/chemrxiv-2022-h55mx-v2
+#  url: https://doi.org/10.26434/chemrxiv-2023-v4p8q
 ---
