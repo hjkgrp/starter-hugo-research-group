@@ -1,5 +1,5 @@
 ---
-title: Vyshnavi recieves her PhD
+title: Vyshnavi receives her PhD
 reading_time: false
 date: 2023-10-19
 ---
