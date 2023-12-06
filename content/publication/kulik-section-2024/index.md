@@ -8,7 +8,7 @@ authors:
 - admin
 tags: []
 categories: []
-date: '2023-03-30'
+date: '2023-10-25'
 lastmod: 2023-03-30T14:39:46-04:00
 featured: false
 draft: false
@@ -31,7 +31,7 @@ publishDate: '2023-03-30T18:39:46.489202Z'
 publication_types:
 - '6'
 abstract: 'Catalysts, be they molecular, heterogeneous, or enzymatic, greatly accelerate chemical transformations. Computational chemistry plays a leading role in the mechanistic modeling and design of catalysts because many key reaction steps have fleeting transition states that are challenging to characterize experimentally. This book section describes some of the computational tools that have been developed to map out reaction mechanisms or optimize catalysts for a specific mechanism. This section also describes best practices in both modeling catalysis with density functional theory as well as understanding complex phenomena related to chemical bonding, photochemistry or dynamic effects in catalysis, and quantum mechanical tunneling.'
-publication: 'in *Comprehensive Computational Chemistry*, eds. Russell Boyd and M. Yanez, **in press**'
+publication: 'in *Comprehensive Computational Chemistry*, eds. Russell Boyd and M. Yanez, **4**, 449--453 (2024)'
 doi: 10.1016/B978-0-12-821978-2.00081-7
 url_pdf: https://www.sciencedirect.com/science/article/abs/pii/B9780128219782000817
 
