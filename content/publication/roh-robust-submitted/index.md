@@ -1,18 +1,22 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'Machine Learning Prediction of the Experimental Transition Temperature of Fe(II) Spin-Crossover Complexes'
+title: 'Robust Chemresistive Behavior in Conductive Polymer/MOF Composites'
 subtitle: ''
 summary: ''
 authors:
-- vyshnavi
-- Irem B. Kilic
-- gterrone
-- crduan
+- H. Roh
+- D.-H. Kim
+- yscho
+- Y.-M. Jo
+- J.A. del Alamo
 - admin
+- Mircea Dinca
+- Aristede Gumyusenge
+
 tags: []
 categories: []
-date: '2023-10-28'
+date: '2023-11-10'
 lastmod: 2023-06-08T13:54:08-04:00
 featured: false
 draft: false
@@ -38,6 +42,6 @@ abstract:
 publication: '*submitted*'
 #doi: 10.1021/jacs.2c11858
 links:
-- name: ChemRxiv
-  url: https://doi.org/10.26434/chemrxiv-2023-mhb4c
+#- name: ChemRxiv
+#  url: https://doi.org/10.26434/chemrxiv-2023-mhb4c
 ---

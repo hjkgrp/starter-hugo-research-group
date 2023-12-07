@@ -1,18 +1,19 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'Machine Learning Prediction of the Experimental Transition Temperature of Fe(II) Spin-Crossover Complexes'
+title: 'Computational Discovery of Codoped Single-Atom Catalysts for Methane-to-Methanol Conversion'
 subtitle: ''
 summary: ''
 authors:
-- vyshnavi
-- Irem B. Kilic
-- gterrone
+- haojun
 - crduan
+- iliak
+- nandy
+- Mingjie Liu
 - admin
 tags: []
 categories: []
-date: '2023-10-28'
+date: '2023-11-17'
 lastmod: 2023-06-08T13:54:08-04:00
 featured: false
 draft: false
@@ -39,5 +40,5 @@ publication: '*submitted*'
 #doi: 10.1021/jacs.2c11858
 links:
 - name: ChemRxiv
-  url: https://doi.org/10.26434/chemrxiv-2023-mhb4c
+  url: https://doi.org/10.26434/chemrxiv-2023-3fk6j
 ---

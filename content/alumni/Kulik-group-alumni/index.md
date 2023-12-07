@@ -45,7 +45,7 @@ show_date: false
 - Brendan Mar, VS, [Tenure Track Lecturer at DeAnza College](https://www.deanza.edu/directory/user.html?u=marbrendan)
 - Maximiliano Martinez, UROP, MIT ChemE SB expected '25
 - Rimsha Mehmood, GS, Ph.D. '21 Chemistry and now Senior Scientist at Merck
-- Mohamad Seyed Moosavi, VS, Ph.D EPFL '20, now PD in Noe Group, Free University Berlin
+- Mohamad Seyed Moosavi, VS, Ph.D EPFL '20, [Assistant Professor at University of Toronto](https://chem-eng.utoronto.ca/faculty-staff/faculty-members/seyed-mohamad-moosavi/)
 - [Aditya Nandy](../../author/aditya-nandy), GS, Ph.D. '23 Chemistry and now Schmidt AI Futures Fellow U. Chicago 23-25 and incoming TT. Asst. Prof. UCLA CBE 2025
 - Azadeh Nazemi, PD, Senior Scientist at Pfizer
 - [Jonas Oldenstaedt](../../author/jonas-oldenstaedt), MS, TUM expected '23 CSE
@@ -57,7 +57,7 @@ show_date: false
 - Jose Salcedo-Perez, SS, S.M. MIT Nuclear Engineering '19, now Staff Scientist ORNL, Oak Ridge, TN
 - Natasha Seelam, GS, Machine learning engineer @ MindsDB
 - Shaheer Syed, UROP, Mount St. Mary's University BS expected '24
-- Michael Taylor, PD, Postdoc at Los Alamos National Lab
+- Michael Taylor, PD, Staff Scientist at Los Alamos National Lab
 - [Vyshnavi Vennelakanti](../../author/vyshnavi-vennelakanti), GS, Ph.D. '23 Chemistry and now Postdoctoral Associate with Emily Carter at Princeton
 - Ava Waggett, UROP, MIT SB '19 ChemE and now Exxon-Mobil
 - Mengyi Wang, GS, S.M. MIT DMSE '20

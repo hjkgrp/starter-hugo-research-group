@@ -58,7 +58,7 @@ social:
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 - icon: cv
   icon_pack: ai
-  link: files/CV_HJK_Nov23.pdf
+  link: files/CV_HJK_Dec23.pdf
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
 
@@ -73,4 +73,4 @@ user_groups:
 
 Heather J. Kulik is an Associate Professor in Chemical Engineering and Chemistry at MIT. She received her B.E. in Chemical Engineering from Cooper Union in 2004 and her Ph.D. in Materials Science and Engineering from MIT in 2009. She completed postdocs at Lawrence Livermore (2010) and Stanford (2010−2013), prior to returning to MIT as a faculty member in 2013 and receiving tenure in 2021.
 
-Her work has been recognized by a Burroughs Wellcome Fund Career Award at the Scientific Interface (2012-2017), Office of Naval Research Young Investigator Award (2018), DARPA Young Faculty Award (2018), AAAS Marion Milligan Mason Award (2019-2020), NSF CAREER Award (2019), the Industrial & Engineering Chemistry Research “Class of Influential Researchers”, the ACS COMP Division OpenEye Award for Outstanding Junior Faculty in Computational Chemistry, the JPCB Lectureship (ACS PHYS), the DARPA Director's Fellowship (2020), and a Sloan Fellowship (2021).
+Her work has been recognized by a Burroughs Wellcome Fund Career Award at the Scientific Interface (2012-2017), Office of Naval Research Young Investigator Award (2018), DARPA Young Faculty Award (2018), AAAS Marion Milligan Mason Award (2019-2020), NSF CAREER Award (2019), the ACS COMP Division OpenEye Award for Outstanding Junior Faculty in Computational Chemistry, the JPCB Lectureship (ACS PHYS), the DARPA Director's Fellowship (2020), a Sloan Fellowship (2021), the AIChE CoMSEF Impact award (2023), and a TUM Hans Fischer Senior Fellowship (2023).

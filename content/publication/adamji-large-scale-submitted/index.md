@@ -1,18 +1,18 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'Machine Learning Prediction of the Experimental Transition Temperature of Fe(II) Spin-Crossover Complexes'
+title: 'Large-scale Comparison of Fe and Ru Polyolefin C–H Activation Catalysts'
 subtitle: ''
 summary: ''
 authors:
-- vyshnavi
-- Irem B. Kilic
-- gterrone
-- crduan
+- hadamji
+- iliak
+- nandy
+- Yuriy Roman-Leshkov
 - admin
 tags: []
 categories: []
-date: '2023-10-28'
+date: '2023-11-28'
 lastmod: 2023-06-08T13:54:08-04:00
 featured: false
 draft: false
@@ -39,5 +39,5 @@ publication: '*submitted*'
 #doi: 10.1021/jacs.2c11858
 links:
 - name: ChemRxiv
-  url: https://doi.org/10.26434/chemrxiv-2023-mhb4c
+  url: https://doi.org/10.26434/chemrxiv-2023-78l98
 ---
