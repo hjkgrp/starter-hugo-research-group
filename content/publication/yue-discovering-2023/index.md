@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Discovering Molecular Coordination Environments for Selective Ion Binding Using Machine Learning
+title: Discovering Molecular Coordination Environment Trends for Selective Ion Binding to Molecular Complexes Using Machine Learning
 subtitle: ''
 summary: ''
 authors:

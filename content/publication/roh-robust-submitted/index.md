@@ -12,7 +12,7 @@ authors:
 - J.A. del Alamo
 - admin
 - Mircea Dinca
-- Aristede Gumyusenge
+- Aristide Gumyusenge
 
 tags: []
 categories: []
