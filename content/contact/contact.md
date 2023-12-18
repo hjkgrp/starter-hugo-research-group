@@ -42,30 +42,28 @@ content:
   autolink: true
 
   # Email form provider
-  form:
-    provider: netlify
-    formspree:
-      id:
-    netlify:
+  #form:
+  #  provider: netlify
+  #  formspree:
+  #    id:
+  #  netlify:
       # Enable CAPTCHA challenge to reduce spam?
-      captcha: false
+  #    captcha: false
 
 design:
   columns: '2'
 ---
 ## Openings for graduate students
 
-For **current/incoming MIT students**, we do not anticipate any openings for graduate students in **Fall 2023**. Students with external fellowship support or with a strong interest in group research are still welcome to reach out. 
-
-For **students interested in coming to MIT** for graduate school, MIT ChemE and Chemistry, where we are jointly located, carries out department-wide admissions and does not admit students based on the needs of an individual professor. We are also affiliated with CSBi, which maintains similar policies, and offers rotations. We are also affiliated with the Computational Science and Engineering PhD program. Once admitted to MIT, graduate students can join our group from any department inside MIT. For example, in addition to ChemE and Chemistry, we regularly take students into our group from mechanical engineering and materials science, among others. Students are encouraged to apply to the appropriate PhD program that matches their undergraduate training.
+For **students interested in coming to MIT in Fall 2024** for graduate school, MIT ChemE and Chemistry, where we are jointly located, carry out department-wide admissions and do not admit students based on the needs of an individual professor. We are also affiliated with CSBi, which maintains similar policies, and offers rotations. We are also affiliated with the Computational Science and Engineering PhD program. Once admitted to MIT, graduate students can join our group from any department inside MIT. For example, in addition to ChemE and Chemistry, we regularly take students into our group from mechanical engineering and materials science, among others. Students are encouraged to apply to the appropriate PhD program that matches their undergraduate training. Professor Kulik is unavailable for discussion of projects until after admissions decisions are complete.
 ***
 
 ## Postdoctoral openings
 
-We do not currently have any funded **postdoctoral openings** anticipated until Spring 2024. Areas of interest, especially for partially funded postdocs, include multi-scale enzyme modeling, electronic structure method development, and machine learning for high-throughput materials discovery.
-
+We do not currently have any funded **postdoctoral openings** anticipated until Fall 2024 at the earliest. Areas of interest, especially for partially funded postdocs, include electronic structure method development and machine learning for modeling of excited state properties of transition metal chromophores.
 ***
 
 ## Undergraduates
 
-We are always eager to welcome interested MIT **undergraduate students** to our lab.
+We are always eager to welcome interested **MIT undergraduate students** to our lab.
+***
