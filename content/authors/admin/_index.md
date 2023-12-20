@@ -34,7 +34,7 @@ education:
     institution: Massachusetts Institute of Technology
     year: 2009
   - course: BE in Chemical Engineering
-    institution: Massachusetts Institute of Technology
+    institution: The Cooper Union
     year: 2004
 
 # Social/Academic Networking
