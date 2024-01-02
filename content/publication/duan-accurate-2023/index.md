@@ -11,7 +11,7 @@ authors:
 - admin
 tags: []
 categories: []
-date: '2023-04-17'
+date: '2023-12-15'
 lastmod: 2023-04-17T14:39:46-04:00
 featured: false
 draft: false
@@ -34,7 +34,9 @@ publishDate: '2023-04-17T18:39:46.489202Z'
 publication_types:
 - '2'
 abstract: 'Transition state (TS) search is key in chemistry for elucidating reaction mechanisms and exploring reaction networks. The search for accurate 3D TS structures, however, requires numerous computationally intensive quantum chemistry calculations due to the complexity of potential energy surfaces. Here, we developed an object-aware SE(3) equivariant diffusion model that satisfies all physical symmetries and constraints for generating sets of structures - reactant, TS, and product - in an elementary reaction. Provided reactant and product, this model generates a TS structure in seconds instead of hours required when performing quantum chemistry-based optimizations. The generated TS structures achieve a median of 0.08 Å root mean square deviation compared to the true TS. With a confidence scoring model for uncertainty quantification, we approach an accuracy required for reaction rate estimation (2.6 kcal/mol) by only performing quantum chemistry-based optimizations on 14 percent of the most challenging reactions. We envision the proposed approach useful in constructing large reaction networks with unknown mechanisms.'
-publication: '*Nature Computational Science*, **in press**'
+publication: '*Nature Computational Science*, **3**, 1045–1055 (2023)'
+doi: 10.1038/s43588-023-00563-7
+url_pdf: https://www.nature.com/articles/s43588-023-00563-7.pdf
 links:
 - name: arXiv
   url: https://arxiv.org/abs/2304.06174
