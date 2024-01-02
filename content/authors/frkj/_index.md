@@ -52,6 +52,6 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Visitors
+- Alumni
 ---
 Frederik joined the group in August 2023 as a Fulbright-sponsored visiting Ph.D. student from the Technical University of Denmark. Frederik obtained his B.Sc. and M.Sc. in Chemistry from the University of Copenhagen, where he worked on new electronic structure theory methods focused on combining coupled cluster theory with perturbation theory. In 2021, Frederik joined the lab of Janus Eriksen as a Ph.D. student, where he now researches machine learning models for use within electronic structure theory.

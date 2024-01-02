@@ -33,6 +33,8 @@ show_date: false
 - Maria Karelina, UROP, MIT SB '17 Biology/EECS (6-7) and now Ph.D. Student in Stanford Biophysics (Dror Group)
 - Irem Kilic, SS, Bogazici University BS expected '23
 - Jeong Yun Kim, PD, Samsung Korea
+- [Frederik Ørsted Kjeldal](../../author/frederik-ørsted-kjeldal/), VS, PhD student at DTU
+- [Hannes Kneiding](../../author/hannes-kneiding/), VS, PhD student at UiO
 - Yashraj Kulkarni, PD
 - John La, UROP, MIT SB '17 EECS and now Oculus VR
 - Adriana Ladera, SS, University of South Florida BS expected '22
@@ -51,6 +53,7 @@ show_date: false
 - [Jonas Oldenstaedt](../../author/jonas-oldenstaedt), MS, TUM expected '23 CSE
 - Niladri Patra, PD, [Assistant Professor at IIT Dhanbad](https://npatra2.wixsite.com/iitism)
 - Helena W. Qi, GS, Ph.D. '19 Chemistry and now Principal Scientist at Pfizer
+- [Sangeeta Rajpurohit](../../author/sangeeta-rajpurohit/), VS, Postdoc at Lawrence Berkeley National Lab
 - Sahasrajit Ramesh, MS, Oxford MS '19 Materials
 - Alexander Reily Rocha, VS, Associate Professor Institute of Theoretical Physics, UNESP, Campus Sao Paulo, Brazil
 - Dechen Rota, UROP, MIT SB Course X expected '23
