@@ -50,6 +50,6 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Visitors
+- Alumni
 ---
 Sangeeta joined the group in July 2023 as a Visiting postdoc from Lawrence Berkeley National Laboratory. She received her Ph.D. from the University of Göttingen in Germany with Prof. Peter E. Blöchl. Her research interests revolve around investigating excited-state dynamics and relaxation processes in complex materials using first-principles-based non-perturbative methods. Her research seeks a mature understanding of the role of interactions and microscopic degrees of freedom in energy conversion and transport processes in these materials. In the Kulik group, she is working on studying thermal spin crossover in transition metal complexes using DFT with local hybrid functionals and ab-initio thermodynamics calculations.

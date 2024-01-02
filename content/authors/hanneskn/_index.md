@@ -50,6 +50,6 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Visitors
+- Alumni
 ---
 Hannes joined the group in September 2023 as a visiting Ph.D. student from the University of Oslo. He obtained his Master's degree from FU Berlin in computational sciences with a focus on molecular science. During his studies he also developed an interest in machine learning and in his Master's thesis combined evolutionary optimization with methods from electronic structure theory for materials discovery. His current research in Oslo focusses on machine learning and inverse design approaches for transition metal complexes.
