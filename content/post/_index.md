@@ -13,5 +13,6 @@ filters:
 # Optional header image (relative to `static/media/` folder).
 banner:
   caption: ""
-  image: galaxy_UMAP.png
+  image: diffusion_TS_1.jpg
+
 ---

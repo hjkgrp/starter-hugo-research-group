@@ -22,10 +22,10 @@ design:
   view: 1
   columns: "2"
   background:
-    image: galaxy_UMAP.png
-    image_darken: 0
+    image: diffusion_TS_2.jpg
+    image_darken: 0.5
     image_parallax: true
-    image_position: center
+    image_position: top
     image_size: cover
     text_color_light: true
 ---
