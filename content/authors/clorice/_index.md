@@ -7,7 +7,7 @@ authors:
   - clorice
 
 # Role/position
-role: Postdoctoral Associate
+role: Postdoctoral Fellow
 
 # Is this the primary user of the site?
 superuser: false
