@@ -54,4 +54,4 @@ highlight_name: false
 user_groups:
 - Postdocs
 ---
-Clorice joined the group as a postdoctoral associate in July 2022. She received her PhD from Yale University in the United States with Prof. Hammes-Schiffer. In her PhD work, she used molecular mechanical and quantum mechanical approaches to study proton-coupled electron transfer reactions of redox active amino acids such as tyrosine. In the Kulik group, she is working on characterizing the role of protein electrostatics on modulating properties of metallocofactors.
+Clorice joined the group as a postdoctoral associate in July 2022. She received her PhD from Yale University in the United States with Prof. Hammes-Schiffer. In her PhD work, she used molecular mechanical and quantum mechanical approaches to study proton-coupled electron transfer reactions of redox active amino acids such as tyrosine. In the Kulik group, she is working on characterizing the role of protein electrostatics on modulating properties of metallocofactors. In 2023 she became an Arnold O. Beckman Postdoctoral Fellow in Chemical Sciences. 
