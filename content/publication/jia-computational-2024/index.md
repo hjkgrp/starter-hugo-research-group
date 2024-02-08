@@ -13,7 +13,7 @@ authors:
 - admin
 tags: []
 categories: []
-date: '2023-11-17'
+date: '2024-01-24'
 lastmod: 2023-06-08T13:54:08-04:00
 featured: false
 draft: false
@@ -34,9 +34,9 @@ image:
 projects: []
 publishDate: '2023-06-08T17:54:08.046005Z'
 publication_types:
-- '3'
+- '2'
 abstract: 
-publication: '*submitted*'
+publication: '*ACS Catalysis*, **in press**'
 #doi: 10.1021/jacs.2c11858
 links:
 - name: ChemRxiv
