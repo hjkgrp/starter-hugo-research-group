@@ -35,7 +35,7 @@ publishDate: '2023-06-08T17:54:08.046005Z'
 publication_types:
 - '2'
 abstract: Metalloenzymes catalyze a wide range of chemical transformations, with the active site residues playing a key role in modulating chemical reactivity and selectivity. Unlike smaller synthetic catalysts, a metalloenzyme active site is embedded in a larger protein, which makes interrogation of electronic properties and geometric features with quantum mechanical calculations challenging. Here we implement the ability to fetch crystallographic structures from the Protein Data Bank and analyze the metal binding sites in the program molSimplify. We show the usefulness of the newly created protein3D class to extract the local environment around non-heme iron enzymes containing a two histidine motif and prepare 372 structures for quantum mechanical calculations. Our implementation of protein3D serves to expand the range of systems molSimplify can be used to analyze and will enable high-throughput study of metal-containing active sites in proteins.
-publication: '*Journal of Computational Chemistry*, **in press**'
+publication: '*J. Comput. Chem.*, **45**, 352--361 (2024)'
 doi: https://doi.org/10.1002/jcc.27242
 url_pdf: https://onlinelibrary.wiley.com/doi/epdf/10.1002/jcc.27242
 #links:
