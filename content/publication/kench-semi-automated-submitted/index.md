@@ -1,19 +1,22 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'Large-scale Comparison of Fe and Ru Polyolefin C–H Activation Catalysts'
+title: A semi-automated, high-throughput approach for the synthesis and identification of highly photo-cytotoxic iridium complexes 
 subtitle: ''
 summary: ''
 authors:
-- hadamji
-- iliak
-- nandy
-- Yuriy Roman-Leshkov
+- T. Kench
+- A. Rahardjo
+- gterrone
+- A. Bellamkonda
+- T. E. Maher
+- M. Storch
 - admin
+- R. Vilar
 tags: []
 categories: []
-date: '2023-11-28'
-lastmod: 2023-06-08T13:54:08-04:00
+date: '2024-02-02'
+lastmod: 
 featured: false
 draft: false
 
@@ -31,13 +34,13 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-06-08T17:54:08.046005Z'
+publishDate: 
 publication_types:
 - '3'
 abstract: 
 publication: '*submitted*'
 #doi: 10.1021/jacs.2c11858
 links:
-- name: ChemRxiv
-  url: https://doi.org/10.26434/chemrxiv-2023-78l98
+#- name: ChemRxiv
+#  url: https://doi.org/10.26434/chemrxiv-2024-pjh9z
 ---

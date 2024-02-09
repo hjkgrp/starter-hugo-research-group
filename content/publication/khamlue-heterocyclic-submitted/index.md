@@ -1,20 +1,33 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'Computational Discovery of Codoped Single-Atom Catalysts for Methane-to-Methanol Conversion'
+title: Heterocyclic Modification Leading to Luminescent 0D Metal Organochalcogenide with Stable X-ray Scintillating Properties
 subtitle: ''
 summary: ''
 authors:
-- haojun
-- crduan
-- iliak
-- nandy
-- Mingjie Liu
+- R. Khamlue
+- T. Sakurada
+- yscho
+- W. S. Lee
+- P. Leangtom
+- Michael G. Taylor
+- W. Naewtong
+- P. Sripetch
+- B. N. Ranong
+- T. Autila
+- T. Rungseesumran
+- T. Sudyodsuk
+- A. Kopwitthaya
+- P. Mueller
+- V. Promarak
 - admin
+- William A. Tisdale
+- W. Paritmongkol
+ 
 tags: []
 categories: []
-date: '2023-11-17'
-lastmod: 2023-06-08T13:54:08-04:00
+date: '2024-02-02'
+lastmod: 
 featured: false
 draft: false
 
@@ -32,13 +45,13 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-06-08T17:54:08.046005Z'
+publishDate: 
 publication_types:
 - '3'
 abstract: 
 publication: '*submitted*'
 #doi: 10.1021/jacs.2c11858
 links:
-- name: ChemRxiv
-  url: https://doi.org/10.26434/chemrxiv-2023-3fk6j
+#- name: ChemRxiv
+#  url: https://doi.org/10.26434/chemrxiv-2024-pjh9z
 ---
