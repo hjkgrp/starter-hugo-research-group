@@ -5,16 +5,16 @@ title: Visible-Light-Mediated [2+2]-Cycloadditions for the Formation of Azetine-
 subtitle: ''
 summary: ''
 authors:
-- Cody Ng
-- Scott Kim
+- Cody H. Ng
+- Scott L. Kim
 - iliak
 - gterrone
-- Emily Wearing
+- Emily R. Wearing
 - admin
-- Corinna Schindler
+- Corinna S. Schindler
 tags: []
 categories: []
-date: '2024-02-02'
+date: '2024-03-04'
 lastmod: 2023-06-08T13:54:08-04:00
 featured: false
 draft: false
@@ -36,9 +36,10 @@ projects: []
 publishDate: '2023-06-08T17:54:08.046005Z'
 publication_types:
 - '2'
-abstract: 'Macrocyclic, dimeric lactones have known pharmacological activities that make them attractive synthetic targets but are typically synthesized following an iterative approach. Herein, we report a visible light-mediated approach to macrocyclic dimers that allows access to 1- and 2-azetine-containing dimeric lactones. Notably, up to 30-membered macrocycles are formed following this strategy that results in 1-azetine dimers via four consecutive triplet energy transfers, while 2-azetines are formed in a sequence relying on two consecutive triplet energy transfers. Computational investigations provide important insights into the reaction mechanism, suggesting that intermolecular [2+2]-cycloadditions are preferred under non-standard Curtin-Hammett conditions over the corresponding intramolecular reaction.'
+abstract: 'Macrocyclic dimeric lactones have pharmacological activities that make them attractive synthetic targets, but typical synthetic strategies employ an iterative approach to construct the macrocycle. Herein, we report a visible-light-mediated approach that enables facile access to 1- and 2-azetine-based dimeric lactones of up to 30-membered ring macrocycles. These products form via four consecutive triplet energy transfers for 1-azetine dimeric products and two consecutive triplet energy transfers for 2-azetine dimeric products. Computational investigations provide insights into the mechanism of this reaction, consistent with an unexpected initial intermolecular [2 + 2]-cycloaddition being preferred under nonstandard Curtin–Hammett conditions over the corresponding intramolecular reaction, which ultimately enables an efficient reaction pathway for macrocyclic dimerization.'
 publication: '*ACS Catalysis*, **in press**'
-#doi: 10.1021/jacs.2c11858
+url_pdf: https://pubs.acs.org/doi/epdf/10.1021/acscatal.3c04518
+doi: 10.1021/acscatal.3c04518
 links:
 - name: ChemRxiv
   url: https://doi.org/10.26434/chemrxiv-2022-h55mx-v2

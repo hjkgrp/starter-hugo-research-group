@@ -1,21 +1,25 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: A semi-automated, high-throughput approach for the synthesis and identification of highly photo-cytotoxic iridium complexes 
+title: 'A Thermally Stable SO₂ Releasing Mechanophore: Facile Activation,
+Single-Event Spectroscopy, and Molecular Dynamic Simulations'
 subtitle: ''
 summary: ''
 authors:
-- T. Kench
-- A. Rahardjo
-- gterrone
-- A. Bellamkonda
-- T. E. Maher
-- M. Storch
+- Yunyan Sun
+- William H. Neary
+- Xiao Huang
+- Tatiana B. Kouznetsova
+- Tetsu Ouchi
+- iliak
+- Kecheng Wang
+- Yingying Chen
 - admin
-- R. Vilar
+- Stephen L. Craig
+- Jeffrey S. Moore
 tags: []
 categories: []
-date: '2024-02-02'
+date: '2024-02-11'
 lastmod: 
 featured: false
 draft: false
