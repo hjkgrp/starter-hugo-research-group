@@ -1,5 +1,5 @@
 ---
-title: Gianmarco's collaboratino with Vilar group in Angew. Chemie.
+title: Gianmarco's collaboration with Vilar group in Angew. Chemie.
 reading_time: false
 date: 2024-02-21
 ---
