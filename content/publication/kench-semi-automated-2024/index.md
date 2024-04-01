@@ -5,17 +5,17 @@ title: A semi-automated, high-throughput approach for the synthesis and identifi
 subtitle: ''
 summary: ''
 authors:
-- T. Kench
-- A. Rahardjo
+- Timothy Kench
+- Arielle Rahardjo
 - gterrone
-- A. Bellamkonda
-- T. E. Maher
-- M. Storch
+- Adinarayana Bellamkonda
+- Thomas E. Maher
+- Marko Storch
 - admin
-- R. Vilar
+- Ramon Vilar
 tags: []
 categories: []
-date: '2024-02-26'
+date: '2024-03-11'
 lastmod: 
 featured: false
 draft: false

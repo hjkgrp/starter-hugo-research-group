@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Visible-Light-Mediated [2+2]-Cycloadditions for the Formation of Azetine-Based Macrocyclic Dimers
+title: Visible-Light-Mediated Macrocyclization for the Formation of Azetine-Based Dimers
 subtitle: ''
 summary: ''
 authors:
@@ -14,7 +14,7 @@ authors:
 - Corinna S. Schindler
 tags: []
 categories: []
-date: '2024-03-04'
+date: '2024-03-15'
 lastmod: 2023-06-08T13:54:08-04:00
 featured: false
 draft: false
@@ -37,7 +37,7 @@ publishDate: '2023-06-08T17:54:08.046005Z'
 publication_types:
 - '2'
 abstract: 'Macrocyclic dimeric lactones have pharmacological activities that make them attractive synthetic targets, but typical synthetic strategies employ an iterative approach to construct the macrocycle. Herein, we report a visible-light-mediated approach that enables facile access to 1- and 2-azetine-based dimeric lactones of up to 30-membered ring macrocycles. These products form via four consecutive triplet energy transfers for 1-azetine dimeric products and two consecutive triplet energy transfers for 2-azetine dimeric products. Computational investigations provide insights into the mechanism of this reaction, consistent with an unexpected initial intermolecular [2 + 2]-cycloaddition being preferred under nonstandard Curtin–Hammett conditions over the corresponding intramolecular reaction, which ultimately enables an efficient reaction pathway for macrocyclic dimerization.'
-publication: '*ACS Catalysis*, **in press**'
+publication: '*ACS Catalysis*, **14**, 4175--4185 (2024)'
 url_pdf: https://pubs.acs.org/doi/epdf/10.1021/acscatal.3c04518
 doi: 10.1021/acscatal.3c04518
 links:

@@ -1,23 +1,28 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Nested Non-covalent Interactions Expand the Functions of Supramolecular Polymer Networks
+title: Enzymatic synthesis of azide by a promiscuous N-nitrosylase 
 subtitle: ''
 summary: ''
 authors:
-- David J. Lundberg
-- Christopher M. Brown
-- Eduard O. Bobylev
-- Nathan J. Oldenhuis
-- Yasmeen S. Alfaraj
-- Julia Zaho
-- iliak
+- Antonio Del Rio Flores
+- R. Zhai
+- kastner
+- K. Seshadri
+- S. Yang
+- K. De Matias
+- Y. Shen
+- W. Cai
+- M. Narayanamoorthy
+- N. B. Do
+- Z. Xue
+- D. Al Marzooqi
 - admin
-- Jeremiah A. Johnson
+- Wenjun Zhang 
 tags: []
 categories: []
 date: '2024-01-01'
-lastmod: 2023-05-16T13:35:02-04:00
+lastmod: 
 featured: false
 draft: false
 
@@ -35,14 +40,13 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-05-16T17:35:02.301962Z'
+publishDate: 
 publication_types:
 - '3'
-abstract: 
+abstract: ''
 publication: '*submitted*'
-#doi: 10.1016/j.chempr.2023.05.018
-#url_pdf: https://www.sciencedirect.com/science/article/abs/pii/S2451929423002504
+#doi: 10.1021/jacs.2c11858
 #links:
-# - name: ChemRxiv
-#   url: https://doi.org/10.26434/chemrxiv-2023-qfrc0
+#- name: ChemRxiv
+#  url: https://doi.org/10.26434/chemrxiv-2023-rzwhn
 ---
