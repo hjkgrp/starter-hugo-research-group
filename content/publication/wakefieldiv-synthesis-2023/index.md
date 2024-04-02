@@ -5,19 +5,19 @@ title: Synthesis and Ring-opening Metathesis Polymerization of a Strained trans-
 subtitle: ''
 summary: ''
 authors:
-- H. Wakefield IV
+- Herbert Wakefield IV
 - iliak
-- K. E. Wentz
-- Y. Yao
-- T. B. Kouznetsova
-- S. J. Melvin
-- E. G. Ambrosius
-- A. Herzog-Arbeitman
-- M. A. Siegler
-- J. A. Johnson
-- S. L. Craig
+- Kelsie E. Wentz
+- Yunxin Yao
+- Tatiana B. Kouznetsova
+- Sophia J. Melvin
+- Em G. Ambrosius
+- Abraham Herzog-Arbeitman
+- Maxime A. Siegler
+- Jeremiah A. Johnson
+- Stephen L. Craig
 - admin
-- R. S. Klausen
+- Rebekka S. Klausen
 tags: []
 categories: []
 date: '2023-04-05'

@@ -1,24 +1,23 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Self-Amplified HF Release and Polymer Deconstruction Cascades Triggered by Mechanical Force 
+title: Nested Non-covalent Interactions Expand the Functions of Supramolecular Polymer Networks
 subtitle: ''
 summary: ''
 authors:
-- Y. Hu
-- L. Wang
+- David J. Lundberg
+- Christopher M. Brown
+- Eduard O. Bobylev
+- Nathan J. Oldenhuis
+- Yasmeen S. Alfaraj
+- Julia Zaho
 - iliak
-- S. Wang
-- C.-Y. Chiou
-- P. Shieh
-- Y. Lin
-- Jeremiah A. Johnson
-- Stephen L. Craig
 - admin
+- Jeremiah A. Johnson
 tags: []
 categories: []
-date: '2024-02-02'
-lastmod: 
+date: '2024-01-01'
+lastmod: 2023-05-16T13:35:02-04:00
 featured: false
 draft: false
 
@@ -36,13 +35,14 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: 
+publishDate: '2023-05-16T17:35:02.301962Z'
 publication_types:
-- '3'
+- '2'
 abstract: 
-publication: '*submitted*'
-#doi: 10.1021/jacs.2c11858
-links:
-#- name: ChemRxiv
-#  url: https://doi.org/10.26434/chemrxiv-2024-pjh9z
+publication: '*Nat. Commun*, **in press**'
+#doi: 10.1016/j.chempr.2023.05.018
+#url_pdf: https://www.sciencedirect.com/science/article/abs/pii/S2451929423002504
+#links:
+# - name: ChemRxiv
+#   url: https://doi.org/10.26434/chemrxiv-2023-qfrc0
 ---

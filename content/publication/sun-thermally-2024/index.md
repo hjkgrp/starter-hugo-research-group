@@ -1,27 +1,25 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: De novo biosynthesis of azide by a promiscuous N-nitrosylase 
+title: 'A Thermally Stable SO₂ Releasing Mechanophore: Facile Activation,
+Single-Event Spectroscopy, and Molecular Dynamic Simulations'
 subtitle: ''
 summary: ''
 authors:
-- Antonio Del Rio Flores
-- R. Zhai
-- kastner
-- K. Seshadri
-- S. Yang
-- K. De Matias
-- Y. Shen
-- W. Cai
-- M. Narayanamoorthy
-- N. B. Do
-- Z. Xue
-- D. Al Marzooqi
+- Yunyan Sun
+- William H. Neary
+- x_huang
+- Tatiana B. Kouznetsova
+- Tetsu Ouchi
+- iliak
+- Kecheng Wang
+- Yingying Chen
 - admin
-- Wenjun Zhang 
+- Stephen L. Craig
+- Jeffrey S. Moore
 tags: []
 categories: []
-date: '2024-01-01'
+date: '2024-03-27'
 lastmod: 
 featured: false
 draft: false
@@ -42,11 +40,11 @@ image:
 projects: []
 publishDate: 
 publication_types:
-- '3'
-abstract: ''
-publication: '*submitted*'
+- '2'
+abstract: 
+publication: '*J. Am. Chem. Soc.*, **in press**'
 #doi: 10.1021/jacs.2c11858
-#links:
+links:
 #- name: ChemRxiv
-#  url: https://doi.org/10.26434/chemrxiv-2023-rzwhn
+#  url: https://doi.org/10.26434/chemrxiv-2024-pjh9z
 ---

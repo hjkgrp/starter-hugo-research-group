@@ -1,25 +1,24 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'A Thermally Stable SO₂ Releasing Mechanophore: Facile Activation,
-Single-Event Spectroscopy, and Molecular Dynamic Simulations'
+title: Mechanistic basis for the emergence of EPS1 as a catalyst in salicylic acid biosynthesis of Brassicaceae 
 subtitle: ''
 summary: ''
 authors:
-- Yunyan Sun
-- William H. Neary
-- Xiao Huang
-- Tatiana B. Kouznetsova
-- Tetsu Ouchi
-- iliak
-- Kecheng Wang
-- Yingying Chen
+- Michael P. Torrens-Spence
+- Jason O. Matos
+- Tianjie Li
+- kastner
+- Colin Y. Kim
+- Ziqi Wang
+- Christopher M. Glinkerman
+- Jennifer Sherk
 - admin
-- Stephen L. Craig
-- Jeffrey S. Moore
+- Yi Wang
+- Jing-Ke Weng 
 tags: []
 categories: []
-date: '2024-02-11'
+date: '2024-03-15'
 lastmod: 
 featured: false
 draft: false

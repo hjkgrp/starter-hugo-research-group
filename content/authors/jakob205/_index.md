@@ -49,7 +49,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Visitors
+- Alumni
 ---
 Jakob is a graduate student pursuing a MS degree in chemistry at ETH Zurich. He completed his BS in chemistry there in 2022 and gained interest in the field of machine learning during his research in the group of Professor Sereina Riniker. His research involved utilizing graph neural networks to predict partial charges of drug-like molecules.  
 

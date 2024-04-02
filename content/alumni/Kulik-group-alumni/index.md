@@ -8,6 +8,7 @@ show_date: false
 - Anna Bair, UROP, MIT SB Course 5 expected '23
 - Akash Bajaj, GS, Ph.D. '21 DMSE and now postdoc at Trinity College Dublin (Sanvito group)
 - Naomi Bright, UROP, MIT SB '19 ChemE and now Associate Research Scientist at Bristol-Myers Squibb
+- José Caetano , VS, PhD student MIT-Portugal
 - Lydia Chan, SS, Troy H.S. '18 and now Stanford University BS expected '22
 - Rafa Chavez, UROP, MIT SB CS expected '25
 - Shouping Chen, SS, Ph.D. Student in UC Berkeley ChE
@@ -15,7 +16,8 @@ show_date: false
 - [Yael Cytter](../../author/yael-cytter), PD, Research Scientist in Israel
 - [Chenru Duan](../../author/chenru-duan), GS, Ph.D. '22, Research Engineer, Microsoft Quantum 
 - [Freya Edholm](../../author/freya-edholm), UROP, MIT ChemE SB '23, now MIT CSE S.M. Student '24
-- Kristen Eller, UROP, Ph.D Student in CU Boulder ChE
+- Mohamed El-Safy, VS, PhD student with David Balcells, UiO, Norway
+- Kristen Eller, UROP, PhD Student in CU Boulder ChE
 - Terry Gani, GS, Ph.D. '20 ChemE (w/ Roman group) and now senior scientist, Cabot Corporation
 - Zach Giaccone, SS, Grad Student in UConn Dental School
 - Conrad Goffinet, UROP, MIT MSECP Program S.M. '21
@@ -61,6 +63,8 @@ show_date: false
 - Natasha Seelam, GS, Machine learning engineer @ MindsDB
 - Shaheer Syed, UROP, Mount St. Mary's University BS expected '24
 - Michael Taylor, PD, Staff Scientist at Los Alamos National Lab
+- [Jakob Teetz](../../author/jakob-teetz/), MS, ETH Zürich MS in Chemistry '24
+- Titus Tsai, UROP, MIT Chemistry SB expected '26
 - [Vyshnavi Vennelakanti](../../author/vyshnavi-vennelakanti), GS, Ph.D. '23 Chemistry and now Postdoctoral Associate with Emily Carter at Princeton
 - Ava Waggett, UROP, MIT SB '19 ChemE and now Exxon-Mobil
 - Mengyi Wang, GS, S.M. MIT DMSE '20
