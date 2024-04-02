@@ -1,5 +1,5 @@
 ---
-title: Zhongyue Yang OpenEye Junior Faculty Award
+title: Zhongyue Yang awarded OpenEye Junior Faculty Award
 reading_time: false
 date: 2024-03-17
 ---

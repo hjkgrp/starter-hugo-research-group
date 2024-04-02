@@ -1,5 +1,5 @@
 ---
-title: Fang Liu JCP Lectureship
+title: Fang Liu presents JCP Lectureship
 reading_time: false
 date: 2024-03-04
 ---
