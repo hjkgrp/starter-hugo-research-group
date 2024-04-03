@@ -65,9 +65,9 @@ highlight_name: false
 user_groups:
 - Grad Students
 ---
-Daniel joined the group in December 2019 as a Ph.D. student in chemical engineering. 
-He graduated from UC Santa Barbara with a B.S. in chemical engineering and a minor in physics. 
-As an undergraduate, Daniel primarily worked on modeling LaMer burst nucleation in the Peters group. 
-He became interested in electronic structure theory while using DFT for a computational study on CO<sub>2</sub> reduction catalysts in Martin Head-Gordon's group at UC Berkeley. 
-Daniel's current research in the Kulik group examines multireference character in approximate DFT and its relation to prediction error
+Daniel joined the group in December 2019 as a Ph.D. student in chemical engineering, having graduated from UC Santa Barbara with a B.S. in chemical engineering and a minor in physics. 
+As an undergraduate, Daniel primarily worked on modeling LaMer burst nucleation in the Peters group.
+They became interested in electronic structure theory while using DFT for a computational study on CO<sub>2</sub> reduction catalysts in Martin Head-Gordon's group at UC Berkeley. 
+Daniel's current research in the Kulik group focuses on the development and application of mathematical models which relate the properties of transition metal complexes beyond simple additivity.
+They are interested in combining machine learning methods with mathematical modeling to achieve greater prediction accuracy at reduced data cost.
 
