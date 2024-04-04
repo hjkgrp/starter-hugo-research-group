@@ -1,5 +1,5 @@
 ---
-title: "Predicting transition forces using TMBA"
+title: "Predicting transition forces using the tensioned model for bond activation (TMBA)"
 subtitle:
 aliases: /content/predicting-transition-forces-using-tmba
  
@@ -40,8 +40,9 @@ categories:
 - tutorials
 
 ---
-The tensioned model for bond activation (TMBA) can facilitate high-throughput virtual screening of diverse mechanophores. In this tutorial, we will show how to calculate the transition force ({{< math >}}$f^*${{< /math >}}) using TMBA.  
+We developed the tensioned model for bond activation (TMBA), a multivariate linear regression model trained on experimentally studied covalent mechanophores that can accurately predict transition forces in polymer mechanochemistry. In this tutorial, we will show how to calculate the transition force ({{< math >}}$f^*${{< /math >}}) using TMBA.  
 
+TMBA facilitates high-throughput virtual screening of diverse mechanophores. You can read about the model in more detail [here](/publication/sun-tension-submitted/).
 
 All input files, output files, and scripts can be downloaded from a [link at the end of the tutorial](#scripts-and-files). Today’s example for calculating activation force is _cis_-acyl-NEO, a mechanophore based on a neobornenone scaffold that can release CO under tension:
 
@@ -64,7 +65,7 @@ end
 end
 * xyzfile 0 1 cis-acyl-neo.xyz
 ```
-After the optimizations are completed, we obtain cleaving bond distances at three different external applied forces. In this exampled, these values were found to be 1.588, 1.603, and 1.622. Using a linear fit, we obtain a value of {{< math >}}$k_{\rm eff}${{< /math >}} of 29.2. 
+After the optimizations are completed, we obtain cleaving bond distances at three different external applied forces. In this example, these values were found to be 1.588, 1.603, and 1.622. Using a linear fit, we obtain a value of {{< math >}}$k_{\rm eff}${{< /math >}} of 29.2. 
 
 ![](image_1.png)
 
@@ -74,7 +75,7 @@ The distances can be obtained by either manually inspecting bond distances with 
 
 ## Calculating the force-free reaction energy 
 
-The force-free reaction energy ({{< math >}}$\Delta E${{< /math >}}) can be calculated by optimizing the reactant and the diradical intermediate separately, followed by single-point calculation at a higher level of theory. An input file for ground state optimization is provided below:
+The force-free reaction energy ({{< math >}}$\Delta E${{< /math >}}) can be calculated by optimizing the reactant and the diradical intermediate separately, followed by single-point calculations using a larger basis set. An input file for ground state optimization is provided below:
 
 ```
 ! B3LYP D3BJ Opt def2-svp RIJCOSX
@@ -102,7 +103,7 @@ end
 * xyzfile 0 3 cis-acyl-neo.xyz
 ```
 
-Finally, we carry out a single-point calculation using a higher level of theory. The job inputs for single-point calculation for ground state and diradical intermediates are provided below:
+Finally, we carry out a single-point calculation using a larger basis set. The job inputs for single-point calculation for ground state and diradical intermediates are provided below:
 
 ### Ground state:
 ```
@@ -123,7 +124,7 @@ Using this approach, we obtain the force-free reaction energy of 59.4 kcal/mol.
 
 ## Generating a prediction from TMBA
 
-A parametrized TMBA model has the following formula: 
+In our [recent work](/publication/sun-tension-submitted/), the TMBA model was parametrized against experimental mechanochemical data. The resulting formula for the transition force in terms of the effectice force constant and the force-free reaction energy was found to be: 
 {{< math >}}$f^* = 0.0237\times\Delta E + 0.0494\times k_{\rm eff} - 0.495${{< /math >}}
 
  Plugging in the computed parameters we obtain:
