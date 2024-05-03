@@ -41,9 +41,9 @@ interests:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-# - icon: envelope
-#   icon_pack: fas
-#   link: 'mailto:{kerberos} AT mit DOT edu'
+ - icon: envelope
+   icon_pack: fas
+   link: 'mailto:almira AT mit DOT edu'
 # - icon: twitter
 #   icon_pack: fab
 #   link: https://twitter.com/{twitter handle}
