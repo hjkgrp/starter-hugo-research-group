@@ -1,20 +1,24 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Internal Catalysis in Dynamic Hydrogels with Associative Thioester Cross-links
+title: A CH–π interaction is required for human galectin-3 function
 subtitle: ''
 summary: ''
 authors:
-- Vivian Zhang
-- Carrie Ou
-- iliak
-- Joseph V. Accardo
+- R. C. Diehl
+- R. S. Chorghade
+- allikeys
+- M. M. Alam
+- S. A. Early
+- A. E. Dugan
+- M. Krupkin
+- K. Ribbeck
 - admin
-- Julia A. Kalow
+- L. L. Kiessling
 tags: []
 categories: []
-date: '2024-01-01'
-lastmod: 2023-05-16T13:35:02-04:00
+date: '2024-04-01'
+lastmod: 
 featured: false
 draft: false
 
@@ -32,14 +36,13 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-05-16T17:35:02.301962Z'
+publishDate: 
 publication_types:
 - '3'
-abstract: 
+abstract: ''
 publication: '*submitted*'
-#doi: 10.1016/j.chempr.2023.05.018
-#url_pdf: https://www.sciencedirect.com/science/article/abs/pii/S2451929423002504
+#doi: 10.1021/jacs.2c11858
 #links:
-# - name: ChemRxiv
-#   url: https://doi.org/10.26434/chemrxiv-2023-qfrc0
+#- name: ChemRxiv
+#  url: https://doi.org/10.26434/chemrxiv-2023-rzwhn
 ---

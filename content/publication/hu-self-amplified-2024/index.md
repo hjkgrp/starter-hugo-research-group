@@ -17,7 +17,7 @@ authors:
 - Stephen L. Craig
 tags: []
 categories: []
-date: '2024-03-30'
+date: '2024-04-10'
 lastmod: 
 featured: false
 draft: false
@@ -40,7 +40,7 @@ publishDate:
 publication_types:
 - '2'
 abstract: 'Hydrogen fluoride (HF) is a versatile reagent for material transformation, with applications in self-immolative polymers, remodeled siloxanes, and degradable polymers. The responsive in situ generation of HF in materials therefore holds promise for new classes of adaptive material systems. Here, we report the mechanochemically coupled generation of HF from alkoxy-gem-difluorocyclopropane (gDFC) mechanophores derived from the addition of difluorocarbene to enol ethers. Production of HF involves an initial mechanochemically assisted rearrangement of gDFC mechanophore to α-fluoro allyl ether whose regiochemistry involves preferential migration of fluoride to the alkoxy-substituted carbon, and ab initio steered molecular dynamics simulations reproduce the observed selectivity and offer insights into the mechanism. When the alkoxy gDFC mechanophore is derived from poly(dihydrofuran), the α-fluoro allyl ether undergoes subsequent hydrolysis to generate 1 equiv of HF and cleave the polymer chain. The hydrolysis is accelerated via acid catalysis, leading to self-amplifying HF generation and concomitant polymer degradation. The mechanically generated HF can be used in combination with fluoride indicators to generate an optical response and to degrade polybutadiene with embedded HF-cleavable silyl ethers (11 mol %). The alkoxy-gDFC mechanophore thus provides a mechanically coupled mechanism of releasing HF for polymer remodeling pathways that complements previous thermally driven mechanisms.'
-publication: '*J. Am. Chem. Soc.*, **in press**'
+publication: '*J. Am. Chem. Soc.*, **146**, 10115–10123 (2024)'
 doi: 10.1021/jacs.4c01402
 url_pdf: https://pubs.acs.org/doi/epdf/10.1021/jacs.4c01402
 links:
