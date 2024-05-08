@@ -1,21 +1,21 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Angle-Strained Sila-Cycloalkynes 
+title: Angle-strained sila-cycloalkynes 
 subtitle: ''
 summary: ''
 authors:
-- H. Wakefield IV
-- S. J. Melvin
-- J. Jiang
+- Herbert Wakefield IV
+- Sophia J. Melvin
+- Jennifer Jiang
 - iliak
-- M. A. Siegler
+- Maxime A. Siegler
 - Stephen L. Craig
 - admin
 - Rebekka S. Klausen
 tags: []
 categories: []
-date: '2024-02-02'
+date: '2024-04-05'
 lastmod: 
 featured: false
 draft: false
@@ -36,10 +36,11 @@ image:
 projects: []
 publishDate: 
 publication_types:
-- '3'
-abstract: 
-publication: '*submitted*'
-#doi: 10.1021/jacs.2c11858
+- '2'
+abstract: 'Second row elements in small- and medium-rings modulate strain. Herein we report the synthesis of two novel oligosilyl-containing cycloalkynes that exhibit angle-strain, as observed by X-ray crystallography. However, the angle-strained sila-cyclooctynes are sluggish participants in cycloadditions with benzyl azide. A distortion-interaction model analysis based on density functional theory calculations was performed.'
+publication: '*Chem. Commun.*, **60**, 4842–4845 (2024)'
+doi: 10.1039/D4CC00439F
+url_pdf: https://pubs.rsc.org/en/content/articlepdf/2024/cc/d4cc00439f
 links:
 #- name: ChemRxiv
 #  url: https://doi.org/10.26434/chemrxiv-2024-pjh9z

@@ -1,23 +1,17 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'Robust Chemresistive Behavior in Conductive Polymer/MOF Composites'
+title: Improving Predictions of Spin-Crossover Complex Properties through DFT Calculations with a Local Hybrid Functional
 subtitle: ''
 summary: ''
 authors:
-- H. Roh
-- D.-H. Kim
-- yscho
-- Y.-M. Jo
-- J.A. del Alamo
+- Sangeeta Rajpurohit
+- Vyshnavi Vennelakanti
 - admin
-- Mircea Dinca
-- Aristide Gumyusenge
-
 tags: []
 categories: []
-date: '2024-01-01'
-lastmod: 2023-06-08T13:54:08-04:00
+date: '2024-04-01'
+lastmod: 
 featured: false
 draft: false
 
@@ -35,13 +29,13 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-06-08T17:54:08.046005Z'
+publishDate: 
 publication_types:
 - '3'
-abstract: 
+abstract: ''
 publication: '*submitted*'
 #doi: 10.1021/jacs.2c11858
-links:
+#links:
 #- name: ChemRxiv
-#  url: https://doi.org/10.26434/chemrxiv-2023-mhb4c
+#  url: https://doi.org/10.26434/chemrxiv-2023-rzwhn
 ---

@@ -9,7 +9,7 @@ authors:
 - admin
 tags: []
 categories: []
-date: '2024-03-31'
+date: '2024-04-16'
 lastmod: 
 featured: false
 draft: false
@@ -32,8 +32,9 @@ publishDate:
 publication_types:
 - '2'
 abstract: 'While computational screening with density functional theory (DFT) is frequently employed for the screening of metal-organic frameworks (MOFs) for gas separation and storage, commonly applied generalized gradient approximations (GGAs) exhibit self-interaction errors, that hinder predictions of adsorption energies. We investigate the Hubbard U parameter to augment DFT calculations for full periodic MOFs, targeting a more precise modeling of gas molecule–MOF interactions, specifically for N<sub>2</sub>, CO<sub>2</sub>, and O<sub>2</sub>. We introduce a calibration scheme for the U parameter, which is tailored for each MOF, by leveraging higher-level calculations on the secondary building unit (SBU) of the MOF. When applied to the full periodic MOF, the U parameter calibrated against hybrid HSE06 calculations of SBUs successfully reproduces hybrid-quality calculations of the adsorption energy of the periodic MOF. The mean absolute deviation (MAD) of adsorption energies reduces from 0.13 eV for a standard GGA treatment to 0.06 eV with the calibrated U, demonstrating the utility of the calibration procedure when applied to the full MOF structure. Furthermore, attempting to use CCSD(T) calculations of isolated SBUs for this calibration procedure shows varying degrees of success in predicting the experimental heat of adsorption. It improves accuracy for N<sub>2</sub> adsorption for cases of overbinding, whereas its impact on CO<sub>2</sub> is minimal, and ambiguities in spin state assignment hinder consistent improvements of O<sub>2</sub> adsorption. Our findings emphasize the limitations of cluster models and advocate the use of full periodic MOF systems with a calibrated U parameter, providing a more comprehensive understanding of gas adsorption in MOFs.'
-publication: '*J. Chem. Phys.*, **in press**'
-#doi: 10.1021/jacs.2c11858
+publication: '*J. Chem. Phys.*, **160**, 154101 (2024)'
+doi: 10.1063/5.0201934
+url_pdf: https://pubs.aip.org/aip/jcp/article-pdf/doi/10.1063/5.0201934/19883122/154101_1_5.0201934.pdf
 links:
 - name: ChemRxiv
   url: https://doi.org/10.26434/chemrxiv-2024-pjh9z
