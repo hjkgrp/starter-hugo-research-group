@@ -60,7 +60,7 @@ For **students interested in coming to MIT in Fall 2024** for graduate school, M
 
 ## Postdoctoral openings
 
-We do not currently have any funded **postdoctoral openings** anticipated until Fall 2024 at the earliest. Areas of interest, especially for partially funded postdocs, include electronic structure method development and machine learning for modeling of excited state properties of transition metal chromophores.
+We do not currently have any funded **postdoctoral openings** anticipated. Areas of interest, especially for partially funded postdocs, include electronic structure method development and machine learning for modeling of excited state properties of transition metal chromophores.
 ***
 
 ## Undergraduates
