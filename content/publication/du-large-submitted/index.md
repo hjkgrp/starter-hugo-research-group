@@ -1,32 +1,23 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Heterocyclic Modification Leading to Luminescent 0D Metal Organochalcogenide with Stable X-ray Scintillating Properties
+title: 'Large Language Models are Catalyzing Chemistry Education' 
 subtitle: ''
 summary: ''
 authors:
-- R. Khamlue
-- T. Sakurada
-- yscho
-- W. S. Lee
-- P. Leangtom
-- Michael G. Taylor
-- W. Naewtong
-- P. Sripetch
-- B. N. Ranong
-- T. Autila
-- T. Rungseesumran
-- T. Sudyodsuk
-- A. Kopwitthaya
-- P. Mueller
-- V. Promarak
+- Y. Du
+- crduan
+- A.M. Bran
+- A. Sotnikova
+- AY. Qu
 - admin
-- William A. Tisdale
-- W. Paritmongkol
- 
+- A. Bosselut
+- J. Hu
+- P. Schwaller
+
 tags: []
 categories: []
-date: '2024-02-02'
+date: '2024-05-15'
 lastmod: 
 featured: false
 draft: false
@@ -53,5 +44,5 @@ publication: '*submitted*'
 #doi: 10.1021/jacs.2c11858
 links:
 #- name: ChemRxiv
-#  url: https://doi.org/10.26434/chemrxiv-2024-pjh9z
+#  url: https://chemrxiv.org/engage/chemrxiv/article-details/66382d3c91aefa6ce1408a72
 ---

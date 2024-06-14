@@ -30,6 +30,7 @@ show_date: false
 - Efthymios Ioannidis, GS, Ph.D. '16 ChemE MBA '18 and now Quantitative Researcher at Ellington Management Group
 - Jon Paul Janet, GS, Ph.D. '19 ChemE and now Senior Scientist at AstraZeneca, Gothenburg, Sweden
 - [Mugyeom Jeon](../../author/mugyeom-jeon/), UROP, MIT Chemistry SB expected '25
+- [Haojun Jia](../../author/haojun-jia/), GS, Ph.D. '24 Chemistry, and now stealth-mode startup
 - Yu Jin, SS, Peking University BS '18 Chemistry and now [Ph.D. student in U Chicago Chemistry (Galli Group)](https://galligroup.uchicago.edu/People/yjin.php)
 - Jelissa Kamguem, UROP, Lafayette College ChemE BS '23, now PhD student Cornell University ChemE
 - Maria Karelina, UROP, MIT SB '17 Biology/EECS (6-7) and now Ph.D. Student in Stanford Biophysics (Dror Group)
@@ -48,6 +49,7 @@ show_date: false
 - Yusu Liu, GS, Weiss Asset Management LP
 - Brendan Mar, VS, [Tenure Track Lecturer at DeAnza College](https://www.deanza.edu/directory/user.html?u=marbrendan)
 - Maximiliano Martinez, UROP, MIT ChemE SB expected '25
+- Ralf Meyer, PD
 - Rimsha Mehmood, GS, Ph.D. '21 Chemistry and now Senior Scientist at Merck
 - Mohamad Seyed Moosavi, VS, Ph.D EPFL '20, [Assistant Professor at University of Toronto](https://chem-eng.utoronto.ca/faculty-staff/faculty-members/seyed-mohamad-moosavi/)
 - [Aditya Nandy](../../author/aditya-nandy), GS, Ph.D. '23 Chemistry and now Schmidt AI Futures Fellow U. Chicago 23-25 and incoming TT. Asst. Prof. UCLA CBE 2025

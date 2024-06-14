@@ -40,4 +40,6 @@ url_pdf: https://www.nature.com/articles/s43588-023-00563-7.pdf
 links:
 - name: arXiv
   url: https://arxiv.org/abs/2304.06174
+- name: MIT news
+  url: https://news.mit.edu/2023/computational-model-captures-elusive-transition-states-1215
 ---
