@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Graduate Student
+role: Chemistry PhD
 
 # Organizations/Affiliations
 organizations:
