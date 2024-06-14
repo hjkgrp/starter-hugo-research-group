@@ -62,4 +62,6 @@ doi: 10.1021/acscentsci.0c00026
 links:
  - name: ChemRxiv
    url: https://doi.org/10.26434/chemrxiv.11367572.v1
+ - name: MIT News
+   url: https://news.mit.edu/2020/neural-networks-optimize-materials-search-0326
 ---
