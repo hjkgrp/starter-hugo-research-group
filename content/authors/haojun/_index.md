@@ -69,6 +69,6 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Grad Students
+- Alumni
 ---
 Haojun joined the Kulik group in November 2019 as a Ph.D. student in Physical Chemistry. He obtained his B.S. in Physics from Jilin University and National Research Tomsk Polytechnic University (dual bachelors in both China and Russia) in 2019. Looking back to his undergraduate research, he worked on designing 2D piezoelectric materials, phase transition sequence under high pressure, surface science and gas phase chemistry. He is now working on spin-state dependent properties of single atom catalysts.

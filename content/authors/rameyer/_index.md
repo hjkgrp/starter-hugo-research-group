@@ -63,6 +63,6 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Postdocs
+- Alumni
 ---
 Ralf joined the group as a postdoctoral associate in November 2021. He received his Ph.D. from Graz University of Technology in Austria with Prof. Andreas Hauser. His Ph.D. focused on machine learning based local structure search. In the Kulik group, he is working on automated geometry optimization of transition metal complexes, the development of force fields and DFT corrections, and the data-driven discovery of novel mechnophores.
