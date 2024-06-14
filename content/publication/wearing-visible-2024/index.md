@@ -14,7 +14,7 @@ authors:
 - Corinna Schindler
 tags: []
 categories: []
-date: '2024-01-01'
+date: '2024-04-01'
 lastmod: 2023-06-08T13:54:08-04:00
 featured: false
 draft: false
@@ -35,9 +35,9 @@ image:
 projects: []
 publishDate: '2023-06-08T17:54:08.046005Z'
 publication_types:
-- '3'
+- '2'
 abstract: 'The aza Paternò-Büchi reaction is a [2+2]-cycloaddition reaction between imines and alkenes that is arguably the most atom-economical method to access 4-membered nitrogen-containing heterocycles. Although the azetidine products obtained are highly desirable for pharmaceutical applications, these transformations remain limited due to challenges associated with the decreased photoreactivity of acyclic imine precursors. Currently, successful examples rely primarily on either intramolecular variants or cyclic imines. To fully realize the synthetic potential of aza Paternò-Büchi reactions, previously elusive acyclic imines must engage productively with alkenes to provide currently inaccessible azetidines. Here we report that matching of the frontier molecular orbital energies of alkenes with those of acyclic oximes can overcome these challenges and lead to the successful development of visible-light-mediated aza Paternò-Büchi reactions via triplet energy transfer catalysis. Insights obtained into this transformation are expected to inform and advance future developments in [2+2]-cycloadditions.'
-publication: '*submitted*'
+publication: '**in press**'
 #doi: 10.1021/jacs.2c11858
 links:
 - name: ChemRxiv

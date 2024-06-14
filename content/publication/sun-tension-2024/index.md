@@ -14,7 +14,7 @@ authors:
 - Jeff Moore
 tags: []
 categories: []
-date: '2024-01-01'
+date: '2024-06-13'
 lastmod: 
 featured: false
 draft: false
@@ -35,9 +35,9 @@ image:
 projects: []
 publishDate: 
 publication_types:
-- '3'
+- '2'
 abstract: 'Over the last century, chemists have mastered the ability to precisely connect pairs of carbon atoms for the synthesis of complex structures ranging from pharmaceuticals to polymeric materials. Less attention has been given to precision C–C bond disconnection. In the past two decades, mechanical force has emerged as a unique vectoral stimulus to drive selective and productive C–C bond activations, leading to distinct reaction trajectories, as well as unprecedented mechanoresponsive materials. However, the molecular details of force to chemical transduction are poorly captured by conventional chemical intuition, making it challenging to understand and predict structure-reactivity relationships under tension. Here, we utilize a physical organic model inspired by the classical Morse potential and its differential forms to identify the effective force constant (k<sub>eff</sub>) and the force-free reaction energy (ΔE) as key molecular features that govern mechanochemical kinetics. Through a comprehensive experimental and computational investigation with four norborn-2-en-7-one (NEO) mechanophores, we establish the relationship between these features and the force-dependent energetic changes along the reaction pathways. We found a linear model accurately predicts the transition force (f*) required for C–C bond activation in over 30 mechanophores. These results demonstrate a general mechanistic framework for mechanochemical reactions under tensile force, and provide a highly accessible tool for the large-scale computational screening in the design of mechanophores.'
-publication: '*submitted*'
+publication: '**in press**'
 #doi: 10.1021/jacs.2c11858
 links:
 - name: ChemRxiv
