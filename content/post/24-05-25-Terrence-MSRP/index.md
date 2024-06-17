@@ -1,5 +1,5 @@
 ---
-title: Welcome to Terrence Oscar-Okpala
+title: Welcome to Terence Oscar-Okpala
 reading_time: false
 date: 2024-05-25
 ---
