@@ -10,11 +10,11 @@ authors:
 superuser: false
 
 # Role/position
-role: Postdoctoral Associate
+role: Assistant Professor
 
 # Organizations/Affiliations
 organizations:
-- name: Massachusetts Institute of Technology
+- name: University of Houston
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -69,6 +69,6 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Postdocs
+- Alumni
 ---
-Yeongsu joined the group as a postdoc in October 2021. She received her Ph.D. at Columbia University with Prof. Timothy Berkelbach. Her PhD focused on developing semiempirical methods for excited states of nanomaterials. In the Kulik group, she is working on machine-learning-guided adaptive methods for multi-resolution materials modeling.
+Yeongsu joined the group as a postdoc in October 2021. She received her Ph.D. at Columbia University with Prof. Timothy Berkelbach. Her PhD focused on developing semiempirical methods for excited states of nanomaterials. In the Kulik group, she  worked on machine-learning-guided adaptive methods for multi-resolution materials modeling. She is now an Assistant Professor of Chemistry at the University of Houston.

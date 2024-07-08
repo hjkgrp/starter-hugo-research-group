@@ -13,6 +13,7 @@ show_date: false
 - Rafa Chavez, UROP, MIT SB CS expected '25
 - Shouping Chen, SS, Ph.D. Student in UC Berkeley ChE
 - Shuxin Chen, UROP, MIT SB Course X expected '22
+- [Yeoungsu Cho](../../author/yeongsu-cho), PD, Assistant Professor of Chemistry at the University of Houston 
 - [Yael Cytter](../../author/yael-cytter), PD, Research Scientist in Israel
 - [Chenru Duan](../../author/chenru-duan), GS, Ph.D. '22, Research Engineer, Microsoft Quantum 
 - [Freya Edholm](../../author/freya-edholm), UROP, MIT ChemE SB '23, now MIT CSE S.M. Student '24

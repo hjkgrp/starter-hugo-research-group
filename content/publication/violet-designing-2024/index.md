@@ -16,7 +16,7 @@ authors:
 - Menachem Elimelech
 tags: []
 categories: []
-date: '2024-02-02'
+date: '2024-06-06'
 lastmod: 
 featured: false
 draft: false
@@ -37,9 +37,9 @@ image:
 projects: []
 publishDate: 
 publication_types:
-- '3'
+- '2'
 abstract: 
-publication: '*submitted*'
+publication: '*Nature Water*, **in press**'
 #doi: 10.1021/jacs.2c11858
 links:
 #- name: ChemRxiv
