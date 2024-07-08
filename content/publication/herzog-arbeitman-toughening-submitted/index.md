@@ -1,23 +1,23 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: A CH–π interaction is required for human galectin-3 function
+title: Toughening polymer networks via chemo- and regioselective junction mechanochemistry
 subtitle: ''
 summary: ''
 authors:
-- R. C. Diehl
-- R. S. Chorghade
-- allikeys
-- M. M. Alam
-- S. A. Early
-- A. E. Dugan
-- M. Krupkin
-- K. Ribbeck
+- A. Herzog-Arbeitman
+- iliak
+- D. Sen
+- J. Lian
+- J. Chakraverty
+- S. Wang
+- Bradley D. Olsen
 - admin
-- L. L. Kiessling
+- Stephen L. Craig
+- Jeremiah A. Johnson
 tags: []
 categories: []
-date: '2024-04-01'
+date: '2024-06-01'
 lastmod: 
 featured: false
 draft: false
