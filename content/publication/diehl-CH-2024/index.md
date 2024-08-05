@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: A CH–π interaction is required for human galectin-3 function
+title: CH−π Interactions Are Required for Human Galectin-3 Function
 subtitle: ''
 summary: ''
 authors:
@@ -17,7 +17,7 @@ authors:
 - L. L. Kiessling
 tags: []
 categories: []
-date: '2024-06-01'
+date: '2024-07-18'
 lastmod: 
 featured: false
 draft: false
@@ -40,7 +40,7 @@ publishDate:
 publication_types:
 - '2'
 abstract: ''
-publication: '**in press**'
+publication: '*JACS Au*, **in press**'
 #doi: 10.1021/jacs.2c11858
 #links:
 #- name: ChemRxiv
