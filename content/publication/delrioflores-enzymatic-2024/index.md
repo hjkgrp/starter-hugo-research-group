@@ -1,23 +1,27 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: CH−π Interactions Are Required for Human Galectin-3 Function
+title: Enzymatic synthesis of azide by a promiscuous N-nitrosylase 
 subtitle: ''
 summary: ''
 authors:
-- R. C. Diehl
-- R. S. Chorghade
-- allikeys
-- M. M. Alam
-- S. A. Early
-- A. E. Dugan
-- M. Krupkin
-- K. Ribbeck
+- Antonio Del Rio Flores
+- R. Zhai
+- kastner
+- K. Seshadri
+- S. Yang
+- K. De Matias
+- Y. Shen
+- W. Cai
+- M. Narayanamoorthy
+- N. B. Do
+- Z. Xue
+- D. Al Marzooqi
 - admin
-- L. L. Kiessling
+- Wenjun Zhang 
 tags: []
 categories: []
-date: '2024-07-18'
+date: '2024-07-15'
 lastmod: 
 featured: false
 draft: false
@@ -40,7 +44,7 @@ publishDate:
 publication_types:
 - '2'
 abstract: ''
-publication: '*JACS Au*, **in press**'
+publication: '*Nat. Chem.*, **in press**'
 #doi: 10.1021/jacs.2c11858
 #links:
 #- name: ChemRxiv

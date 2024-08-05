@@ -1,23 +1,22 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: CH−π Interactions Are Required for Human Galectin-3 Function
+title: 'Isomer-Driven Polymerization, Depolymerization, and Reconstruction' 
 subtitle: ''
 summary: ''
 authors:
-- R. C. Diehl
-- R. S. Chorghade
-- allikeys
-- M. M. Alam
-- S. A. Early
-- A. E. Dugan
-- M. Krupkin
-- K. Ribbeck
+- Herbert Wakefield IV
+- J. Jiang
+- N. J. Frommel
+- iliak
+- Y. Yao
+- Stephen L. Craig
 - admin
-- L. L. Kiessling
+- Rebekka S. Klausen
+
 tags: []
 categories: []
-date: '2024-07-18'
+date: '2024-07-11'
 lastmod: 
 featured: false
 draft: false
@@ -38,11 +37,11 @@ image:
 projects: []
 publishDate: 
 publication_types:
-- '2'
+- '3'
 abstract: ''
-publication: '*JACS Au*, **in press**'
+publication: '*submitted*'
 #doi: 10.1021/jacs.2c11858
-#links:
+links:
 #- name: ChemRxiv
-#  url: https://doi.org/10.26434/chemrxiv-2023-rzwhn
+#  url: https://chemrxiv.org/engage/chemrxiv/article-details/66382d3c91aefa6ce1408a72
 ---

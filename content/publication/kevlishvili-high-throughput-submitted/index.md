@@ -1,27 +1,20 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Enzymatic synthesis of azide by a promiscuous N-nitrosylase 
+title: 'High-Throughput Discovery of Ferrocene Mechanophores with Enhanced Reactivity and Network Toughening' 
 subtitle: ''
 summary: ''
 authors:
-- Antonio Del Rio Flores
-- R. Zhai
+- iliak
+- Jafer Vakiil
 - kastner
-- K. Seshadri
-- S. Yang
-- K. De Matias
-- Y. Shen
-- W. Cai
-- M. Narayanamoorthy
-- N. B. Do
-- Z. Xue
-- D. Al Marzooqi
+- x_huang
+- Stephen L. Craig
 - admin
-- Wenjun Zhang 
+
 tags: []
 categories: []
-date: '2024-01-01'
+date: '2024-07-19'
 lastmod: 
 featured: false
 draft: false
@@ -46,7 +39,7 @@ publication_types:
 abstract: ''
 publication: '*submitted*'
 #doi: 10.1021/jacs.2c11858
-#links:
-#- name: ChemRxiv
-#  url: https://doi.org/10.26434/chemrxiv-2023-rzwhn
+links:
+- name: ChemRxiv
+  url: https://chemrxiv.org/engage/chemrxiv/article-details/669937e1c9c6a5c07a9c7f6d
 ---
