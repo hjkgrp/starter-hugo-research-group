@@ -48,7 +48,7 @@ authors:
 - admin
 - S. Sharifzadeh
 - A. S. Brewster
-- J. N. Hohman* 
+- J. N. Hohman
 
 tags: []
 categories: []
