@@ -54,6 +54,6 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Postdocs
+- Alumni
 ---
 Matt joined the group as a postdoctoral fellow in September 2022. He received in Ph.D. from Georgia Tech with Prof. Ryan Lively. His Ph.D. work focused on understanding the fundamentals of organic solvent transport in composite membranes. In the Kulik group, he studies MOF structure-property relationships as applied to gas separation problems.
