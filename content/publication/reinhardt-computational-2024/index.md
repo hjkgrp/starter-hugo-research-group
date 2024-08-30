@@ -7,12 +7,13 @@ summary: ''
 authors:
 - clorice
 - manets12
-- Wanlu Li
+- Wan-Lu Li
+- Yuriy Román-Leshkov
 - Teresa Head-Gordon
 - admin
 tags: []
 categories: []
-date: '2024-07-20'
+date: '2024-08-05'
 lastmod: 
 featured: false
 draft: false
@@ -35,8 +36,9 @@ publishDate:
 publication_types:
 - '2'
 abstract: 'Metal-organic cages form well-defined microenvironments that can enhance the catalytic proficiency of encapsulated transition metal catalysts (TMCs). We introduce a screening protocol to efficiently identify TMCs that are promising candidates for encapsulation in the Ga₄L₆⁻¹² nanocage. We obtain TMCs from the Cambridge Structural Database with geometric and electronic characteristics amenable to encapsulation and mine the text of associated manuscripts to curate TMCs with documented catalytic functionality. By docking candidate TMCs inside the nanocage cavity and carrying out electronic structure calculations, we identify a subset of successfully optimized candidates (TMC-34) and observe that encapsulated guests occupy an average of 60% of the cavity volume, in line with previous observations. Notably, highly charged guests occupy as much as 72% of the cavity as a result of linker rotation. Encapsulation has a universal effect on the electrostatic potential, systematically decreasing the electrostatic potential at the metal center of each TMC in the TMC-34 dataset, while minimally altering TMC metal partial charges. Collectively these observations support geometry-based screening of potential guests and suggest that encapsulation in Ga₄L₆ cages could electrostatically stabilize diverse cationic or electropositive intermediates. We highlight candidate guests with associated known reactivity and solubility most amenable for encapsulation in experimental follow-up studies.'
-publication: '*Inorg. Chem.*, **in press**'
-#doi: 10.1021/jacs.2c11858
+publication: '*Inorg. Chem.*, **63**, 14609--14622 (2024)'
+doi: 10.1021/acs.inorgchem.4c02113
+url_pdf: https://pubs.acs.org/doi/epdf/10.1021/acs.inorgchem.4c02113
 links:
 - name: ChemRxiv
   url: https://chemrxiv.org/engage/chemrxiv/article-details/664cc02e91aefa6ce19894ae

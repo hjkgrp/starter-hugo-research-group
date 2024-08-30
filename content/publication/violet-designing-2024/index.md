@@ -5,18 +5,18 @@ title: Designing membranes with specific binding sites for selective ion separat
 subtitle: ''
 summary: ''
 authors:
-- C. Violet
+- Camille Violet
 - akash98
-- M. Heiranian
-- L. F. Villalobos
-- J. Zhang
-- B. Uralcan
+- Mohammad Heiranian
+- Luis Francisco Villalobos
+- Junwei Zhang
+- Betul Uralcan
 - admin
-- A. Haji-Akbari
+- Amir Haji-Akbari
 - Menachem Elimelech
 tags: []
 categories: []
-date: '2024-06-06'
+date: '2024-08-24'
 lastmod: 
 featured: false
 draft: false
@@ -38,9 +38,10 @@ projects: []
 publishDate: 
 publication_types:
 - '2'
-abstract: 
-publication: '*Nature Water*, **in press**'
-#doi: 10.1021/jacs.2c11858
+abstract: 'A new class of membranes that can separate ions of similar size and charge is highly desired for resource recovery, water reuse and energy storage technologies. These separations require membrane nanochannels with simultaneous ångström-scale confinement and ion-selective binding sites. Conventional membrane material design uses continuous, volume-averaged properties that cannot account for discrete chemical interactions between ions and binding sites. In this Perspective, we present a design framework for ultraselective membranes by describing how to select and incorporate ion-specific binding sites into membrane nanochannels. We begin by discussing how the chemical features of ions, functional groups and solvents impact ion-binding energy. We then describe the role of binding energy in selective ion transport through nanochannels and discuss the critical importance of intersite spacing. Subsequently, we draw inspiration from machine learning methods used for drug discovery and suggest a similar approach to identify functional groups with optimal ion-binding affinity. We conclude by outlining synthetic methods to incorporate ion-specific binding sites into prevalent nanostructured materials such as covalent organic frameworks, metal–organic frameworks, two-dimensional materials and polymers.'
+publication: '*Nature Water*, **2**, 706--718 (2024)'
+doi: 10.1038/s44221-024-00279-6
+url_pdf: https://www.nature.com/articles/s44221-024-00279-6.pdf
 links:
 #- name: ChemRxiv
 #  url: https://doi.org/10.26434/chemrxiv-2024-pjh9z
