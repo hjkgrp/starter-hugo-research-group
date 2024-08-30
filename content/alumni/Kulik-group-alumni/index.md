@@ -61,6 +61,7 @@ show_date: false
 - [Sangeeta Rajpurohit](../../author/sangeeta-rajpurohit/), VS, Postdoc at Lawrence Berkeley National Lab
 - Sahasrajit Ramesh, MS, Oxford MS '19 Materials
 - Alexander Reily Rocha, VS, Associate Professor Institute of Theoretical Physics, UNESP, Campus Sao Paulo, Brazil
+- [Matt Rivera](../../author/matt-rivera), PD, Chief Technical Officer; First Light Solutions, Inc. 
 - Dechen Rota, UROP, MIT SB Course X expected '23
 - Jose Salcedo-Perez, SS, S.M. MIT Nuclear Engineering '19, now Staff Scientist ORNL, Oak Ridge, TN
 - Natasha Seelam, GS, Machine learning engineer @ MindsDB
