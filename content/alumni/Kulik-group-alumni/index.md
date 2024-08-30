@@ -2,8 +2,8 @@
 title: Kulik group alumni
 show_date: false
 ---
-- [Isuru Ariyarathna](../../author/isuru-ariyarathna/), PD, Postdoctoral Associate, Los Alamos National Laboratory
-- [Naveen Arunachalam](../../author/naveen-arunachalam/), GS, Ph.D. '23 ChemE and now Independent Consultant, NTA Capital
+- [Isuru Ariyarathna](/author/isuru-ariyarathna/), PD, Postdoctoral Associate, Los Alamos National Laboratory
+- [Naveen Arunachalam](/author/naveen-arunachalam/), GS, Ph.D. '23 ChemE and now Independent Consultant, NTA Capital
 - Sule Atahan-Evrenk, VS, [Assistant Professor at TOBB University of Economics and Technology](http://satahanevrenk.etu.edu.tr)
 - Anna Bair, UROP, MIT SB Course 5 expected '23
 - Akash Bajaj, GS, Ph.D. '21 DMSE and now postdoc at Trinity College Dublin (Sanvito group)
@@ -13,10 +13,10 @@ show_date: false
 - Rafa Chavez, UROP, MIT SB CS expected '25
 - Shouping Chen, SS, Ph.D. Student in UC Berkeley ChE
 - Shuxin Chen, UROP, MIT SB Course X expected '22
-- [Yeoungsu Cho](../../author/yeongsu-cho), PD, Assistant Professor of Chemistry at the University of Houston 
-- [Yael Cytter](../../author/yael-cytter), PD, Research Scientist in Israel
-- [Chenru Duan](../../author/chenru-duan), GS, Ph.D. '22, Research Engineer, Microsoft Quantum 
-- [Freya Edholm](../../author/freya-edholm), UROP, MIT ChemE SB '23, now MIT CSE S.M. Student '24
+- [Yeoungsu Cho](/author/yeongsu-cho), PD, Assistant Professor of Chemistry at the University of Houston 
+- [Yael Cytter](/author/yael-cytter), PD, Research Scientist in Israel
+- [Chenru Duan](/author/chenru-duan), GS, Ph.D. '22, Research Engineer, Microsoft Quantum 
+- [Freya Edholm](/author/freya-edholm), UROP, MIT ChemE SB '23, now MIT CSE S.M. Student '24
 - Mohamed El-Safy, VS, PhD student with David Balcells, UiO, Norway
 - Kristen Eller, UROP, PhD Student in CU Boulder ChE
 - Terry Gani, GS, Ph.D. '20 ChemE (w/ Roman group) and now senior scientist, Cabot Corporation
@@ -30,15 +30,15 @@ show_date: false
 - Alondra Hernandez, UROP, MIT ChemE SB expected '25
 - Efthymios Ioannidis, GS, Ph.D. '16 ChemE MBA '18 and now Quantitative Researcher at Ellington Management Group
 - Jon Paul Janet, GS, Ph.D. '19 ChemE and now Senior Scientist at AstraZeneca, Gothenburg, Sweden
-- [Mugyeom Jeon](../../author/mugyeom-jeon/), UROP, MIT Chemistry SB expected '25
-- [Haojun Jia](../../author/haojun-jia/), GS, Ph.D. '24 Chemistry, and now stealth-mode startup
+- [Mugyeom Jeon](/author/mugyeom-jeon/), UROP, MIT Chemistry SB expected '25
+- [Haojun Jia](/author/haojun-jia/), GS, Ph.D. '24 Chemistry, and now stealth-mode startup
 - Yu Jin, SS, Peking University BS '18 Chemistry and now [Ph.D. student in U Chicago Chemistry (Galli Group)](https://galligroup.uchicago.edu/People/yjin.php)
 - Jelissa Kamguem, UROP, Lafayette College ChemE BS '23, now PhD student Cornell University ChemE
 - Maria Karelina, UROP, MIT SB '17 Biology/EECS (6-7) and now Ph.D. Student in Stanford Biophysics (Dror Group)
 - Irem Kilic, SS, Bogazici University BS expected '23
 - Jeong Yun Kim, PD, Samsung Korea
-- [Frederik Ørsted Kjeldal](../../author/frederik-ørsted-kjeldal/), VS, PhD student at DTU
-- [Hannes Kneiding](../../author/hannes-kneiding/), VS, PhD student at UiO
+- [Frederik Ørsted Kjeldal](/author/frederik-ørsted-kjeldal/), VS, PhD student at DTU
+- [Hannes Kneiding](/author/hannes-kneiding/), VS, PhD student at UiO
 - Yashraj Kulkarni, PD
 - John La, UROP, MIT SB '17 EECS and now Oculus VR
 - Adriana Ladera, SS, University of South Florida BS expected '22
@@ -61,15 +61,15 @@ show_date: false
 - [Sangeeta Rajpurohit](../../author/sangeeta-rajpurohit/), VS, Postdoc at Lawrence Berkeley National Lab
 - Sahasrajit Ramesh, MS, Oxford MS '19 Materials
 - Alexander Reily Rocha, VS, Associate Professor Institute of Theoretical Physics, UNESP, Campus Sao Paulo, Brazil
-- [Matt Rivera](../../author/matt-rivera), PD, Chief Technical Officer; First Light Solutions, Inc. 
+- [Matt Rivera](/author/matt-rivera), PD, Chief Technical Officer; First Light Solutions, Inc. 
 - Dechen Rota, UROP, MIT SB Course X expected '23
 - Jose Salcedo-Perez, SS, S.M. MIT Nuclear Engineering '19, now Staff Scientist ORNL, Oak Ridge, TN
 - Natasha Seelam, GS, Machine learning engineer @ MindsDB
 - Shaheer Syed, UROP, Mount St. Mary's University BS expected '24
 - Michael Taylor, PD, Staff Scientist at Los Alamos National Lab
-- [Jakob Teetz](../../author/jakob-teetz/), MS, ETH Zürich MS in Chemistry '24
+- [Jakob Teetz](/author/jakob-teetz/), MS, ETH Zürich MS in Chemistry '24
 - Titus Tsai, UROP, MIT Chemistry SB expected '26
-- [Vyshnavi Vennelakanti](../../author/vyshnavi-vennelakanti), GS, Ph.D. '23 Chemistry and now Postdoctoral Associate with Emily Carter at Princeton
+- [Vyshnavi Vennelakanti](/author/vyshnavi-vennelakanti), GS, Ph.D. '23 Chemistry and now Postdoctoral Associate with Emily Carter at Princeton
 - Ava Waggett, UROP, MIT SB '19 ChemE and now Exxon-Mobil
 - Mengyi Wang, GS, S.M. MIT DMSE '20
 - Lisi Xie, GS, Ph.D. '16 ChemE and now Process Engineer at Lam Research
