@@ -3,7 +3,7 @@ title: Kulik group alumni
 show_date: false
 ---
 - [Isuru Ariyarathna](/author/isuru-ariyarathna/), PD, Postdoctoral Associate, Los Alamos National Laboratory
-- [Naveen Arunachalam](/author/naveen-arunachalam/), GS, Ph.D. '23 ChemE and now Independent Consultant, NTA Capital
+- [Naveen Arunachalam](/author/naveen-arunachalam/), GS, Ph.D. '23 ChemE and now ML Scientist at Nosis Bio
 - Sule Atahan-Evrenk, VS, [Assistant Professor at TOBB University of Economics and Technology](http://satahanevrenk.etu.edu.tr)
 - Anna Bair, UROP, MIT SB Course 5 expected '23
 - Akash Bajaj, GS, Ph.D. '21 DMSE and now postdoc at Trinity College Dublin (Sanvito group)
@@ -28,6 +28,7 @@ show_date: false
 - Natalia Hajlasz, UROP, BS Harvard expected '22
 - Daniel R. Harper, GS, S.M. '21 and now Consultant, Sage Analysis
 - Alondra Hernandez, UROP, MIT ChemE SB expected '25
+- [Wilson Ho](/author/wilson-ho/), UROP, MIT SB expected '25
 - Efthymios Ioannidis, GS, Ph.D. '16 ChemE MBA '18 and now Quantitative Researcher at Ellington Management Group
 - Jon Paul Janet, GS, Ph.D. '19 ChemE and now Senior Scientist at AstraZeneca, Gothenburg, Sweden
 - [Mugyeom Jeon](/author/mugyeom-jeon/), UROP, MIT Chemistry SB expected '25
