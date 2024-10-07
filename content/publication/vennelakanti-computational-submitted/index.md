@@ -1,23 +1,17 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'Caged AIEgens: Multi-Color and White Emission Triggered by Mechanical Activation' 
+title: 'A Computational Investigation of the Role of Metal Center Identity in Cytochrome P450 Enzyme Model Reactivity' 
 subtitle: ''
 summary: ''
 authors:
-- Y. Sun
-- K. Wang
-- x_huang
-- S. Wei
-- E. Contreras
-- P. K. Jain
-- L. M. Campos
+- vyshnavi
+- Mugyeom Jeon
 - admin
-- Jeffrey S. Moore
 
 tags: []
 categories: []
-date: '2024-07-10'
+date: '2024-09-12'
 lastmod: 
 featured: false
 draft: false

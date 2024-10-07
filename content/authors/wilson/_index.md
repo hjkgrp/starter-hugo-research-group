@@ -71,6 +71,6 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Undergraduate Students
+- Alumni
 ---
 Wilson is a junior majoring in computer science and molecular biology. He is interested in structural biology, having recently worked on machine learning models for antibody design. Wilson is currently working with Clorice and David on building tools to characterize metalloenzymes. In his free time, he enjoys hiking and rock climbing.
