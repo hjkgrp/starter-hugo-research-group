@@ -1,16 +1,22 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Improving Predictions of Spin-Crossover Complex Properties through DFT Calculations with a Local Hybrid Functional
+title: 'Defect-Engineered Metal−Organic Frameworks as Bioinspired Heterogeneous Catalysts for Amide Bond Formation' 
 subtitle: ''
 summary: ''
 authors:
-- Sangeeta Rajpurohit
-- Vyshnavi Vennelakanti
-- admin
+- B. I. Z. Ahmad
+- R. T. Jerozal
+- S. Meng
+- ohch
+- yscho
+- admin,
+- T. H. Lambert
+- Phillip J. Milner
+
 tags: []
 categories: []
-date: '2024-04-01'
+date: '2024-09-30'
 lastmod: 
 featured: false
 draft: false
@@ -35,7 +41,7 @@ publication_types:
 abstract: ''
 publication: '*submitted*'
 #doi: 10.1021/jacs.2c11858
-#links:
+links:
 #- name: ChemRxiv
-#  url: https://doi.org/10.26434/chemrxiv-2023-rzwhn
+#  url: https://chemrxiv.org/engage/chemrxiv/article-details/66382d3c91aefa6ce1408a72
 ---

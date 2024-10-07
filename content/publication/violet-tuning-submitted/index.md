@@ -1,24 +1,20 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Mechanistic basis for the emergence of EPS1 as a catalyst in salicylic acid biosynthesis of Brassicaceae 
+title: 'Tuning Metal-Organic Framework Linker Chemistry for Transition Metal Ion Separations' 
 subtitle: ''
 summary: ''
 authors:
-- Michael P. Torrens-Spence
-- Jason O. Matos
-- Tianjie Li
-- kastner
-- Colin Y. Kim
-- Ziqi Wang
-- Christopher M. Glinkerman
-- Jennifer Sherk
+- Camille Violet
+- M. Parkinson
+- akash98
 - admin
-- Yi Wang
-- Jing-Ke Weng 
+- J. D. Fortner
+- Menachem Elimelech
+
 tags: []
 categories: []
-date: '2024-03-15'
+date: '2024-09-20'
 lastmod: 
 featured: false
 draft: false
@@ -40,10 +36,10 @@ projects: []
 publishDate: 
 publication_types:
 - '3'
-abstract: 
+abstract: ''
 publication: '*submitted*'
 #doi: 10.1021/jacs.2c11858
 links:
 #- name: ChemRxiv
-#  url: https://doi.org/10.26434/chemrxiv-2024-pjh9z
+#  url: https://chemrxiv.org/engage/chemrxiv/article-details/66382d3c91aefa6ce1408a72
 ---
