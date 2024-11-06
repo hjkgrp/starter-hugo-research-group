@@ -37,7 +37,7 @@ publishDate:
 publication_types:
 - '2'
 abstract: 'Mechanical force drives distinct chemical reactions; yet, its vectoral nature results in complicated coupling with reaction trajectories. Here, we utilize a physical organic model inspired by the classical Morse potential and its differential forms to identify effective force constant (keff) and reaction energy (ΔE) as key molecular features that govern mechanochemical kinetics. Through a comprehensive experimental and computational investigation with four norborn-2-en-7-one (NEO) mechanophores, we establish the relationship between these features and the force-dependent energetic changes along the reaction pathways. We show that the complex kinetic behavior of the tensioned bonds is generally and quantitatively predicted by a simple multivariate linear regression based on the two easily computed features with a straightforward workflow. These results demonstrate a general mechanistic framework for mechanochemical reactions under tensile force and provide a highly accessible tool for the large-scale computational screening in the design of mechanophores.'
-publication: '*Chem*, **in press**'
+publication: '*Chem*, **10**, 3055--3066 (2024)'
 doi: 10.1016/j.chempr.2024.05.012
 links:
 - name: ChemRxiv

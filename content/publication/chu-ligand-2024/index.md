@@ -13,7 +13,7 @@ authors:
 
 tags: []
 categories: []
-date: '2024-09-13'
+date: '2024-10-31'
 lastmod: 
 featured: false
 draft: false
@@ -34,9 +34,9 @@ image:
 projects: []
 publishDate: 
 publication_types:
-- '3'
+- '2'
 abstract: 'Methods that accelerate the evaluation of molecular properties are essential for chemical discovery. While some degree of ligand additivity has been established for transition metal complexes, it is underutilized in asymmetric complexes, such as the square pyramidal coordination geometries highly relevant to catalysis. To develop predictive methods beyond simple additivity, we apply a many-body expansion to octahedral and square pyramidal complexes and introduce a correction based on adjacent ligands (i.e., the cis interaction model, or cis model). We first test the cis model on adiabatic spin-splitting energies of octahedral Fe(II) complexes, predicting DFT-calculated values of unseen binary complexes to within an average of 1.4 kcal/mol. We next show that the cis model infers both DFT- and CCSD(T)-calculated model catalytic reaction energies to within 1 kcal/mol on average. The cis model predicts low-symmetry complexes with reaction energies outside the range of binary complex reaction energies. We observe that trans interactions are unnecessary for most monodentate systems but can be important for some combinations of ligands, such as complexes containing a mixture of bidentate and monodentate ligands. Finally, we demonstrate that the cis model may be combined with -learning to predict CCSD(T) reaction energies from exhaustively calculated DFT reaction energies and the same fraction of CCSD(T) reaction energies needed for the cis model, achieving around 30% of the error from using the CCSD(T) reaction energies in the cis model alone.'
-publication: '*submitted*'
+publication: '*J. Chem. Inf. Model*, **in press**'
 #doi: 10.1021/jacs.2c11858
 links:
 - name: ChemRxiv

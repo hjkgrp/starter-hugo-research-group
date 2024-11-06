@@ -16,7 +16,7 @@ authors:
 - Jeremiah A. Johnson
 tags: []
 categories: []
-date: '2024-04-08'
+date: '2024-05-10'
 lastmod: 2023-05-16T13:35:02-04:00
 featured: false
 draft: false
@@ -38,11 +38,11 @@ projects: []
 publishDate: '2023-05-16T17:35:02.301962Z'
 publication_types:
 - '2'
-abstract: 
-publication: '*Nat. Commun*, **in press**'
-#doi: 10.1016/j.chempr.2023.05.018
-#url_pdf: https://www.sciencedirect.com/science/article/abs/pii/S2451929423002504
-#links:
-# - name: ChemRxiv
-#   url: https://doi.org/10.26434/chemrxiv-2023-qfrc0
+abstract: 'Supramolecular polymer networks contain non-covalent cross-links that enable access to broadly tunable mechanical properties and stimuli-responsive behaviors; the incorporation of multiple unique non-covalent cross-links within such materials further expands their mechanical responses and functionality. To date, however, the design of such materials has been accomplished through discrete combinations of distinct interaction types in series, limiting materials design logic. Here we introduce the concept of leveraging “nested” supramolecular crosslinks, wherein two distinct types of non-covalent interactions exist in parallel, to control bulk material functions. To demonstrate this concept, we use polymer-linked Pd2L4 metal–organic cage (polyMOC) gels that form hollow metal–organic cage junctions through metal–ligand coordination and can exhibit well-defined host-guest binding within their cavity. In these “nested” supramolecular network junctions, the thermodynamics of host-guest interactions within the junctions affect the metal–ligand interactions that form those junctions, ultimately translating to substantial guest-dependent changes in bulk material properties that could not be achieved in traditional supramolecular networks with multiple interactions in series.'
+publication: '*Nat. Commun*, **15**, 3951 (2024)'
+doi: 10.1038/s41467-024-47666-x
+url_pdf: https://www.nature.com/articles/s41467-024-47666-x.pdf
+links:
+ - name: ChemRxiv
+   url: https://doi.org/10.26434/chemrxiv-2023-3knk5-v2
 ---
