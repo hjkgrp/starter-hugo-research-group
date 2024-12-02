@@ -2,85 +2,88 @@
 title: Kulik group alumni
 show_date: false
 ---
-- [Isuru Ariyarathna](/author/isuru-ariyarathna/), PD, Postdoctoral Associate, Los Alamos National Laboratory
-- [Naveen Arunachalam](/author/naveen-arunachalam/), GS, Ph.D. '23 ChemE and now ML Scientist at Nosis Bio
-- Sule Atahan-Evrenk, VS, [Assistant Professor at TOBB University of Economics and Technology](http://satahanevrenk.etu.edu.tr)
-- Anna Bair, UROP, MIT SB Course 5 expected '23
-- Akash Bajaj, GS, Ph.D. '21 DMSE and now postdoc at Trinity College Dublin (Sanvito group)
-- Naomi Bright, UROP, MIT SB '19 ChemE and now Associate Research Scientist at Bristol-Myers Squibb
-- José Caetano , VS, PhD student MIT-Portugal
-- Lydia Chan, SS, Troy H.S. '18 and now Stanford University BS expected '22
-- Rafa Chavez, UROP, MIT SB CS expected '25
-- Shouping Chen, SS, Ph.D. Student in UC Berkeley ChE
-- Shuxin Chen, UROP, MIT SB Course X expected '22
-- [Yeoungsu Cho](/author/yeongsu-cho), PD, Assistant Professor of Chemistry at the University of Houston 
-- [Yael Cytter](/author/yael-cytter), PD, Research Scientist in Israel
-- [Chenru Duan](/author/chenru-duan), GS, Ph.D. '22, Research Engineer, Microsoft Quantum 
-- [Freya Edholm](/author/freya-edholm), UROP, MIT ChemE SB '23, now MIT CSE S.M. Student '24
-- Mohamed El-Safy, VS, PhD student with David Balcells, UiO, Norway
-- Kristen Eller, UROP, PhD Student in CU Boulder ChE
-- Terry Gani, GS, Ph.D. '20 ChemE (w/ Roman group) and now senior scientist, Cabot Corporation
-- Zach Giaccone, SS, Grad Student in UConn Dental School
-- Conrad Goffinet, UROP, MIT MSECP Program S.M. '21
-- David Gonzalez Narvaez, UROP, University of Puerto Rico-Cayey, now PhD student Columbia University Chemistry
-- Bryan Gough, UROP, MIT SB expected '24
-- Stefan Gugler, MS, ETH Zürich MS '18 Chemistry (with M. Reiher) and now postdoc at TU Berlin 
-- Natalia Hajlasz, UROP, BS Harvard expected '22
-- Daniel R. Harper, GS, S.M. '21 and now Consultant, Sage Analysis
-- Alondra Hernandez, UROP, MIT ChemE SB expected '25
-- [Wilson Ho](/author/wilson-ho/), UROP, MIT SB expected '25
-- Efthymios Ioannidis, GS, Ph.D. '16 ChemE MBA '18 and now Quantitative Researcher at Ellington Management Group
-- Jon Paul Janet, GS, Ph.D. '19 ChemE and now Senior Scientist at AstraZeneca, Gothenburg, Sweden
-- [Mugyeom Jeon](/author/mugyeom-jeon/), UROP, MIT Chemistry SB expected '25
-- [Haojun Jia](/author/haojun-jia/), GS, Ph.D. '24 Chemistry, and now stealth-mode startup
-- Yu Jin, SS, Peking University BS '18 Chemistry and now [Ph.D. student in U Chicago Chemistry (Galli Group)](https://galligroup.uchicago.edu/People/yjin.php)
-- Jelissa Kamguem, UROP, Lafayette College ChemE BS '23, now PhD student Cornell University ChemE
-- Maria Karelina, UROP, MIT SB '17 Biology/EECS (6-7) and now Ph.D. Student in Stanford Biophysics (Dror Group)
-- Irem Kilic, SS, Bogazici University BS expected '23
-- Jeong Yun Kim, PD, Samsung Korea
-- [Frederik Ørsted Kjeldal](/author/frederik-ørsted-kjeldal/), VS, PhD student at DTU
-- [Hannes Kneiding](/author/hannes-kneiding/), VS, PhD student at UiO
-- Yashraj Kulkarni, PD
-- John La, UROP, MIT SB '17 EECS and now Oculus VR
-- Adriana Ladera, SS, University of South Florida BS expected '22
-- Greg Lever, PD, IQVIA
-- Grace Li, UROP, MIT CSE SB expected '25
-- Sean Lin, SS, Troy H.S. '19 and now UC Berkeley BS expected '23
-- Fang Liu, PD, [Assistant Professor at Emory University](https://flgroup.emorychem.science)
-- Mingjie Liu, PD, [Assistant Professor at the University of Florida](https://liu.chem.ufl.edu/)
-- Yusu Liu, GS, Weiss Asset Management LP
-- Brendan Mar, VS, [Tenure Track Lecturer at DeAnza College](https://www.deanza.edu/directory/user.html?u=marbrendan)
-- Maximiliano Martinez, UROP, MIT ChemE SB expected '25
-- Ralf Meyer, PD
-- Rimsha Mehmood, GS, Ph.D. '21 Chemistry and now Senior Scientist at Merck
-- Mohamad Seyed Moosavi, VS, Ph.D EPFL '20, [Assistant Professor at University of Toronto](https://chem-eng.utoronto.ca/faculty-staff/faculty-members/seyed-mohamad-moosavi/)
-- [Aditya Nandy](../../author/aditya-nandy), GS, Ph.D. '23 Chemistry and now Schmidt AI Futures Fellow U. Chicago 23-25 and incoming TT. Asst. Prof. UCLA CBE 2025
-- Azadeh Nazemi, PD, Senior Scientist at Pfizer
-- [Jonas Oldenstaedt](../../author/jonas-oldenstaedt), MS, TUM expected '23 CSE
-- Niladri Patra, PD, [Assistant Professor at IIT Dhanbad](https://npatra2.wixsite.com/iitism)
-- Helena W. Qi, GS, Ph.D. '19 Chemistry and now Principal Scientist at Pfizer
-- [Sangeeta Rajpurohit](../../author/sangeeta-rajpurohit/), VS, Postdoc at Lawrence Berkeley National Lab
-- Sahasrajit Ramesh, MS, Oxford MS '19 Materials
-- Alexander Reily Rocha, VS, Associate Professor Institute of Theoretical Physics, UNESP, Campus Sao Paulo, Brazil
-- [Matt Rivera](/author/matt-rivera), PD, Chief Technical Officer; First Light Solutions, Inc. 
-- Dechen Rota, UROP, MIT SB Course X expected '23
-- Jose Salcedo-Perez, SS, S.M. MIT Nuclear Engineering '19, now Staff Scientist ORNL, Oak Ridge, TN
-- Natasha Seelam, GS, Machine learning engineer @ MindsDB
-- Shaheer Syed, UROP, Mount St. Mary's University BS expected '24
-- Michael Taylor, PD, Staff Scientist at Los Alamos National Lab
-- [Jakob Teetz](/author/jakob-teetz/), MS, ETH Zürich MS in Chemistry '24
-- Titus Tsai, UROP, MIT Chemistry SB expected '26
-- [Vyshnavi Vennelakanti](/author/vyshnavi-vennelakanti), GS, Ph.D. '23 Chemistry and now Postdoctoral Associate with Emily Carter at Princeton
-- Ava Waggett, UROP, MIT SB '19 ChemE and now Exxon-Mobil
-- Mengyi Wang, GS, S.M. MIT DMSE '20
-- Lisi Xie, GS, Ph.D. '16 ChemE and now Process Engineer at Lam Research
-- Eve Xu, UROP, Smith B.S. '20 and now Princeton Ph.D. student, Chemistry
-- Jing Yang, PD, Assistant Professor at Sun Yat-sen University
-- Tzuhsiung Yang, PD, [Assistant Professor at National Tsing Hua University (NTHU)](https://www.tyanglab.com/)
-- Zhongyue Yang, PD, [Assistant Professor at Vanderbilt University](https://www.vanderbilt.edu/chemistry/faculty/yang.php)
-- Shuwen Yue, PD, [Assistant Professor at Cornell University](https://www.cheme.cornell.edu/faculty-directory/shuwen-yue)
-- Qing Zhao, GS, Ph.D. '18 MechE, [Assistant Professor at Northeastern University](https://www.qzhao-neu.com)
-- Hongqian Zheng, UROP, USTC '23, now PhD student UC Berkeley Materials
+
+| name | group role | current|
+| ---------------------------------------------------------------------------------------------------------- | ------- | ----------------------------------------------------------------------------------------------------------------------- |
+| [Isuru Ariyarathna](https://hjkgrp.mit.edu/author/isuru-ariyarathna/)                                      |  PD   | Postdoctoral Associate at  Los Alamos National Laboratory                                                               |
+| [Naveen Arunachalam](https://hjkgrp.mit.edu/author/naveen-arunachalam/)                                    |  GS   | Ph.D. ‘23 ChemE and now ML Scientist at Nosis Bio                                                                       |
+| Sule Atahan-Evrenk                                                                                         |  VS   | Software Engineer at TEKsystems                                                                                         |
+| Anna Bair                                                                                                  |  UROP | MIT S.B. '23 and now gradaute student at UC Berkeley                                                                    |
+| Akash Bajaj                                                                                                |  GS   | Ph.D. '21 and now Applied Data Scientist at dunnhumby                                                                   |
+| Naomi Bright                                                                                               |  UROP | MIT S.B. '19 and now Business Development Associate at BASF Bioservices                                                 |
+| José Caetano                                                                                               |  VS   | PhD student MIT-Portugal                                                                                               |
+| Lydia Chan                                                                                                 |  SS   | Troy HS '18 and now Software Engineer at Tesla                                                                          |
+| Rafa Chavez                                                                                                |  UROP | MIT S.B. CS expected ‘25                                                                                               |
+| Shouping Chen                                                                                              |  SS   | Leadership Rotational Program Manager at Corning                                                                        |
+| Shuxin Chen                                                                                                |  UROP | MIT S.B. '22 and now Software Engineer at Meta                                                                          |
+| [Yeoungsu Cho](https://hjkgrp.mit.edu/author/yeongsu-cho)                                                  |  PD   | Assistant Professor of Chemistry at the University of Houston                                                          |
+| [Yael Cytter](https://hjkgrp.mit.edu/author/yael-cytter)                                                   |  PD   | Research Scientist in Israel                                                                                           |
+| [Chenru Duan](https://hjkgrp.mit.edu/author/chenru-duan)                                                   |  GS   | co-founder at Deep Principle                                                                                            |
+| [Freya Edholm](https://hjkgrp.mit.edu/author/freya-edholm)                                                 |  UROP | MIT ChemE SB ‘23  and now MIT CSE S.M. Student                                                                         |
+| Mohamed El-Safy                                                                                            |  VS   | PhD student at UiO with David Balcells                                                                                 |
+| Kristen Eller                                                                                              |  UROP | MIT S.B. '16 and now Senior Scientist at Darwin Biosciences                                                             |
+| Terry Gani                                                                                                 |  GS   | Ph.D. ‘20 ChemE (w/ Roman group) and now Sr. R&D Engineer at Cabot Corporation                                         |
+| Zach Giaccone                                                                                              |  SS   | Grad Student at UConn Dental School                                                                                    |
+| Conrad Goffinet                                                                                            |  UROP | MIT MSECP Program S.M. ‘21 and now Senior R&D Engineer at Via Separations                                              |
+| David Gonzalez Narvaez                                                                                     |  UROP | University of Puerto Rico-Cayey '23 and now PhD student Columbia University Chemistry                                  |
+| Bryan Gough                                                                                                |  UROP | MIT SB expected ‘25                                                                                                    |
+| Stefan Gugler                                                                                              |  MS   | ETH Zürich MS ‘18 Chemistry (with M. Reiher) and now postdoc at TU Berlin                                              |
+| Natalia Hajlasz                                                                                            |  UROP | BS Harvard ‘22 and now PhD Student in Mathematics at NYU                                                               |
+| Daniel R. Harper                                                                                           |  GS   | S.M. ‘21 and now Consultant at  Sage Analysis                                                                          |
+| Alondra Hernandez                                                                                          |  UROP | MIT ChemE SB expected ‘25                                                                                              |
+| [Wilson Ho](https://hjkgrp.mit.edu/author/wilson-ho/)                                                      |  UROP | MIT SB expected ‘25                                                                                                    |
+| Efthymios Ioannidis                                                                                        |  GS   | Ph.D. ‘16 ChemE MBA ‘18 and now co-founder at HOMLI                                                                    |
+| Jon Paul Janet                                                                                             |  GS   | Ph.D. ‘19 ChemE and now Associate Director at AstraZeneca                                                              |
+| [Mugyeom Jeon](https://hjkgrp.mit.edu/author/mugyeom-jeon/)                                                |  UROP | MIT Chemistry SB expected ‘25                                                                                          |
+| [Haojun Jia](https://hjkgrp.mit.edu/author/haojun-jia/)                                                    |  GS   | Ph.D. ‘24 Chemistry and now co-founder at Deep Principle                                                               |
+| [Yu Jin](https://galligroup.uchicago.edu/People/yjin.php)                                                  |  SS   | Peking University BS ‘18 Chemistry and now Postdoctoral Research Scholar at UChicago                                   |
+| Jelissa Kamguem                                                                                            |  UROP | Lafayette College ChemE BS ‘23 and  now PhD student Cornell University ChemE                                           |
+| Maria Karelina                                                                                             |  UROP | MIT SB ‘17 Biology/EECS (6-7) and now Ph.D. Student in Stanford Biophysics (Dror Group)                                |
+| Irem Kilic                                                                                                 |  SS   | Bogazici University  ‘23 and now PhD Student at Northeastern University                                                |
+| Jeong Yun Kim                                                                                              |  PD   | Samsung Korea                                                                                                          |
+| [Frederik Ørsted Kjeldal](https://hjkgrp.mit.edu/author/frederik-%c3%b8rsted-kjeldal/)                     |  VS   | PhD student at DTU                                                                                                     |
+| [Hannes Kneiding](https://hjkgrp.mit.edu/author/hannes-kneiding/)                                          |  VS   | PhD UiO '24 and now Researcher in Computational Sciences at UiO                                                        |
+| Yashraj Kulkarni                                                                                           |  PD   | Postdoc at University of Copenhagen                                                                                     |
+| John La                                                                                                    |  UROP | MIT SB ‘17 EECS and now Senior Software Engineer at DataCebo                                                           |
+| Adriana Ladera                                                                                             |  SS   | University of South Florida ‘22 and now MIT Graduate Student in Computational Science and Engineering                  |
+| Greg Lever                                                                                                 |  PD   | Director at IQVIA                                                                                                      |
+| Grace Li                                                                                                   |  UROP | MIT CSE SB expected ‘25                                                                                                |
+| Sean Lin                                                                                                   |  SS   | Troy H.S. ‘19 and now Masters student in AeroAstro at Stanford                                                         |
+| [Fang Liu](https://flgroup.emorychem.science/)                                                             |  PD   | Assistant Professor at Emory University                                                                                |
+| [Mingjie Liu](https://liu.chem.ufl.edu/)                                                                   |  PD   | Assistant Professor at the University of Florida                                                                       |
+| Yusu Liu                                                                                                   |  GS   | Quantitative Researcher at Citadel                                                                                      |
+| [Brendan Mar](https://www.deanza.edu/directory/user.html?u=marbrendan)                                     |  VS   | Instructor at DeAnza College                                                                                            |
+| Maximiliano Martinez                                                                                       |  UROP | MIT ChemE SB expected ‘25                                                                                              |
+| Ralf Meyer                                                                                                 |  PD   |                                                                                                                         |
+| Rimsha Mehmood                                                                                             |  GS   | Ph.D. ‘21 Chemistry and now Senior Scientist at Merck                                                                  |
+| [Mohamad Seyed Moosavi](https://chem-eng.utoronto.ca/faculty-staff/faculty-members/seyed-mohamad-moosavi/) |  VS   | Ph.D EPFL ‘20 and now  Assistant Professor at University of Toronto                                                    |
+| [Aditya Nandy](https://hjkgrp.mit.edu/author/aditya-nandy)                                                 |  GS   | Ph.D. ‘23 Chemistry and now Schmidt AI Futures Fellow U. Chicago 23-25 and incoming TT. Asst. Prof. UCLA CBE 2025      |
+| Azadeh Nazemi                                                                                              |  PD   | Senior Scientist at Pfizer                                                                                             |
+| [Jonas Oldenstaedt](https://hjkgrp.mit.edu/author/jonas-oldenstaedt)                                       |  MS   | TUM expected ‘23 CSE and now PhD student at TUM                                                                        |
+| [Niladri Patra](https://npatra2.wixsite.com/iitism)                                                        |  PD   | Associate Professor at IIT Dhanbad                                                                                      |
+| Helena W. Qi                                                                                               |  GS   | Ph.D. ‘19 Chemistry and now Principal Scientist at Pfizer                                                              |
+| [Sangeeta Rajpurohit](https://hjkgrp.mit.edu/author/sangeeta-rajpurohit/)                                  |  VS   | Postdoc at Lawrence Berkeley National Lab                                                                              |
+| Sahasrajit Ramesh                                                                                          |  MS   | Oxford MS ‘19 Materials and now Freelance Clean-tech Consultant                                                        |
+| Alexander Reily Rocha                                                                                      |  VS   | Associate Professor Institute of Theoretical Physics at UNESP                                                          |
+| [Matt Rivera](https://hjkgrp.mit.edu/author/matt-rivera)                                                   |  PD   | Chief Technical Officer at First Light Solutions                                                                       |
+| Dechen Rota                                                                                                |  UROP | MIT SB Course X  ‘23 and now Chemical Engineering PhD Student at the University of Minnesota                           |
+| Jose Salcedo-Perez                                                                                         |  SS   | S.M. MIT Nuclear Engineering ‘19 and now Computational Physics Software Developer at Oak Ridge National Lab            |
+| Natasha Seelam                                                                                             |  GS   | Principal Data Scientist at A-Alpha Bio                                                                                 |
+| Shaheer Syed                                                                                               |  UROP | Mount St. Mary’s University BS ‘24 and now Bioinformatician at National Biodefense Analysis and Countermeasures Center |
+| Michael Taylor                                                                                             |  PD   | Staff Scientist at Los Alamos National Lab                                                                             |
+| [Jakob Teetz](https://hjkgrp.mit.edu/author/jakob-teetz/)                                                  |  MS   | ETH Zürich MS in Chemistry ‘24 and now PhD Student at ETH Zurich                                                       |
+| Titus Tsai                                                                                                 |  UROP | MIT Chemistry SB expected ‘26                                                                                          |
+| [Vyshnavi Vennelakanti](https://hjkgrp.mit.edu/author/vyshnavi-vennelakanti)                               |  GS   | Ph.D. ‘23 Chemistry and now Postdoctoral Associate with Emily Carter at Princeton                                      |
+| Ava Waggett                                                                                                |  UROP | MIT SB ‘19 ChemE and now MS University of Washington                                                                   |
+| Mengyi Wang                                                                                                |  GS   | S.M. MIT DMSE ‘20                                                                                                      |
+| Lisi Xie                                                                                                   |  GS   | Ph.D. ‘16 ChemE and now Engineering Manager at Lam Research                                                            |
+| Eve Xu                                                                                                     |  UROP | Smith B.S. ‘20 and now Ph.D. student at Princeton                                                                      |
+| Jing Yang                                                                                                  |  PD   | Associate Professor at Sun Yat-sen University                                                                          |
+| [Tzuhsiung Yang](https://www.tyanglab.com/)                                                                |  PD   | Assistant Professor at National Tsing Hua University (NTHU)                                                            |
+| [Zhongyue Yang](https://www.vanderbilt.edu/chemistry/faculty/yang.php)                                     |  PD   | Assistant Professor at Vanderbilt University                                                                           |
+| [Shuwen Yue](https://www.cheme.cornell.edu/faculty-directory/shuwen-yue)                                   |  PD   | Assistant Professor at Cornell University                                                                              |
+| [Qing Zhao](https://www.qzhao-neu.com/)                                                                    |  GS   | Ph.D. ‘18 MechE and now Assistant Professor at Northeastern University                                                 |
+| Hongqian Zheng                                                                                             |  UROP | USTC ‘23 and now PhD student UC Berkeley Materials                                                                     |
 
 
 SS = summer student, UROP = undergraduate, VS = visiting scientist, MS = masters student resulting in degree, GS = graduate student, PD = postdoc
