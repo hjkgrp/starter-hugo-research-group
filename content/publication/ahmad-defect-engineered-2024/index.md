@@ -5,18 +5,18 @@ title: 'Defect-Engineered Metal−Organic Frameworks as Bioinspired Heterogeneou
 subtitle: ''
 summary: ''
 authors:
-- B. I. Z. Ahmad
-- R. T. Jerozal
-- S. Meng
+- Bayu I. Z. Ahmad
+- Ronald T. Jerozal
+- Sijing Meng
 - ohch
 - yscho
-- admin,
-- T. H. Lambert
+- admin
+- Tristan H. Lambert
 - Phillip J. Milner
 
 tags: []
 categories: []
-date: '2024-09-30'
+date: '2024-11-20'
 lastmod: 
 featured: false
 draft: false
@@ -37,11 +37,11 @@ image:
 projects: []
 publishDate: 
 publication_types:
-- '3'
+- '2'
 abstract: ''
-publication: '*submitted*'
+publication: '*J. Am. Chem. Soc.*, **in press**'
 #doi: 10.1021/jacs.2c11858
 links:
-#- name: ChemRxiv
-#  url: https://chemrxiv.org/engage/chemrxiv/article-details/66382d3c91aefa6ce1408a72
+- name: ChemRxiv
+  url: https://doi.org/10.26434/chemrxiv-2023-65k97
 ---

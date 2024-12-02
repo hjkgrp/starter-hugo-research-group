@@ -12,7 +12,7 @@ authors:
 
 tags: []
 categories: []
-date: '2024-08-09'
+date: '2024-12-02'
 lastmod: 
 featured: false
 draft: false
@@ -33,9 +33,9 @@ image:
 projects: []
 publishDate: 
 publication_types:
-- '3'
-abstract: 'CH–pi interactions between carbohydrates and aromatic amino acids play an essential role in biological systems that span all domains of life. Quantifying the strength and importance of these CH–pi interactions is challenging because these interactions involve several atoms and can exist in many distinct orientations. To identify an orientational landscape of CH–pi interactions, we constructed a dataset of close contacts formed between beta-D-galactose residues and the aromatic amino acids, tryptophan, tyrosine, and phenylalanine, across crystallographic structures deposited in the Protein Data Bank. We carried out quantum mechanical calculations to quantify their interaction strengths. The data indicate that tryptophan-containing CH–pi interactions have more favorable interaction energies than those formed by tyrosine or phenylalanine. The energetic differences between these amino acids are caused by the aromatic ring system electronics and size. We use individual distance and angle features to train random forest models to successfully predict the first-principles computed energetics of CH–pi interactions. Using insights from our models, we define a tradeoff in CH–pi interaction strength arising from the proximity of galactose carbons 1 and 2 versus carbons 4 and 6 to the aromatic amino acid. Our work demonstrates that a feature of CH–pi stacking interactions is that numerous orientations allow for highly favorable interaction strengths.'
-publication: '*submitted*'
+- '2'
+abstract: 'CH–π interactions between carbohydrates and aromatic amino acids play an essential role in biological systems that span all domains of life. Quantifying the strength and importance of these CH–π interactions is challenging because these interactions involve several atoms and can exist in many distinct orientations. To identify an orientational landscape of CH–π interactions, we constructed a dataset of close contacts formed between beta-D-galactose residues and the aromatic amino acids, tryptophan, tyrosine, and phenylalanine, across crystallographic structures deposited in the Protein Data Bank. We carried out quantum mechanical calculations to quantify their interaction strengths. The data indicate that tryptophan-containing CH–π interactions have more favorable interaction energies than those formed by tyrosine or phenylalanine. The energetic differences between these amino acids are caused by the aromatic ring system electronics and size. We use individual distance and angle features to train random forest models to successfully predict the first-principles computed energetics of CH–π interactions. Using insights from our models, we define a tradeoff in CH–π interaction strength arising from the proximity of galactose carbons 1 and 2 versus carbons 4 and 6 to the aromatic amino acid. Our work demonstrates that a feature of CH–π stacking interactions is that numerous orientations allow for highly favorable interaction strengths.'
+publication: '*Chemical Science*, **in press**'
 #doi: 10.1021/jacs.2c11858
 links:
 - name: ChemRxiv
