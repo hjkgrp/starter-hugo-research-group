@@ -1,22 +1,26 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'Isomer-Driven Polymerization, Depolymerization, and Reconstruction' 
+title: Enabling Selective Mechanochemical Scission of Network Crosslinks by Exchanging Single Carbon Atoms for Silicon
 subtitle: ''
 summary: ''
 authors:
-- Herbert Wakefield IV
-- J. Jiang
-- N. J. Frommel
-- iliak
+- S. J. Melvin
 - Y. Yao
-- Stephen L. Craig
+- x_huang
+- R. Bell
+- R. Kemmerling
+- iliak
+- A. C. Berg
+- A. P. K. Vasconcelos
+- A. Nelson
 - admin
+- Stephen L. Craig
 - Rebekka S. Klausen
 
 tags: []
 categories: []
-date: '2024-07-11'
+date: '2024-11-30'
 lastmod: 
 featured: false
 draft: false
@@ -41,7 +45,7 @@ publication_types:
 abstract: ''
 publication: '*submitted*'
 #doi: 10.1021/jacs.2c11858
-links:
-#- name: ChemRxiv
-#  url: https://chemrxiv.org/engage/chemrxiv/article-details/66382d3c91aefa6ce1408a72
+#links:
+#- name: arXiv
+#  url: https://arxiv.org/abs/2410.09659
 ---

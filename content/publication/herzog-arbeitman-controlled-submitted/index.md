@@ -1,23 +1,23 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Toughening polymer networks via chemo- and regioselective junction mechanochemistry
+title: Controlled Gel Toughening with Tetrafunctional Cyclobutane Mechanophores
 subtitle: ''
 summary: ''
 authors:
-- A. Herzog-Arbeitman
+- Abraham Herzog-Arbeitman
 - iliak
-- D. Sen
-- J. Lian
-- J. Chakraverty
-- S. Wang
+- Devosmita Sen
+- Julianna Lian
+- Joshika Chakraverty
+- Shu Wang
 - Bradley D. Olsen
 - admin
 - Stephen L. Craig
 - Jeremiah A. Johnson
 tags: []
 categories: []
-date: '2024-06-01'
+date: '2024-11-15'
 lastmod: 
 featured: false
 draft: false
@@ -42,7 +42,7 @@ publication_types:
 abstract: ''
 publication: '*submitted*'
 #doi: 10.1021/jacs.2c11858
-#links:
-#- name: ChemRxiv
-#  url: https://doi.org/10.26434/chemrxiv-2023-rzwhn
+links:
+- name: ChemRxiv
+  url: https://doi.org/10.26434/chemrxiv-2024-j366f
 ---
