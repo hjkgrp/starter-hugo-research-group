@@ -40,7 +40,7 @@ publication_types:
 - '2'
 abstract: ''
 publication: '*J. Am. Chem. Soc.*, **in press**'
-#doi: 10.1021/jacs.2c11858
+doi: 10.1021/jacs.4c13196
 links:
 - name: ChemRxiv
   url: https://doi.org/10.26434/chemrxiv-2023-65k97
