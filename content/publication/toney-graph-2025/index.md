@@ -14,7 +14,7 @@ authors:
 
 tags: []
 categories: []
-date: '2024-10-04'
+date: '2025-01-01'
 lastmod: 
 featured: false
 draft: false
@@ -35,9 +35,9 @@ image:
 projects: []
 publishDate: 
 publication_types:
-- '3'
+- '2'
 abstract: 'High-throughput virtual screening campaigns are invaluable for surveying the combinatorial space of possible transition metal complexes (TMCs), but they rely on accurate metal–ligand connectivity for meaningful results. Here, we curate a dataset of 70,069 unique ligands of known coordination from experimental structures of TMCs deposited in the Cambridge Structural Database. Using this dataset, we train separate graph neural network models to predict the total number and individual identities of ligand coordinating atoms with high accuracy and precision. Interpreting each model in terms of the learned molecular representations uncovers trends aligned with our understanding of coordination chemistry as well as novel chemical insights. Next, we integrate the trained models with the high-throughput screening software molSimplify and illustrate their utility by generating 1,175 novel TMCs and validating their geometries with density functional theory (DFT) calculations. We anticipate these models will accelerate computational screening of TMCs with de novo combinations of metals and ligands in physically realistic coordination.'
-publication: '*submitted*'
+publication: '*PNAS*, **in press** (2025)'
 #doi: 10.1021/jacs.2c11858
 links:
 - name: ChemRxiv
