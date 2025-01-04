@@ -52,7 +52,7 @@ authors:
 
 tags: []
 categories: []
-date: '2024-12-01'
+date: '2025-01-01'
 lastmod: 
 featured: false
 draft: false
@@ -75,7 +75,7 @@ publishDate:
 publication_types:
 - '2'
 abstract: 'X-ray free electron laser (XFEL) microcrystallography and synchrotron single-crystal crystallography are used to evaluate the role of organic substituent position on the optoelectronic properties of metal–organic chalcogenolates (MOChas). MOChas are crystalline 1D and 2D semiconducting hybrid materials that have varying optoelectronic properties depending on composition, topology, and structure. While MOChas have attracted much interest, small crystal sizes impede routine crystal structure determination. A series of constitutional isomers where the aryl thiol is functionalized by either methoxy or methyl ester are solved by small molecule serial femtosecond X-ray crystallography (smSFX) and single crystal rotational crystallography. While all the methoxy examples have a low quantum yield (0-1%), the methyl ester in the ortho position yields a high quantum yield of 22%. The proximity of the oxygen atoms to the silver inorganic core correlates to a considerable enhancement of quantum yield. Four crystal structures are solved at a resolution range of 0.8–1.0 Å revealing a collapse of the 2D topology for functional groups in the 2- and 3- positions, resulting in needle-like crystals. Further analysis using density functional theory (DFT) and many-body perturbation theory (MBPT) enables the exploration of complex excitonic phenomena within easily prepared material systems.'
-publication: '*Adv. Funct. Mater.*, **in press**'
+publication: '*Adv. Funct. Mater.*, 202414914 (2024)'
 doi: 10.1002/adfm.202414914
 url_pdf: https://onlinelibrary.wiley.com/doi/epdf/10.1002/adfm.202414914
 links:

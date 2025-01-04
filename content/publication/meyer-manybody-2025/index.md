@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Many-body Expansion Based Machine Learning Models for Octahedral Transition Metal Complexes"
+title: Many-body Expansion Based Machine Learning Models for Octahedral Transition Metal Complexes
 subtitle: ''
 summary: ''
 authors:
