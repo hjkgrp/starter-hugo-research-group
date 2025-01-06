@@ -39,7 +39,7 @@ publishDate:
 publication_types:
 - '2'
 abstract: 'We report that differences in ring strain enthalpy between cis and trans isomers of sila-cycloheptene provide a driving force for both polymerization and depolymerization via olefin metathesis. A need for new methods to reintroduce the low-strain isomer into the plastic economy inspired the development of a polymerization based on ring-opening/cross-metathesis step polymerization, which afforded perfect sequence control for an alternating copolymer. The chemical principles are a platform for achieving both efficient polymerization and depolymerization with high mass recovery in functional polymers.'
-publication: '*Polym. Chem.*, **in press**'
+publication: '*Polym. Chem.*, **15**, 5016--5022 (2024)'
 doi: 10.1039/D4PY01281J
 url_pdf: https://pubs.rsc.org/en/content/articlepdf/2024/py/d4py01281j
 links:

@@ -51,7 +51,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Visitors
+- Alumni
 ---
 Kwanchanok graduated with a B.Sc. in Chemistry (Physical Chemistry) from Walailak University, Thailand. She is currently pursuing an M.Sc. in Chemistry at Chulalongkorn University, Thailand, under the supervision of Dr. Boodsarin Sawatlon. Her research focuses on investigating the roles of reactants and catalysts affecting catalytic activity in the Suzuki-Miyaura C-C cross-coupling reaction.
 
