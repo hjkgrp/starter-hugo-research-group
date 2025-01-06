@@ -68,7 +68,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Undergraduate Students
+- Alumni
 ---
 
 I am a junior majoring in Chemical Engineering with a concentration in Computation. My research experience includes working with Prof. Desiree Plata on a project involving zeolite-based catalysts for low-level methane mitigation and in the Smith Lab, where I focused on MOF-based membranes for solvent nanofiltration. In the summer of 2024, I participated in a research exchange at Imperial College London, where I worked on carbon nitride nanosheet-MOF composites for the photocatalytic reduction of carbon dioxide. Currently, in the Kulik Lab, I am using molecular dynamics simulations and machine learning models to discover mechanically stable MOFs and to understand their ion selectivity.

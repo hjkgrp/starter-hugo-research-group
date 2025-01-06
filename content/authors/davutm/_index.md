@@ -68,7 +68,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Undergraduate Students
+- Alumni
 ---
 
 Davut is a first-year undergraduate student who is a prospective 6-3 major with a possible minor in 5. He graduated from 86th Specialized High School, Ashgabat, Turkmenistan, where he was involved in various chemistry Olympiads. He started working with the group in January 2024 on maintaining group software including molSimplify and jobmanager.
