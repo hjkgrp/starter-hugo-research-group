@@ -16,13 +16,13 @@ design:
 content:
   slides:
     - title: Kulik Group
-      content: October 2023
+      content: Jan 2025
       align: right
       background:
         position: left
         color: '#333'
-        brightness: 0.8
-        media: Kulik_group_Oct23crop.jpeg
+        brightness: 0.9
+        media: Kulik_group_Jan25.jpeg
         media_size: auto 80%
       link:
         icon: user
