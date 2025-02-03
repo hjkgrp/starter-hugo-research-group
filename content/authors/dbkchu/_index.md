@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Graduate Student
+role: ChemE PhD
 
 # Organizations/Affiliations
 organizations:
@@ -63,7 +63,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Grad Students
+- Alumni
 ---
 Daniel joined the group in December 2019 as a Ph.D. student in chemical engineering, having graduated from UC Santa Barbara with a B.S. in chemical engineering and a minor in physics. 
 As an undergraduate, Daniel primarily worked on modeling LaMer burst nucleation in the Peters group.
