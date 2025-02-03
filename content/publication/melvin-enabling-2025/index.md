@@ -1,17 +1,26 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'A Computational Investigation of the Role of Metal Center Identity in Cytochrome P450 Enzyme Model Reactivity' 
+title: Enabling Selective Mechanochemical Scission of Network Crosslinks by Exchanging Single Carbon Atoms for Silicon
 subtitle: ''
 summary: ''
 authors:
-- vyshnavi
-- Mugyeom Jeon
+- S. J. Melvin
+- Y. Yao
+- x_huang
+- R. Bell
+- R. Kemmerling
+- iliak
+- A. C. Berg
+- A. P. K. Vasconcelos
+- A. Nelson
 - admin
+- Stephen L. Craig
+- Rebekka S. Klausen
 
 tags: []
 categories: []
-date: '2024-09-12'
+date: '2025-01-21'
 lastmod: 
 featured: false
 draft: false
@@ -32,11 +41,11 @@ image:
 projects: []
 publishDate: 
 publication_types:
-- '3'
+- '2'
 abstract: ''
-publication: '*submitted*'
+publication: '*J. Am. Chem. Soc.*, **in press**'
 #doi: 10.1021/jacs.2c11858
-links:
-#- name: ChemRxiv
-#  url: https://chemrxiv.org/engage/chemrxiv/article-details/66382d3c91aefa6ce1408a72
+#links:
+#- name: arXiv
+#  url: https://arxiv.org/abs/2410.09659
 ---
