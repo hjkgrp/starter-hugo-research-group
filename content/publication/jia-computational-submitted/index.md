@@ -1,22 +1,18 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'Copper-based 2D Conductive Metal Organic Framework Thin Films for Ultrasensitive Detection of Perfluoroalkyls in Drinking water'
+title: Computational Exploration of Codoped Fe and Ru Single-Atom Catalysts for the Oxygen Reduction Reaction
 subtitle: ''
 summary: ''
 authors:
-- Heejung Roh
-- Tyler J. Quill
-- Gan Chen
-- Huaxin Gong
-- yscho
+- haojun
+- crduan
+- gterrone
+- iliak
 - admin
-- Alberto Salleo
-- Aristide Gumyusenge
-
 tags: []
 categories: []
-date: '2025-01-01'
+date: '2025-02-01'
 lastmod: 
 featured: false
 draft: false
@@ -40,11 +36,8 @@ publication_types:
 - '3'
 abstract: ''
 publication: '*submitted*'
-doi: 
-url_pdf: 
+#doi: 10.1021/jacs.2c11858
 #links:
 #- name: ChemRxiv
-#  url: https://doi.org/10.26434/chemrxiv-2023-mhb4c
-#- name: MIT News
-#  url: https://news.mit.edu/2024/researchers-develop-continuously-monitoring-toxic-gases-detector-0517
+#  url: https://doi.org/10.26434/chemrxiv-2024-j366f
 ---

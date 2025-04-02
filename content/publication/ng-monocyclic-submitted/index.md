@@ -1,25 +1,27 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'Alkane Monooxygenase (AlkB) is an Alkyl Fluoride Dehalogenase' 
+title: Monocyclic Azetidines via a Visible-Light-Mediated Aza Paternò-Büchi Reaction of Ketone-Derived Sulfonylimines
 subtitle: ''
 summary: ''
 authors:
-- Lauren Hendricks 
-- clorice 
-- Tierani Green 
-- Lily Kunczynski 
-- August Jaunzarins Roberts
-- Naomi Miller 
-- Noga Rafalin 
-- admin 
-- J. T. Groves 
-- Rachel Narehood Austin 
-
-
+- C. H. Ng
+- E. R. Wearing
+- D. E. Blackmun
+- gterrone
+- J. Toigo
+- K-M Tong
+- K. C. Harper
+- J. C. Donovan
+- M. A. Gonley
+- E. A. Voight
+- B. D. Bergstrom
+- M. O. Wolf
+- admin
+- Corinna S. Schindler 
 tags: []
 categories: []
-date: '2024-10-05'
+date: '2025-02-01'
 lastmod: 
 featured: false
 draft: false
@@ -46,5 +48,5 @@ publication: '*submitted*'
 #doi: 10.1021/jacs.2c11858
 #links:
 #- name: ChemRxiv
-#  url: https://chemrxiv.org/engage/chemrxiv/article-details/66e0566112ff75c3a1f2ff17
+#  url: https://doi.org/10.26434/chemrxiv-2024-j366f
 ---
