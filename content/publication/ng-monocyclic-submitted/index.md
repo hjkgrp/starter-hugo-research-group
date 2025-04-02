@@ -18,7 +18,7 @@ authors:
 - B. D. Bergstrom
 - M. O. Wolf
 - admin
-- Corinna. S. Schindler 
+- Corinna S. Schindler 
 tags: []
 categories: []
 date: '2025-02-01'
