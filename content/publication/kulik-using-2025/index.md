@@ -1,23 +1,15 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'Copper-based 2D Conductive Metal Organic Framework Thin Films for Ultrasensitive Detection of Perfluoroalkyls in Drinking water'
+title: Using experimental data in computationally-guided rational design of inorganic materials with machine learning
 subtitle: ''
 summary: ''
 authors:
-- Heejung Roh
-- Tyler J. Quill
-- Gan Chen
-- Huaxin Gong
-- yscho
 - admin
-- Alberto Salleo
-- Aristide Gumyusenge
-
-tags: []
+tags:
 categories: []
-date: '2025-01-01'
-lastmod: 
+date: 2025-03-31
+lastmod: 2021-06-20T14:45:38-04:00
 featured: false
 draft: false
 
@@ -37,14 +29,9 @@ image:
 projects: []
 publishDate: 
 publication_types:
-- '3'
+- '2'
 abstract: ''
-publication: '*submitted*'
-doi: 
-url_pdf: 
-#links:
-#- name: ChemRxiv
-#  url: https://doi.org/10.26434/chemrxiv-2023-mhb4c
-#- name: MIT News
-#  url: https://news.mit.edu/2024/researchers-develop-continuously-monitoring-toxic-gases-detector-0517
+publication: '*J. Mater. Res.*, **in press**'
+#url_pdf: https://onlinelibrary.wiley.com/doi/abs/10.1002/ijch.202100016
+#doi: 10.1002/ijch.202100016
 ---
