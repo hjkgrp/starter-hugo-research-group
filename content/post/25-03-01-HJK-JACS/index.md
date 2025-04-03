@@ -1,5 +1,5 @@
 ---
-title: Prof. Kulik now a JACS Assosciate Editor
+title: Prof. Kulik now a JACS Associate Editor
 reading_time: false
 date: 2025-03-01
 ---
