@@ -47,7 +47,7 @@ Many of the classes and methods that are used in molSimplify can be incorporated
 Broadly speaking, molSimplify is structured around two classes: mol3D and atom3D. Try viewing molSimplify/Classes/mol3D.py using either a Python editor or the GitHub page. This class includes methods to interact with a molecule using a Python interface.
 
 
-You will want to write your code using a Python editor like Spyder, Geany, Sublime, etc. Save your script as a .py file and place it in the same folder as Rotaxane.xyz and Octahedral.xyz (you can download these files at the bottom of this page). To run your Python script, first the command line and activate your conda environment set up with molSimplify:
+You will want to write your code using a Python editor like Spyder, Geany, Sublime, etc. Save your script as a .py file and place it in the same folder as Rotaxane.xyz and Octahedral.xyz (you can download these files at the bottom of this page). To run your Python script, first open the command line and activate your conda environment that is set up with molSimplify:
 
 
 ```
