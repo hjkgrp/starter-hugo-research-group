@@ -100,7 +100,7 @@ Command Line Interface and Input-file-based Generation
 ------------------------------------------------------
 
 
-Next, we'll show how to use the input file generation. For the purposes of this tutorial, we've created a file for you called example-1.in that will generate a porphyrin with an imidazole ligand. You can download it here. Alternatively, one could also copy and rename the input file generated from running the GUI. The options can also be entered into the command line manually.
+Next, we'll show how to use the input file generation. For the purposes of this tutorial, we've created a file for you called `example-1.in` that will generate a porphyrin with an imidazole ligand. You can download it here. Alternatively, one could also copy and rename the input file generated from running the GUI. The options can also be entered into the command line manually.
 
 ```
 -core cobalt 
