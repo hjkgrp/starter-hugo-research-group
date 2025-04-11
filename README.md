@@ -6,6 +6,9 @@ The [Research Group Template](https://github.com/wowchemy/starter-hugo-research-
 
 _[**Wowchemy**](https://wowchemy.com) makes it easy to create a beautiful website for free. Edit your site in Markdown, Jupyter, or RStudio (via Blogdown), generate it with Hugo, and deploy with GitHub or Netlify. Customize anything on your site with widgets, themes, and language packs._
 
+# General Information
+This repository contains the content displayed on the [Kulik Group's website](https://hjkgrp.mit.edu/), including group member profiles and molSimplify tutorials.
+
 # Contributing
 For group members who would like to add/update content
 1. Check existing branches for contribution category
