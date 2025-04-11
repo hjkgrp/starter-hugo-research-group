@@ -68,4 +68,4 @@ highlight_name: false
 user_groups:
 - Grad Students
 ---
-Gianmarco joined the Kulik group in December 2020 as a PhD student in Chemical Engineering. He received his B.S. in Chemical Engineering from Caltech in June 2020. At Caltech, he worked in the Lewis group on bubble positioning in devices for solar fuel production and in the Callies group on a parallelized model for ocean dynamics. In the Kulik group, Gianmarco’s research concerns multi-objective earth abundant materials design.
+Gianmarco joined the Kulik group in December 2020 as a PhD student in Chemical Engineering. He received his B.S. in Chemical Engineering from Caltech in June 2020. In the Kulik group, Gianmarco’s research concerns the development of machine learning tools for material property prediction and design, with a focus on iridium photoactive complexes and metal-organic frameworks.
