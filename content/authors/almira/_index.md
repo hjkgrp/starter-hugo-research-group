@@ -69,7 +69,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Undergraduate Students
+- Alumni
 ---
 
 Almira is a first-year undergraduate student who is a prospective chemistry major. Prior to MIT, she participated at the International Chemistry Olympiads (IChO 2022 and IChO 2023), representing the Kazakhstan National Team. She joined the Kulik Lab in the Fall of 2023 and is currently working with Husain Adamji to screen metal-organic Frameworks that could selectively oxidize methane, using Density Functional Theory (DFT).

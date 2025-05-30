@@ -53,6 +53,6 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Undergraduate Students
+- Alumni
 ---
 Shih-Peng is a junior who is majoring in chemistry and potential double majoring in computer science. During high school, he had joined the Wu Lab in National Chiao-Tung University, Taiwan for a one-year research program on organic synthesis of binuclear coordination compound. After joining MIT, he worked in the Raines’ Lab as an UROP student from 2021-2022. Shih-Peng is currently working with Gianmarco for machine learning and genetic algorithm for metal-organic framework stability predictions.

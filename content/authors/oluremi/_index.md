@@ -67,7 +67,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Grad Students
+- Alumni
 ---
 
 Remi joined the Kulik group in September 2023 as a Ph.D. student in Biological Engineering. She previously graduated from Stanford University in 2021 with a Bachelors of Science in Bioengineering. During her undergraduate career at Stanford, she worked under Prof. Monther Abu-Remaileh, where she investigated dysregulated lysosomal enzymes and their role in disrupting lysosomal metabolism and function. She also worked under Prof. Daniel Jarosz, where she screened the human proteome for potential novel prion-like proteins to investigate the reach of epigenetic inheritance mediated by intrinsically disordered proteins. Outside of her undergraduate research, she has also worked on developing and validating machine-learning models and rule-based computational models for studying a number of different biological systems and contexts.
