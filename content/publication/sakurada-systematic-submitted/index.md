@@ -1,18 +1,25 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Computational Exploration of Codoped Fe and Ru Single-Atom Catalysts for the Oxygen Reduction Reaction
+title: Systematic Bandgap Engineering of a 2D Organic-Inorganic Chalcogenide Semiconductor via Ligand Modification
 subtitle: ''
 summary: ''
 authors:
-- haojun
-- crduan
-- gterrone
-- iliak
+- T. Sakurada
+- W. Paritmongkol
+- yscho
+- W. S. Lee
+- P. Chatsiri
+- J. J. Oppenheim
+- R. Wan
+- A. Su
+- P. Müller
+- Mircea Dincǎ
 - admin
+- William A. Tisdale 
 tags: []
 categories: []
-date: '2025-02-01'
+date: '2025-05-01'
 lastmod: 
 featured: false
 draft: false
@@ -39,5 +46,5 @@ publication: '*submitted*'
 #doi: 10.1021/jacs.2c11858
 #links:
 #- name: ChemRxiv
-#  url: https://doi.org/10.26434/chemrxiv-2024-j366f
+#  url: https://doi.org/10.26434/chemrxiv-2025-mkrnn
 ---

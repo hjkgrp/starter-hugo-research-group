@@ -11,7 +11,7 @@ authors:
 - admin
 tags: []
 categories: []
-date: '2025-03-19'
+date: '2025-05-01'
 lastmod: 
 featured: false
 draft: false
@@ -32,9 +32,9 @@ image:
 projects: []
 publishDate: 
 publication_types:
-- '3'
+- '2'
 abstract: 'Metal-organic frameworks (MOFs) are promising candidate materials for applications that would benefit from precise chemical patterning, such as desalination and atmospheric water harvesting, but many MOFs suffer from poor stability in water. In addition to water stability, high water uptake capacity in ambient conditions is expected to be necessary for water-related practical applications of MOFs, motivating large-scale search that can only be achieved computationally. Here, we take a combined machine learning and high-throughput screening approach to identifying water-stable MOFs with high water uptake capacities. Starting from a subset of previously curated MOFs with experimentally known exceptionally high stability in water, we explore the effect of linker functionalization with twelve diverse hydrophilic functional groups expected to further tune water uptake. For these 736 MOFs, we use grand canonical Monte Carlo (GCMC) simulations to compute their water uptake capacity. We observe strong positive correlations between MOF pore features (e.g., the largest cavity diameter and volumetric pore volume) and water uptake capacity, although we notice breakdowns of such correlations in MOFs with extremely hydrophobic linkers that repel water molecules despite having large pores. Finally, we develop machine learning models to screen new MOFs simultaneously for water stability and water uptake capacity. From a pool of hypothetical and experimental MOFs, we identify 74 promising materials within the domain of applicability of the machine learning models that are predicted to be both water-stable and have high water uptake.'
-publication: '*submitted*'
+publication: '*ACS Appl. Mater. Interfaces*, **in press**'
 #doi: 10.1021/jacs.2c11858
 links:
 - name: ChemRxiv

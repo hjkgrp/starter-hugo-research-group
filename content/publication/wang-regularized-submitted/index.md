@@ -1,24 +1,20 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'Blueprints for the Geometric Control of NHC-CDI Isomers'
+title: 'Regularized second order Møller-Plesset theory: Linear scaling implementation and assessment on large-molecule problems'
 subtitle: ''
 summary: ''
 authors:
-- Craig S. Day
-- Niklas Grabicki
-- dbkchu
-- allikeys
-- Avni Singhal
-- vyshnavi
-- iliak
-- Rafael Gómez-Bombarelli
+- Z. Wang
+- T. Shi
+- W. Luo
 - admin
-- Jeremiah A. Johnson 
-
+- Y. Liu
+- X. S. Li
+- M. Head-Gordon 
 tags: []
 categories: []
-date: '2025-01-01'
+date: '2025-05-01'
 lastmod: 
 featured: false
 draft: false
@@ -42,11 +38,8 @@ publication_types:
 - '3'
 abstract: ''
 publication: '*submitted*'
-doi: 
-url_pdf: 
+#doi: 10.1021/jacs.2c11858
 #links:
 #- name: ChemRxiv
-#  url: https://doi.org/10.26434/chemrxiv-2023-mhb4c
-#- name: MIT News
-#  url: https://news.mit.edu/2024/researchers-develop-continuously-monitoring-toxic-gases-detector-0517
+#  url: https://doi.org/10.26434/chemrxiv-2025-mkrnn
 ---
