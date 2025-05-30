@@ -62,6 +62,6 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Visitors
+- Alumni
 ---
 Égil is an Assistant Professor in the Chemistry Department at the Federal University of Piauí. He is visiting the group as part of a Fulbright sabbatical. He has an interest in organometallic computational chemistry for the study of new organometallic catalysts based on 3d metals for reactions classically catalyzed by organometallic complexes of precious metals. Reactions of interest are olefin metathesis, cyclopropanation, and those used for carbon dioxide utilization.

@@ -5,6 +5,7 @@ show_date: false
 
 | name | group role | current|
 | ---------------------------------------------------------------------------------------------------------- | ------- | ----------------------------------------------------------------------------------------------------------------------- |
+| [Oluremi Akindele](https://hjkgrp.mit.edu/author/oluremi-akindele/)                                        |  GS   |                                                                                                                         |
 | [Isuru Ariyarathna](https://hjkgrp.mit.edu/author/isuru-ariyarathna/)                                      |  PD   | Postdoctoral Associate at  Los Alamos National Laboratory                                                               |
 | [Naveen Arunachalam](https://hjkgrp.mit.edu/author/naveen-arunachalam/)                                    |  GS   | Ph.D. ‘23 ChemE and now ML Scientist at Nosis Bio                                                                       |
 | Sule Atahan-Evrenk                                                                                         |  VS   | Software Engineer at TEKsystems                                                                                         |
@@ -34,6 +35,7 @@ show_date: false
 | Daniel R. Harper                                                                                           |  GS   | S.M. ‘21 and now Consultant at  Sage Analysis                                                                          |
 | Alondra Hernandez                                                                                          |  UROP | MIT ChemE SB expected ‘25                                                                                              |
 | [Wilson Ho](https://hjkgrp.mit.edu/author/wilson-ho/)                                                      |  UROP | MIT SB expected ‘25                                                                                                    |
+| [Shih-Peng Huang](https://hjkgrp.mit.edu/author/shih-peng-huang/)                                          |  UROP | MIT SB ‘25                                                                                                             |
 | Efthymios Ioannidis                                                                                        |  GS   | Ph.D. ‘16 ChemE MBA ‘18 and now co-founder at HOMLI                                                                    |
 | Jon Paul Janet                                                                                             |  GS   | Ph.D. ‘19 ChemE and now Associate Director at AstraZeneca                                                              |
 | [Mugyeom Jeon](https://hjkgrp.mit.edu/author/mugyeom-jeon/)                                                |  UROP | MIT Chemistry SB expected ‘25                                                                                          |
@@ -63,6 +65,7 @@ show_date: false
 | Davut Muhammetgulyyev                                                                                      |  UROP | MIT SB expected '27                                                                                                    |
 | [Aditya Nandy](https://hjkgrp.mit.edu/author/aditya-nandy)                                                 |  GS   | Ph.D. ‘23 Chemistry and now Schmidt AI Futures Fellow U. Chicago 23-25 and incoming TT. Asst. Prof. UCLA CBE 2025      |
 | Azadeh Nazemi                                                                                              |  PD   | Senior Scientist at Pfizer                                                                                             |
+| Almira Nurlanova                                                                                           |  UROP | MIT SB expected '27                                                                                                    |
 | [Jonas Oldenstaedt](https://hjkgrp.mit.edu/author/jonas-oldenstaedt)                                       |  MS   | TUM expected ‘23 CSE and now PhD student at TUM                                                                        |
 | [Niladri Patra](https://npatra2.wixsite.com/iitism)                                                        |  PD   | Associate Professor at IIT Dhanbad                                                                                      |
 | Helena W. Qi                                                                                               |  GS   | Ph.D. ‘19 Chemistry and now Principal Scientist at Pfizer                                                              |
