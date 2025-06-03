@@ -65,7 +65,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Visitors
+- Alumni
 ---
 
 Fangzi is a 5th-year PhD student in Chemistry at ShanghaiTech University. Under the guidance of Prof. KaKing Yan, his research focuses on the mechanochemical self-assembly and transformation of supramolecules, with a particular emphasis on using mechanical force to manipulate energy diagrams and stabilize high-energy species.
