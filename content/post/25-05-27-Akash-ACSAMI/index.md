@@ -1,5 +1,5 @@
 ---
-title: Akash's paper on water uptake in MOF's in ACS AMI
+title: Akash's paper on water uptake in MOFs in ACS AMI
 reading_time: false
 date: 2025-05-27
 ---
