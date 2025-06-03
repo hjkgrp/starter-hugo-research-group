@@ -45,4 +45,8 @@ url_pdf: https://www.nature.com/articles/s42256-025-01010-0.pdf
 links:
 - name: arXiv
   url: https://arxiv.org/abs/2404.13430
+- name: MIT News
+  url: https://news.mit.edu/2025/new-model-predicts-chemical-reactions-no-return-point-0423
+- name: Chemistry World
+  url: https://www.chemistryworld.com/news/ai-predicts-transition-states-with-exceptional-precision/4021473.article
 ---
