@@ -14,7 +14,7 @@ authors:
 
 tags: []
 categories: []
-date: '2025-07-19'
+date: '2025-08-01'
 lastmod: 
 featured: false
 draft: false
@@ -36,9 +36,10 @@ projects: []
 publishDate: 
 publication_types:
 - '2'
-abstract: ''
+abstract: 'Mechanophores are molecules that undergo chemical changes in response to mechanical force, offering unique opportunities in chemistry, materials science, and drug delivery. However, many potential mechanophores remain unexplored. For example, ferrocenes are attractive targets as mechanophores due to their combination of high thermal stability and mechanochemical lability. However, the mechanochemical potential of ferrocene derivatives remains dramatically underexplored despite the synthesis of thousands of structurally diverse complexes. Herein, we report the computational, machine learning guided discovery of synthesizable ferrocene mechanophores. We identify over one hundred potential target ferrocene mechanophores with wide-ranging mechanochemical activity and use data-driven computational screening to identify a select number of promising complexes. We highlight design principles to alter their mechanochemical activation, including regio-controlled transition state stabilization through bulky groups and a change in mechanism through noncovalent ligand–ligand interactions. The computational screening is validated experimentally both at the polymer strand level through sonication experiments and at the network level, where a computationally discovered ferrocene mechanophore cross-linker leads to greater than 4-fold enhancement in material tearing energy. This work establishes a generalizable framework for the high-throughput discovery and rational design of mechanophores and offers insights into structure–activity relationships in mechanically responsive materials.'
 publication: '*ACS Cent. Sci.*, **in press**'
-#doi: 10.1021/jacs.2c11858
+doi: 10.1021/acscentsci.5c00707
+url_pdf: https://pubs.acs.org/doi/pdf/10.1021/acscentsci.5c00707?ref=article_openPDF
 links:
 - name: ChemRxiv
   url: https://chemrxiv.org/engage/chemrxiv/article-details/669937e1c9c6a5c07a9c7f6d
