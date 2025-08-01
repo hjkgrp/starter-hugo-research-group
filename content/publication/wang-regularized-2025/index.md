@@ -1,0 +1,46 @@
+---
+# Documentation: https://wowchemy.com/docs/managing-content/
+
+title: 'Regularized Second-Order Møller–Plesset Theory: Linear Scaling Implementation and Assessment on Large-Molecule Problems'
+subtitle: ''
+summary: ''
+authors:
+- Zhenling Wang
+- Tianyi Shi
+- weiliang
+- admin
+- Yang Liu
+- Xiaoye S. Li
+- Martin Head-Gordon
+tags: []
+categories: []
+date: '2025-07-22'
+lastmod: 
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+publishDate: 
+publication_types:
+- '2'
+abstract: 'Formally fifth-order scaling with molecular size, second-order Møller–Plesset (MP2) theory is widely used in its own right, and as a component of double hybrid density functional theory. Nevertheless, MP2 is well-known to have limited accuracy for large intermolecular interactions, and the MP2 energy is not bounded from below. Regularized MP2 methods aim to address these issues without changing the formal fifth-order scaling and are therefore of interest as more accurate and robust alternatives. In this work, we report a linear scaling algorithm with shared and distributed memory parallel implementations, for the evaluation of two regularized MP2 methods: κ-MP2 and the size-consistent second-order Brillouin–Wigner perturbation theory (BW-s2). The algorithm uses a single numerical threshold to control accuracy, which is demonstrated to yield a roughly 10-fold reduction in numerical error for each factor of 10 reduction in the threshold. The scaling of time-to-solution is assessed as a function of molecule size (up to 1800 atoms and 25000 atomic orbitals), the choice of threshold, and the number of processors (up to 2000 cores), for a range of systems including linear alkanes and three-dimensional complexes. The results show an earlier crossover against the canonical implementation for BW-s2 than for either MP2 or κ-MP2. The new implementation is used to evaluate the accuracy of the κ-MP2 and BW-s2 methods for some of the largest test sets of intermolecular interactions for which coupled cluster benchmark data are available, including IONPI19, L7, S12L, and C60ISO. The results show that κ-MP2 and BW-s2 perform far better than MP2. Additional tests of κ-MP2 and BW-s2 are reported for the case of short-range amino acid interactions, where MP2 performs exceptionally well.'
+publication: '*J. Chem. Theory Comput.*, **21**, 6887--6904 (2025)'
+doi: 10.1021/acs.jctc.5c00534
+url_pdf: https://pubs.acs.org/doi/pdf/10.1021/acs.jctc.5c00534?ref=article_openPDF
+#links:
+#- name: ChemRxiv
+#  url: https://doi.org/10.26434/chemrxiv-2025-mkrnn
+---

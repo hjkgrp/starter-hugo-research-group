@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Data-driven discovery of water-stable metal-organic frameworks with high water uptake capacity
+title: Data-Driven Discovery of Water-Stable Metal–Organic Frameworks with High Water Uptake Capacity
 subtitle: ''
 summary: ''
 authors:
@@ -11,7 +11,7 @@ authors:
 - admin
 tags: []
 categories: []
-date: '2025-05-01'
+date: '2025-06-18'
 lastmod: 
 featured: false
 draft: false
@@ -33,9 +33,10 @@ projects: []
 publishDate: 
 publication_types:
 - '2'
-abstract: 'Metal-organic frameworks (MOFs) are promising candidate materials for applications that would benefit from precise chemical patterning, such as desalination and atmospheric water harvesting, but many MOFs suffer from poor stability in water. In addition to water stability, high water uptake capacity in ambient conditions is expected to be necessary for water-related practical applications of MOFs, motivating large-scale search that can only be achieved computationally. Here, we take a combined machine learning and high-throughput screening approach to identifying water-stable MOFs with high water uptake capacities. Starting from a subset of previously curated MOFs with experimentally known exceptionally high stability in water, we explore the effect of linker functionalization with twelve diverse hydrophilic functional groups expected to further tune water uptake. For these 736 MOFs, we use grand canonical Monte Carlo (GCMC) simulations to compute their water uptake capacity. We observe strong positive correlations between MOF pore features (e.g., the largest cavity diameter and volumetric pore volume) and water uptake capacity, although we notice breakdowns of such correlations in MOFs with extremely hydrophobic linkers that repel water molecules despite having large pores. Finally, we develop machine learning models to screen new MOFs simultaneously for water stability and water uptake capacity. From a pool of hypothetical and experimental MOFs, we identify 74 promising materials within the domain of applicability of the machine learning models that are predicted to be both water-stable and have high water uptake.'
-publication: '*ACS Appl. Mater. Interfaces*, **in press**'
-#doi: 10.1021/jacs.2c11858
+abstract: 'Metal–organic frameworks (MOFs) are promising candidate materials for applications that would benefit from precise chemical patterning, such as desalination, but many MOFs suffer from poor stability in water. In addition to water stability, high water uptake capacity in ambient conditions is expected to be necessary for water-related practical applications of MOFs, motivating large-scale search that can only be achieved computationally. Here, we take a combined machine learning and high-throughput screening approach to identify water-stable MOFs with high water uptake capacities. Starting from a subset of previously curated MOFs with experimentally known exceptionally high stability in water, we explore the effect of linker functionalization with 12 diverse hydrophilic functional groups expected to further tune water uptake. For these 736 MOFs, we use grand canonical Monte Carlo (GCMC) simulations to compute their water uptake capacity. We observe strong positive correlations between MOF pore features (e.g., the largest cavity diameter and volumetric pore volume) and water uptake capacity, although we notice breakdowns of such correlations in MOFs with extremely hydrophobic linkers that repel water molecules despite having large pores. Finally, we develop machine learning models to screen new MOFs simultaneously for water stability and water uptake capacity. From a pool of hypothetical and experimental MOFs, we identify 74 promising materials within the domain of applicability of the machine learning models that are predicted to both be water-stable and have high water uptake.'
+publication: '*ACS Appl. Mater. Interfaces*, **17**, 35971--35985 (2025)'
+doi: 10.1021/acsami.5c09320
+url_pdf: https://pubs.acs.org/doi/pdf/10.1021/acsami.5c09320?ref=article_openPDF
 links:
 - name: ChemRxiv
   url: https://doi.org/10.26434/chemrxiv-2025-mz223
