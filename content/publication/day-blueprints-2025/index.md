@@ -18,7 +18,7 @@ authors:
 
 tags: []
 categories: []
-date: '2025-04-20'
+date: '2025-07-14'
 lastmod: 
 featured: false
 draft: false
@@ -40,8 +40,8 @@ projects: []
 publishDate: 
 publication_types:
 - '2'
-abstract: 'Rational control of the 3D presentation of atoms—stereochemistry—lies at the heart of synthetic organic and materials chemistries. Here, researchers report detailed computational studies on conformational isomerism in N-heterocyclic carbene–carbodiimide (NHC–CDI) zwitterionic adducts. By varying the steric and electronic parameters of the NHC and CDI components, criteria for controlling isomerization thermodynamics and predicting energetically favorable conformations are identified. These criteria is validated experimentally using a novel synthetic approach to NHC–CDIs, which exploits the thermodynamic equilibrium between sterically unencumbered NHC dimers to access NHC–CDI adducts with low barriers to conformational isomerization, including the first example of an (E/E)-NHC–CDI.'
-publication: '*ChemistryEurope*, **in press**'
+abstract: 'Rational control of the 3D presentation of atoms—stereochemistry—lies at the heart of synthetic organic and materials chemistries. Here, researchers report detailed computational studies on conformational isomerism in N-heterocyclic carbene–carbodiimide (NHC–CDI) zwitterionic adducts. By varying the steric and electronic parameters of the NHC and CDI components, criteria for controlling isomerization thermodynamics and predicting energetically favorable conformations are identified. These criteria is validated experimentally using a novel synthetic approach to NHC–CDIs, which exploits the thermodynamic equilibrium between sterically unencumbered NHC dimers to access NHC–CDI adducts with low barriers to conformational isomerization, including the first example of an (E/E)-NHC–CDI..'
+publication: '*ChemistryEurope*, **3**, e202500023 (2025)'
 doi: 10.1002/ceur.202500023
 url_pdf: https://chemistry-europe.onlinelibrary.wiley.com/doi/epdf/10.1002/ceur.202500023
 #links:

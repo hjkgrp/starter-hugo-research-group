@@ -1,20 +1,44 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'High-Throughput Discovery of Ferrocene Mechanophores with Enhanced Reactivity and Network Toughening' 
+title: 'Reimagining Polymer Networks from Molecule to Material' 
 subtitle: ''
 summary: ''
 authors:
-- iliak
-- Jafer Vakiil
-- kastner
+- N. B. Nechmad
+- L. M. Campos
+- S. L. Craig
+- C. Deng
+- J. Diodati
+- S. D. Ekim
+- E. Garcia-Villatoro
+- J. P. Gong
+- A. Herzog-Arbeitman
 - x_huang
-- Stephen L. Craig
+- J. A. Johnson
+- J. A. Kalow
+- R. E. Kemmerling
+- iliak
+- A. P. Kitos Vasconcelos
+- R. Klausen
 - admin
+- J. Leganes Bayon
+- Y. Ma
+- E. Mcfee
+- J. Mendenhall
+- J. S. Moore
+- A. Nelson
+- B. D. Olsen
+- M. Rubenstein
+- C. S. Schindler
+- N. R. Sottos
+- N. F. Steinmetz
+- S. Wei
+- F. Xie 
 
 tags: []
 categories: []
-date: '2024-07-19'
+date: '2025-08-01'
 lastmod: 
 featured: false
 draft: false
@@ -39,7 +63,7 @@ publication_types:
 abstract: ''
 publication: '*submitted*'
 #doi: 10.1021/jacs.2c11858
-links:
-- name: ChemRxiv
-  url: https://chemrxiv.org/engage/chemrxiv/article-details/669937e1c9c6a5c07a9c7f6d
+#links:
+#- name: ChemRxiv
+#  url: https://chemrxiv.org/engage/chemrxiv/article-details/66382d3c91aefa6ce1408a72
 ---

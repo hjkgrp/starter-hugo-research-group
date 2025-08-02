@@ -66,6 +66,6 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Grad Students
+- Alumni
 ---
 Gianmarco joined the Kulik group in December 2020 as a PhD student in Chemical Engineering. He received his B.S. in Chemical Engineering from Caltech in June 2020. In the Kulik group, Gianmarco’s research concerns the development of machine learning tools for material property prediction and design, with a focus on iridium photoactive complexes and metal-organic frameworks.

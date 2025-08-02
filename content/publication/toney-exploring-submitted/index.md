@@ -1,27 +1,20 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Monocyclic Azetidines via a Visible-Light-Mediated Aza Paternò-Büchi Reaction of Ketone-Derived Sulfonylimines
+title: 'Exploring beyond experiment: generating high-quality datasets of transition metal complexes with quantum chemistry and machine learning' 
 subtitle: ''
 summary: ''
 authors:
-- C. H. Ng
-- E. R. Wearing
-- D. E. Blackmun
-- gterrone
-- J. Toigo
-- K-M Tong
-- K. C. Harper
-- J. C. Donovan
-- M. A. Gonley
-- E. A. Voight
-- B. D. Bergstrom
-- M. O. Wolf
+- jwt
+- aarongar
+- weiliang
+- rolan701
+- Sukrit Mukhopadhyay
 - admin
-- Corinna S. Schindler 
+
 tags: []
 categories: []
-date: '2025-02-01'
+date: '2025-08-01'
 lastmod: 
 featured: false
 draft: false
@@ -48,5 +41,5 @@ publication: '*submitted*'
 #doi: 10.1021/jacs.2c11858
 #links:
 #- name: ChemRxiv
-#  url: https://doi.org/10.26434/chemrxiv-2024-j366f
+#  url: https://chemrxiv.org/engage/chemrxiv/article-details/66382d3c91aefa6ce1408a72
 ---

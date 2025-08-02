@@ -1,20 +1,21 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'Regularized second order Møller-Plesset theory: Linear scaling implementation and assessment on large-molecule problems'
+title: 'Confined Solvents Generate Unique Local Electric Fields at Lewis Acid Zeolite Active Sites' 
 subtitle: ''
 summary: ''
 authors:
-- Z. Wang
-- T. Shi
-- W. Luo
+- B. A. Johnson
+- B. Dinkar
+- E. J. Wu
+- hadamji
 - admin
-- Y. Liu
-- X. S. Li
-- M. Head-Gordon 
+- Mircea Dincǎ
+- Yuriy Román-Leshkov
+
 tags: []
 categories: []
-date: '2025-05-01'
+date: '2025-08-01'
 lastmod: 
 featured: false
 draft: false
@@ -41,5 +42,5 @@ publication: '*submitted*'
 #doi: 10.1021/jacs.2c11858
 #links:
 #- name: ChemRxiv
-#  url: https://doi.org/10.26434/chemrxiv-2025-mkrnn
+#  url: https://chemrxiv.org/engage/chemrxiv/article-details/66382d3c91aefa6ce1408a72
 ---

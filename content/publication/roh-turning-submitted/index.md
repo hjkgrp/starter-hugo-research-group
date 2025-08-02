@@ -1,21 +1,21 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'The Role of the Unusual 2-Tyr-1-carboxylate Non-heme Iron Motif in the Mechanism of N,N-Dimethylformamidase' 
+title: 'Turning 2D MOFs into Mixed Ionic-Electronic Conductors via Sidechain Engineering' 
 subtitle: ''
 summary: ''
 authors:
-- kastner
-- clorice
-- hadamji
-- Terence S. Oscar-Okpala
-- iliak
-- Yuriy Román-Leshkov
+- H. Roh
+- A. Y. Su
+- ohch
+- J. J. Oppenheim
 - admin
+- A. Gumyusenge
+- M. Dincǎ
 
 tags: []
 categories: []
-date: '2025-05-21'
+date: '2025-08-01'
 lastmod: 
 featured: false
 draft: false
@@ -40,7 +40,7 @@ publication_types:
 abstract: ''
 publication: '*submitted*'
 #doi: 10.1021/jacs.2c11858
-links:
-- name: ChemRxiv
-  url: https://doi.org/10.26434/chemrxiv-2025-5t168-v2
+#links:
+#- name: ChemRxiv
+#  url: https://chemrxiv.org/engage/chemrxiv/article-details/66382d3c91aefa6ce1408a72
 ---
