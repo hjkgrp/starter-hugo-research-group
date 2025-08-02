@@ -66,6 +66,6 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Postdocs
+- Alumni
 ---
 Ilia Joined the group as a postdoctoral associate in August 2021. He received his PhD at the University of Pittsburgh with Professor Peng Liu. His PhD focused on carrying out density functional theory calculations to study transition metal catalyzed reaction mechanisms and design novel catalysts. In the Kulik group, he is working on data-driven discovery of novel mechanophores as part of the MONET center.

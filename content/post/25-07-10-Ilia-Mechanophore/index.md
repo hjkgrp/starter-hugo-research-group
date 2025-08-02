@@ -1,5 +1,5 @@
 ---
-title: Ilia's mechanophore paper in ACS Cent Sci
+title: Ilia's mechanophore paper in ACS Central Science
 reading_time: false
 date: 2025-07-10
 ---
