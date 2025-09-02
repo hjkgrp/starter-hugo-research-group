@@ -7,7 +7,7 @@ show_date: false
 | ---------------------------------------------------------------------------------------------------------- | ------- | ----------------------------------------------------------------------------------------------------------------------- |
 | [Oluremi Akindele](/author/oluremi-akindele/)                       |  GS   |                                                                                                                         |
 | [Isuru Ariyarathna](/author/isuru-ariyarathna/)                     |  PD   | Postdoctoral Associate at  Los Alamos National Laboratory                                                               |
-| [Naveen Arunachalam](author/naveen-arunachalam/)                    |  GS   | Ph.D. ‘23 ChemE and now ML Scientist at Nosis Bio                                                                       |
+| [Naveen Arunachalam](/author/naveen-arunachalam/)                    |  GS   | Ph.D. ‘23 ChemE and now ML Scientist at Nosis Bio                                                                       |
 | Sule Atahan-Evrenk                                                  |  VS   | Software Engineer at TEKsystems                                                                                         |
 | Anna Bair                                                           |  UROP | MIT S.B. '23 and now gradaute student at UC Berkeley                                                                    |
 | [Akash Bajaj](/author/akash-bajaj)                                  |  GS   | Ph.D. '21 and now Applied Data Scientist at dunnhumby                                                                   |
