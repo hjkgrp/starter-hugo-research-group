@@ -38,8 +38,8 @@ show_date: false
 | [Shih-Peng Huang](/author/shih-peng-huang/)                         |  UROP | MIT SB ‘25                                                                                                             |
 | [Efthymios Ioannidis](/author/efthymios-i.-ioannidis/)              |  GS   | Ph.D. ‘16 ChemE MBA ‘18 and now co-founder at HOMLI                                                                    |
 | [Jon Paul Janet](/author/jon-paul-janet)                            |  GS   | Ph.D. ‘19 ChemE and now Associate Director at AstraZeneca                                                              |
-| [Mugyeom Jeon](https://hjkgrp.mit.edu/author/mugyeom-jeon/)         |  UROP | MIT Chemistry SB expected ‘25                                                                                          |
-| [Haojun Jia](https://hjkgrp.mit.edu/author/haojun-jia/)             |  GS   | Ph.D. ‘24 Chemistry and now co-founder at Deep Principle                                                               |
+| [Mugyeom Jeon](/author/mugyeom-jeon/)                               |  UROP | MIT Chemistry SB expected ‘25                                                                                          |
+| [Haojun Jia](/author/haojun-jia/)                                   |  GS   | Ph.D. ‘24 Chemistry and now co-founder at Deep Principle                                                               |
 | [Yu Jin](https://galligroup.uchicago.edu/People/yjin.php)           |  SS   | Peking University BS ‘18 Chemistry and now Postdoctoral Research Scholar at UChicago                                   |
 | Jelissa Kamguem                                                     |  UROP | Lafayette College ChemE BS ‘23 and  now PhD student Cornell University ChemE                                           |
 | [Maria Karelina](/author/maria-karelina/)                           |  UROP | MIT SB ‘17 Biology/EECS (6-7) and now Ph.D. Student in Stanford Biophysics (Dror Group)                                |
