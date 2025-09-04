@@ -60,7 +60,7 @@ show_date: false
 | [Mingjie Liu](/author/mingjie-liu)                                  |  PD   | [Assistant Professor at the University of Florida](https://liu.chem.ufl.edu/)                                          |
 | [Fangzi Liu](/author/fangzi-liu/)                                   |  VS   | Graduate Student at ShanghaiTech University                                                                            |
 | Yusu Liu                                                            |  GS   | Quantitative Researcher at Citadel                                                                                     |
-| [Brendan Mar](/author/brendan-d.-mar)                               |  VS   | [Instructor at DeAnza College]((https://www.deanza.edu/directory/user.html?u=marbrendan))                              |
+| [Brendan Mar](/author/brendan-d.-mar)                               |  VS   | [Instructor at DeAnza College](https://www.deanza.edu/directory/user.html?u=marbrendan)                              |
 | Maximiliano Martinez                                                |  UROP | MIT ChemE SB expected ‘25                                                                                              |
 | [Ralf Meyer](/author/ralf-meyer)                                    |  PD   | Postdoc at University of Graz                                                                                          |
 | [Rimsha Mehmood](/author/rimsha-mehmood)                            |  GS   | Ph.D. ‘21 Chemistry and now Senior Scientist at Merck                                                                  |
