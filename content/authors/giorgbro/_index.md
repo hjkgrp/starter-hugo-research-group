@@ -7,7 +7,7 @@ authors:
   - giorgbro
 
 # Role/position
-role: Visiting Student
+role: Visiting PhD Student
 
 # Is this the primary user of the site?
 superuser: false
