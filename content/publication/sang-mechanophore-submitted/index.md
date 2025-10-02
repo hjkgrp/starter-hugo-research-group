@@ -1,23 +1,31 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Excitonic anisotropy in single-crystalline 2D silver phenylchalcogenides
+title: 'Mechanophore cross-linking enhances ballistic energy dissipation of polymers'
 subtitle: ''
 summary: ''
 authors:
-- W. S. Lee
-- yscho
-- K. Posmyk
-- P. Peksa
-- M. Dyksik
-- N. Samulewicz
-- P. Plochocka
-- M. Baranowski
+- Z. Sang
+- S. Nguyen
+- K. Ko
+- S. Lin
+- H. Jang
+- S. Gonzalez-Zapata
+- S. Fitz
+- Y. Kai
+- S. Kooi
+- C. Deng
+- M. Olvera de la Cruz
+- M. Koslowski
 - admin
-- William A. Tisdale 
+- S. L. Craig
+- K. A. Nelson*
+- J. A. Johnson
+
+
 tags: []
 categories: []
-date: '2025-09-15'
+date: '2025-09-01'
 lastmod: 
 featured: false
 draft: false
@@ -38,11 +46,11 @@ image:
 projects: []
 publishDate: 
 publication_types:
-- '2'
+- '3'
 abstract: ''
-publication: '*Adv. Opt. Mater.*, **in press**'
+publication: '*submitted*'
 #doi: 10.1021/jacs.2c11858
 #links:
 #- name: ChemRxiv
-#  url: https://doi.org/10.26434/chemrxiv-2025-mkrnn
+#  url: https://chemrxiv.org/engage/chemrxiv/article-details/66382d3c91aefa6ce1408a72
 ---

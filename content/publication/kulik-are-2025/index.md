@@ -1,21 +1,14 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'Turning 2D MOFs into Mixed Ionic-Electronic Conductors via Sidechain Engineering' 
+title: Are we there yet? Adventures on a road trip through machine learning as a computational chemist
 subtitle: ''
 summary: ''
 authors:
-- H. Roh
-- A. Y. Su
-- ohch
-- J. J. Oppenheim
 - admin
-- A. Gumyusenge
-- M. Dincǎ
-
-tags: []
+tags:
 categories: []
-date: '2025-08-01'
+date: 2025-09-01
 lastmod: 
 featured: false
 draft: false
@@ -36,11 +29,9 @@ image:
 projects: []
 publishDate: 
 publication_types:
-- '3'
+- '2'
 abstract: ''
-publication: '*submitted*'
-#doi: 10.1021/jacs.2c11858
-#links:
-#- name: ChemRxiv
-#  url: https://chemrxiv.org/engage/chemrxiv/article-details/66382d3c91aefa6ce1408a72
+publication: '*APL Comput. Phys.*, **in press**'
+#url_pdf: https://link.springer.com/content/pdf/10.1557/s43578-025-01568-w.pdf
+#doi: 10.1557/s43578-025-01568-w
 ---

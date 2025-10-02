@@ -1,25 +1,17 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Systematic Bandgap Engineering of a 2D Organic-Inorganic Chalcogenide Semiconductor via Ligand Modification
+title: 'Towards agentic science for advancing scientific discovery'
 subtitle: ''
 summary: ''
 authors:
-- T. Sakurada
-- W. Paritmongkol
-- yscho
-- W. S. Lee
-- P. Chatsiri
-- J. J. Oppenheim
-- R. Wan
-- A. Su
-- P. Müller
-- Mircea Dincǎ
+- Hongliang Xin
+- John R. Kitchin
 - admin
-- William A. Tisdale 
+
 tags: []
 categories: []
-date: '2025-05-01'
+date: '2025-09-10'
 lastmod: 
 featured: false
 draft: false
@@ -40,10 +32,11 @@ image:
 projects: []
 publishDate: 
 publication_types:
-- '3'
-abstract: ''
-publication: '*submitted*'
-#doi: 10.1021/jacs.2c11858
+- '2'
+abstract: 'Artificial intelligence is transforming scientific discovery through (semi-)autonomous agents capable of reasoning, planning, and interacting with digital and physical environments. This Comment explores the foundations and frontiers of agentic science, outlining its emerging directions, current limitations, and the pathways for responsible integration into scientific practice.'
+publication: '*Nat. Mach. Intell.*, **7**, 1373--1375 (2025)'
+doi: 10.1038/s42256-025-01110-x
+url_pdf: https://www.nature.com/articles/s42256-025-01110-x.pdf
 #links:
 #- name: ChemRxiv
 #  url: https://doi.org/10.26434/chemrxiv-2025-mkrnn
