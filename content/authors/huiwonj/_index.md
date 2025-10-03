@@ -69,7 +69,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Visitors
+- Alumni
 ---
 
 Huiwon is a Ph.D. student in Chemical and Biomolecular Engineering at the Korea Advanced Institute of Science and Technology (KAIST), where she also completed her Bachelor’s and Master’s degrees. She worked with Prof. Jihan Kim, focusing on the accelerated screening and rational design of mixed matrix membranes (MMMs) for gas separation and polymeric materials. She integrates molecular dynamics (MD) simulations and machine learning in her work, and is also exploring the application of large language models (LLMs) to enhance materials discovery workflows.

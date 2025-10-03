@@ -63,6 +63,6 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Grad Students
+- Alumni
 ---
 David is a graduate student in bioengineering jointly advised in the Kulik and Tidor labs. He graduated from Brigham Young University with a B.S. in biophysics and worked in an organic chemistry lab under the supervision of Dr. Steven Castle studying non-standard amino acids. David completed separate internships with Dr. Haribabu Arthanari at Dana-Farber on NMR and protein composition, and Dr. Nico Tjandra at the NIH studying protein-peptide interactions. After completing his bachelors, David worked as a cancer biologist at the Huntsman Cancer Institute studying network motifs in small-cell lung cancer with Dr. Trudy Oliver. His current research at MIT will focus on better understanding high-valent iron enzymes. David is an NSF fellow.

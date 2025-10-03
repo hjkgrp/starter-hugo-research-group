@@ -6,7 +6,7 @@ subtitle: ''
 summary: ''
 authors:
 - Tomoaki Sakurada
-- WWatcharaphol Paritmongkol
+- Watcharaphol Paritmongkol
 - yscho
 - Woo Seok Lee
 - Petcharaphorn Chatsiri
