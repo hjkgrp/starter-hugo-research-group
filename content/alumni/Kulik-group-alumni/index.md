@@ -11,6 +11,7 @@ show_date: false
 | Sule Atahan-Evrenk                                                  |  VS   | Software Engineer at TEKsystems                                                                                         |
 | Anna Bair                                                           |  UROP | MIT S.B. '23 and now gradaute student at UC Berkeley                                                                    |
 | [Akash Bajaj](/author/akash-bajaj)                                  |  GS   | Ph.D. '21 and now Applied Data Scientist at dunnhumby                                                                   |
+| [Gerel Bayarmagnai](/author/gerel-bayarmagnai)                      |  UROP | MIT S.B. expected '27                                                                                                   |
 | Naomi Bright                                                        |  UROP | MIT S.B. '19 and now Business Development Associate at BASF Bioservices                                                 |
 | José Caetano                                                        |  VS   | PhD student MIT-Portugal                                                                                               |
 | [Lydia Chan](/author/lydia-chan/)                                   |  SS   | Troy HS '18 and now Software Engineer at Tesla                                                                          |
@@ -38,11 +39,13 @@ show_date: false
 | [Shih-Peng Huang](/author/shih-peng-huang/)                         |  UROP | MIT SB ‘25                                                                                                             |
 | [Efthymios Ioannidis](/author/efthymios-i.-ioannidis/)              |  GS   | Ph.D. ‘16 ChemE MBA ‘18 and now co-founder at HOMLI                                                                    |
 | [Jon Paul Janet](/author/jon-paul-janet)                            |  GS   | Ph.D. ‘19 ChemE and now Associate Director at AstraZeneca                                                              |
+| [Huiwon Jang](/author/huiwon-jang/)                                 |  VS   | Ph.D. student in Chemical and Biomolecular Engineering at the Korea Advanced Institute of Science and Technology (KAIST)|
 | [Mugyeom Jeon](/author/mugyeom-jeon/)                               |  UROP | MIT Chemistry SB expected ‘25                                                                                          |
 | [Haojun Jia](/author/haojun-jia/)                                   |  GS   | Ph.D. ‘24 Chemistry and now co-founder at Deep Principle                                                               |
 | [Yu Jin](https://galligroup.uchicago.edu/People/yjin.php)           |  SS   | Peking University BS ‘18 Chemistry and now Postdoctoral Research Scholar at UChicago                                   |
 | Jelissa Kamguem                                                     |  UROP | Lafayette College ChemE BS ‘23 and  now PhD student Cornell University ChemE                                           |
 | [Maria Karelina](/author/maria-karelina/)                           |  UROP | MIT SB ‘17 Biology/EECS (6-7) and now Ph.D. Student in Stanford Biophysics (Dror Group)                                |
+| [David Kastner](/author/david-kastner/)                             |  GS   | Ph.D. '25 Bioengineering and now startup    |
 | [Ilia Kevlishvili](/author/ilia-kevlishvili/)                       |  PD   | [Assistant Professor at Baylor University Department of Chemistry and Biochemistry](https://chemistry.artsandsciences.baylor.edu/person/ilia-kevlishvili-phd)   |
 | [Allison Keys](/author/allison-keys)                                |  GS.  | Ph.D. '25 CSB and now Senior Computational Chemistry Research Scientist at Genesis Therapeutics                        |
 | [Irem Kilic](/author/irem-b.-kilic/)                                |  SS   | Bogazici University  ‘23 and now PhD Student at Northeastern University                                                |

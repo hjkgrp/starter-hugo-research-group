@@ -70,7 +70,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Undergraduate Students
+- Alumni
 ---
 
 I’m a member of the MIT Class of 2027 with a strong interest in materials science and computational chemical engineering. I’m curious about how computation, modeling, and data science can be applied to accelerate innovation in materials and solve challenges in chemistry and energy.

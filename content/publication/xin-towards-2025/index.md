@@ -1,20 +1,17 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'Exploring beyond experiment: generating high-quality datasets of transition metal complexes with quantum chemistry and machine learning' 
+title: 'Towards agentic science for advancing scientific discovery'
 subtitle: ''
 summary: ''
 authors:
-- jwt
-- aarongar
-- weiliang
-- rolan701
-- Sukrit Mukhopadhyay
+- Hongliang Xin
+- John R. Kitchin
 - admin
 
 tags: []
 categories: []
-date: '2025-08-01'
+date: '2025-09-10'
 lastmod: 
 featured: false
 draft: false
@@ -35,11 +32,12 @@ image:
 projects: []
 publishDate: 
 publication_types:
-- '3'
-abstract: ''
-publication: '*submitted*'
-#doi: 10.1021/jacs.2c11858
+- '2'
+abstract: 'Artificial intelligence is transforming scientific discovery through (semi-)autonomous agents capable of reasoning, planning, and interacting with digital and physical environments. This Comment explores the foundations and frontiers of agentic science, outlining its emerging directions, current limitations, and the pathways for responsible integration into scientific practice.'
+publication: '*Nat. Mach. Intell.*, **7**, 1373--1375 (2025)'
+doi: 10.1038/s42256-025-01110-x
+url_pdf: https://www.nature.com/articles/s42256-025-01110-x.pdf
 #links:
 #- name: ChemRxiv
-#  url: https://chemrxiv.org/engage/chemrxiv/article-details/66382d3c91aefa6ce1408a72
+#  url: https://doi.org/10.26434/chemrxiv-2025-mkrnn
 ---

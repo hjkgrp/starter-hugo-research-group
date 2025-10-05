@@ -1,23 +1,23 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Excitonic anisotropy in single-crystalline 2D silver phenylchalcogenides
+title: 'Out-of-Equilibrium Confinement Catalysis Mediated by Compressive Force'
 subtitle: ''
 summary: ''
 authors:
-- W. S. Lee
-- yscho
-- K. Posmyk
-- P. Peksa
-- M. Dyksik
-- N. Samulewicz
-- P. Plochocka
-- M. Baranowski
+- fz_liu
+- S. Li
+- Y. Zhu
+- Y. Liu
+- J. Wang
 - admin
-- William A. Tisdale 
+- K.K. Yan
+
+
+
 tags: []
 categories: []
-date: '2025-09-15'
+date: '2025-09-01'
 lastmod: 
 featured: false
 draft: false
@@ -38,11 +38,11 @@ image:
 projects: []
 publishDate: 
 publication_types:
-- '2'
+- '3'
 abstract: ''
-publication: '*Adv. Opt. Mater.*, **in press**'
+publication: '*submitted*'
 #doi: 10.1021/jacs.2c11858
 #links:
 #- name: ChemRxiv
-#  url: https://doi.org/10.26434/chemrxiv-2025-mkrnn
+#  url: https://chemrxiv.org/engage/chemrxiv/article-details/66382d3c91aefa6ce1408a72
 ---

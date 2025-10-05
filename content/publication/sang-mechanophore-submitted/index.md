@@ -1,21 +1,31 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'Turning 2D MOFs into Mixed Ionic-Electronic Conductors via Sidechain Engineering' 
+title: 'Mechanophore cross-linking enhances ballistic energy dissipation of polymers'
 subtitle: ''
 summary: ''
 authors:
-- H. Roh
-- A. Y. Su
-- ohch
-- J. J. Oppenheim
+- Z. Sang
+- S. Nguyen
+- K. Ko
+- S. Lin
+- H. Jang
+- S. Gonzalez-Zapata
+- S. Fitz
+- Y. Kai
+- S. Kooi
+- C. Deng
+- M. Olvera de la Cruz
+- M. Koslowski
 - admin
-- A. Gumyusenge
-- M. Dincǎ
+- S. L. Craig
+- K. A. Nelson*
+- J. A. Johnson
+
 
 tags: []
 categories: []
-date: '2025-08-01'
+date: '2025-09-01'
 lastmod: 
 featured: false
 draft: false

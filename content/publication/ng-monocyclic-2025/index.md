@@ -21,7 +21,7 @@ authors:
 - Corinna S. Schindler 
 tags: []
 categories: []
-date: '2025-06-17'
+date: '2025-08-20'
 lastmod: 
 featured: false
 draft: false
@@ -44,8 +44,9 @@ publishDate:
 publication_types:
 - '2'
 abstract: 'The recent rise in popularity of azetidines in pharmaceutical chemistry has inspired the development of visible-light-mediated aza Paternò-Büchi reactions as direct transformations to form these desirable products. Despite these advancements, successful reports of accessing monocyclic azetidines from acyclic imines remain scarce. Here, we report a visible-light-mediated aza Paternò-Büchi reaction of acyclic ketone-derived sulfonylimines, which are previously unexplored substrates in this transformation, with activated alkenes (i.e., styrenes and dienes) to form 2,2-disubstituted monocyclic azetidines that can be further modified to reveal free N–H azetidines. Computational and experimental mechanistic studies reveal that in contrast to aldehyde-derived oximes, the use of ketone-derived sulfonylimines enables tuning of the reaction mechanism to favor initial formation of the C–N rather than C–C bond, thus enabling access to 2,2-disubstituted monocyclic azetidine scaffolds.'
-publication: '*J. Am. Chem. Soc.*, **in press**'
+publication: '*J. Am. Chem. Soc.*, **147**, 29722--29731 (2025)'
 doi: 10.1021/jacs.5c04692
+url_pdf: https://pubs.acs.org/doi/pdf/10.1021/jacs.5c04692?ref=article_openPDF
 #links:
 #- name: ChemRxiv
 #  url: https://doi.org/10.26434/chemrxiv-2024-j366f

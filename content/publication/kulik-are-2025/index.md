@@ -1,25 +1,14 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Systematic Bandgap Engineering of a 2D Organic-Inorganic Chalcogenide Semiconductor via Ligand Modification
+title: Are we there yet? Adventures on a road trip through machine learning as a computational chemist
 subtitle: ''
 summary: ''
 authors:
-- T. Sakurada
-- W. Paritmongkol
-- yscho
-- W. S. Lee
-- P. Chatsiri
-- J. J. Oppenheim
-- R. Wan
-- A. Su
-- P. Müller
-- Mircea Dincǎ
 - admin
-- William A. Tisdale 
-tags: []
+tags:
 categories: []
-date: '2025-05-01'
+date: 2025-09-01
 lastmod: 
 featured: false
 draft: false
@@ -40,11 +29,9 @@ image:
 projects: []
 publishDate: 
 publication_types:
-- '3'
+- '2'
 abstract: ''
-publication: '*submitted*'
-#doi: 10.1021/jacs.2c11858
-#links:
-#- name: ChemRxiv
-#  url: https://doi.org/10.26434/chemrxiv-2025-mkrnn
+publication: '*APL Comput. Phys.*, **in press**'
+#url_pdf: https://link.springer.com/content/pdf/10.1557/s43578-025-01568-w.pdf
+#doi: 10.1557/s43578-025-01568-w
 ---
