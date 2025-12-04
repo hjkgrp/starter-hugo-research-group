@@ -36,6 +36,9 @@ main:
   - name: molSimplify
     url: https://molsimplify.mit.edu
     weight: 40
+  - name: MOFSimplify
+    url: https://mofsimplify.mit.edu
+    weight: 45
   - identifier: pubs
     name: Publications
     url: publication

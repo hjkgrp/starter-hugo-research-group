@@ -22,7 +22,7 @@ authors:
 
 tags: []
 categories: []
-date: '2025-10-01'
+date: '2025-11-01'
 lastmod: 
 featured: false
 draft: false
@@ -43,9 +43,9 @@ image:
 projects: []
 publishDate: 
 publication_types:
-- '3'
+- '2'
 abstract: 
-publication: '*submitted*'
+publication: '*in press*'
 #doi: 10.1021/jacs.2c11858
 links:
 - name: bioRxiv
