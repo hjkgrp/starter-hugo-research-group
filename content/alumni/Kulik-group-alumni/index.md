@@ -21,6 +21,7 @@ show_date: false
 | [Yeoungsu Cho](/author/yeongsu-cho)                                 |  PD   | [Assistant Professor of Chemistry at the University of Houston](http://ysc.chem.uh.edu/)                                |
 | [Daniel B. K. Chu](/author/daniel-b.-k.-chu/)                       |  GS   | Ph.D. '25 ChemE and now postdoctoral fellow at Tel Aviv University                                                     |
 | [Yael Cytter](/author/yael-cytter)                                  |  PD   | Research Scientist in Israel                                                                                           |
+| [Samir Darouich](/author/samir-darouich)                              |  VS   | PhD Student at University of Stuttgart                                                                                 |
 | Gozel Dovranova                                                     |  UROP | MIT S.B. ChemE expected '26                                                                                            |
 | [Chenru Duan](/author/chenru-duan)                                  |  GS   | co-founder at Deep Principle                                                                                            |
 | [Freya Edholm](/author/freya-edholm)                                |  UROP | MIT ChemE SB ‘23  and now MIT CSE S.M. Student                                                                         |
@@ -45,7 +46,7 @@ show_date: false
 | [Yu Jin](https://galligroup.uchicago.edu/People/yjin.php)           |  SS   | Peking University BS ‘18 Chemistry and now Postdoctoral Research Scholar at UChicago                                   |
 | Jelissa Kamguem                                                     |  UROP | Lafayette College ChemE BS ‘23 and  now PhD student Cornell University ChemE                                           |
 | [Maria Karelina](/author/maria-karelina/)                           |  UROP | MIT SB ‘17 Biology/EECS (6-7) and now Ph.D. Student in Stanford Biophysics (Dror Group)                                |
-| [David Kastner](/author/david-kastner/)                             |  GS   | Ph.D. '25 Bioengineering and now startup    |
+| [David Kastner](/author/david-kastner/)                             |  GS   | Ph.D. '25 Bioengineering and now founding member of technical team at Voltaris|
 | [Ilia Kevlishvili](/author/ilia-kevlishvili/)                       |  PD   | [Assistant Professor at Baylor University Department of Chemistry and Biochemistry](https://chemistry.artsandsciences.baylor.edu/person/ilia-kevlishvili-phd)   |
 | [Allison Keys](/author/allison-keys)                                |  GS.  | Ph.D. '25 CSB and now Senior Computational Chemistry Research Scientist at Genesis Therapeutics                        |
 | [Irem Kilic](/author/irem-b.-kilic/)                                |  SS   | Bogazici University  ‘23 and now PhD Student at Northeastern University                                                |
@@ -86,7 +87,7 @@ show_date: false
 | Shaheer Syed                                                        |  UROP | Mount St. Mary’s University BS ‘24 and now Bioinformatician at National Biodefense Analysis and Countermeasures Center |
 | [Michael Taylor](/author/michael-g.-taylor)                         |  PD   | Staff Scientist at Los Alamos National Lab                                                                             |
 | [Jakob Teetz](/author/jakob-teetz/)                                 |  MS   | ETH Zürich MS in Chemistry ‘24 and now PhD Student at ETH Zurich                                                       |
-| [Gianmarco Terrones](/author/gianmarco-terrones)                    |  GS   | Ph.D. ‘25 ChemE                                                                                                        |
+| [Gianmarco Terrones](/author/gianmarco-terrones)                    |  GS   | Ph.D. ‘25 ChemE and now Computational Software Test Engineer at Ramona Optics                                          |
 | Titus Tsai                                                          |  UROP | MIT Chemistry SB expected ‘26                                                                                          |
 | [Vyshnavi Vennelakanti](/author/vyshnavi-vennelakanti)              |  GS   | Ph.D. ‘23 Chemistry and now Postdoctoral Associate with Emily Carter at Princeton                                      |
 | Ava Waggett                                                         |  UROP | MIT SB ‘19 ChemE and now MS University of Washington                                                                   |

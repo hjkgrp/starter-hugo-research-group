@@ -68,7 +68,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Visitors
+- Alumni
 ---
 
 I am a PhD student in Theoretical Chemistry and Machine Learning at the University of Stuttgart, where I also earned my Bachelor’s and Master’s degrees in Chemical Engineering. My research centers on developing machine learning approaches to elucidate chemical reactivity, with a focus on transition states and generative modeling. Prior to my doctoral studies, I worked extensively in molecular modeling with classical force fields, from their development to applying them for predicting interfacial phenomena in materials and industrial processes.
