@@ -11,7 +11,7 @@ authors:
 - V. Chang
 - Y. Lai
 - T. N. Nguyen
-- Y. Roman-Leshkov
+- Yuriy Roman-Leshkov
 - admin
 - J.-H. Lee
 - P. J. Milner

@@ -1,23 +1,25 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Controlled Gel Toughening with Tetrafunctional Cyclobutane Mechanophores
+title: 'Helical Complex Ladder Polymer with Amplified Chirality' 
 subtitle: ''
 summary: ''
 authors:
-- Abraham Herzog-Arbeitman
-- iliak
-- Devosmita Sen
-- Julianna Lian
-- Joshika Chakraverty
-- Shu Wang
-- Bradley D. Olsen
+- Y. Wang
+- Y. Xie
+- Y. Chen
+- ohch
+- Q. Fang
+- K. Chivukula
+- H. Zhang
+- C. Zhao
+- S. Zhang
+- N. Ananth
 - admin
-- Stephen L. Craig
-- Jeremiah A. Johnson
+- Y. Zhong
 tags: []
 categories: []
-date: '2025-09-01'
+date: '2025-10-01'
 lastmod: 
 featured: false
 draft: false
@@ -38,11 +40,11 @@ image:
 projects: []
 publishDate: 
 publication_types:
-- '2'
+- '3'
 abstract: ''
-publication: '*Nature Chem.*, **in press**'
+publication: '*submitted*'
 #doi: 10.1021/jacs.2c11858
 links:
-- name: ChemRxiv
-  url: https://doi.org/10.26434/chemrxiv-2024-j366f
+#- name: ChemRxiv
+#  url: https://chemrxiv.org/engage/chemrxiv/article-details/66382d3c91aefa6ce1408a72
 ---
