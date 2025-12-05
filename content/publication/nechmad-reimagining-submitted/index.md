@@ -61,7 +61,7 @@ publishDate:
 publication_types:
 - '2'
 abstract: ''
-publication: '*in press*'
+publication: '*Macromolecules*, **in press**'
 #doi: 10.1021/jacs.2c11858
 #links:
 #- name: ChemRxiv

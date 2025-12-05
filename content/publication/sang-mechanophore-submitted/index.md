@@ -19,7 +19,7 @@ authors:
 - M. Koslowski
 - admin
 - S. L. Craig
-- K. A. Nelson*
+- K. A. Nelson
 - J. A. Johnson
 
 
