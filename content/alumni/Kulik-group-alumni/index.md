@@ -21,7 +21,7 @@ show_date: false
 | [Yeoungsu Cho](/author/yeongsu-cho)                                 |  PD   | [Assistant Professor of Chemistry at the University of Houston](http://ysc.chem.uh.edu/)                                |
 | [Daniel B. K. Chu](/author/daniel-b.-k.-chu/)                       |  GS   | Ph.D. '25 ChemE and now postdoctoral fellow at Tel Aviv University                                                     |
 | [Yael Cytter](/author/yael-cytter)                                  |  PD   | Research Scientist in Israel                                                                                           |
-| [Samir Darouich](/author/samir-darouich)                              |  VS   | PhD Student at University of Stuttgart                                                                                 |
+| [Samir Darouich](/author/samir-darouich)                            |  VS   | PhD Student at University of Stuttgart                                                                                 |
 | Gozel Dovranova                                                     |  UROP | MIT S.B. ChemE expected '26                                                                                            |
 | [Chenru Duan](/author/chenru-duan)                                  |  GS   | co-founder at Deep Principle                                                                                            |
 | [Freya Edholm](/author/freya-edholm)                                |  UROP | MIT ChemE SB ‘23  and now MIT CSE S.M. Student                                                                         |
