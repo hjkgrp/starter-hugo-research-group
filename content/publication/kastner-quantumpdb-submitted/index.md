@@ -1,40 +1,16 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'Reimagining Polymer Networks from Molecule to Material' 
+title: 'QuantumPDB: A Workflow for High-Throughput Quantum Cluster Model Generation from Protein Structures' 
 subtitle: ''
 summary: ''
 authors:
-- N. B. Nechmad
-- L. M. Campos
-- S. L. Craig
-- C. Deng
-- J. Diodati
-- S. D. Ekim
-- E. Garcia-Villatoro
-- J. P. Gong
-- A. Herzog-Arbeitman
-- x_huang
-- J. A. Johnson
-- J. A. Kalow
-- R. E. Kemmerling
-- iliak
-- A. P. Kitos Vasconcelos
-- R. Klausen
+- kastner
+- weiliang
+- wilson
+- clorice
+- allikeys
 - admin
-- J. Leganes Bayon
-- Y. Ma
-- E. Mcfee
-- J. Mendenhall
-- J. S. Moore
-- A. Nelson
-- B. D. Olsen
-- M. Rubenstein
-- C. S. Schindler
-- N. R. Sottos
-- N. F. Steinmetz
-- S. Wei
-- F. Xie 
 
 tags: []
 categories: []
@@ -59,11 +35,11 @@ image:
 projects: []
 publishDate: 
 publication_types:
-- '2'
+- '3'
 abstract: ''
-publication: '*Macromolecules*, **in press**'
+publication: '*submitted*'
 #doi: 10.1021/jacs.2c11858
 #links:
-#- name: ChemRxiv
-#  url: https://chemrxiv.org/engage/chemrxiv/article-details/66382d3c91aefa6ce1408a72
+#- name: arXiv
+#  url: https://arxiv.org/abs/2507.19799
 ---
