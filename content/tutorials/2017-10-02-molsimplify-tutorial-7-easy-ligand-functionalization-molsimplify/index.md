@@ -94,7 +94,7 @@ We notice that the decoration ends up on the first ligand that we listed (pyridi
 We can also add multiple groups. We’re going to add a CO group at the 9 position as well. We can do this by providing a pair of SMILES strings and a pair of indices. In order to avoid ambiguity in the case with multiple ligands, you need to group these with brackets:
 
 
-`molsimplify -core Fe -lig pyridine chloride -ligocc 4 2 -decoration [Cl,CO] -decoration_index [7,9]`
+`molsimplify -core Fe -lig pyridine chloride -ligocc 4 2 -decoration '[Cl,CO]' -decoration_index '[7,9]'`
 
 
 ![](only_pyr_cl_co.png)
