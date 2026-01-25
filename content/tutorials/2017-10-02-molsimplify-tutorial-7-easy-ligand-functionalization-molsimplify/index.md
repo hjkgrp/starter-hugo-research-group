@@ -68,7 +68,7 @@ Remember to choose correct spin multiplicities to account for the one fewer elec
 
 **Decorating a single site in a single ligand:**
 
-Consider our pyridine ligand. We are showing an eample that shows atom indices. This view was produced in pymol, where you can view atom indicies by setting the label to atom index:
+Consider our pyridine ligand. We are showing an example that shows atom indices. This view was produced in pymol, where you can view atom indicies by setting the label to atom index:
 
 
 ![](lpyr.png)
