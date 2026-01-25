@@ -108,7 +108,7 @@ We can see that our decoration is applied to all the pyridine ligands. Let's see
 
 **Decorating a single site in multiple ligands:**
 
-Additions to multiple liga1nds can be done by giving a list of SMILES and locations, separated by a space. We will demonstrate how this would work with the following example, where we have given 3 different pyridine molecules as ligands:
+Additions to multiple ligands can be done by giving a list of SMILES and locations, separated by a space. We will demonstrate how this would work with the following example, where we have given 3 different pyridine molecules as ligands:
 
 
 `molsimplify -core Fe -lig pyridine pyridine pyridine chloride -ligocc 1 1 2 2 -decoration Cl CO -decoration_index 7 9`
