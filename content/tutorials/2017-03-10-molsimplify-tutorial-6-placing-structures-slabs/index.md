@@ -57,7 +57,7 @@ but we have provided them all in `geos.zip`. You can also generate a slab and do
 `molsimplify –i [input file name]`
 
 
-First, let’s place a CO molecule on the surface. Our most basic call to the placement module must specify 1) a path to our target molecule 2) how to place it and 3) what attachment points on the object and surface to use. Here, we set `-target_molecule` to point to [co.xyz](co.xyz), and selected that we want a centered placement, specified by the `-align_method center` (with C-connecting to one surface Pd). The required input file is given as [1co.in](1co.in), and this produces the left pane of Figure 1. The slab builder will write the loaded cell and input files to a folder called loaded in the default molSimplify run directory (control this with `-rundir YOUR/PATH`).
+First, let’s place a CO molecule on the surface. Our most basic call to the placement module must specify 1) a path to our target molecule 2) how to place it and 3) what attachment points on the object and surface to use. Here, we set `-target_molecule` to point to [co.xyz](co.xyz), and selected that we want a centered placement, specified by the `-align_method center` (with C-connecting to one surface Pd). The required input file is given as [1co.in](1co.in), and this produces the left pane of Figure 1. The slab builder will write the loaded cell and input files to a folder called loaded_slab/ in the default molSimplify run directory (control this with `-rundir YOUR/PATH`).
 
 
 ![](tut_6_fig_1.png)
