@@ -120,6 +120,6 @@ The three repeats of pyridine, and the three matching `–ligocc` values, are ne
 ![](compl.png)
 
 
-I hope you found this structure building tutorial helpful. If you have any questions about this tutorial or molsimplify, please [email us](mailto:molsimplify@mit.edu?subject=molsimplify%20ligand%20functionalization%20tutorial%20questions)!
+I hope you found this structure building tutorial helpful. If you have any questions about this tutorial or molSimplify, please [email us](mailto:molsimplify@mit.edu?subject=molsimplify%20ligand%20functionalization%20tutorial%20questions)!
 
 

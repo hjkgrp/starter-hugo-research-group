@@ -86,7 +86,7 @@ categories:
 ```
 
 
-Here, the `-c` indicates that the package will come from the Anaconda cloud and `hjkgroup` indicates our cloud account. All required dependencies, including OpenBabel and SciPy, will also be automatically installed. This will download a static image from conda that gets periodically updated. You can visit this link: [https://anaconda.org/hjkgroup/molsimplify](https://anaconda.org/hjkgroup/molsimplify ) which will give you the details of our conda image.
+Here, the `-c` indicates that the package will come from the Anaconda cloud and `hjkgroup` indicates our cloud account. All required dependencies, including OpenBabel and SciPy, will also be automatically installed. This will download a static image from conda that gets periodically updated. You can visit this link: [https://anaconda.org/hjkgroup/molsimplify](https://anaconda.org/hjkgroup/molsimplify) which will give you the details of our conda image.
 
 
 When you use conda environments, you must activate your molSimplify environment before use (and again every time you close your terminal session or deactivate the environment). This environment will prevent the installation from conflicting with other Python-based software on your computer. Note that if you would like to use the molSimplify GUI, PyQt5 needs to be installed separately (see below).
@@ -129,12 +129,12 @@ Now you can launch the GUI by calling molSimplify without any arguments (the com
 	1. Running this will result in something that says: "Hello from Docker! This message shows that your installation appears to be working correctly."
 5. Make the folder where you want your molSimplify to dump the files (a folder to place geometries and input files outputted by molSimplify.). Pick an easy to find location. Find the path of this folder, you will use it in the following step. I am going to dump my files at `/Users/molSimplifyUser/Desktop/dockertest` --> which I will call **MYFILEPATH.**
 	1. You can open up a terminal and use bash commands like `mkdir` to make a directory where you want your files dumped. You can then use `cd` to go to the directory where you want those files dumped (aka **MYFILEPATH**). Use `pwd` to get the path (which would replace **MYFILEPATH**).
-6. Next, run the following command, which should give you the molsimplify container. Replace the section that says **MYFILEPATH** with your path for where you want to dump your structures and input files. The below command will make a container that is titled "my\_container." Keep the part that says hjkgroup/ after the -it flag... that is our dockerhub account.
+6. Next, run the following command, which should give you the molSimplify container. Replace the section that says **MYFILEPATH** with your path for where you want to dump your structures and input files. The below command will make a container that is titled "my\_container." Keep the part that says hjkgroup/ after the -it flag... that is our dockerhub account.
 	1. `docker run --name my_container -v MYFILEPATH:/root/Runs/ -it hjkgroup/molsimplify:latest`
 7. At this step, make sure you have the `-it` flag on. If you do not, then it cannot make the interactive docker environment that you want! You should copy the above line directly (starting from `docker`) and only replace **MYFILEPATH**.
 8. <---- Will download the docker container --->
 9. After this download is complete, the docker container is going to be running interactively.
-10. You will notice that you are in an environment with (molSimplify) on the left, followed by root@... This is good! You can use molsimplify now. Any files you make will show up in **MYFILEPATH** specified earlier. At this point, try building a structure. We can build our favorite Fe(II)(NH3)6 complex:
+10. You will notice that you are in an environment with (molSimplify) on the left, followed by root@... This is good! You can use molSimplify now. Any files you make will show up in **MYFILEPATH** specified earlier. At this point, try building a structure. We can build our favorite Fe(II)(NH3)6 complex:
 	1. `molsimplify -core fe -lig ammonia -ligocc 6 -ligloc True -oxstate II -spin 5`
 	2. Check if the files are present in **MYFILEPATH**!
 11. If you are done with the container and want to leave, simply type exit. This halts all running processes.
