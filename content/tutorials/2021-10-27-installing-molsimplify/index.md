@@ -134,7 +134,7 @@ Now you can launch the GUI by calling molSimplify without any arguments (the com
 7. At this step, make sure you have the `-it` flag on. If you do not, then it cannot make the interactive docker environment that you want! You should copy the above line directly (starting from `docker`) and only replace **MYFILEPATH**.
 8. <---- Will download the docker container --->
 9. After this download is complete, the docker container is going to be running interactively.
-10. You will notice that you are in an environment with (molSimplify) on the left, followed by root@... This is good! You can use molSimplify now. Any files you make will show up in **MYFILEPATH** specified earlier. At this point, try building a structure. We can build our favorite Fe(II)(NH3)6 complex:
+10. You will notice that you are in an environment with (molSimplify) on the left, followed by root@... This is good! You can use molSimplify now. Any files you make will show up in **MYFILEPATH** specified earlier. At this point, try building a structure. We can build our favorite Fe<sup>II</sup>(NH<sub>3</sub>)<sub>6</sub> complex:
 	1. `molsimplify -core fe -lig ammonia -ligocc 6 -ligloc True -oxstate II -spin 5`
 	2. Check if the files are present in **MYFILEPATH**!
 11. If you are done with the container and want to leave, simply type exit. This halts all running processes.

@@ -117,7 +117,7 @@ Note that in this case the exact provided 3D geometry will be used and molSimpli
 **4) Putting in all together**
 
 
-We can freely mix and match the above approaches. The hetroleptic complex with one copy of each ligand can be created with:
+We can freely mix and match the above approaches. The heteroleptic complex with one copy of each ligand can be created with:
 
 
 `(molsimplify)$ molsimplify -lig "CC(=O)[O-]" NACAC glycinate -ligocc 1 1 1 -smicat 3,4 -skipANN True`
