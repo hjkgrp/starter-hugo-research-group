@@ -155,7 +155,7 @@ from molSimplify.Classes.mol3D import mol3D
 
 octahedral = mol3D()
 
-octahedral.readfromxyz(‘Octahedral.xyz')
+octahedral.readfromxyz('Octahedral.xyz')
 
 print(octahedral.IsOct())
 ```
