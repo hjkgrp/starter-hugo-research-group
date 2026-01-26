@@ -79,7 +79,7 @@ The product should look like this, although your results may vary slightly becau
 ![](8_2.png)
 
 
-The replacement ligands can also be of lower denticity. Suppose we instead want to replace en with an NH3 and an OH2 ligand:
+The replacement ligands can also be of lower denticity. Suppose we instead want to replace en with an NH<sub>3</sub> and an OH<sub>2</sub> ligand:
 
 
 `molsimplify -core zncat -ccatoms 4,5 -lig ammonia,water -ligocc 1,1 -replig true -oxstate II -spin 1`

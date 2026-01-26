@@ -57,7 +57,7 @@ To start, we first need to add the custom core coordinates (either `.xyz` or `.m
 Alternatively, without the GUI, one can also copy the custom core file into the Cores subdirectory and manually add a new entry to cores.dict by specifying the details of the custom core file following the format used in cores.dict, i.e., name: molfile, connection atom index, maximum denticity.
 
 
-After adding the custom core on GUI, close the GUI completely, and re-open it. Next, on the GUI, specify the custom core name and connection atoms that you just added, as well as the new functional group, as shown below. Here, we choose to keep Hs as the target methyl group is stored in our database as CH3. Also, check the `replace` box as we are replacing an FG with a new FG. While we have not checked the `FF optimize` option, you can choose to check this option.
+After adding the custom core on GUI, close the GUI completely, and re-open it. Next, on the GUI, specify the custom core name and connection atoms that you just added, as well as the new functional group, as shown below. Here, we choose to keep Hs as the target methyl group is stored in our database as CH<sub>3</sub>. Also, check the `replace` box as we are replacing an FG with a new FG. While we have not checked the `FF optimize` option, you can choose to check this option.
 
 
 ![](3-screenshot2.png)
