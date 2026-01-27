@@ -43,7 +43,7 @@ categories:
 ---
 In this follow up to our first [tutorial](../2016-12-02-molsimplify-tutorial-2-slab-builder/), we are going to describe how to use molSimplify to control the placement of molecules, atoms and complexes on surfaces. 
 
-We’ll assume you have followed the last tutorial and have a file containing the xyz coordinates of your surface (you might want to relax the surface geometry in a quantum chemistry code first, depending on your usecase). If you don’t have one handy, we’ll provide one here ([slab.xyz](slab.xyz)). You will also need the three cell vectors that describe the periodicity of your slab. If you generated your slab with molSimplify, they will be printed at the end of generation, and also in your quantum chemistry input file. Finally, you’ll also need some molecules to place on your surface. Here, we will start with a simple CO molecule ([co.xyz](co.xyz)). For more complex placement, we will use two different complexes – a tetrahedral pyramidal MnO<sub>5</sub> complex ([mno5.xyz](mno5.xyz)) and an iron porphyrin ([fepo.xyz](fepo.xyz)) complex. You could easily generate these two structures in molSimplify, for example with 
+We’ll assume you have followed the last tutorial and have a file containing the xyz coordinates of your surface (you might want to relax the surface geometry in a quantum chemistry code first, depending on your usecase). If you don’t have one handy, we’ll provide one here ([slab.xyz](slab.xyz)). You will also need the three cell vectors that describe the periodicity of your slab. If you generated your slab with molSimplify, they will be printed at the end of generation, and also in your quantum chemistry input file. Finally, you’ll also need some molecules to place on your surface. Here, we will start with a simple CO molecule ([co.xyz](co.xyz)). For more complex placement, we will use two different complexes – a tetrahedral pyramidal MnO<sub>5</sub> complex ([mno5.xyz](mno5.xyz)) and an iron porphyrin ([fepo.xyz](fepo.xyz)) complex. You can easily generate these two structures in molSimplify, for example with: 
 
 
 `molsimplify –core mn –lig O –ligocc 5 –coord 5 -geometry spy`
@@ -51,7 +51,7 @@ We’ll assume you have followed the last tutorial and have a file containing th
 `molsimplify –core fe –lig porphyrin –ligocc 1 –coord 4 -geometry sqp`
 
 
-but we have provided them all in `geos.zip`. You can also generate a slab and do placement at the same time, by combing the calls in this tutorial with the previous one. Before we begin, please ensure that you have [slab.xyz](slab.xyz), [co.xyz](co.xyz), [mno5.xyz](mno5.xyz) and [fepo.xyz](fepo.xyz) in your current directory (or edit our input files to point to the correct path). To run our input files, invoke them with
+ You can also generate a slab and do placement at the same time, by combing the calls in this tutorial with the previous one. Before we begin, please ensure that you have [slab.xyz](slab.xyz), [co.xyz](co.xyz), [mno5.xyz](mno5.xyz) and [fepo.xyz](fepo.xyz) in your current directory (or edit our input files to point to the correct path). To run our input files, invoke them with
 
 
 `molsimplify –i [input file name]`
