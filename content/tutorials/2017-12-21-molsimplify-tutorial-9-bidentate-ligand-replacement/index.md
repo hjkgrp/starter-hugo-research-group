@@ -61,7 +61,7 @@ Here, we’re going to use the command line interface, but this feature is also 
 
 
 
-`molsimplify -core zncat -ccatoms 4,5 -lig NCCCN –ligocc 1 -smicat "1,5" -replig true -oxstate II -spin 1 -geometry tbp`
+`molsimplify -core zncat -ccatoms 4,5 -lig NCCCN –ligocc 1 -smicat "1,5" -replig true -oxstate II -spin 1 -geometry tbp -ffoption L`
 
 
 The complex building and functionalization routines have been merged recently in an extensive reorganization of the code. Thus, the command above now does what we might intuitively expect: first removing the specified ligand, and then placing the new ligand as though it were building a complex from scratch.
