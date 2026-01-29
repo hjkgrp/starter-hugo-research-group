@@ -63,7 +63,8 @@ Here, we’re going to use the command line interface, but this feature is also 
 Note: This tutorial was written for molSimplify v1. The structure generation code was overhauled in molSimplify 2.0, but the original functionality of the code can be accessed by passing the keyword `legacy` to molSimplify at the command line. This change has been made to the code snippets in this tutorial.
 {{% /callout %}}
 
-`molsimplify legacy -core zncat -ccatoms 4,5 -lig NCCCN –ligocc 1 -smicat "1,5" -replig true -oxstate II -spin 1 -geometry tbp`
+
+`molsimplify legacy -core zncat -ccatoms 4,5 -lig NCCCN –ligocc 1 -smicat "1,5" -replig true -oxstate II -spin 1 -geometry tbp -ffoption L`
 
 
 The complex building and functionalization routines have been merged recently in an extensive reorganization of the code. Thus, the command above now does what we might intuitively expect: first removing the specified ligand, and then placing the new ligand as though it were building a complex from scratch.
