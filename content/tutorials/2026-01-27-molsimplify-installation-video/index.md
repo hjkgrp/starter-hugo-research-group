@@ -38,6 +38,7 @@ tags:
 
 categories:
 - tutorials
+- molsimplify-tutorials
 
 ---
 
