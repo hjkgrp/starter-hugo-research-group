@@ -34,7 +34,7 @@ authors:
 - rolan701
 
 tags:
-- molsimplify-tutorials
+- molsimplify
 
 categories:
 - tutorials
