@@ -14,7 +14,7 @@ projects: []
 date: '2016-12-25T00:00:00Z'
 
 # Date updated
-lastmod: 
+lastmod: 2026-01-29
 
 # Is this an unpublished draft?
 draft: false
@@ -68,8 +68,11 @@ Now click `Generate`, and the generated structure should look like this:
 
 ![](3-struct.png)
 
+{{% callout note %}}
+Note: This tutorial was written for molSimplify v1. The structure generation code was overhauled in molSimplify 2.0, but the original functionality of the code can be accessed by passing the keyword `legacy` to molSimplify at the command line. This change has been made to the code snippets in this tutorial.
+{{% /callout %}}
 
-Relevant command line options are as follows. You can use `molsimplify -i commands.in` using the file `commands.in` indicated below ([commands.in](commands.in)). Note that comments are not permitted in `.in` files, and therefore anything after the `#` should be deleted in your file.
+Relevant command line options are as follows. You can use `molsimplify legacy -i commands.in` using the file `commands.in` indicated below ([commands.in](commands.in)). Note that comments are not permitted in `.in` files, and therefore anything after the `#` should be deleted in your file.
 
 ```
 -core ferrcore # custom core name  
