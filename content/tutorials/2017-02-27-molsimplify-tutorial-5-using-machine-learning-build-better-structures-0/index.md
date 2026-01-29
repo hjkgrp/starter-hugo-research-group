@@ -14,7 +14,7 @@ projects: []
 date: 2017-02-27
 
 # Date updated
-lastmod: 
+lastmod: 2026-01-29
 
 # Is this an unpublished draft?
 draft: false
@@ -59,8 +59,12 @@ Achieving the right mix of descriptors is tricky and work finding an optimal bal
 
 The ANN in molSimplify is automatically activated for any suitable complex – which is limited at this stage to octahedral first-row transition metal complexes (Cr to Co in (II) and (III) oxidation states and Ni(II) only) with symmetric axial and equatorial ligands. In order to demonstrate, let’s consider an Fe(III) complex with an arbitrary ligand from a SMILES string, `c1(nn[nH]n1)c1ncccc1`. We specify the connecting atoms for this bidentate ligand to be nitrogen atoms with the line `–smicat 7,2`. You could enter this in the command line or through the GUI, but here we’ll provide an input file that has all the work done for you already. Simplify [download it here](ann_tutorial.in) and invoke
 
+{{% callout note %}}
+Note: This tutorial was written for molSimplify v1. The structure generation code was overhauled in molSimplify 2.0, but the original functionality of the code can be accessed by passing the keyword `legacy` to molSimplify at the command line. This change has been made to the code snippets in this tutorial.
+{{% /callout %}}
 
-`molsimplify -i ann_tutorial.in`  
+
+`molsimplify legacy -i ann_tutorial.in`  
  
 
 

@@ -14,7 +14,7 @@ projects: []
 date: 2017-03-10
 
 # Date updated
-lastmod: 
+lastmod: 2026-01-29
 
 # Is this an unpublished draft?
 draft: false
@@ -45,16 +45,19 @@ In this follow up to our first [tutorial](../2016-12-02-molsimplify-tutorial-2-s
 
 We’ll assume you have followed the last tutorial and have a file containing the xyz coordinates of your surface (you might want to relax the surface geometry in a quantum chemistry code first, depending on your usecase). If you don’t have one handy, we’ll provide one here ([slab.xyz](slab.xyz)). You will also need the three cell vectors that describe the periodicity of your slab. If you generated your slab with molSimplify, they will be printed at the end of generation, and also in your quantum chemistry input file. Finally, you’ll also need some molecules to place on your surface. Here, we will start with a simple CO molecule ([co.xyz](co.xyz)). For more complex placement, we will use two different complexes – a tetrahedral pyramidal MnO<sub>5</sub> complex ([mno5.xyz](mno5.xyz)) and an iron porphyrin ([fepo.xyz](fepo.xyz)) complex. You can easily generate these two structures in molSimplify, for example with: 
 
+{{% callout note %}}
+Note: This tutorial was written for molSimplify v1. The structure generation code was overhauled in molSimplify 2.0, but the original functionality of the code can be accessed by passing the keyword `legacy` to molSimplify at the command line. This change has been made to the code snippets in this tutorial.
+{{% /callout %}}
 
-`molsimplify –core mn –lig O –ligocc 5 –coord 5 -geometry spy`
+`molsimplify legacy –core mn –lig O –ligocc 5 –coord 5 -geometry spy`
 
-`molsimplify –core fe –lig porphyrin –ligocc 1 –coord 4 -geometry sqp`
+`molsimplify legacy –core fe –lig porphyrin –ligocc 1 –coord 4 -geometry sqp`
 
 
  You can also generate a slab and do placement at the same time, by combing the calls in this tutorial with the previous one. Before we begin, please ensure that you have [slab.xyz](slab.xyz), [co.xyz](co.xyz), [mno5.xyz](mno5.xyz) and [fepo.xyz](fepo.xyz) in your current directory (or edit our input files to point to the correct path). To run our input files, invoke them with
 
 
-`molsimplify –i [input file name]`
+`molsimplify legacy –i [input file name]`
 
 
 First, let’s place a CO molecule on the surface. Our most basic call to the placement module must specify 1) a path to our target molecule 2) how to place it and 3) what attachment points on the object and surface to use. Here, we set `-target_molecule` to point to [co.xyz](co.xyz), and selected that we want a centered placement, specified by the `-align_method center` (with C-connecting to one surface Pd). The required input file is given as [1co.in](1co.in), and this produces the left pane of Figure 1. The slab builder will write the loaded cell and input files to a folder called loaded_slab/ in the default molSimplify run directory (control this with `-rundir YOUR/PATH`).
