@@ -3,5 +3,5 @@
 type: widget_page
 aliases: molSimplify-tutorials
 banner:
-  image: galaxy_UMAP.png
+  image: bottled.png
 ---

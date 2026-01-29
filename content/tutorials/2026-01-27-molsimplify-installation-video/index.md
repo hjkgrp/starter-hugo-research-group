@@ -28,7 +28,7 @@ image:
   caption: 
   focal_point: ""
   placement: 1
-  preview_only: false
+  preview_only: true
 
 authors:
 - rolan701
@@ -38,6 +38,7 @@ tags:
 
 categories:
 - tutorials
+- molsimplify-tutorials
 
 ---
 

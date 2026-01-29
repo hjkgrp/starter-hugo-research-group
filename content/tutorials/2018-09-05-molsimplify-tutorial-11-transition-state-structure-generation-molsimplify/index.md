@@ -37,7 +37,7 @@ tags:
 - molsimplify
 
 categories:
-- molsimplify-tutorials
+- molsimplify-legacy-tutorials
 - tutorials
 
 ---

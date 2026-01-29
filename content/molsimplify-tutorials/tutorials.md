@@ -33,3 +33,4 @@ design:
   background:
     color: white
 ---
+The tutorial videos here describe the installation and basic functionality of molSimplify and have been updated for molSimplify 2.0. Our older tutorials can be found in our [master list](/tutorials) of tutorials and are collected on a page for [legacy tutorials](/category/molsimplify-legacy-tutorials).
