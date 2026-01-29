@@ -14,7 +14,7 @@ projects: []
 date: 2017-12-21
 
 # Date updated
-lastmod: 
+lastmod: 2026-01-29
 
 # Is this an unpublished draft?
 draft: false
@@ -54,14 +54,17 @@ Today’s example involves the following Zn(II) intermediate in a model carbonic
 ![](8_1.png)
 
 
-Suppose that we would like to increase the chain length of one of the ethylenediamene (en) ligands, i.e., replace it with a 1,3-diaminopropane (SMILES: NCCCN) ligand. As with regular custom core functionalization, we first need to identify the connecting atoms of the original en ligand. As shown above, you can use your favorite visualization package such as Avogadro or PyMol, and we see that these are atoms 4 and 5. Alternatively, if you have PyQt5 installed, you can also click "draw ligands" from the main GUI window, or run `molsimplify -core zncat -drawmode` (also newly implemented) from the command line to get a vector graphic.
+Suppose that we would like to increase the chain length of one of the ethylenediamene (en) ligands, i.e., replace it with a 1,3-diaminopropane (SMILES: NCCCN) ligand. As with regular custom core functionalization, we first need to identify the connecting atoms of the original en ligand. As shown above, you can use your favorite visualization package such as Avogadro or PyMol, and we see that these are atoms 4 and 5. Alternatively, if you have PyQt5 installed, you can also click "draw ligands" from the main GUI window, or run `molsimplify legacy -core zncat -drawmode` (also newly implemented) from the command line to get a vector graphic.
 
 
 Here, we’re going to use the command line interface, but this feature is also available in the GUI (see the previous tutorial on custom core functionalization). The syntax is as follows:
 
+{{% callout note %}}
+Note: This tutorial was written for molSimplify v1. The structure generation code was overhauled in molSimplify 2.0, but the original functionality of the code can be accessed by passing the keyword `legacy` to molSimplify at the command line. This change has been made to the code snippets in this tutorial.
+{{% /callout %}}
 
 
-`molsimplify -core zncat -ccatoms 4,5 -lig NCCCN –ligocc 1 -smicat "1,5" -replig true -oxstate II -spin 1 -geometry tbp -ffoption L`
+`molsimplify legacy -core zncat -ccatoms 4,5 -lig NCCCN –ligocc 1 -smicat "1,5" -replig true -oxstate II -spin 1 -geometry tbp -ffoption L`
 
 
 The complex building and functionalization routines have been merged recently in an extensive reorganization of the code. Thus, the command above now does what we might intuitively expect: first removing the specified ligand, and then placing the new ligand as though it were building a complex from scratch.
@@ -82,7 +85,7 @@ The product should look like this, although your results may vary slightly becau
 The replacement ligands can also be of lower denticity. Suppose we instead want to replace en with an NH<sub>3</sub> and an OH<sub>2</sub> ligand:
 
 
-`molsimplify -core zncat -ccatoms 4,5 -lig ammonia,water -ligocc 1,1 -replig true -oxstate II -spin 1`
+`molsimplify legacy -core zncat -ccatoms 4,5 -lig ammonia,water -ligocc 1,1 -replig true -oxstate II -spin 1`
 
 
 The product should look like:

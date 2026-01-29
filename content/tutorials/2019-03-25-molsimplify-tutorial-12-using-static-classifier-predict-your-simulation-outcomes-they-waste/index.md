@@ -14,7 +14,7 @@ projects: []
 date: 2019-03-25
 
 # Date updated
-lastmod: 
+lastmod: 2026-01-29
 
 # Is this an unpublished draft?
 draft: false
@@ -52,8 +52,11 @@ To address this challenge, we built machine learning models to classify the simu
 
 Both the static classifier and LSE are implemented in molSimplify and are turned on by default when you generate a structure with molSimplify. The prediction probability, predicted class, and the LSE can be found in the report file (your\_structure\_name.report). For the tutorial of structure generation with molSimplify, please refer to [Tutorial 1](../2016-06-18-molsimplify-tutorial-1-structure-generation/). Currently, two types of static classifiers are implemented, one for the geometry stability and the other for the spin square deviation (<S^2>-S(S+1)), to address two common failure modes mentioned above separately. An example command line input for a six-coordination iron water complex with oxidation II and high spin is
 
+{{% callout note %}}
+Note: This tutorial was written for molSimplify v1. The structure generation code was overhauled in molSimplify 2.0, but the original functionality of the code can be accessed by passing the keyword `legacy` to molSimplify at the command line. This change has been made to the code snippets in this tutorial.
+{{% /callout %}}
 
-molsimplify -coord 6 -core fe -lig water -oxstate 2 -spin 5
+`molsimplify legacy -coord 6 -core fe -lig water -oxstate 2 -spin 5`
 
 
 We can find the predictions of the static classifiers in "fe_oct_2_water_6_s_5.report" as

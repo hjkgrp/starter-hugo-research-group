@@ -14,7 +14,7 @@ projects: []
 date: 2017-10-02
 
 # Date updated
-lastmod: 
+lastmod: 2026-01-29
 
 # Is this an unpublished draft?
 draft: false
@@ -50,14 +50,17 @@ One of the most common ways in which we can think about improving on a given mol
 
 For this tutorial, we will consider modifying the properties of an Fe complex, dichlorotetrakis iron, by functionalization of the pyridine as an example. We'll use this experimentally available heteroleptic complex because it will help show how to match ligands with decorations. We're going to use the command line interface since this feature is not available in the GUI. Once molSimplify is [set up](../2021-10-27-installing-molsimplify/), the first step is to build the basic complex. Since we are interested in spin splitting energy, we'll need to make a high and low spin version of this complex. This is easily done as follows:
 
+{{% callout note %}}
+Note: This tutorial was written for molSimplify v1. The structure generation code was overhauled in molSimplify 2.0, but the original functionality of the code can be accessed by passing the keyword `legacy` to molSimplify at the command line. This change has been made to the code snippets in this tutorial.
+{{% /callout %}}
 
-`molsimplify -core Fe -lig pyridine chloride -ligocc 4 2 -spin 1 5` 
+`molsimplify legacy -core Fe -lig pyridine chloride -ligocc 4 2 -spin 1 5` 
 
 
 You can see that the `-ligocc` argument indicates that we want two chloride groups and four pyridines, while the list of low (singlet, multiplicity=1) and high (quintet, multiplicity=5) spins tells molSimplify to generate geometries for both using our  [artificial neural network (ANN)](../2017-02-27-molsimplify-tutorial-5-using-machine-learning-build-better-structures-0/). Speaking of the ANN, we notice that it gives a predicted HS ground state with a spin splitting energy of -17.60 kcal/mol, and notice that the distance to the training data is 7.13, which indicates this result should be used with caution (this is mainly due to chloride groups, which tend to dissociate in gas-phase DFT optimizations and so are sparse in our data). We'll end up with geometries for both spin states. We note that molSimplify will assume a II oxidation state for iron by default. If we want to look at redox potentials as well, we will also need the oxidation state III versions, which we can obtain with the following slight modification:
 
 
-`molsimplify -core Fe -lig pyridine chloride -ligocc 4 2 -spin 2 6 -oxstate III`
+`molsimplify legacy -core Fe -lig pyridine chloride -ligocc 4 2 -spin 2 6 -oxstate III`
 
 
 ![](basic.png)
@@ -76,7 +79,7 @@ Consider our pyridine ligand. We are showing an example that shows atom indices.
 
 Let us replace the hydrogen in position 7 with a chloride group. We have implemented a simple syntax to control exact placement, and it works as follows. We need to give two arguments: a SMILES string describing the functionalization, and an index telling us where to place the group. The first atom in the SMILES string will be the new joining atom, and the atom given in the decoration index will be the atom to replace:
 
-`molsimplify -core Fe -lig pyridine chloride -ligocc 4 2 -decoration Cl -decoration_index 7`
+`molsimplify legacy -core Fe -lig pyridine chloride -ligocc 4 2 -decoration Cl -decoration_index 7`
 
 
 ![](pyr_cl.png)
@@ -94,7 +97,7 @@ We notice that the decoration ends up on the first ligand that we listed (pyridi
 We can also add multiple groups. We’re going to add a CO group at the 9 position as well. We can do this by providing a pair of SMILES strings and a pair of indices. In order to avoid ambiguity in the case with multiple ligands, you need to group these with brackets:
 
 
-`molsimplify -core Fe -lig pyridine chloride -ligocc 4 2 -decoration '[Cl,CO]' -decoration_index '[7,9]'`
+`molsimplify legacy -core Fe -lig pyridine chloride -ligocc 4 2 -decoration '[Cl,CO]' -decoration_index '[7,9]'`
 
 
 ![](only_pyr_cl_co.png)
@@ -111,7 +114,7 @@ We can see that our decoration is applied to all the pyridine ligands. Let's see
 Additions to multiple ligands can be done by giving a list of SMILES and locations, separated by a space. We will demonstrate how this would work with the following example, where we have given 3 different pyridine molecules as ligands:
 
 
-`molsimplify -core Fe -lig pyridine pyridine pyridine chloride -ligocc 1 1 2 2 -decoration Cl CO -decoration_index 7 9`
+`molsimplify legacy -core Fe -lig pyridine pyridine pyridine chloride -ligocc 1 1 2 2 -decoration Cl CO -decoration_index 7 9`
 
 
 The three repeats of pyridine, and the three matching `–ligocc` values, are needed because we have three different types of pyridine. This will produce one pyridine with the Cl decoration at position 7, one pyridine with the decoration at position 9 and 2 pyridines with no decoration, which gives the following result:
