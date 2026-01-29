@@ -99,6 +99,9 @@ The generated structure is shown here:
 Command Line Interface and Input-file-based Generation
 ------------------------------------------------------
 
+{{% callout note %}}
+Note: This tutorial was written for molSimplify v1. The structure generation code was overhauled in molSimplify 2.0, but the original functionality of the code can be accessed by passing the keyword `legacy` to molSimplify at the command line. This change has been made to the code snippets in this tutorial.
+{{% /callout %}}
 
 Next, we'll show how to use the input file generation. For the purposes of this tutorial, we've created a file for you called `example-1.in` that will generate a porphyrin with an imidazole ligand. You can download it here. Alternatively, one could also copy and rename the input file generated from running the GUI. The options can also be entered into the command line manually.
 
@@ -120,7 +123,7 @@ molSimplify input files contain one line per option (options that are not specif
 Now, ensure that you are in the directory that contains the example-1.in input file, and run the following in the command window:
 
 
-`molsimplify -i example-1.in`
+`molsimplify legacy -i example-1.in`
 
 Be sure to include the `-i` flag so that molSimplify will read the input file provided. If successful, you should get the same output as the previous GUI run. Job status is written to the command window.
 
@@ -143,9 +146,9 @@ In subsequent tutorials, we'll demonstrate other capabilities of molSimplify, in
 2) For SMILES string ligands, one can use the keyword  `smicat` to control which atoms should be connected to the metal. For example, `-smicat [[1, 4], [2, 7], [5], [1]]` tells molSimplify to generate a complex with two bidentate ligands in the equatorial plane and two monodentate ligands at the axial plane. For the first bidentate, the first and fourth atom in the SMILES string would be the connecting atoms (C and O for a SMILES string of `C=NCO`). 
 
 3) In the command line, you can enter a command like: 
-`molsimplify -core Fe -geometry li -lig benzene_pi -oxstate 2 -ligocc 2 -spin 0 -coord 2`. 
+`molsimplify legacy -core Fe -geometry li -lig benzene_pi -oxstate 2 -ligocc 2 -spin 0 -coord 2`. 
 One can also specify multiple types of ligands, with a command that looks like the following:
-`molsimplify -core Ir -oxstate 3 -spin 1 -geometry oct -lig h2o cl -ligocc 4 2 -coord 6`. 
+`molsimplify legacy -core Ir -oxstate 3 -spin 1 -geometry oct -lig h2o cl -ligocc 4 2 -coord 6`. 
 
 4) Available coordination geometries are present in `molSimplify/molSimplify/Data/coordinations.dict`. For more information, use the command `molsimplify -h` in the command line.
 
