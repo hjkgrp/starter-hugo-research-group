@@ -121,6 +121,9 @@ Now you can launch the GUI by calling molSimplify without any arguments (the com
 
 **Installation via Docker:**[Docker](https://hub.docker.com/) is the recommended mode of install for easy use of molSimplify without making any modifications. This version is platform independent, and will run as long as you can install docker. Following the exact instructions below step by step should allow you to get molSimplify running on your machine.
 
+{{% callout note %}}
+Note: This tutorial was written for molSimplify v1. The structure generation code was overhauled in molSimplify 2.0, but the original functionality of the code can be accessed by passing the keyword `legacy` to molSimplify at the command line. This change has been made to the code snippets in this tutorial.
+{{% /callout %}}
 
 1. Make a free account with docker: <https://hub.docker.com/>.
 2. Install docker for your OS. After you install docker correctly and open the application, **there should be a whale icon in your navigation bar.**
@@ -135,9 +138,6 @@ Now you can launch the GUI by calling molSimplify without any arguments (the com
 8. <---- Will download the docker container --->
 9. After this download is complete, the docker container is going to be running interactively.
 10. You will notice that you are in an environment with (molSimplify) on the left, followed by root@... This is good! You can use molSimplify now. Any files you make will show up in **MYFILEPATH** specified earlier. At this point, try building a structure. We can build our favorite Fe<sup>II</sup>(NH<sub>3</sub>)<sub>6</sub> complex:
-{{% callout note %}}
-Note: This tutorial was written for molSimplify v1. The structure generation code was overhauled in molSimplify 2.0, but the original functionality of the code can be accessed by passing the keyword `legacy` to molSimplify at the command line. This change has been made to the code snippets in this tutorial.
-{{% /callout %}}
 	1. `molsimplify legacy -core fe -lig ammonia -ligocc 6 -ligloc True -oxstate II -spin 5`
 	2. Check if the files are present in **MYFILEPATH**!
 11. If you are done with the container and want to leave, simply type exit. This halts all running processes.
