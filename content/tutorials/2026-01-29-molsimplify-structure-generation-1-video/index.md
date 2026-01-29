@@ -31,6 +31,7 @@ image:
   preview_only: false
 
 authors:
+- rolan701
 
 tags:
 - molsimplify-tutorials

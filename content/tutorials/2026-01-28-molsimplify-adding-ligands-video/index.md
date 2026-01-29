@@ -1,5 +1,5 @@
 ---
-title: "molSimplify: Installation"
+title: "molSimplify: Adding Ligands"
 subtitle:
 aliases: 
  
@@ -11,7 +11,7 @@ summary:
 projects: []
 
 # Date published
-date: 2026-01-29
+date: 2026-01-28
 
 # Date updated
 lastmod: 
@@ -31,6 +31,7 @@ image:
   preview_only: false
 
 authors:
+- rolan701
 
 tags:
 - molsimplify-tutorials
@@ -40,6 +41,6 @@ categories:
 
 ---
 
-This video tutorial describes the installation of molSimplify from GitHub, conda-forge, or PyPI.
+This video tutorial describes the addition of ligands to molSimplify.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/D7xugd-Sbww?si=00pJPASb5XU1kzbS" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/x4p3ZxaOlXs?si=kIQAUA17kPIT8c1E" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
