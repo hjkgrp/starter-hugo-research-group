@@ -1,25 +1,28 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'Helical Complex Ladder Polymer with Amplified Chirality' 
+title: 'Late-Stage Fluorosulfurylation using Sulfuryl Fluoride Bound within a Metal–Organic Framework' 
 subtitle: ''
 summary: ''
 authors:
-- Y. Wang
-- Y. Xie
-- Y. Chen
-- ohch
-- Q. Fang
-- K. Chivukula
-- H. Zhang
-- C. Zhao
-- S. Zhang
-- N. Ananth
+- E. E. Stacy
+- P. L. Burch
+- J. Randrianandraina
+- M. A. Fontaine
+- M. C. Eaton
+- J. Kim
+- L. Aeindartehran
+- akash98
+- M. I. Gonzalez
 - admin
-- Y. Zhong
+- T. Runčevski
+- M. E. Abbasov
+- J.-H. Lee
+- P. J. Milner
+
 tags: []
 categories: []
-date: '2025-10-01'
+date: '2026-01-01'
 lastmod: 
 featured: false
 draft: false
@@ -43,8 +46,8 @@ publication_types:
 - '3'
 abstract: ''
 publication: '*submitted*'
-#doi: 10.1021/jacs.2c11858
+#doi: 10.1039/D5DD00524H
 links:
-#- name: ChemRxiv
-#  url: https://chemrxiv.org/engage/chemrxiv/article-details/66382d3c91aefa6ce1408a72
+- name: ChemRxiv
+  url: https://doi.org/10.26434/chemrxiv.10001526/v1
 ---
