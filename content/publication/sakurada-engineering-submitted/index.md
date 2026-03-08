@@ -5,26 +5,26 @@ title: 'Engineering in-plane anisotropy in 2D materials via surface-bound ligand
 subtitle: ''
 summary: ''
 authors:
-- T. Sakurada
-- W.S. Lee
+- Tomoaki Sakurada
+- Woo Seok Lee
 - yscho
-- R. Khamlue
-- P. Chatsiri
-- N. Samulewicz
-- T. Deshpande
-- A. Su
-- P. Müller
-- T. Kawamoto
-- S. Omagari
-- M. Vacha
-- W. Paritmongkol
+- Rattapon Khamlue
+- Petcharaphorn Chatsiri
+- Nicholas Samulewicz
+- Tejas Deshpande
+- Annlin Su
+- Peter Müller
+- Tadashi Kawamoto
+- Shun Omagari
+- Martin Vacha
+- Watcharaphol Paritmongkol
 - admin
-- W.A. Tisdale
+- William A. Tisdale
 
 
 tags: []
 categories: []
-date: '2025-12-01'
+date: '2026-02-26'
 lastmod: 
 featured: false
 draft: false
@@ -49,7 +49,7 @@ publication_types:
 abstract: ''
 publication: '*submitted*'
 #doi: 10.1021/jacs.2c11858
-#links:
-#- name: ChemRxiv
-#  url: https://chemrxiv.org/engage/chemrxiv/article-details/66382d3c91aefa6ce1408a72
+links:
+- name: arXiv
+  url: https://arxiv.org/abs/2602.23138
 ---
