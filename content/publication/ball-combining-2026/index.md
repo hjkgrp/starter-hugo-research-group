@@ -34,7 +34,7 @@ publishDate:
 publication_types:
 - '2'
 abstract: 'Metal–organic frameworks (MOFs) are promising functional materials, but poor mechanical stability leading to loss of porosity and degraded performance under external pressure limits their commercial use. The diversity of MOF building blocks makes exhaustive experimental or simulation-based screening for high mechanical stability impractical. While some prior work has used machine learning (ML) to accelerate discovery, ML models typically lack the ability to generalize across diverse MOF topologies. Starting from a dataset with around an order of magnitude more secondary building units and topology types than previously studied, we develop a generalizable and interpretable ML framework to predict MOF mechanical stability (i.e., by predicting the bulk modulus). Our ML models incorporate novel and interpretable topological features developed based on principles of net theory and chemical features that are applicable across a broad range of MOF chemistries and topologies. We employ our models in a virtual high-throughput screening of over ∼435k MOFs from existing hypothetical and experimental databases to identify the most mechanically stable candidates with potential industrial applications.'
-publication: '*J. Mater. Chem. A*, **in press**'
+publication: '*J. Mater. Chem. A*, **14**, 6429--6445 (2026)'
 doi: 10.1039/D5TA08080K
 url_pdf: https://pubs.rsc.org/en/content/articlepdf/2026/ta/d5ta08080k
 links:
