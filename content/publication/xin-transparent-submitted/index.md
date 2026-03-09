@@ -1,17 +1,57 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'Breaking the Conversion-Selectivity Constraint in Methane Oxidation through Product Stability Control' 
+title: 'Transparent Reporting for Agentic Catalysis Enabled by Artificial Intelligence (TRACE-AI): Community Guidelines and A Publication Checklists' 
 subtitle: ''
 summary: ''
 authors:
-- J. Zhu
-- R. Zhu
-- hadamji
-- M. S. Webber
-- B. Liu
+- H. Xin
+- J. R. Kitchin
+- N. López
+- N. M. Schweitzer
+- M. Abolhasani
+- N. Artrith
+- L. Árnadóttir
+- K. Choudhary
+- R. Ding
+- A. I. Frenkel
+- J. A. Gauthier
+- B. R. Goldsmith
+- A. B. Farimani
+- L. C. Grabow
+- G. T. K. K. Gunasooriya
+- G. Hu
+- T. R. Josephson
 - admin
-- Y. Román-Leshkov
+- R. Kumar
+- T. Laino
+- H. Li
+- X.-Y. Li
+- W. Li
+- S. Linic
+- C. Liu
+- C. Liu
+- F. Liu
+- M. Liu
+- P. Ma
+- A. J. Medford
+- S. Mukhopadhyay
+- P. Ou
+- C. Paolucci
+- J. Peng
+- C. Phillips
+- M. D. Porosoff
+- L. Qi
+- A. S. Rosen
+- S. Sun
+- T. Szilvási
+- J. Voss
+- S. Wang
+- X. Wang
+- K. Winther
+- Q. Wu
+- D. Zhang
+- Z. Zhang
 
 tags: []
 categories: []

@@ -13,6 +13,7 @@ show_date: false
 | [Akash Bajaj](/author/akash-bajaj)                                  |  GS   | Ph.D. '21 and now Applied Data Scientist at dunnhumby                                                                   |
 | [Gerel Bayarmagnai](/author/gerel-bayarmagnai)                      |  UROP | MIT S.B. expected '27                                                                                                   |
 | Naomi Bright                                                        |  UROP | MIT S.B. '19 and now Business Development Associate at BASF Bioservices                                                 |
+| [Giorgai Brosio](/author/giorgia-brosio/)                           |  VS   | PhD Student at Univeristy of Bologna and Italian Institute of Technology                                                |
 | José Caetano                                                        |  VS   | PhD student MIT-Portugal                                                                                               |
 | [Lydia Chan](/author/lydia-chan/)                                   |  SS   | Troy HS '18 and now Software Engineer at Tesla                                                                          |
 | Rafa Chavez                                                         |  UROP | MIT S.B. CS expected ‘25                                                                                               |

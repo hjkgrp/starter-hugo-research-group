@@ -18,7 +18,7 @@ authors:
 - Jeremiah A. Johnson
 tags: []
 categories: []
-date: '2025-11-14'
+date: '2026-02-01'
 lastmod: 
 featured: false
 draft: false
@@ -41,7 +41,7 @@ publishDate:
 publication_types:
 - '2'
 abstract: 'Customizing the toughness of polymer networks independently of their chemical composition and topology remains an unsolved challenge. Traditionally, polymer network toughening is achieved by using specialized monomers or solvents or adding secondary networks/fillers that substantially alter the composition and may limit applications. Here we report a class of force-responsive molecules—tetrafunctional cyclobutanes (TCBs)—that enable the synthesis of single-network end-linked gels with substantially decreased or increased toughness, including unusually high toughness for dilute end-linked gels, with no other changes to network composition. This behaviour arises from stress-selective force-coupled TCB reactivity when stress is imparted from multiple directions simultaneously, which traditional bifunctional mechanophores cannot access. This molecular-scale mechanoreactivity translates to bulk toughness through a topological descriptor, network strand continuity, that describes the effect of TCB reactivity on the consequent local network topology. TCB mechanophores and the corresponding concepts of stress-selective force-coupled reactivity and strand continuity offer design principles for tuning the toughness of simple yet commonly used single-network gels.'
-publication: '*Nature Chem.*, **in press**'
+publication: '*Nature Chem.*, **18**, 309--316 (2026)'
 doi: 10.1038/s41557-025-01984-9
 url_pdf: https://www.nature.com/articles/s41557-025-01984-9.pdf 
 links:
