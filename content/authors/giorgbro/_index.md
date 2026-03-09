@@ -51,7 +51,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Visitors
+- Alumni
 ---
 Giorgia is a PhD student in Data Science and Computation at the University of Bologna (UniBo) and the Italian Institute of Technology (IIT). She earned both her bachelor’s and master’s degrees in Physics at the University of Genoa, where she focused on nanoparticle-induced biomembrane fusion. Her current research centers on developing neural network potentials for protein binding sites that involve magnesium ions.
 
