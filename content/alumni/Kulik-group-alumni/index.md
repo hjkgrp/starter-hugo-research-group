@@ -71,6 +71,7 @@ show_date: false
 | [Rimsha Mehmood](/author/rimsha-mehmood)                            |  GS   | Ph.D. ‘21 Chemistry and now Senior Scientist at Merck                                                                  |
 | [Mohamad Seyed Moosavi](/author/seyed-mohamad-moosavi)              |  VS   | Ph.D EPFL ‘20 and now [Assistant Professor at University of Toronto](https://chem-eng.utoronto.ca/faculty-staff/faculty-members/seyed-mohamad-moosavi/)|
 | [Davut Muhammetgulyyev](/author/davut-muhammetgulyyev)              |  UROP | MIT SB expected '27                                                                                                    |
+| [Daniel Mukasa](/author/daniel-mukasa)                              |  PD   |                                |
 | [Aditya Nandy](/author/aditya-nandy)                                |  GS   | Ph.D. ‘23 Chemistry and now [TT. Asst. Prof. UCLA CBE](https://adityanandy.github.io/)                                 |
 | [Azadeh Nazemi](/author/azadeh-nazemi)                              |  PD   | Senior Scientist at Pfizer                                                                                             |
 | [Almira Nurlanova](/author/almira-nurlanova)                        |  UROP | MIT SB expected '27                                                                                                    |
