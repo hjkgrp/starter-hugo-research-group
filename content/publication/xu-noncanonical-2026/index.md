@@ -1,17 +1,25 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'pyEF: A Python Framework for QM and QM/MM Atom-Wise Electric Field Analysis' 
+title: 'A noncanonical radical oxygenase mechanism enables the biosynthesis of widespread cardenolide toxins in plants' 
 subtitle: ''
 summary: ''
 authors:
-- manets12
+- M. Xu
 - kastner
-- Yuriy Román-Leshkov
+- weiliang
+- F.-S. Li
+- P. Müller
+- Y. Sun
+- W. Huang
+- C. M. Glinkerman
+- M. Guempel
 - admin
+- J.-K. Weng
+
 tags: []
 categories: []
-date: '2026-01-16'
+date: '2026-03-15'
 lastmod: 
 featured: false
 draft: false
@@ -32,11 +40,11 @@ image:
 projects: []
 publishDate: 
 publication_types:
-- '3'
+- '2'
 abstract: ''
-publication: '*submitted*'
-#doi: 10.1039/D5DD00524H
+publication: '*Sci. Adv.*, **in press**'
+#doi: 10.1021/jacs.2c11858
 links:
 - name: ChemRxiv
-  url: https://doi.org/10.26434/chemrxiv-2026-3cbg4
+  url: https://chemrxiv.org/engage/chemrxiv/article-details/66382d3c91aefa6ce1408a72
 ---
