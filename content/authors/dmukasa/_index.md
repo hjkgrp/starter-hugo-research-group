@@ -74,7 +74,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Postdocs
+- Alumni
 ---
 
 Daniel joined the group as a postdoctoral fellow in September 2024. He received his PhD at Caltech with Wei Gao and William Goddard. His PhD focused on the computational design of chemical sensors with techiniques including density functional theory and machine learning. In the Kulik group, he is working on machine learning pipelines for the design of novel mRNA therapies.

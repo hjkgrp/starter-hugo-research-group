@@ -1,25 +1,19 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'A noncanonical radical oxygenase mechanism enables the biosynthesis of widespread cardenolide toxins in plants' 
+title: 'What makes a suitable metal-organic framework linker? Discovery from a general chemical database' 
 subtitle: ''
 summary: ''
 authors:
-- M. Xu
-- kastner
-- weiliang
-- F.-S. Li
-- P. Müller
-- Y. Sun
-- W. Huang
-- C. M. Glinkerman
-- M. Guempel
+- gterrone
+- sphuang
+- akbash98
+- ohch
+- mprivera
 - admin
-- J.-K. Weng
-
 tags: []
 categories: []
-date: '2025-08-01'
+date: '2026-03-06'
 lastmod: 
 featured: false
 draft: false
@@ -43,8 +37,9 @@ publication_types:
 - '3'
 abstract: ''
 publication: '*submitted*'
-#doi: 10.1021/jacs.2c11858
+#doi: 10.1021/jacs.4c05879
+#url_pdf: https://pubs.acs.org/doi/epdf/10.1021/jacs.4c05879
 links:
 - name: ChemRxiv
-  url: https://chemrxiv.org/engage/chemrxiv/article-details/66382d3c91aefa6ce1408a72
+  url: https://chemrxiv.org/doi/full/10.26434/chemrxiv.15000666/v1
 ---
