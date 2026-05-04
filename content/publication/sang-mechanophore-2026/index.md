@@ -1,20 +1,31 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'QuantumPDB: A Workflow for High-Throughput Quantum Cluster Model Generation from Protein Structures' 
+title: 'Mechanophore cross-linking enhances ballistic energy dissipation of polymers'
 subtitle: ''
 summary: ''
 authors:
-- kastner
-- weiliang
-- wilson
-- clorice
-- allikeys
+- Z. Sang
+- S. Nguyen
+- K. Ko
+- S. Lin
+- H. Jang
+- S. Gonzalez-Zapata
+- S. Fitz
+- Y. Kai
+- S. Kooi
+- C. Deng
+- M. Olvera de la Cruz
+- M. Koslowski
 - admin
+- S. L. Craig
+- K. A. Nelson
+- J. A. Johnson
+
 
 tags: []
 categories: []
-date: '2026-04-01'
+date: '2026-04-15'
 lastmod: 
 featured: false
 draft: false
@@ -37,9 +48,9 @@ publishDate:
 publication_types:
 - '2'
 abstract: ''
-publication: '*J. Chem. Inf. Model.*, **in press**'
+publication: '**in press**'
 #doi: 10.1021/jacs.2c11858
-links:
-- name: ChemRxiv
-  url: https://doi.org/10.26434/chemrxiv-2026-w5x1d
+#links:
+#- name: ChemRxiv
+#  url: https://chemrxiv.org/engage/chemrxiv/article-details/66382d3c91aefa6ce1408a72
 ---
