@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'Transparent Reporting for Agentic Catalysis Enabled by Artificial Intelligence (TRACE-AI): Community Guidelines and A Publication Checklists' 
+title: 'Transparent Reporting for Agentic Catalysis Enabled by Artificial Intelligence (TRACE-AI): Community Guidelines and A Publication Checklist' 
 subtitle: ''
 summary: ''
 authors:
@@ -55,7 +55,7 @@ authors:
 
 tags: []
 categories: []
-date: '2026-02-01'
+date: '2026-04-15'
 lastmod: 
 featured: false
 draft: false
@@ -76,11 +76,11 @@ image:
 projects: []
 publishDate: 
 publication_types:
-- '3'
+- '2'
 abstract: ''
-publication: '*submitted*'
+publication: '**in press**'
 #doi: 10.1021/jacs.2c11858
-#links:
-#- name: arXiv
-#  url: https://arxiv.org/abs/2507.19799
+links:
+- name: ChemRxiv
+  url: https://doi.org/10.26434/chemrxiv.15001239/v1
 ---

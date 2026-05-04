@@ -1,20 +1,19 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'QuantumPDB: A Workflow for High-Throughput Quantum Cluster Model Generation from Protein Structures' 
+title: 'Predicting Isomer and Spin-state Properties of Four-coordinate Transition Metal Complexes with Crystal Field Features'
 subtitle: ''
 summary: ''
 authors:
-- kastner
-- weiliang
-- wilson
-- clorice
-- allikeys
+- oldenjon
+- rameyer
+- crduan
 - admin
+
 
 tags: []
 categories: []
-date: '2026-04-01'
+date: '2026-04-20'
 lastmod: 
 featured: false
 draft: false
@@ -35,11 +34,11 @@ image:
 projects: []
 publishDate: 
 publication_types:
-- '2'
+- '3'
 abstract: ''
-publication: '*J. Chem. Inf. Model.*, **in press**'
+publication: '*submitted*'
 #doi: 10.1021/jacs.2c11858
-links:
-- name: ChemRxiv
-  url: https://doi.org/10.26434/chemrxiv-2026-w5x1d
+#links:
+#- name: ChemRxiv
+#  url: https://chemrxiv.org/engage/chemrxiv/article-details/66382d3c91aefa6ce1408a72
 ---

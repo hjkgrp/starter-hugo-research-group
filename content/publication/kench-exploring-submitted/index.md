@@ -1,31 +1,26 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'Mechanophore cross-linking enhances ballistic energy dissipation of polymers'
+title: 'Exploring Chemical Space for Iridium(III) Complexes: a Direct-to-Biology (D2B) Approach to Identifying Anticancer and Antibacterial Agents' 
 subtitle: ''
 summary: ''
 authors:
-- Z. Sang
-- S. Nguyen
-- K. Ko
-- S. Lin
-- H. Jang
-- S. Gonzalez-Zapata
-- S. Fitz
-- Y. Kai
-- S. Kooi
-- C. Deng
-- M. Olvera de la Cruz
-- M. Koslowski
-- admin
-- S. L. Craig
-- K. A. Nelson
-- J. A. Johnson
-
-
+- T. Kench
+-  G. Wang
+-  J. Seefeldt
+-  A. Mahid
+-  A. M.-H. Yip
+-  J. Shum
+-  gterrone
+-  Y. Antar
+-  B. V. Holbling
+-  K. K.-W. Lo
+-  N. Metzler-Nolte
+-  admin
+-  R. Vilar 
 tags: []
 categories: []
-date: '2025-09-01'
+date: '2026-04-01'
 lastmod: 
 featured: false
 draft: false
@@ -47,10 +42,10 @@ projects: []
 publishDate: 
 publication_types:
 - '3'
-abstract: ''
+abstract: ""
 publication: '*submitted*'
 #doi: 10.1021/jacs.2c11858
 #links:
 #- name: ChemRxiv
-#  url: https://chemrxiv.org/engage/chemrxiv/article-details/66382d3c91aefa6ce1408a72
+#  url: https://doi.org/10.26434/chemrxiv-2024-xhlgh-v2
 ---

@@ -71,6 +71,6 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Undergraduate Students
+- Alumni
 ---
 Tigest Aboye is a freshman who is a prospective chemistry major and hopes to pair this with a minor or double major in computer science. Prior to MIT, her research experience took place through her high school's IB program, where she investigated the effects of electrolyte concentration on Zn electroplating in her chemistry class. She joined the Kulik Lab in the Spring of 2023 and is currently working with Clorice Reinhardt to better understand the reaction mechanism of a newly discovered non-heme iron halogenase. Her general research interests include catalysis, metal-organic frameworks, and computational chemistry.
