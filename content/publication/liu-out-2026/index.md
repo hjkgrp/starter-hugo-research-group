@@ -17,7 +17,7 @@ authors:
 
 tags: []
 categories: []
-date: '2026-02-26'
+date: '2026-04-17'
 lastmod: 
 featured: false
 draft: false
@@ -42,6 +42,7 @@ publication_types:
 abstract: 'Biological systems utilize continuous energy inputs, such as light or chemical fuels, to sustain non-equilibrium states essential for life. In contrast, synthetic systems typically dissipate energy toward equilibrium, revealing a fundamental thermodynamic disparity compared to biological systems. Here, we demonstrate that mechanical force, delivered via ball-milling, serves as a unique energy source to drive endergonic coordination self-assembly inaccessible through conventional stimuli. Mechanistic studies, such as ball-milling reaction kinetics, model reactions, and DFT calculations, revealed that coordination cages under direct mechanical impact are highly deformed, elevating their ground-state energies. These distorted cages enable barrier-free guest release followed by cage reassembly. By coupling this force-driven step with a subsequent equilibrium process, two unprecedented outcomes were achieved: (1) an out-of-equilibrium catalytic confinement cycle and (2) a dissipative cycle. Notably, this mechanochemical strategy circumvents product inhibition, a persistent challenge in equilibrium-based supramolecular systems, enabling transformations with up to 85 catalytic turnovers, previously unattainable due to inhibitory guest binding. Our work underscores the untapped potential of mechanical force as a powerful tool to design non-equilibrium chemical processes and dynamic, life-like systems.'
 publication: '*Chem*, **in press**'
 doi: 10.1016/j.chempr.2026.103026
+#url_pdf: https://www.science.org/doi/reader/10.1126/sciadv.aeb5460
 links:
 - name: ChemRxiv
   url: https://doi.org/10.26434/chemrxiv-2025-k9l0h
