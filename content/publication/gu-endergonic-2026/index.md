@@ -1,20 +1,21 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'Beyond the Training Domain: Robust Generative Transition State Models for Unseen Chemistry' 
+title: 'Endergonic mechanoradical-driven C(sp³)-C(sp²) coupling with unactivated arenes'
 subtitle: ''
 summary: ''
 authors:
-- samirdar
-- jwt
-- weiliang
-- Johannes Kästner
-- Mathias Niepert
+- X. Gu
+- T. Wang
+- fz_liu
+- Y. Huang
+- P. Yu
 - admin
+- K.K. Yan
 
 tags: []
 categories: []
-date: '2026-01-23'
+date: '2026-05-01'
 lastmod: 
 featured: false
 draft: false
@@ -35,11 +36,11 @@ image:
 projects: []
 publishDate: 
 publication_types:
-- '3'
+- '2'
 abstract: ''
-publication: '*submitted*'
+publication: '*Nat. Synth.*, **in press**'
 #doi: 10.1021/jacs.2c11858
-links:
-- name: arXiv
-  url: https://arxiv.org/abs/2601.16469
+#links:
+#- name: ChemRxiv
+#  url: https://chemrxiv.org/engage/chemrxiv/article-details/66382d3c91aefa6ce1408a72
 ---

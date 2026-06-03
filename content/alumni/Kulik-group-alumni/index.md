@@ -90,7 +90,7 @@ show_date: false
 | Shaheer Syed                                                        |  UROP | Mount St. Mary’s University BS ‘24 and now Bioinformatician at National Biodefense Analysis and Countermeasures Center |
 | [Michael Taylor](/author/michael-g.-taylor)                         |  PD   | Staff Scientist at Los Alamos National Lab                                                                             |
 | [Jakob Teetz](/author/jakob-teetz/)                                 |  MS   | ETH Zürich MS in Chemistry ‘24 and now PhD Student at ETH Zurich                                                       |
-| [Gianmarco Terrones](/author/gianmarco-terrones)                    |  GS   | Ph.D. ‘25 ChemE and now Computational Software Test Engineer at Ramona Optics                                          |
+| [Gianmarco Terrones](/author/gianmarco-terrones)                    |  GS   | Ph.D. ‘25 ChemE and now Machine Learning Software Engineer at X, the Moonshot Factory                                  |
 | Titus Tsai                                                          |  UROP | MIT Chemistry SB expected ‘26                                                                                          |
 | [Vyshnavi Vennelakanti](/author/vyshnavi-vennelakanti)              |  GS   | Ph.D. ‘23 Chemistry and now Postdoctoral Associate with Emily Carter at Princeton                                      |
 | Ava Waggett                                                         |  UROP | MIT SB ‘19 ChemE and now MS University of Washington                                                                   |
