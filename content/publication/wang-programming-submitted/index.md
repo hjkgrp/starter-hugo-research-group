@@ -1,21 +1,20 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'Endergonic mechanoradical-driven C(sp³)-C(sp²) coupling with unactivated arenes'
+title: 'Programming Polymer Network Topology via Homochiral Self-Sorting' 
 subtitle: ''
 summary: ''
 authors:
-- X. Gu
-- T. Wang
-- fz_liu
-- Y. Huang
-- P. Yu
+- Y. Wang
+- E.O. Bobylev
+- K. Wang
 - admin
-- K.K. Yan
+- J.A. Johnson
+
 
 tags: []
 categories: []
-date: '2025-10-01'
+date: '2026-05-15'
 lastmod: 
 featured: false
 draft: false
@@ -41,6 +40,6 @@ abstract: ''
 publication: '*submitted*'
 #doi: 10.1021/jacs.2c11858
 #links:
-#- name: ChemRxiv
-#  url: https://chemrxiv.org/engage/chemrxiv/article-details/66382d3c91aefa6ce1408a72
+#- name: arXiv
+#  url: https://arxiv.org/abs/2507.19799
 ---
