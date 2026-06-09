@@ -32,7 +32,7 @@ publishDate:
 publication_types:
 - '3'
 abstract: ''
-publication: '*submitted'
+publication: '*submitted*'
 #doi: 10.1039/D5TA08080K
 #url_pdf: https://pubs.rsc.org/en/content/articlepdf/2026/ta/d5ta08080k
 #links:
