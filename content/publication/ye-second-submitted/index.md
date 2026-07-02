@@ -1,19 +1,21 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'What makes a plausible metal-organic framework linker? Discovery from a general chemical database' 
+title: 'A Second-Sphere Threonine Residue Directs Iron-oxygen Species in a Fe(II)/α-Ketoglutarate-Dependent Isonitrile Synthase' 
 subtitle: ''
 summary: ''
 authors:
-- gterrone
-- sphuang
-- akash98
-- ohch
-- mprivera
+- N. Ye
+- A. Del Rio Flores
+- kastner
+- K. R. Miller-Brown
 - admin
+- W. Zhang
+- C. L. Drennan
+
 tags: []
 categories: []
-date: '2026-03-06'
+date: '2026-06-01'
 lastmod: 
 featured: false
 draft: false
@@ -37,9 +39,8 @@ publication_types:
 - '3'
 abstract: ''
 publication: '*submitted*'
-#doi: 10.1021/jacs.4c05879
-#url_pdf: https://pubs.acs.org/doi/epdf/10.1021/jacs.4c05879
-links:
-- name: ChemRxiv
-  url: https://chemrxiv.org/doi/full/10.26434/chemrxiv.15000666/v1
+#doi: 10.1021/jacs.2c11858
+#links:
+#- name: arXiv
+#  url: https://arxiv.org/abs/2507.19799
 ---

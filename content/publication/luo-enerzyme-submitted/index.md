@@ -1,25 +1,16 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'Diazirine-based crosslinking of amorphous organic iono-electronic conductors for thermo-chemical stability in electrochemical devices'
+title: 'Enerzyme: A Framework for Efficient Training of Reactive Neural Network Potentials for Enzyme Catalysis with Application to Methyltransferases'
 subtitle: ''
 summary: ''
 authors:
-- H. Roh
-- S. Bagatella
-- shuweny
-- A. Seshadri
-- ohch
-- C.E. Cunin
-- M. Cavallaro
-- M. Levi
+- weiliang
 - admin
-- Aristide Gumyusenge
-
 
 tags: []
 categories: []
-date: '2025-12-01'
+date: '2026-06-30'
 lastmod: 
 featured: false
 draft: false
@@ -46,5 +37,5 @@ publication: '*submitted*'
 #doi: 10.1021/jacs.2c11858
 #links:
 #- name: ChemRxiv
-#  url: https://chemrxiv.org/engage/chemrxiv/article-details/66382d3c91aefa6ce1408a72
+#  url: https://doi.org/10.26434/chemrxiv-2025-hm3zb
 ---

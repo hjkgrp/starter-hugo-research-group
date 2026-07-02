@@ -12,7 +12,7 @@ authors:
 
 tags: []
 categories: []
-date: '2026-05-29'
+date: '2026-06-22'
 lastmod: 
 featured: false
 draft: false
@@ -34,10 +34,10 @@ projects: []
 publishDate: 
 publication_types:
 - '2'
-abstract: 'Mechanophores offer unique opportunities in chemistry and material science, yet current mechanophores are often limited by low reactivity, irreversible transformation, or poor thermal stability. Here, we report the computational discovery of a new class of Cu 2+ complex mechanophores comprising two tridentate scorpionate ligands that reversibly switch from octahedral to square-planar coordination under mechanical load. We curate over 750 synthetically accessible candidates using ligands from the Cambridge Structural Database. Leveraging density functional theory (DFT) and external force explicitly included (EFEI) modeling, we find 393 coordination-switching complexes that undergo square-planar conversion through concerted dissociation of two load-aligned coordination bonds at low applied force. We analyze the data to identify trends and characterize the most reactive mechanophores using interpretable machine learning (ML) models. This analysis reveals the most reactive mechanophores to be those that have chemical compositions leading to longer load-aligned and shorter load-orthogonal bonds as well as lower ligand steric bulk. Finally, we find robust candidates that exhibit both mechanical lability and thermal stability, with complexes comprising tris(2-pyridyl) ligands emerging as promising lead candidates. Together, this work establishes coordination switching as a useful design strategy for mechanophores and demonstrates how high-throughput ab initio screening and ML can enable data-driven discovery of force-responsive polymer building blocks.'
-publication: '*Inorg. Chem.*, **in press**'
-#doi: 10.1021/acs.inorgchem.4c04732
-#url_pdf: https://pubs.acs.org/doi/epdf/10.1021/acs.inorgchem.4c04732?ref=article_openPDF
+abstract: 'Mechanophores offer unique opportunities in chemistry and material science, yet current mechanophores are often limited by low reactivity, irreversible transformation, or poor thermal stability. Here, we report the computational discovery of a new class of Cu<sup>2+</sup> complex mechanophores comprising two tridentate scorpionate ligands that reversibly switch from octahedral to square-planar coordination under mechanical load. We curate over 750 synthetically accessible candidates using ligands from the Cambridge Structural Database. Leveraging density functional theory (DFT) and external force explicitly included (EFEI) modeling, we find 393 coordination-switching complexes that undergo square-planar conversion through concerted dissociation of two load-aligned coordination bonds at low applied force. We analyze the data to identify trends and characterize the most reactive mechanophores using interpretable machine learning (ML) models. This analysis reveals the most reactive mechanophores to be those that have chemical compositions leading to longer load-aligned and shorter load-orthogonal bonds as well as lower ligand steric bulk. Finally, we find robust candidates that exhibit both mechanical lability and thermal stability, with complexes comprising tris(2-pyridyl) ligands emerging as promising lead candidates. Together, this work establishes coordination switching as a useful design strategy for mechanophores and demonstrates how high-throughput ab initio screening and ML can enable data-driven discovery of force-responsive polymer building blocks.'
+publication: '*Inorg. Chem.*, **65**, 13662--13674 (2026)'
+doi: 10.1021/acs.inorgchem.6c01947
+url_pdf: https://pubs.acs.org/doi/pdf/10.1021/acs.inorgchem.6c01947?ref=article_openPDF
 links:
 - name: ChemRxiv
   url: https://chemrxiv.org/doi/full/10.26434/chemrxiv.15001159/v1
