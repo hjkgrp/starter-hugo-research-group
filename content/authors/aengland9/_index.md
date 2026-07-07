@@ -72,7 +72,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Undergraduate Students
+- Visitors
 ---
 Amelia is pursuing a B.S. in Chemistry with a minor in Quantum Sciences and Technologies at the Georgia Institute of Technology and is expected to graduate in 2027. As an undergraduate, she is completing an honors thesis in theoretical chemistry under the supervision of Dr. David Sherrill, where she develops and benchmarks quantum chemical approaches for modeling protein-ligand interactions across a variety of electronic structure methods.
 In the summer of 2026, Amelia joined the Kulik Group as an undergraduate researcher, where her current research focuses on QM/MM method development for biomolecular systems.
