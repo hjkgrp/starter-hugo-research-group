@@ -74,4 +74,4 @@ highlight_name: false
 user_groups:
 - Visitors
 ---
-Sebastian is a third-year undergraduate at Washington University in St. Louis pursuing interests in chemical engineering and computer science. He joined the Kulik lab as a MONET URE student in Summer 2025 and worked with Xiao Huang on discovering new transition metal complex mechanocatalysts. He is currently working with Ayleen Farnood on leveraging large language models for materials discovery.
+Taekgi joined the Kulik Group in June 2026. Currently a Master's student at Pusan National University under Prof. Yongchul G. Chung, his background centers on accelerating the discovery of porous materials, especially metal-organic frameworks (MOFs) using molecular simulations and machine learning. In the Kulik Lab, his research focuses on applying large language models (LLMs) and machine learning models to build and analyze a comprehensive database for flexible MOFs.
