@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'What makes a suitable metal-organic framework linker? Discovery from a general chemical database' 
+title: 'What makes a plausible metal-organic framework linker? Discovery from a general chemical database' 
 subtitle: ''
 summary: ''
 authors:

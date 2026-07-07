@@ -21,7 +21,7 @@ show_date: false
 | Shouping Chen                                                       |  SS   | Leadership Rotational Program Manager at Corning                                                                        |
 | [Shuxin Chen](/author/shuxin-chen/)                                 |  UROP | MIT S.B. '22 and now Software Engineer at Meta                                                                          |
 | [Yeoungsu Cho](/author/yeongsu-cho)                                 |  PD   | [Assistant Professor of Chemistry at the University of Houston](http://ysc.chem.uh.edu/)                                |
-| [Daniel B. K. Chu](/author/daniel-b.-k.-chu/)                       |  GS   | Ph.D. '25 ChemE and now postdoctoral fellow at Tel Aviv University                                                     |
+| [Daniel B. K. Chu](/author/daniel-b.-k.-chu/)                       |  GS   | Ph.D. '25 ChemE and now AI Research Solutions Engineer at Fujitsu                                                   |
 | [Yael Cytter](/author/yael-cytter)                                  |  PD   | Research Scientist in Israel                                                                                           |
 | [Samir Darouich](/author/samir-darouich)                            |  VS   | PhD Student at University of Stuttgart                                                                                 |
 | Gozel Dovranova                                                     |  UROP | MIT S.B. ChemE expected '26                                                                                            |
@@ -72,7 +72,7 @@ show_date: false
 | [Rimsha Mehmood](/author/rimsha-mehmood)                            |  GS   | Ph.D. ‘21 Chemistry and now Senior Scientist at Merck                                                                  |
 | [Mohamad Seyed Moosavi](/author/seyed-mohamad-moosavi)              |  VS   | Ph.D EPFL ‘20 and now [Assistant Professor at University of Toronto](https://chem-eng.utoronto.ca/faculty-staff/faculty-members/seyed-mohamad-moosavi/)|
 | [Davut Muhammetgulyyev](/author/davut-muhammetgulyyev)              |  UROP | MIT SB expected '27                                                                                                    |
-| [Daniel Mukasa](/author/daniel-mukasa)                              |  PD   |                                |
+| [Daniel Mukasa](/author/daniel-mukasa)                              |  PD   | Founder at Abinitio Bio                               |
 | [Aditya Nandy](/author/aditya-nandy)                                |  GS   | Ph.D. ‘23 Chemistry and now [TT. Asst. Prof. UCLA CBE](https://adityanandy.github.io/)                                 |
 | [Azadeh Nazemi](/author/azadeh-nazemi)                              |  PD   | Senior Scientist at Pfizer                                                                                             |
 | [Almira Nurlanova](/author/almira-nurlanova)                        |  UROP | MIT SB expected '27                                                                                                    |

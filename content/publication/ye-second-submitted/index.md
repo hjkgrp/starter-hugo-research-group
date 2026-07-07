@@ -1,25 +1,21 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'Diazirine-based crosslinking of amorphous organic iono-electronic conductors for thermo-chemical stability in electrochemical devices'
+title: 'A Second-Sphere Threonine Residue Directs Iron-oxygen Species in a Fe(II)/α-Ketoglutarate-Dependent Isonitrile Synthase' 
 subtitle: ''
 summary: ''
 authors:
-- H. Roh
-- S. Bagatella
-- shuweny
-- A. Seshadri
-- ohch
-- C.E. Cunin
-- M. Cavallaro
-- M. Levi
+- N. Ye
+- A. Del Rio Flores
+- kastner
+- K. R. Miller-Brown
 - admin
-- Aristide Gumyusenge
-
+- W. Zhang
+- C. L. Drennan
 
 tags: []
 categories: []
-date: '2025-12-01'
+date: '2026-06-01'
 lastmod: 
 featured: false
 draft: false
@@ -45,6 +41,6 @@ abstract: ''
 publication: '*submitted*'
 #doi: 10.1021/jacs.2c11858
 #links:
-#- name: ChemRxiv
-#  url: https://chemrxiv.org/engage/chemrxiv/article-details/66382d3c91aefa6ce1408a72
+#- name: arXiv
+#  url: https://arxiv.org/abs/2507.19799
 ---

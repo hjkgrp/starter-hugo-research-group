@@ -31,11 +31,11 @@ projects: []
 publishDate: 
 publication_types:
 - '3'
-abstract: ''
+abstract: 'Metal-organic frameworks (MOFs) with cage-like narrow openings and large internal cavities have shown potential for addressing outstanding challenges such as water harvesting and purification. However, a fundamental understanding of water structure and dynamics within these MOFs is essential to achieve high water flux. Here, we take a computational approach to determine the effects of pore confinement and chemical environment on water density, hydrogen bonding, diffusivity, and permeability in 78 pristine and functionalized cage-like MOFs that are predicted by literature-trained machine learning models to be stable in humid/wet conditions including under water submersion. Across this set, we observe significant variations in water density, hydrogen-bond network, dielectric environment, and diffusion, driven by confinement and hydrophilicity of the MOFs. We show that confinement exerts a stronger influence on water structure and diffusion, whereas hydrophilicity is more important for permeability. Finally, we establish design principles to achieve exceptional water permeability within cage-like MOFs without compromising ionic selectivity.'
 publication: '*submitted*'
 #doi: 10.1039/D5TA08080K
 #url_pdf: https://pubs.rsc.org/en/content/articlepdf/2026/ta/d5ta08080k
-#links:
-#- name: ChemRxiv
-#  url: https://doi.org/10.26434/chemrxiv-2025-57ntp
+links:
+- name: ChemRxiv
+  url: https://doi.org/10.26434/chemrxiv.15004568/v1
 ---
