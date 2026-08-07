@@ -1,30 +1,22 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'Engineering in-plane anisotropy in 2D materials via surface-bound ligands'
+title: 'The Key Role of Solvation in Enhancing Electrochemical Promotion of Brønsted Acid Catalysis'
 subtitle: ''
 summary: ''
 authors:
-- Tomoaki Sakurada
-- Woo Seok Lee
-- yscho
-- Rattapon Khamlue
-- Petcharaphorn Chatsiri
-- Nicholas Samulewicz
-- Tejas Deshpande
-- Annlin Su
-- Peter Müller
-- Tadashi Kawamoto
-- Shun Omagari
-- Martin Vacha
-- Watcharaphol Paritmongkol
+- K. Groenhout
+- B. Dinakar
+- K.S. Westendorff
+- M. Dakhchoune
+- manets12
 - admin
-- William A. Tisdale
-
+- Y. Surendranath
+- Y. Román-Leshkov
 
 tags: []
 categories: []
-date: '2026-02-26'
+date: '2026-07-31'
 lastmod: 
 featured: false
 draft: false
@@ -49,7 +41,7 @@ publication_types:
 abstract: ''
 publication: '*submitted*'
 #doi: 10.1021/jacs.2c11858
-links:
-- name: arXiv
-  url: https://arxiv.org/abs/2602.23138
+#links:
+#- name: ChemRxiv
+#  url: https://chemrxiv.org/engage/chemrxiv/article-details/66382d3c91aefa6ce1408a72
 ---
