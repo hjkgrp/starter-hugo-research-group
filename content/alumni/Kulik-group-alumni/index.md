@@ -6,6 +6,7 @@ show_date: false
 | name | group role | current|
 | ---------------------------------------------------------------------------------------------------------- | ------- | ----------------------------------------------------------------------------------------------------------------------- |
 | [Tigest Aboye](/author/tigest-aboye)                                |  UROP |                                                                                                                         |
+| [Husain Adamji](/author/husain-adamji/)                             |  GS   | Ph.D. ‘26 ChemE and now Technical Staff at Radical AI                                                                   |
 | [Oluremi Akindele](/author/oluremi-akindele/)                       |  GS   |                                                                                                                         |
 | [Isuru Ariyarathna](/author/isuru-ariyarathna/)                     |  PD   | Postdoctoral Associate at  Los Alamos National Laboratory                                                               |
 | [Naveen Arunachalam](/author/naveen-arunachalam/)                   |  GS   | Ph.D. ‘23 ChemE and now ML Scientist at Nosis Bio                                                                       |
