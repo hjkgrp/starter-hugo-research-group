@@ -38,6 +38,6 @@ publication: '*submitted*'
 #doi: 10.1021/jacs.4c05879
 #url_pdf: https://pubs.acs.org/doi/epdf/10.1021/jacs.4c05879
 links:
-#- name: arXiv
-#  url: https://doi.org/10.48550/arXiv.2606.30961
+- name: arXiv
+  url: https://doi.org/10.48550/arXiv.2608.05336
 ---

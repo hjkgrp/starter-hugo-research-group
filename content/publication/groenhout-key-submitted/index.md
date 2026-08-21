@@ -5,14 +5,14 @@ title: 'The Key Role of Solvation in Enhancing Electrochemical Promotion of Brø
 subtitle: ''
 summary: ''
 authors:
-- K. Groenhout
-- B. Dinakar
-- K.S. Westendorff
-- M. Dakhchoune
+- Katelyn Groenhout
+- Bhavish Dinakar
+- Karl S. Westendorff
+- Mostapha Dakhchoune
 - manets12
 - admin
-- Y. Surendranath
-- Y. Román-Leshkov
+- Yogesh Surendranath
+- Yuriy Román-Leshkov
 
 tags: []
 categories: []
@@ -41,7 +41,7 @@ publication_types:
 abstract: ''
 publication: '*submitted*'
 #doi: 10.1021/jacs.2c11858
-#links:
-#- name: ChemRxiv
-#  url: https://chemrxiv.org/engage/chemrxiv/article-details/66382d3c91aefa6ce1408a72
+links:
+- name: ChemRxiv
+  url: https://doi.org/10.26434/chemrxiv.15005640/v1
 ---

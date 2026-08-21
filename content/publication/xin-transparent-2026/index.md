@@ -76,8 +76,9 @@ publishDate:
 publication_types:
 - '2'
 abstract: 'Artificial intelligence (AI) is increasingly integrated into catalysis science, enabling agentic workflows in which AI systems perceive inputs, reason under constraints, plan, and autonomously execute in silico or physical experiments with minimal human intervention. While these closed-loop capabilities hold promise for accelerating catalysis research, they introduce new sources of variability that can undermine rigor and reproducibility (R&R). These risks are particularly pronounced in heterogeneous catalysis, where subtleties in catalyst synthesis, activation, and testing can strongly influence catalytic outcomes. To address these challenges, we introduce TRACE-AI (transparent reporting for agentic catalysis enabled by artificial intelligence) as a set of community guidelines with a publication checklist. TRACE-AI emphasizes end-to-end traceability of catalysis campaigns, linking scientific queries to data and models, reasoning and actions, and the knowledge acquired. By promoting standardized reporting, TRACE-AI aims to cultivate a foundation for accelerating scientific discovery while reinforcing R&R as autonomous catalysis laboratories continue to emerge.'
-publication: '*Chem Catal.*, **in press**'
+publication: '*Chem Catal.*, **6**, 101755 (2026)'
 doi: 10.1016/j.checat.2026.101755
+url_pdf: https://www.cell.com/action/showPdf?pii=S2667-1093%2826%2900107-7
 links:
 - name: ChemRxiv
   url: https://doi.org/10.26434/chemrxiv.15001239/v1
