@@ -1,25 +1,17 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'Photochemical Fluoroalkylations with Fluorinated Gases Facilitated by a Robust Metal-Organic Framework'
+title: 'Physics-Based Molecular Fingerprints from Spectral Graph Theory Provide Efficient Geometry-Aware Measures of Chemical Similarity' 
 subtitle: ''
 summary: ''
 authors:
-- J. He
-- J. Randrianandraina
-- hadamji
-- V. Chang
-- Y. Lai
-- T. N. Nguyen
-- Yuriy Roman-Leshkov
-- admin
-- J.-H. Lee
-- P. J. Milner
-
-
+- jwt
+- ayleenf
+- samirdar
+- admin 
 tags: []
 categories: []
-date: '2025-09-01'
+date: '2026-07-27'
 lastmod: 
 featured: false
 draft: false
@@ -43,8 +35,9 @@ publication_types:
 - '3'
 abstract: ''
 publication: '*submitted*'
-#doi: 10.1021/jacs.2c11858
-#links:
-#- name: ChemRxiv
-#  url: https://chemrxiv.org/engage/chemrxiv/article-details/66382d3c91aefa6ce1408a72
+#doi: 10.1021/jacs.4c05879
+#url_pdf: https://pubs.acs.org/doi/epdf/10.1021/jacs.4c05879
+links:
+- name: arXiv
+  url: https://doi.org/10.48550/arXiv.2608.05336
 ---

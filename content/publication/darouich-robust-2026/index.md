@@ -14,7 +14,7 @@ authors:
 
 tags: []
 categories: []
-date: '2026-05-23'
+date: '2026-08-12'
 lastmod: 
 featured: false
 draft: false
@@ -36,9 +36,10 @@ projects: []
 publishDate: 
 publication_types:
 - '2'
-abstract: ''
+abstract: 'Transition states (TSs) govern the rates and outcomes of chemical reactions, making their accurate prediction a central challenge in computational chemistry. Although recent machine learning models achieve near-chemical accuracy in the prediction of TS structures and the associated reaction barriers for small organic reactions, their ability to generalize beyond the training domain remains largely unexplored. Here we introduce targeted benchmarks to probe chemical and structural novelty in generative TS prediction. Building on Transition1x, a large-scale dataset of reactions involving small organic molecules, we curate extensions incorporating controlled elemental substitutions and diverse transition metal complexes (TMCs), which reveal fundamental limitations of generative models in the generalization to previously unseen elements. To address this challenge, we introduce a self-supervised pretraining strategy based on equilibrium conformers that exposes generative TS models to novel chemical environments before targeted fine-tuning. Across the proposed benchmarks, self-supervised pretraining substantially improves TS prediction for previously unseen systems, lowering the median root-mean-square deviation of TS geometries on Transition1x-TMC reactions and reducing fine-tuning data requirements, enabling reliable performance even in low-data regimes.'
 publication: '*Nat. Comput. Sci.*, **in press**'
-#doi: 10.1021/jacs.2c11858
+doi: https://doi.org/10.1038/s43588-026-01034-5
+url_pdf: https://www.nature.com/articles/s43588-026-01034-5.pdf
 links:
 - name: arXiv
   url: https://arxiv.org/abs/2601.16469

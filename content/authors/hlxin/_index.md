@@ -65,6 +65,6 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Visitors
+- Alums
 ---
 Hongliang Xin is a Professor of Chemical Engineering at Virginia Tech, where he leads research at the intersection of heterogeneous catalysis, computational modeling, and artificial intelligence. He received his Ph.D. in Chemical Engineering from the University of Michigan in 2011, followed by postdoctoral training at Stanford/SLAC. His research focuses on developing interpretable machine learning models and multiscale simulations to uncover fundamental principles of catalytic processes and accelerate the discovery of sustainable materials for energy and environmental applications. His group integrates theory, computation, and AI-driven approaches to advance electrocatalysis, photocatalysis, and thermal catalysis, with a particular emphasis on designing catalysts for sustainable fuels, chemicals, and circular economy technologies. 

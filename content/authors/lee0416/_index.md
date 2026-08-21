@@ -72,6 +72,6 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Visitors
+- Alums
 ---
 Taekgi joined the Kulik Group in June 2026. Currently a Master's student at Pusan National University under Prof. Yongchul G. Chung, his background centers on accelerating the discovery of porous materials, especially metal-organic frameworks (MOFs) using molecular simulations and machine learning. In the Kulik Lab, his research focuses on applying large language models (LLMs) and machine learning models to build and analyze a comprehensive database for flexible MOFs.

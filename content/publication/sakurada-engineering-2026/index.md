@@ -1,26 +1,30 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'Exploring Chemical Space for Iridium(III) Complexes: a Direct-to-Biology (D2B) Approach to Identifying Anticancer and Antibacterial Agents' 
+title: 'Engineering in-plane anisotropy in 2D materials via surface-bound ligands'
 subtitle: ''
 summary: ''
 authors:
-- T. Kench
--  G. Wang
--  J. Seefeldt
--  A. Mahid
--  A. M.-H. Yip
--  J. Shum
--  gterrone
--  Y. Antar
--  B. V. Holbling
--  K. K.-W. Lo
--  N. Metzler-Nolte
--  admin
--  R. Vilar 
+- Tomoaki Sakurada
+- Woo Seok Lee
+- yscho
+- Rattapon Khamlue
+- Petcharaphorn Chatsiri
+- Nicholas Samulewicz
+- Tejas Deshpande
+- Annlin Su
+- Peter Müller
+- Tadashi Kawamoto
+- Shun Omagari
+- Martin Vacha
+- Watcharaphol Paritmongkol
+- admin
+- William A. Tisdale
+
+
 tags: []
 categories: []
-date: '2026-04-01'
+date: '2026-07-15'
 lastmod: 
 featured: false
 draft: false
@@ -41,11 +45,11 @@ image:
 projects: []
 publishDate: 
 publication_types:
-- '3'
-abstract: ""
-publication: '*submitted*'
+- '2'
+abstract: ''
+publication: '*J. Am. Chem. Soc.*, **in press**'
 #doi: 10.1021/jacs.2c11858
-#links:
-#- name: ChemRxiv
-#  url: https://doi.org/10.26434/chemrxiv-2024-xhlgh-v2
+links:
+- name: arXiv
+  url: https://arxiv.org/abs/2602.23138
 ---

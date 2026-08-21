@@ -72,6 +72,6 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Visitors
+- Alumni
 ---
 Sebastian is a third-year undergraduate at Washington University in St. Louis pursuing interests in chemical engineering and computer science. He joined the Kulik lab as a MONET URE student in Summer 2025 and worked with Xiao Huang on discovering new transition metal complex mechanocatalysts. He is currently working with Ayleen Farnood on leveraging large language models for materials discovery.

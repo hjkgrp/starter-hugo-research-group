@@ -61,6 +61,6 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Grad Students
+- Alums
 ---
 Husain grew up in Dar es Salaam, Tanzania. He received a B.S. in Chemical Engineering from Tufts University in May 2020. As an undergraduate, Husain performed research in Professor Prashant Deshlahra’s group where he studied structure-property relations in next-generation Group III-V semiconductors like GaAsBi using Density Functional Theory (DFT). Following this project, Husain also worked with Professor Deshlahra on the selective oxidative dehydrogenation of propane using nitric oxide as a homogeneous gas-phase catalyst. Husain joined the Kulik group in November 2020 as a Chemical Engineering PhD student and is co-advised by Professor Yuriy Roman. His research focuses on novel inorganic porous catalyst design inspired by biological enzymes.

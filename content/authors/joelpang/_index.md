@@ -71,6 +71,6 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Visitors
+- Alums
 ---
 Joel is an undergraduate at Caltech studying chemical engineering. Previously, he conducted research with Prof. Karthish Manthiram, where he investigated the effects of redox changes on bioelectrochemical systems utilizing Cryo-EM and studied aqueous electrohydroformylation. He has also worked on the synthesis and characterization photoelectrocatalytic proton-coupled electron transfer (PCET) mediators in the Peters Lab. In the Kulik lab, Joel will be working on the high-throughput computational discovery of transition metal mechanophores via machine learning. Outside of his academic and research pursuits, Joel stays active by hiking, playing squash, and embarking on spontaneous adventures and side quests.
