@@ -8,15 +8,15 @@ show_date: false
 | [Tigest Aboye](/author/tigest-aboye)                                |  UROP |                                                                                                                         |
 | [Husain Adamji](/author/husain-adamji/)                             |  GS   | Ph.D. ‘26 ChemE and now Technical Staff at Radical AI                                                                   |
 | [Oluremi Akindele](/author/oluremi-akindele/)                       |  GS   |                                                                                                                         |
-| [Isuru Ariyarathna](/author/isuru-ariyarathna/)                     |  PD   | Postdoctoral Associate at  Los Alamos National Laboratory                                                               |
-| [Naveen Arunachalam](/author/naveen-arunachalam/)                   |  GS   | Ph.D. ‘23 ChemE and now ML Scientist at Nosis Bio                                                                       |
-| Sule Atahan-Evrenk                                                  |  VS   | Software Engineer at TEKsystems                                                                                         |
+| [Isuru Ariyarathna](/author/isuru-ariyarathna/)                     |  PD   | Postdoctoral Fellow at Los Alamos National Laboratory                                                               |
+| [Naveen Arunachalam](/author/naveen-arunachalam/)                   |  GS   | Ph.D. ‘23 ChemE and now Senior ML Scientist at Nosis Bio                                                                       |
+| Sule Atahan-Evrenk                                                  |  VS   | Data Scientist at IDEXX                                                                                        |
 | Anna Bair                                                           |  UROP | MIT S.B. '23 and now gradaute student at UC Berkeley                                                                    |
 | [Akash Bajaj](/author/akash-bajaj)                                  |  GS   | Ph.D. '21 and now Applied Data Scientist at dunnhumby                                                                   |
 | [Gerel Bayarmagnai](/author/gerel-bayarmagnai)                      |  UROP | MIT S.B. expected '27                                                                                                   |
 | Naomi Bright                                                        |  UROP | MIT S.B. '19 and now Business Development Associate at BASF Bioservices                                                 |
 | [Giorgai Brosio](/author/giorgia-brosio/)                           |  VS   | PhD Student at Univeristy of Bologna and Italian Institute of Technology                                                |
-| José Caetano                                                        |  VS   | PhD student MIT-Portugal                                                                                               |
+| José Caetano                                                        |  VS   | Chemical Data Scientist at HOLOSS                                                                                             |
 | [Lydia Chan](/author/lydia-chan/)                                   |  SS   | Troy HS '18 and now Software Engineer at Tesla                                                                          |
 | Rafa Chavez                                                         |  UROP | MIT S.B. CS expected ‘25                                                                                               |
 | Shouping Chen                                                       |  SS   | Leadership Rotational Program Manager at Corning                                                                        |
@@ -29,7 +29,7 @@ show_date: false
 | [Chenru Duan](/author/chenru-duan)                                  |  GS   | co-founder at Deep Principle                                                                                            |
 | [Freya Edholm](/author/freya-edholm)                                |  UROP | MIT ChemE SB ‘23  and now MIT CSE S.M. Student                                                                         |
 | Mohamed El-Safy                                                     |  VS   | PhD student at UiO with David Balcells                                                                                 |
-| Kristen Eller                                                       |  UROP | MIT S.B. '16 and now Senior Scientist at Darwin Biosciences                                                             |
+| Kristen Eller                                                       |  UROP | MIT S.B. '16 and now Senior Scientist at Biodesix                                                           |
 | [Terry Gani](author/terry-z.-h.-gani/)                              |  GS   | Ph.D. ‘20 ChemE (w/ Roman group) and now Sr. R&D Engineer at Cabot Corporation                                         |
 | Zach Giaccone                                                       |  SS   | Grad Student at UConn Dental School                                                                                    |
 | [Conrad Goffinet](/author/conrad-goffinet/)                         |  UROP | MIT MSCEP Program S.M. ‘21 and now Senior R&D Engineer at Via Separations                                              |

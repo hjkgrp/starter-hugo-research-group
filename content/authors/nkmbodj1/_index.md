@@ -71,6 +71,6 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Visitors
+- Alums
 ---
 I am a senior majoring in Chemistry at CUNY Hunter College, where I am conducting mechanochemistry research in the Marianski lab. This summer, I am working with Dr. Beck Miller parameterizing metalloenzyme force fields.
