@@ -1,20 +1,17 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'Programming Polymer Network Topology via Homochiral Self-Sorting' 
+title: 'Computational Design of N-Heterocyclic Carbene Mechanocatalysts' 
 subtitle: ''
 summary: ''
 authors:
-- Y. Wang
-- E.O. Bobylev
-- K. Wang
+- spujet
+- x_huang
 - admin
-- J.A. Johnson
-
 
 tags: []
 categories: []
-date: '2026-05-15'
+date: '2026-08-27'
 lastmod: 
 featured: false
 draft: false
@@ -35,11 +32,12 @@ image:
 projects: []
 publishDate: 
 publication_types:
-- '3'
+- '2'
 abstract: ''
-publication: '*submitted*'
-#doi: 10.1021/jacs.2c11858
+publication: '*J. Phys. Chem. Lett.*, **in press**'
+#doi: 10.1039/D6TA04474C
+#url_pdf: https://pubs.rsc.org/ta/article-pdf/doi/10.1039/d6ta04474c/13618461/d6ta04474c.pdf
 #links:
-#- name: arXiv
-#  url: https://arxiv.org/abs/2507.19799
+#- name: ChemRxiv
+#  url: https://doi.org/10.26434/chemrxiv.15002945/v1
 ---

@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'Robust Generative Transition State Models for Unseen Chemistry' 
+title: 'Robust generative transition-state models for unseen chemistry' 
 subtitle: ''
 summary: ''
 authors:

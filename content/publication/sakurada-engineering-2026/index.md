@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'Engineering in-plane anisotropy in 2D materials via surface-bound ligands'
+title: 'Engineering In-Plane Anisotropy in 2D Materials via Surface-Bound Ligands'
 subtitle: ''
 summary: ''
 authors:
@@ -24,7 +24,7 @@ authors:
 
 tags: []
 categories: []
-date: '2026-07-15'
+date: '2026-08-25'
 lastmod: 
 featured: false
 draft: false
@@ -46,9 +46,9 @@ projects: []
 publishDate: 
 publication_types:
 - '2'
-abstract: ''
+abstract: '2D materials exhibiting in-plane anisotropy enable novel functionality in electronic, optoelectronic, and photonic devices, yet their availability is generally limited to naturally occurring low-symmetry van der Waals compounds. Here, we demonstrate an approach to structural engineering in a family of blue-emitting 2D silver phenylchalcogenolate semiconductors based on steric interactions among surface-bound organic molecular ligands. By strategically halogenating specific sites of phenyl ligands, we demonstrate dramatic changes to the inorganic AgSe plane in mithrene (silver phenylselenolate, AgSePh). Density functional theory revealed pronounced in-plane electronic anisotropy for direct-gap fluorinated derivatives, while a chlorinated variant exhibited a direct-to-indirect band gap transition. Furthermore, a representative fluorinated derivative, F₂(2,3), displayed strongly polarized absorption and luminescence, accompanied by a 10× enhancement in photoluminescence quantum yield. This work establishes a versatile approach for tailoring optoelectronic properties in hybrid semiconductors that is difficult or impossible to achieve in all-inorganic materials alone, offering new opportunities in advanced material design.'
 publication: '*J. Am. Chem. Soc.*, **in press**'
-#doi: 10.1021/jacs.2c11858
+doi: 10.1021/jacs.6c09871
 links:
 - name: arXiv
   url: https://arxiv.org/abs/2602.23138
