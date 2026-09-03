@@ -4,10 +4,10 @@ title: Shih-Peng Huang
 
 # Username (this should match the folder name)
 authors:
-  - sphuang
+ - sphuang
 
 # Role/position
-role: UROP
+role: Master's Student
 
 # Is this the primary user of the site?
 superuser: false
@@ -16,16 +16,19 @@ superuser: false
 organizations:
 - name: Massachusetts Institute of Technology
 
-#interests:
-# - machine learning
-# - materials discovery
-# - electronic structure theory
+interests:
+- machine learning
+- cheminformatics
+- metal-organic frameworks
 
-#education:
-#  courses:
-#  - course: MS in Computational Sciences
-#    institution: FU Berlin
-#    year: 2020
+education:
+ courses:
+ - course: BS in Chemistry
+   institution: Massachusetts Institute of Technology
+   year: 2025
+ - course: BS in EECS
+   institution: Massachusetts Institute of Technology
+   year: 2025
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -38,9 +41,9 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/sphuang25
-#- icon: google-scholar
-#  icon_pack: ai
-#  link: https://scholar.google.com/citations?user=MzGjABQAAAAJ
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=t7qxgREAAAAJ&hl=en
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 #- icon: cv
@@ -52,7 +55,10 @@ highlight_name: false
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
-- Alumni
+user_groups: 
+- Grad Students
+
 ---
-Shih-Peng is a junior who is majoring in chemistry and potential double majoring in computer science. During high school, he had joined the Wu Lab in National Chiao-Tung University, Taiwan for a one-year research program on organic synthesis of binuclear coordination compound. After joining MIT, he worked in the Raines’ Lab as an UROP student from 2021-2022. Shih-Peng is currently working with Gianmarco for machine learning and genetic algorithm for metal-organic framework stability predictions.
+Shih-Peng is a master's student in EECS. He joined the group in the summer of 2023, when he was majoring in Chemistry and Computer Science as an undergraduate. He worked with Ph.D. student Gianmarco Terrones to research in stability prediction of MOFs and MOF building block screening. Shih-Peng's research also focuses on using the non-dominated sorting genetic algorithm (NSGA) to perform hypothetical MOF candidate selection. 
+
+Shih-Peng loves playing all types of sports, including but not limited to basketball, table tennis, badminton, and volleyball.

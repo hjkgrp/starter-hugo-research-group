@@ -40,7 +40,7 @@ show_date: false
 | [Daniel R. Harper](/author/daniel-r.-harper/)                       |  GS   | S.M. ‘21 and now Consultant at  Sage Analysis                                                                          |
 | [Alondra Hernandez](/author/alondra-hernandez/)                     |  UROP | MIT ChemE SB expected ‘25                                                                                              |
 | [Wilson Ho](/author/wilson-ho/)                                     |  UROP | MIT SB expected ‘25                                                                                                    |
-| [Shih-Peng Huang](/author/shih-peng-huang/)                         |  UROP | MIT SB ‘25                                                                                                             |
+| [Xiao Huang](/author/xiao-huang/)                                   |  GS   | Ph.D. '26 Chemistry and now Associate at McKinsey Boston                                                               |
 | [Efthymios Ioannidis](/author/efthymios-i.-ioannidis/)              |  GS   | Ph.D. ‘16 ChemE MBA ‘18 and now co-founder at HOMLI                                                                    |
 | [Jon Paul Janet](/author/jon-paul-janet)                            |  GS   | Ph.D. ‘19 ChemE and now Associate Director at AstraZeneca                                                              |
 | [Huiwon Jang](/author/huiwon-jang/)                                 |  VS   | Ph.D. student in Chemical and Biomolecular Engineering at the Korea Advanced Institute of Science and Technology (KAIST)|
@@ -49,7 +49,7 @@ show_date: false
 | [Yu Jin](https://galligroup.uchicago.edu/People/yjin.php)           |  SS   | Peking University BS ‘18 Chemistry and now Postdoctoral Research Scholar at UChicago                                   |
 | Jelissa Kamguem                                                     |  UROP | Lafayette College ChemE BS ‘23 and  now PhD student Cornell University ChemE                                           |
 | [Maria Karelina](/author/maria-karelina/)                           |  UROP | MIT SB ‘17 Biology/EECS (6-7) and now Ph.D. Student in Stanford Biophysics (Dror Group)                                |
-| [David Kastner](/author/david-kastner/)                             |  GS   | Ph.D. '25 Bioengineering and now founding member of technical team at Voltaris|
+| [David Kastner](/author/david-kastner/)                             |  GS   | Ph.D. '25 Bioengineering and now Oak Ridge National Lab                                                                |
 | [Ilia Kevlishvili](/author/ilia-kevlishvili/)                       |  PD   | [Assistant Professor at Baylor University Department of Chemistry and Biochemistry](https://chemistry.artsandsciences.baylor.edu/person/ilia-kevlishvili-phd)   |
 | [Allison Keys](/author/allison-keys)                                |  GS.  | Ph.D. '25 CSB and now Senior Computational Chemistry Research Scientist at Genesis Therapeutics                        |
 | [Irem Kilic](/author/irem-b.-kilic/)                                |  SS   | Bogazici University  ‘23 and now PhD Student at Northeastern University                                                |
@@ -62,6 +62,7 @@ show_date: false
 | [Adriana Ladera](/author/adriana-j.-ladera/)                        |  SS   | University of South Florida ‘22 and now MIT Graduate Student in Computational Science and Engineering                  |
 | Greg Lever                                                          |  PD   | Director at IQVIA                                                                                                      |
 | [Grace Li](/author/grace-li)                                        |  UROP | MIT CSE SB expected ‘25                                                                                                |
+| [Taekgi Li](/author/taekgi-li)                                      |  VS   | Master's student at Pusan National University                                                                          |
 | [Sean Lin](/author/sean-lin)                                        |  SS   | Troy H.S. ‘19 and now Masters student in AeroAstro at Stanford                                                         |
 | [Fang Liu](/author/fang-liu)                                        |  PD   | [Assistant Professor at Emory University](https://flgroup.emorychem.science/)                                          |
 | [Mingjie Liu](/author/mingjie-liu)                                  |  PD   | [Assistant Professor at the University of Florida](https://liu.chem.ufl.edu/)                                          |
@@ -69,6 +70,7 @@ show_date: false
 | Yusu Liu                                                            |  GS   | Quantitative Researcher at Citadel                                                                                     |
 | [Brendan Mar](/author/brendan-d.-mar)                               |  VS   | [Instructor at DeAnza College](https://www.deanza.edu/directory/user.html?u=marbrendan)                              |
 | Maximiliano Martinez                                                |  UROP | MIT ChemE SB expected ‘25                                                                                              |
+| [Ndeye Khadidiatou Mbodj](/author/ndeye-khadidiatou-mbodj)           |  SS   | CUNY Hunter College BA expected '26                            |
 | [Ralf Meyer](/author/ralf-meyer)                                    |  PD   | Postdoc at University of Graz                                                                                          |
 | [Rimsha Mehmood](/author/rimsha-mehmood)                            |  GS   | Ph.D. ‘21 Chemistry and now Senior Scientist at Merck                                                                  |
 | [Mohamad Seyed Moosavi](/author/seyed-mohamad-moosavi)              |  VS   | Ph.D EPFL ‘20 and now [Assistant Professor at University of Toronto](https://chem-eng.utoronto.ca/faculty-staff/faculty-members/seyed-mohamad-moosavi/)|
@@ -77,8 +79,11 @@ show_date: false
 | [Aditya Nandy](/author/aditya-nandy)                                |  GS   | Ph.D. ‘23 Chemistry and now [TT. Asst. Prof. UCLA CBE](https://adityanandy.github.io/)                                 |
 | [Azadeh Nazemi](/author/azadeh-nazemi)                              |  PD   | Senior Scientist at Pfizer                                                                                             |
 | [Almira Nurlanova](/author/almira-nurlanova)                        |  UROP | MIT SB expected '27                                                                                                    |
+| [Changhwan Oh](/author/changhwan-oh)                                |  GS   | Ph.D. '26 DMSE and now Postdoc at UCLA                                                                                 |
 | [Jonas Oldenstaedt](/author/jonas-oldenstaedt)                      |  MS   | TUM expected ‘23 CSE and now PhD student at TUM                                                                        |
+| [Joel Pang](/author/joel-pang)                                      |  SS   | Caltech BS expected '28                                                                                                |
 | [Niladri Patra](/author/niladri-patra)                              |  PD   | [Associate Professor at IIT Dhanbad](https://npatra2.wixsite.com/iitism)                                               |
+| [Sebastian Pujet](/author/sebastian-pujet/)                         |  SS   | WashU BS expected '27                                                                                                  |
 | [Helena W. Qi](/author/helena-w.-qi/)                               |  GS   | Ph.D. ‘19 Chemistry and now Principal Scientist at Pfizer                                                              |
 | [Sangeeta Rajpurohit](/author/sangeeta-rajpurohit/)                 |  VS   | Postdoc at Lawrence Berkeley National Lab                                                                              |
 | [Sahasrajit Ramesh](/author/sahasrajit-ramesh/)                     |  MS   | Oxford MS ‘19 Materials and now Freelance Clean-tech Consultant                                                        |
@@ -89,6 +94,7 @@ show_date: false
 | Jose Salcedo-Perez                                                  |  SS   | S.M. MIT Nuclear Engineering ‘19 and now Computational Physics Software Developer at Oak Ridge National Lab            |
 | [Natasha Seelam](/author/natasha-seelam)                            |  GS   | Principal Data Scientist at A-Alpha Bio                                                                                |
 | Shaheer Syed                                                        |  UROP | Mount St. Mary’s University BS ‘24 and now Bioinformatician at National Biodefense Analysis and Countermeasures Center |
+| [Kimberley Sun](/author/kimberley-sun)                              |  SS   | Lawrenceville HS expected '27
 | [Michael Taylor](/author/michael-g.-taylor)                         |  PD   | Staff Scientist at Los Alamos National Lab                                                                             |
 | [Jakob Teetz](/author/jakob-teetz/)                                 |  MS   | ETH Zürich MS in Chemistry ‘24 and now PhD Student at ETH Zurich                                                       |
 | [Gianmarco Terrones](/author/gianmarco-terrones)                    |  GS   | Ph.D. ‘25 ChemE and now Machine Learning Software Engineer at X, the Moonshot Factory                                  |
