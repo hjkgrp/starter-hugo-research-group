@@ -14,7 +14,7 @@ authors:
 
 tags: []
 categories: []
-date: '2026-05-15'
+date: '2026-08-05'
 lastmod: 
 featured: false
 draft: false
@@ -35,9 +35,9 @@ image:
 projects: []
 publishDate: 
 publication_types:
-- '3'
+- '2'
 abstract: ''
-publication: '*submitted*'
+publication: '*in press*'
 #doi: 10.1021/jacs.2c11858
 #links:
 #- name: arXiv
