@@ -33,11 +33,11 @@ projects: []
 publishDate: 
 publication_types:
 - '2'
-abstract: 'Mechanochemical activation of catalysts, such as N−heterocyclic carbene (NHC) complexes, can enable precise reaction control, self−healing, and stress−sensing in polymer materials. We report the computational development of a design space of hypothetical NHC mechanocatalysts assembled from fragments of ex− perimentally synthesized structures. In total, 307 unique wingtip substituents and 55 unique center substituents were isolated from structures available in the Cambridge Structural Database via the NHC−cracker data set and recombined to form >26,000 novel complexes. Using mechanochemical simulations, we analyze how different substituents affect the force required to cleave the NHC mechanophore. We identify structural motifs, specifically wingtips incorporating aromatic ring structures, that facilitate dissociation of the mechanophore at lower forces. We implement a genetic algorithm to screen the NHC design space and identify several promising structures we expect would exhibit desirable activation in a polymer matrix. This computational approach provides fundamental insights into the link between ligand structure and mechanical reactivity.'
+abstract: 'Mechanochemical activation of catalysts, such as N-heterocyclic carbene (NHC) complexes, can enable precise reaction control, self-healing, and stress-sensing in polymer materials. We report the computational development of a design space of hypothetical NHC mechanocatalysts assembled from fragments of experimentally synthesized structures. In total, 307 unique wingtip substituents and 55 unique center substituents were isolated from structures available in the Cambridge Structural Database via the NHC-cracker data set and recombined to form >26,000 novel complexes. Using mechanochemical simulations, we analyze how different substituents affect the force required to cleave the NHC mechanophore. We identify structural motifs, specifically wingtips incorporating aromatic ring structures, that facilitate dissociation of the mechanophore at lower forces. We implement a genetic algorithm to screen the NHC design space and identify several promising structures we expect would exhibit desirable activation in a polymer matrix. This computational approach provides fundamental insights into the link between ligand structure and mechanical reactivity.'
 publication: '*J. Phys. Chem. Lett.*, **in press**'
-#doi: 10.1039/D6TA04474C
-#url_pdf: https://pubs.rsc.org/ta/article-pdf/doi/10.1039/d6ta04474c/13618461/d6ta04474c.pdf
-#links:
-#- name: ChemRxiv
-#  url: https://doi.org/10.26434/chemrxiv.15002945/v1
+doi: 10.1021/acs.jpclett.6c02471
+url_pdf: https://pubs.acs.org/jpclcd/article-pdf/68375347/acs.jpclett.6c02471.pdf
+links:
+- name: ChemRxiv
+  url: https://chemrxiv.org/doi/full/10.26434/chemrxiv.15006528/v1
 ---
