@@ -1,21 +1,21 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'Endergonic mechanoradical-driven C(sp³)-C(sp²) coupling with unactivated arenes'
+title: 'Modulating Molecular Recognition and Mesoporous Transport in Hierarchical Metal–Organic Cage-Linked Polyurethane Hydrogels for PFAS Capture' 
 subtitle: ''
 summary: ''
 authors:
-- X. Gu
-- T. Wang
-- fz_liu
-- Y. Huang
-- P. Yu
+- E.O. Bobylev
+- yuzhe
+- manets12
+- M. Price
 - admin
-- K.K. Yan
+- Jeremiah A. Johnson
+
 
 tags: []
 categories: []
-date: '2026-05-01'
+date: '2026-09-01'
 lastmod: 
 featured: false
 draft: false
@@ -36,11 +36,11 @@ image:
 projects: []
 publishDate: 
 publication_types:
-- '2'
+- '3'
 abstract: ''
-publication: '*Nat. Synth.*, **in press**'
+publication: '*submitted*'
 #doi: 10.1021/jacs.2c11858
 #links:
-#- name: ChemRxiv
-#  url: https://chemrxiv.org/engage/chemrxiv/article-details/66382d3c91aefa6ce1408a72
+#- name: bioRxiv
+#  url: https://www.biorxiv.org/content/10.64898/2026.04.05.716592v1
 ---

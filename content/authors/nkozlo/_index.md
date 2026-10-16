@@ -70,6 +70,6 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Undergraduate Students
+- Alumni
 ---
 Natalie is a second-year undergraduate at MIT pursuing interests in both chemistry and computer science. She joined the Kulik Lab in May 2025, where she is currently working with Ph.D. student Akash Ball to develop machine learning models that predict water transport through metal-organic frameworks with the goal of accelerating materials discovery. Prior to joining the Kulik Lab, her research in the Furst Lab explored surface modification of electrodes for biosensing applications.

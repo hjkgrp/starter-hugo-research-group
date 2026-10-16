@@ -11,7 +11,7 @@ authors:
 
 tags: []
 categories: []
-date: '2026-08-27'
+date: '2026-09-17'
 lastmod: 
 featured: false
 draft: false
@@ -34,9 +34,9 @@ publishDate:
 publication_types:
 - '2'
 abstract: 'Mechanochemical activation of catalysts, such as N-heterocyclic carbene (NHC) complexes, can enable precise reaction control, self-healing, and stress-sensing in polymer materials. We report the computational development of a design space of hypothetical NHC mechanocatalysts assembled from fragments of experimentally synthesized structures. In total, 307 unique wingtip substituents and 55 unique center substituents were isolated from structures available in the Cambridge Structural Database via the NHC-cracker data set and recombined to form >26,000 novel complexes. Using mechanochemical simulations, we analyze how different substituents affect the force required to cleave the NHC mechanophore. We identify structural motifs, specifically wingtips incorporating aromatic ring structures, that facilitate dissociation of the mechanophore at lower forces. We implement a genetic algorithm to screen the NHC design space and identify several promising structures we expect would exhibit desirable activation in a polymer matrix. This computational approach provides fundamental insights into the link between ligand structure and mechanical reactivity.'
-publication: '*J. Phys. Chem. Lett.*, **in press**'
+publication: '*J. Phys. Chem. Lett.*, **17**, 10622--10629 (2026)'
 doi: 10.1021/acs.jpclett.6c02471
-url_pdf: https://pubs.acs.org/jpclcd/article-pdf/68375347/acs.jpclett.6c02471.pdf
+url_pdf: https://pubs.acs.org/jpclcd/article-pdf/17/37/10622/68375347/acs.jpclett.6c02471.pdf
 links:
 - name: ChemRxiv
   url: https://chemrxiv.org/doi/full/10.26434/chemrxiv.15006528/v1
