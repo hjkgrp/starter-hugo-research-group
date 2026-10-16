@@ -12,7 +12,7 @@ authors:
 
 tags: []
 categories: []
-date: '2026-07-29'
+date: '2026-09-10'
 lastmod: 
 featured: false
 draft: false
@@ -34,8 +34,8 @@ projects: []
 publishDate: 
 publication_types:
 - '2'
-abstract: 'The direct air capture (DAC) of carbon dioxide from the atmosphere requires sorbents that combine strong adsorption at dilute CO2 conditions with resistance to competitive H2O adsorption and robust structural stability. In this work, we present a stability-aware, multiobjective computational framework that integrates machine learning (ML) and evolutionary algorithm (NSGA-III) optimization to identify optimal candidate metal-organic frameworks (MOFs) for DAC that exhibit the best trade-offs in stability and performance. We use NSGA-III to explore a large chemical space of over 180 million MOFs that we create by combining experimentally derived building blocks with systematic metal substitution and linker functionalization to maintain synthetic realism. In our workflow, we optimize seven objectives simultaneously: five stability metrics, i.e., thermal, activation, water, acid, and mechanical stability, and two performance metrics, i.e., CO2 uptake and CO2/H2O selectivity. Explicit multicomponent simulations reveal design principles distinct from those obtained under singlecomponent or binary mixture (CO2/N2) conditions. We show that motifs previously found to be favorable, such as open metal sites, metal–oxygen-metal bridges, or uncoordinated nitrogen atoms, do not exhibit advantages under humid conditions. Instead, we identify coordination saturated metal centers and dispersion-dominated environments, including parallel aromatic ring motifs, to enhance CO2 uptake. This work establishes a generalizable framework for stability-aware MOF discovery for DAC under realistic operating conditions, with natural extensions to other challenges, such as point source capture.'
-publication: '*J. Mater. Chem. A*, **in press**'
+abstract: 'The direct air capture (DAC) of carbon dioxide from the atmosphere requires sorbents that combine strong adsorption at dilute CO2 conditions with resistance to competitive H2O adsorption and robust structural stability. In this work, we present a stability-aware, multi-objective computational framework that integrates machine learning (ML) and evolutionary algorithm (NSGA-III) optimization to identify optimal candidate metal–organic frameworks (MOFs) for DAC that exhibit the best trade-offs in stability and performance. We use NSGA-III to explore a large chemical space of over 180 million MOFs that we create by combining experimentally derived building blocks with systematic metal substitution and linker functionalization to maintain synthetic realism. In our workflow, we optimize seven objectives simultaneously: five stability metrics, i.e., thermal, activation, water, acid, and mechanical stability, and two performance metrics, i.e., CO2 uptake and CO2/H2O selectivity. Explicit multi-component simulations reveal design principles distinct from those obtained under single-component or binary mixture (CO2/N2) conditions. We show that motifs previously found to be favorable, such as open metal sites, metal–oxygen–metal bridges, or uncoordinated nitrogen atoms, do not exhibit advantages under humid conditions. Instead, we identify coordination-saturated metal centers and dispersion-dominated environments, including parallel aromatic ring motifs, to enhance CO2 uptake. This work establishes a generalizable framework for stability-aware MOF discovery for DAC under realistic operating conditions, with natural extensions to other challenges, such as point source capture.'
+publication: '*J. Mater. Chem. A*, **14**, 37210--37227 (2026)'
 doi: 10.1039/D6TA04474C
 url_pdf: https://pubs.rsc.org/ta/article-pdf/doi/10.1039/d6ta04474c/13618461/d6ta04474c.pdf
 links:

@@ -13,7 +13,7 @@ authors:
 - admin 
 tags: []
 categories: []
-date: '2026-06-29'
+date: '2026-10-01'
 lastmod: 
 featured: false
 draft: false
@@ -34,10 +34,10 @@ image:
 projects: []
 publishDate: 
 publication_types:
-- '3'
-abstract: 'Advances in deep learning architectures and representations have enabled ML-driven chemical property prediction, but state-of-the-art (SOTA) models have remained largely confined to independent codebases and lack support for diverse chemical species. This work introduces ElemeNet, a unified, general-purpose software package for molecular machine learning. The ElemeNet software package enables the training of advanced ML models for diverse properties and datasets with an enlarged range of elemental compositions. We define molecular representations compatible with elements 1-100, supporting diverse organometallic and biological systems in addition to organic chemistry already well-served by the Chemprop ML toolkit. As well as more common atom-, bond-, and molecule-level predictions, we introduce moiety predictions. We also natively define optional conditioning on charge and spin states. Advanced E(3)-equivariant and transformer architectures are supported, as well as classical 2D models, with all classes including built-in uncertainty quantification through deterministic and statistical measures. We benchmark our protocols for ML model training against representative datasets from organic, inorganic, coordination, and biological chemistry, achieving competitive and SOTA performance relative to literature baselines and favorable scaling to millions of molecules. The entire workflow is exposed through a concise command-line interface, lowering the barrier to entry for non-expert users. We anticipate ElemeNet will empower non-computational researchers to leverage modern deep learning methods across the chemical and physical sciences.'
-publication: '*submitted*'
-#doi: 10.1021/jacs.4c05879
+- '2'
+abstract: 'Advances in deep learning architectures and representations have enabled ML-driven chemical property prediction, but state-of-the-art (SOTA) models have remained largely confined to independent codebases and lack support for diverse chemical species. This work introduces ElemeNet, a unified, general-purpose software package for molecular machine learning. The ElemeNet software package enables the training of advanced ML models for diverse properties and data sets with an enlarged range of elemental compositions. We define molecular representations compatible with elements 1–100, supporting diverse organometallic and biological systems in addition to organic chemistry already well served by the Chemprop ML toolkit. As well as more common atom-, bond-, and molecule-level predictions, we introduce and allow for moiety-level predictions. We also natively define optional conditioning on charge and spin states. Advanced E(3)-equivariant and transformer architectures are supported in addition to 2D models, with all classes including built-in uncertainty quantification through deterministic and statistical measures. We benchmark our protocols for ML model training against representative data sets from organic, inorganic, coordination, and biological chemistry, achieving competitive and SOTA performance relative to literature baselines and favorable scaling to millions of molecules. The entire workflow is exposed through a concise command-line interface, lowering the barrier to entry for nonexpert users. We anticipate ElemeNet will empower noncomputational researchers to leverage modern deep learning methods across the chemical and physical sciences.'
+publication: '*J. Chem. Inf. Model.*, **in press**'
+doi: 10.1021/acs.jcim.6c02178
 #url_pdf: https://pubs.acs.org/doi/epdf/10.1021/jacs.4c05879
 links:
 - name: arXiv

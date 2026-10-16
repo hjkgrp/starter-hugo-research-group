@@ -24,7 +24,7 @@ authors:
 
 tags: []
 categories: []
-date: '2026-08-25'
+date: '2026-09-09'
 lastmod: 
 featured: false
 draft: false
@@ -47,8 +47,9 @@ publishDate:
 publication_types:
 - '2'
 abstract: '2D materials exhibiting in-plane anisotropy enable novel functionality in electronic, optoelectronic, and photonic devices, yet their availability is generally limited to naturally occurring low-symmetry van der Waals compounds. Here, we demonstrate an approach to structural engineering in a family of blue-emitting 2D silver phenylchalcogenolate semiconductors based on steric interactions among surface-bound organic molecular ligands. By strategically halogenating specific sites of phenyl ligands, we demonstrate dramatic changes to the inorganic AgSe plane in mithrene (silver phenylselenolate, AgSePh). Density functional theory revealed pronounced in-plane electronic anisotropy for direct-gap fluorinated derivatives, while a chlorinated variant exhibited a direct-to-indirect band gap transition. Furthermore, a representative fluorinated derivative, F₂(2,3), displayed strongly polarized absorption and luminescence, accompanied by a 10× enhancement in photoluminescence quantum yield. This work establishes a versatile approach for tailoring optoelectronic properties in hybrid semiconductors that is difficult or impossible to achieve in all-inorganic materials alone, offering new opportunities in advanced material design.'
-publication: '*J. Am. Chem. Soc.*, **in press**'
+publication: '*J. Am. Chem. Soc.*, **148**, 38058--38068 (2026)'
 doi: 10.1021/jacs.6c09871
+url_pdf: https://pubs.acs.org/jacsat/article-pdf/148/35/38058/67392437/jacs.6c09871.pdf
 links:
 - name: arXiv
   url: https://arxiv.org/abs/2602.23138

@@ -5,14 +5,14 @@ title: 'Exploring Transition Metal Complexes with Large Language Models'
 subtitle: ''
 summary: ''
 authors:
-- Yunsheng Liu 
+- Yunsheng Liu
+- jwt
 - Joseph Cavanagh 
 - Kunyang Sun 
-- jwt
-- Chung-Yueh Yuan
 - Andrew Smith
+- Chung-Yueh Yuan
 - rolan701
-- Paul Graggs 
+- Paul A. Graggs 
 - F. Dean Toste 
 - admin
 - Teresa Head-Gordon
@@ -21,7 +21,7 @@ authors:
 
 tags: []
 categories: []
-date: '2025-11-17'
+date: '2026-09-09'
 lastmod: 
 featured: false
 draft: false
@@ -42,10 +42,10 @@ image:
 projects: []
 publishDate: 
 publication_types:
-- '3'
-abstract: 'Here we use a large language model for the exploration of chemical space of transition metal complexes (TMCs), fine-tuning the open-source Llama-3.2-1B model with a variation of the SMILES string representation tailored for coordination chemistry. We identify several key molecular properties that are critical to produce valid TMCs which we use for prompt engineering, creating TMC-Llama models that generate unique, novel, and structurally validated TMCs at high success rates, and exceeding the performance of both standard benchmarks as well as state-of-the-art generative methods in the literature. We use the pydentate workflow to show that the TMC-Llama model generates new TMC chemistries that are physically realistic, synthetically plausible, and geometrically consistent with large datasets of known experimental TMCs. Our study lays the groundwork for future TMC-Llama generative model applications to discover new TMCs for functional materials for catalysis, photochemistry, medicine, and sustainability technologies.'
-publication: '*submitted*'
-#doi: 10.1021/jacs.2c11858
+- '2'
+abstract: 'Here we use a large language model for the exploration of chemical space of transition metal complexes (TMCs), fine-tuning the open-source Llama-3.2-1B model with a variation of the SMILES string representation tailored for coordination chemistry. We identify several key molecular properties that are critical to produce valid TMCs which we use for prompt engineering, creating TMC-Llama models that generate unique, novel, and structurally validated TMCs at high success rates, and exceeding the performance of both standard benchmarks as well as state-of-the-art generative methods in the literature. We use the pydentate workflow, Density Functional Theory calculations, and other benchmark metrics to show that the TMC-Llama model generates new TMC chemistries that are physically realistic, synthetically plausible, and geometrically consistent with large datasets of known experimental TMCs. Our study lays the groundwork for future TMC-Llama generative model applications to discover new TMCs for functional materials for catalysis, photochemistry, medicine, and sustainability technologies.'
+publication: '*Chem. Sci.*, **in press**'
+doi: 10.1039/D6SC00436A
 links:
 - name: ChemRxiv
   url: https://doi.org/10.26434/chemrxiv-2025-hm3zb
