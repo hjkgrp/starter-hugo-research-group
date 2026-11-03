@@ -10,7 +10,7 @@ authors:
 
 tags: []
 categories: []
-date: '2026-10-13'
+date: '2026-10-27'
 lastmod: 
 featured: false
 draft: false
@@ -33,8 +33,9 @@ publishDate:
 publication_types:
 - '2'
 abstract: 'Quantum mechanical (QM) cluster models provide an effective framework for mechanistic studies of enzymatic reactions but QM calculations remain computationally demanding. Neural network potentials (NNPs) offer a promising route to reduce their cost, but enzymes introduce new challenges not faced by NNPs for small molecules, including large system sizes, the need for inclusion of solvent environments, substantial polarization, and charge transfer. Here, we demonstrate an integrated software framework for efficient training of NNPs for mechanistic study of enzymes, with demonstrations on QM-cluster models of S-adenosyl-l-methionine-dependent methyltransferases (MTases). Our Enerzyme code introduces modular, electrostatics-aware NNP architectures and combines automated QM-cluster construction with reactive dataset generation. The Enerzymette subpackage also automates reaction pathway exploration at both NNP and DFT levels of theory. We show that iterative flexible scans and nudged elastic band calculations impose stricter requirements on NNPs than conventionally employed dataset metrics. Nevertheless, we develop an approach to train NNPs on fewer than 1,000 system-specific data points to reproduce reaction energetics and transition-state structures on MTase clusters containing up to 545 atoms, approaching chemical accuracy with respect to the reference. We show that direct supervision of atomic charges and alignment of dielectric screening with QM-cluster calculations substantially improve simulation stability and accuracy and that multitask-learned atomic charges predict correct charge transfer and polarization trends and provide chemically meaningful descriptors of reactivity. Furthermore, we demonstrate transferability across chemically diverse catechol O-methyltransferase substrates, indicating NNPs learn generalizable reactivity patterns as training data is expanded across multiple enzymes. Together, these results establish a foundation for accelerating enzyme mechanistic studies and provide insights for future NNP development for biomolecular reactivity.'
-publication: '*J. Chem. Theory Comput.*, **in press** '
+publication: '*J. Chem. Theory Comput.*, **22**, 11020--11036 (2026) '
 doi: 10.1021/acs.jctc.6c01330
+url_pdf: https://pubs.acs.org/jctcce/article-pdf/22/20/11020/68827471/acs.jctc.6c01330.pdf
 links:
 - name: arXiv
   url: https://arxiv.org/abs/2607.01362

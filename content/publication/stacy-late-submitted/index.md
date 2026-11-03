@@ -5,24 +5,24 @@ title: 'Late-Stage Fluorosulfurylation using Sulfuryl Fluoride Bound within a Me
 subtitle: ''
 summary: ''
 authors:
-- E. E. Stacy
-- P. L. Burch
-- J. Randrianandraina
-- M. A. Fontaine
-- M. C. Eaton
-- J. Kim
-- L. Aeindartehran
+- Emily E. Stacy
+- Paige L. Burch
+- Joharimanitra Randrianandraina
+- Marissa A. Fontaine
+- Mary C. Eaton
+- Jaehwan Kim
+- Lida Aeindartehran
 - akash98
-- M. I. Gonzalez
+- Miguel I. Gonzalez
 - admin
-- T. Runčevski
-- M. E. Abbasov
-- J.-H. Lee
-- P. J. Milner
+- Tomče Runčevski
+- Mikail E. Abbasov
+- Jung-Hoon Lee
+- Phillip J. Milner
 
 tags: []
 categories: []
-date: '2026-01-01'
+date: '2026-10-01'
 lastmod: 
 featured: false
 draft: false
@@ -43,9 +43,9 @@ image:
 projects: []
 publishDate: 
 publication_types:
-- '3'
+- '2'
 abstract: ''
-publication: '*submitted*'
+publication: '*J. Am. Chem. Soc.*, **in press**'
 #doi: 10.1039/D5DD00524H
 links:
 - name: ChemRxiv

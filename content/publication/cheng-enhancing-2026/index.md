@@ -17,7 +17,7 @@ authors:
 
 tags: []
 categories: []
-date: '2026-08-26'
+date: '2026-10-01'
 lastmod: 
 featured: false
 draft: false
@@ -40,7 +40,7 @@ publishDate:
 publication_types:
 - '2'
 abstract: 'Diffusion-based deep generative models have emerged as powerful tools for inverse materials design. Yet many existing approaches overlook essential chemical constraints, such as oxidation-state balance, which can lead to chemically invalid structures. Here we introduce ‘crystal generator with valence-constrained design’ (CrysVCD), a modular framework that integrates chemical rules directly into the generative process. CrysVCD first uses a transformer-based elemental language model to generate valence-balanced compositions, followed by a diffusion model to generate crystal structures. The valence constraint enables orders-of-magnitude more efficient chemical valence checking compared with pure data-driven approaches with post-screening. When fine-tuned on stability metrics, CrysVCD achieves 85% metastability (E<sub>hull</sub> < 0.1 eV per atom) and 68% phonon stability. Moreover, CrysVCD supports conditional generation of functional materials, enabling discovery of candidates such as high thermal conductivity semiconductors and high dielectric constant (high-κ) materials. Designed as a general-purpose plugin, CrysVCD can be integrated into diverse generative pipelines to promote chemical validity, offering a reliable, scientifically grounded path for materials discovery.'
-publication: '*Nat. Comput. Sci.*, **in press**'
+publication: '*Nat. Comput. Sci.*, **6**, 1114--1123 (2026)'
 doi: 10.1038/s43588-026-01037-2
 url_pdf: https://www.nature.com/articles/s43588-026-01037-2.pdf
 links:

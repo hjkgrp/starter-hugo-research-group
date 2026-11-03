@@ -1,17 +1,22 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'Physics-Based Molecular Fingerprints from Spectral Graph Theory Provide Efficient Geometry-Aware Measures of Chemical Similarity' 
+title: 'Unveiling the role of water in choline chloride--iron chloride deep eutectic solvents'
 subtitle: ''
 summary: ''
 authors:
-- jwt
-- ayleenf
-- samirdar
-- admin 
+- A. Volpe
+- akash98
+- M. Mascaro
+- G. Ciancaleoni
+- L. Bernazzani
+- C. Pelosi
+- admin
+
+
 tags: []
 categories: []
-date: '2026-07-27'
+date: '2026-10-1'
 lastmod: 
 featured: false
 draft: false
@@ -35,9 +40,8 @@ publication_types:
 - '3'
 abstract: ''
 publication: '*submitted*'
-#doi: 10.1021/jacs.4c05879
-#url_pdf: https://pubs.acs.org/doi/epdf/10.1021/jacs.4c05879
-links:
-- name: arXiv
-  url: https://doi.org/10.48550/arXiv.2608.05336
+#doi: 10.1021/jacs.2c11858
+#links:
+#- name: ChemRxiv
+#  url: https://chemrxiv.org/engage/chemrxiv/article-details/66382d3c91aefa6ce1408a72
 ---
