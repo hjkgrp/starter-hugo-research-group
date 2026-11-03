@@ -20,7 +20,7 @@ authors:
 - Ramon Vilar 
 tags: []
 categories: []
-date: '2026-08-21'
+date: '2026-10-21'
 lastmod: 
 featured: false
 draft: false
@@ -43,7 +43,7 @@ publishDate:
 publication_types:
 - '2'
 abstract: "Metal complexes possess tuneable chemical and biological properties that make them promising candidates for anticancer and antibacterial therapies. They are increasingly explored as alternatives to conventional drugs, particularly in photodynamic therapy (PDT), where light activation induces reactive oxygen species for localised cytotoxicity. In this study, we present a direct-to-biology (D2B) approach involving the synthesis and screening of 336 iridium(III) complexes. Using an automated, data-driven approach, we evaluate ROS generation, lipophilicity, cytotoxicity in the dark and light, cellular uptake, and localisation across normal, cancer and bacterial cell lines. Information gained from subcellular localization studies was translated and checked against immunogenic cell death (ICD) inducing properties of selected complexes. This large, internally consistent dataset was used to train machine learning models that predict both physicochemical properties and biological responses using inexpensive xTB-level descriptors. Virtual high-throughput screening of a >200,000-member library of Ir complexes reveals a clear divergence in chemical space between antibacterial and anticancer activity, providing actionable design rules for next-generation complexes. This work demonstrates the synergy between experimental and computational workflows, identifying lead compounds for anticancer and antibacterial applications and generating systematic, high-quality datasets for data-driven discovery."
-publication: '*Chem. Sci.*, **in press**'
+publication: '*Chem. Sci.*, **17**, 19469--19482 (2026)'
 doi: 10.1039/D6SC04917F
 url_pdf: https://pubs.rsc.org/sc/article-pdf/doi/10.1039/D6SC04917F/13688588/d6sc04917f.pdf
 #links:
