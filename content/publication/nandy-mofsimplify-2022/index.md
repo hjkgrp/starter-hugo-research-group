@@ -55,4 +55,8 @@ url_pdf: https://www.nature.com/articles/s41597-022-01181-0
 links:
  - name: arXiv
    url: https://doi.org/10.48550/arXiv.2109.08098
+ - icon: lock-open
+   icon_pack: fas
+   url: https://www.nature.com/articles/s41597-022-01181-0.pdf
+  
 ---

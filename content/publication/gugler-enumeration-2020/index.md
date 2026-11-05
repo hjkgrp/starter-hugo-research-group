@@ -60,4 +60,7 @@ doi: 10.1039/C9ME00069K
 links:
  - name: ChemRxiv
    url: https://doi.org/10.26434/chemrxiv.8279609.v1
+ - icon: lock-open
+   icon_pack: fas
+   url: https://pubs.rsc.org/me/article-pdf/5/1/139/6672548/c9me00069k.pdf
 ---

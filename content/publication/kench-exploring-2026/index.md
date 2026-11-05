@@ -46,7 +46,10 @@ abstract: "Metal complexes possess tuneable chemical and biological properties t
 publication: '*Chem. Sci.*, **17**, 19469--19482 (2026)'
 doi: 10.1039/D6SC04917F
 url_pdf: https://pubs.rsc.org/sc/article-pdf/doi/10.1039/D6SC04917F/13688588/d6sc04917f.pdf
-#links:
+links:
 #- name: ChemRxiv
 #  url: https://doi.org/10.26434/chemrxiv-2024-xhlgh-v2
+- icon: lock-open
+  icon_pack: fas
+  url: https://pubs.rsc.org/sc/article-pdf/doi/10.1039/D6SC04917F/13688588/d6sc04917f.pdf
 ---

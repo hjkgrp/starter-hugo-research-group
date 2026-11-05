@@ -57,4 +57,8 @@ abstract: Density functional theory (DFT) is widely applied to both molecules an
 publication: '*J. Chem. Phys.*, **150**, 154115 (2019)'
 url_pdf: https://aip.scitation.org/doi/abs/10.1063/1.5091563
 doi: 10.1063/1.5091563
+links:
+ - icon: lock-open
+   icon_pack: fas
+   url: https://pubs.aip.org/aip/jcp/article-pdf/doi/10.1063/1.5091563/15559260/154115_1_online.pdf
 ---

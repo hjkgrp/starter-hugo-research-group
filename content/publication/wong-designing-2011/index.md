@@ -71,4 +71,9 @@ abstract: 'One method for CO2 capture is to dissolve CO2 in water to form carbon
 publication: '*Energy Procedia*, **4**, 817-823 (2011)'
 url_pdf: https://www.sciencedirect.com/science/article/pii/S1876610211001263
 doi: 10.1016/j.egypro.2011.01.124
+links:
+ - icon: lock-open
+   icon_pack: fas
+   url: https://www.sciencedirect.com/science/article/pii/S1876610211001263/pdf?md5=131389b72286a6afb1f259f572e16259&pid=1-s2.0-S1876610211001263-main.pdf
+  
 ---

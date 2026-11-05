@@ -61,4 +61,8 @@ url_pdf: https://doi.org/10.1021/jacsau.2c00176
 links:
  - name: ChemRxiv
    url: https://doi.org/10.26434/chemrxiv-2022-kg3s5
+ - icon: lock-open
+   icon_pack: fas
+   url: https://pubs.acs.org/jaaucr/article-pdf/2/5/1200/12337316/au2c00176.pdf
+  
 ---

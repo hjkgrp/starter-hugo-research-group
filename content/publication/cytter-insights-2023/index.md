@@ -37,5 +37,10 @@ abstract: 'Virtual high-throughput screening (VHTS) and machine learning (ML) wi
 publication: '*Phys. Chem. Chem. Phys.*, **25**, 8103-8116 (2023)'
 doi: 10.1039/D3CP00258F
 url_pdf: https://doi.org/10.1039/D3CP00258F
+links:
+ - icon: lock-open
+   icon_pack: fas
+   url: https://pubs.rsc.org/cp/article-pdf/25/11/8103/8961884/d3cp00258f.pdf
+  
 
 ---

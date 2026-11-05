@@ -71,4 +71,9 @@ abstract: The isonitrile moiety is found in marine sponges and some microbes, wh
 publication: '*J. Biol. Chem.*, **296**, 100231 (2021)'
 url_pdf: https://www.sciencedirect.com/science/article/pii/S0021925820003464
 doi: 10.1074/jbc.RA120.015932
+links:
+- icon: lock-open
+  icon_pack: fas
+  url: https://www.jbc.org/action/showPdf?pii=S0021-9258%2820%2900346-4
+  
 ---

@@ -47,7 +47,10 @@ abstract: 'Hybrid organic–inorganic semiconductors present new opportunities f
 publication: '*J. Am. Chem. Soc.*, **147**, 31704--31712 (2025)'
 doi: 10.1021/jacs.5c07989
 url_pdf: https://pubs.acs.org/doi/pdf/10.1021/jacs.5c07989?ref=article_openPDF
-#links:
+links:
 #- name: ChemRxiv
 #  url: https://doi.org/10.26434/chemrxiv-2025-mkrnn
+- icon: lock-open
+  icon_pack: fas
+  url: https://pubs.acs.org/jacsat/article-pdf/147/35/31704/43158415/ja5c07989.pdf
 ---

@@ -63,4 +63,8 @@ url_pdf: https://www.nature.com/articles/s41467-023-36299-1
 links:
 - name: bioRxiv
   url: https://www.biorxiv.org/content/10.1101/2022.07.19.500703v1
+- icon: lock-open
+  icon_pack: fas
+  url: https://www.nature.com/articles/s41467-023-36299-1.pdf
+  
 ---

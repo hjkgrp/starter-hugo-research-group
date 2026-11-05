@@ -57,4 +57,7 @@ doi: 10.1039/C9SC02298H
 links:
  - name: ChemRxiv
    url: https://doi.org/10.26434/chemrxiv.7900277.v2
+ - icon: lock-open
+   icon_pack: fas
+   url: https://pubs.rsc.org/sc/article-pdf/10/34/7913/6902858/c9sc02298h.pdf
 ---

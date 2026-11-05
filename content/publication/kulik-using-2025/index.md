@@ -34,4 +34,8 @@ abstract: 'While the impact of machine learning (ML) has been felt everywhere, i
 publication: '*J. Mater. Res.*, **40**, 833–848 (2025)'
 url_pdf: https://link.springer.com/content/pdf/10.1557/s43578-025-01568-w.pdf
 doi: 10.1557/s43578-025-01568-w
+links:
+- icon: lock-open
+  icon_pack: fas
+  url: https://link.springer.com/content/pdf/10.1557/s43578-025-01568-w.pdf
 ---

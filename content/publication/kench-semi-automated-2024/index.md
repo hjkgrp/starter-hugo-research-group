@@ -44,4 +44,7 @@ doi: 10.1002/anie.202401808
 links:
 #- name: ChemRxiv
 #  url: https://doi.org/10.26434/chemrxiv-2024-pjh9z
+- icon: lock-open
+  icon_pack: fas
+  url: https://onlinelibrary.wiley.com/doi/epdf/10.1002/anie.202401808
 ---

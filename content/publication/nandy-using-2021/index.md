@@ -61,4 +61,8 @@ links:
    url: https://doi.org/10.48550/arXiv.2106.13327
  - name: MIT News
    url: https://news.mit.edu/2022/metal-oxide-frameworks-model-0311
+ - icon: lock-open
+   icon_pack: fas
+   url: https://pubs.acs.org/jacsat/article-pdf/143/42/17535/9219614/ja1c07217.pdf
+  
 ---

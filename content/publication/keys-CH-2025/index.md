@@ -40,4 +40,7 @@ url_pdf: https://www.jbc.org/action/showPdf?pii=S0021-9258%2825%2902229-X
 links:
 - name: ChemRxiv
   url: https://doi.org/10.26434/chemrxiv-2025-5n9m1
+- icon: lock-open
+  icon_pack: fas
+  url: https://www.jbc.org/action/showPdf?pii=S0021-9258%2825%2902229-X
 ---

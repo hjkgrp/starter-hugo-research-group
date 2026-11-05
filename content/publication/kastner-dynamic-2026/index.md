@@ -46,4 +46,7 @@ url_pdf: https://pubs.rsc.org/sc/article-pdf/doi/10.1039/d6sc05720a/14957148/d6s
 links:
 - name: ChemRxiv
   url: https://doi.org/10.26434/chemrxiv-2024-xhlgh-v2
+- icon: lock-open
+  icon_pack: fas
+  url: https://pubs.rsc.org/sc/article-pdf/doi/10.1039/d6sc05720a/14957148/d6sc05720a.pdf
 ---

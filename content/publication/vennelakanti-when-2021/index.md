@@ -61,4 +61,8 @@ doi: 10.1039/D0SC05084A
 links:
  - name: ChemRxiv
    url: https://doi.org/10.26434/chemrxiv.12950099.v1
+ - icon: lock-open
+   icon_pack: fas
+   url: https://pubs.rsc.org/sc/article-pdf/12/3/1147/7548139/d0sc05084a.pdf
+  
 ---

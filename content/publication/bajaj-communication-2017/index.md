@@ -55,4 +55,8 @@ doi: 10.1063/1.5008981
 links:
  - name: arXiv
    url: https://doi.org/10.48550/arXiv.1710.02378
+ - icon: lock-open
+   icon_pack: fas
+   url: https://pubs.aip.org/aip/jcp/article-pdf/doi/10.1063/1.5008981/15534864/191101_1_online.pdf
+  
 ---

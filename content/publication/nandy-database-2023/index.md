@@ -45,5 +45,8 @@ links:
   url: https://doi.org/10.48550/arXiv.2210.14191
 - name: MIT news
   url: https://news.mit.edu/2023/scientists-computational-modeling-design-ultrastable-materials-0404
+- icon: lock-open
+  icon_pack: fas
+  url: https://www.cell.com/action/showPdf?pii=S2590-2385%2823%2900111-X
 
 ---

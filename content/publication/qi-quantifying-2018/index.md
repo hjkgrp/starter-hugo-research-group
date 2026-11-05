@@ -53,4 +53,9 @@ abstract: Multi-scale quantum-mechanical/molecular-mechanical (QM/MM) and large-
 publication: '*Acta Phys. -Chim. Sin.*, **34**, 81-91 (2018)'
 url_pdf: http://www.whxb.pku.edu.cn/CN/abstract/abstract30003.shtml
 doi: 10.3866/PKU.WHXB201706303
+links:
+ - icon: lock-open
+   icon_pack: fas
+   url: https://www.whxb.pku.edu.cn/EN/10.3866/PKU.WHXB201706303#1
+  
 ---

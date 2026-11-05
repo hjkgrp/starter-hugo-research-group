@@ -40,4 +40,7 @@ url_pdf: https://pubs.rsc.org/en/content/articlepdf/2026/ta/d5ta08080k
 links:
 - name: ChemRxiv
   url: https://doi.org/10.26434/chemrxiv-2025-57ntp
+- icon: lock-open
+  icon_pack: fas
+  url: https://pubs.rsc.org/ta/article-pdf/14/11/6429/10747906/d5ta08080k.pdf
 ---

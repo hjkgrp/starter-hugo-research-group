@@ -65,4 +65,7 @@ doi: 10.1021/acscatal.9b02165
 links:
  - name: ChemRxiv 
    url: https://doi.org/10.26434/chemrxiv.8182025.v1
+ - icon: lock-open
+   icon_pack: fas
+   url: https://pubs.acs.org/accacs/article-pdf/9/9/8243/67566143/acscatal.9b02165.pdf
 ---

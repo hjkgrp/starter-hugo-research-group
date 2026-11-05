@@ -62,4 +62,9 @@ abstract: Transition-metal complexes are attractive targets for the design of ca
 publication: '*Chem. Rev.*, **121**, 9927-10000 (2021)'
 doi: 10.1021/acs.chemrev.1c00347
 url_pdf: https://pubs.acs.org/doi/full/10.1021/acs.chemrev.1c00347
+links:
+- icon: lock-open
+  icon_pack: fas
+  url: https://pubs.acs.org/chreay/article-pdf/121/16/9927/4264479/cr1c00347.pdf
+  
 ---

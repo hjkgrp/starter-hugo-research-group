@@ -45,4 +45,7 @@ links:
   url: https://chemrxiv.org/engage/chemrxiv/article-details/669937e1c9c6a5c07a9c7f6d
 - name: MIT News
   url: https://news.mit.edu/2025/ai-helps-chemists-develop-tougher-plastics-0805
+- icon: lock-open
+  icon_pack: fas
+  url: https://pubs.acs.org/acscii/article-pdf/11/10/1839/42287883/oc5c00707.pdf
 ---

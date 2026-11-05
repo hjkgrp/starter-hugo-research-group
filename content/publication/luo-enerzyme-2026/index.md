@@ -39,4 +39,8 @@ url_pdf: https://pubs.acs.org/jctcce/article-pdf/22/20/11020/68827471/acs.jctc.6
 links:
 - name: arXiv
   url: https://arxiv.org/abs/2607.01362
+- icon: lock-open
+  icon_pack: fas
+  url: https://pubs.acs.org/jctcce/article-pdf/22/20/11020/68827471/acs.jctc.6c01330.pdf
+  
 ---

@@ -55,5 +55,8 @@ url_pdf: https://www.nature.com/articles/s41467-020-17755-8%C2%BB
 doi: 10.1038/s41467-020-17755-8
 links:
  - name: ChemRxiv
-   url: https://doi.org/10.26434/chemrxiv.12251186.v1
+   url: https://doi.org/10.26434/chemrxiv.12251186.v1 
+ - icon: lock-open
+   icon_pack: fas
+   url: https://www.nature.com/articles/s41467-020-17755-8.pdf
 ---

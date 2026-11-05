@@ -38,4 +38,7 @@ doi: 10.1039/C8CP03871F
 links:
  - name: ChemRxiv
    url: https://doi.org/10.26434/chemrxiv.5985187.v2
+ - icon: lock-open
+   icon_pack: fas
+   url: https://pubs.rsc.org/cp/article-pdf/20/31/20650/5966417/c8cp03871f.pdf
 ---

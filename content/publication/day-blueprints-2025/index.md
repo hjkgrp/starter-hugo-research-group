@@ -44,9 +44,10 @@ abstract: 'Rational control of the 3D presentation of atoms—stereochemistry—
 publication: '*ChemistryEurope*, **3**, e202500023 (2025)'
 doi: 10.1002/ceur.202500023
 url_pdf: https://chemistry-europe.onlinelibrary.wiley.com/doi/epdf/10.1002/ceur.202500023
-#links:
+links:
 #- name: ChemRxiv
 #  url: https://doi.org/10.26434/chemrxiv-2023-mhb4c
-#- name: MIT News
-#  url: https://news.mit.edu/2024/researchers-develop-continuously-monitoring-toxic-gases-detector-0517
+- icon: lock-open
+  icon_pack: fas
+  url: https://chemistry-europe.onlinelibrary.wiley.com/doi/epdf/10.1002/ceur.202500023
 ---

@@ -47,4 +47,7 @@ links:
 #  url: https://doi.org/10.26434/chemrxiv-2023-mhb4c
 - name: MIT News
   url: https://news.mit.edu/2024/researchers-develop-continuously-monitoring-toxic-gases-detector-0517
+- icon: lock-open
+  icon_pack: fas
+  url: https://advanced.onlinelibrary.wiley.com/doi/epdf/10.1002/adma.202312382
 ---

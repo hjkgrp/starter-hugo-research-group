@@ -42,4 +42,8 @@ url_pdf: https://doi.org/10.1063/5.0089460
 links:
  - name: arXiv
    url: https://doi.org/10.48550/arXiv.2112.14835
+ - icon: lock-open
+   icon_pack: fas
+   url: https://pubs.aip.org/aip/jcp/article-pdf/doi/10.1063/5.0089460/16541891/184112_1_online.pdf
+  
 ---

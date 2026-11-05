@@ -60,4 +60,8 @@ doi: 10.1021/acs.jpcb.6b07814
 links:
  - name: arXiv
    url: https://doi.org/10.48550/arXiv.1505.05730
+ - icon: lock-open
+   icon_pack: fas
+   url: https://pubs.acs.org/jpcbfk/article-pdf/120/44/11381/67045133/acs.jpcb.6b07814.pdf
+  
 ---

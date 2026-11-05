@@ -57,4 +57,8 @@ doi: 10.1021/acscatal.0c04300
 links:
  - name: ChemRxiv
    url: https://doi.org/10.26434/chemrxiv.13043156.v1
+ - icon: lock-open
+   icon_pack: fas
+   url: https://pubs.acs.org/accacs/article-pdf/10/24/15033/67566659/acscatal.0c04300.pdf
+  
 ---

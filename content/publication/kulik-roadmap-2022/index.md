@@ -93,4 +93,9 @@ abstract: In recent years, we have been witnessing a paradigm shift in computati
 publication: '*Electron. Struct.*, **4**, 023004 (2022)'
 doi: 10.1088/2516-1075/ac572f
 url_pdf: http://iopscience.iop.org/article/10.1088/2516-1075/ac572f
+links:
+- icon: lock-open
+  icon_pack: fas
+  url: https://iopscience.iop.org/article/10.1088/2516-1075/ac572f/pdf
+  
 ---

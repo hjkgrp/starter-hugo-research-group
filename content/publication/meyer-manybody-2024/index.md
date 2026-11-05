@@ -40,4 +40,7 @@ url_pdf: https://iopscience.iop.org/article/10.1088/2632-2153/ad9f22/pdf
 links:
 - name: arXiv
   url: https://arxiv.org/abs/2410.09659
+- icon: lock-open
+  icon_pack: fas
+  url: https://iopscience.iop.org/article/10.1088/2632-2153/ad9f22/pdf
 ---

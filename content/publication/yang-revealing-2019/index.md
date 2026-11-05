@@ -62,4 +62,7 @@ doi: 10.1039/C8RE00213D
 links:
  - name: ChemRxiv
    url: https://doi.org/10.26434/chemrxiv.7130795.v1
+ - icon: lock-open
+   icon_pack: fas
+   url: https://pubs.rsc.org/re/article-pdf/4/2/298/6303789/c8re00213d.pdf
 ---

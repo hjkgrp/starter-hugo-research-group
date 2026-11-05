@@ -47,4 +47,9 @@ abstract: Two structurally similar carbonic anhydrase active site mimics are exp
 publication: '*Energy Procedia*, **4**, 2090-2095 (2011)'
 url_pdf: https://www.sciencedirect.com/science/article/pii/S187661021100289X
 doi: 10.1016/j.egypro.2011.02.092
+links:
+- icon: lock-open
+  icon_pack: fas
+  url: https://www.sciencedirect.com/science/article/pii/S187661021100289X/pdf?md5=473815cfc23676ded346282deb845d58&pid=1-s2.0-S187661021100289X-main.pdf
+  
 ---

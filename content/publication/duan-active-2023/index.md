@@ -65,4 +65,8 @@ url_pdf: https://pubs.acs.org/doi/10.1021/jacsau.2c00547
 links:
 - name: arXiv
   url: https://arxiv.org/abs/2208.05444
+- icon: lock-open
+  icon_pack: fas
+  url: https://pubs.acs.org/jaaucr/article-pdf/3/2/391/12316055/au2c00547.pdf
+  
 ---

@@ -51,4 +51,9 @@ abstract: Enzymatic methyl transfer, catalyzed by catechol-O-methyltransferase (
 publication: '*Proc. Natl. Acad. Sci.*, **112**, 7954-7959 (2015)'
 url_pdf: https://www.pnas.org/doi/epdf/10.1073/pnas.1506792112
 doi: 10.1073/pnas.1506792112
+links:
+ - icon: lock-open
+   icon_pack: fas
+   url: https://www.pnas.org/doi/epdf/10.1073/pnas.1506792112
+  
 ---

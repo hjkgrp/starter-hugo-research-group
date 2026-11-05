@@ -48,4 +48,7 @@ url_pdf: https://www.science.org/doi/reader/10.1126/sciadv.aeb5460
 links:
 - name: ChemRxiv
   url: https://chemrxiv.org/engage/chemrxiv/article-details/66382d3c91aefa6ce1408a72
+- icon: lock-open
+  icon_pack: fas
+  url: https://www.science.org/doi/reader/10.1126/sciadv.aeb5460
 ---

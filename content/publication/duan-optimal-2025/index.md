@@ -49,4 +49,7 @@ links:
   url: https://news.mit.edu/2025/new-model-predicts-chemical-reactions-no-return-point-0423
 - name: Chemistry World
   url: https://www.chemistryworld.com/news/ai-predicts-transition-states-with-exceptional-precision/4021473.article
+- icon: lock-open
+  icon_pack: fas
+  url: https://www.nature.com/articles/s42256-025-01010-0.pdf
 ---

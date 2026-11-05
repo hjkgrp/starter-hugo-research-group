@@ -59,4 +59,8 @@ url_pdf: https://pubs.rsc.org/en/Content/ArticleLanding/2021/SC/D1SC03701C
 links:
  - name: arXiv
    url: https://doi.org/10.48550/arXiv.2106.13109
+ - icon: lock-open
+   icon_pack: fas
+   url: https://pubs.rsc.org/sc/article-pdf/12/39/13021/8161662/d1sc03701c.pdf
+  
 ---
