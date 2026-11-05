@@ -45,4 +45,7 @@ url_pdf: https://www.nature.com/articles/s41467-024-47666-x.pdf
 links:
  - name: ChemRxiv
    url: https://doi.org/10.26434/chemrxiv-2023-3knk5-v2
+ - icon: lock-open
+   icon_pack: fas
+   url: https://www.nature.com/articles/s41467-024-47666-x.pdf
 ---

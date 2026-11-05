@@ -63,4 +63,8 @@ doi: 10.1039/C7SC01247K
 links:
  - name: arXiv
    url: https://doi.org/10.48550/arXiv.1702.05771
+ - icon: lock-open
+   icon_pack: fas
+   url: https://pubs.rsc.org/sc/article-pdf/8/7/5137/5764956/c7sc01247k.pdf
+  
 ---

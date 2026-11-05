@@ -52,4 +52,8 @@ url_pdf: https://joss.theoj.org/papers/10.21105/joss.05429
 links:
  - name: ChemRxiv
    url: https://doi.org/10.26434/chemrxiv-2023-pzkl0
+ - icon: lock-open
+   icon_pack: fas
+   url: https://joss.theoj.org/papers/10.21105/joss.05429.pdf
+  
 ---

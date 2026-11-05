@@ -55,5 +55,10 @@ abstract: 'Gut microbial decarboxylation of amino acid-derived arylacetates is a
 publication: '*J. Am. Chem. Soc.*, **144**, 11110--11119 (2022)'
 doi: 10.1021/jacs.1c13580
 url_pdf: https://pubs.acs.org/doi/10.1021/jacs.1c13580
+links:
+- icon: lock-open
+  icon_pack: fas
+  url: https://pubs.acs.org/jacsat/article-pdf/144/25/11110/3920264/ja1c13580.pdf
+  
 
 ---

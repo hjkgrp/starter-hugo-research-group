@@ -58,4 +58,9 @@ abstract: We employ error-corrected density functional theory methods to map out
 publication: '*J. Biol. Chem.*, **288**, 11233-11241 (2013)'
 url_pdf: https://www.sciencedirect.com/science/article/pii/S0021925820672003
 doi: 10.1074/jbc.M112.415570
+links:
+ - icon: lock-open
+   icon_pack: fas
+   url: https://www.jbc.org/action/showPdf?pii=S0021-9258%2820%2967200-3
+  
 ---

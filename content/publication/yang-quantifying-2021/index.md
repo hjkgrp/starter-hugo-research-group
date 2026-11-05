@@ -62,4 +62,7 @@ doi: 10.1002/cmtd.202100012
 links:
  - name: ChemRxiv
    url: https://doi.org/10.26434/chemrxiv.13368692.v1
+ - icon: lock-open
+   icon_pack: fas
+   url: https://chemistry-europe.onlinelibrary.wiley.com/doi/epdf/10.1002/cmtd.202100012
 ---

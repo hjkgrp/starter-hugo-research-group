@@ -63,4 +63,8 @@ abstract: Single atom catalysts (SACs) are emergent catalytic materials that hav
 publication: '*Front. Chem.*, **7**, 219 (2019)'
 url_pdf: https://www.frontiersin.org/articles/10.3389/fchem.2019.00219/full
 doi: 10.3389/fchem.2019.00219
+links:
+ - icon: lock-open
+   icon_pack: fas
+   url: https://www.frontiersin.org/journals/chemistry/articles/10.3389/fchem.2019.00219/pdf
 ---

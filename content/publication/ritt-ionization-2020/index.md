@@ -58,4 +58,9 @@ abstract: Escalating global water scarcity necessitates high-performance desalin
 publication: '*Proc. Natl. Acad. Soc.*, **117**, 30191-30200 (2020)'
 url_pdf: https://www.pnas.org/doi/10.1073/pnas.2008421117
 doi: 10.1073/pnas.2008421117
+links:
+- icon: lock-open
+  icon_pack: fas
+  url: https://www.pnas.org/doi/epdf/10.1073/pnas.2008421117
+  
 ---

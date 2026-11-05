@@ -37,4 +37,9 @@ abstract: 'Knowledge of the chemical bonding of HfO and HfB ground and low-lying
 publication: '*J. Chem. Phys.*, **156**, 184113 (2022)'
 doi: 10.1063/5.0090128
 url_pdf: https://doi.org/10.1063/5.0090128
+links:
+- icon: lock-open
+  icon_pack: fas
+  url: https://pubs.aip.org/aip/jcp/article-pdf/doi/10.1063/5.0090128/16542079/184113_1_online.pdf
+  
 ---

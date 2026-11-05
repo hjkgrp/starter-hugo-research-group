@@ -38,4 +38,7 @@ url_pdf: https://www.sciencedirect.com/getaccess/pii/S245192942400305X/
 links:
 #- name: ChemRxiv
 #  url: https://chemrxiv.org/engage/chemrxiv/article-details/66382d3c91aefa6ce1408a72
+- icon: lock-open
+  icon_pack: fas
+  url: https://www.cell.com/action/showPdf?pii=S2451-9294%2824%2900305-X
 ---

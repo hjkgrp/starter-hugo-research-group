@@ -44,4 +44,8 @@ url_pdf: https://www.sciencedirect.com/science/article/abs/pii/S2451929423002504
 links:
  - name: ChemRxiv
    url: https://doi.org/10.26434/chemrxiv-2023-qfrc0
+ - icon: lock-open
+   icon_pack: fas
+   url: https://www.cell.com/action/showPdf?pii=S2451-9294%2823%2900250-4
+  
 ---

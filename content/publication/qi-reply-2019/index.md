@@ -36,4 +36,8 @@ abstract: ''
 publication: '*J. Chem. Inf. Model.*, **59**, 3609-3610 (2019)'
 url_pdf: https://doi.org/10.1021/acs.jcim.9b00606
 doi: 10.1021/acs.jcim.9b00606
+links:
+ - icon: lock-open
+   icon_pack: fas
+   url: https://pubs.acs.org/jcisd8/article-pdf/59/9/3609/10541505/ci9b00606.pdf
 ---

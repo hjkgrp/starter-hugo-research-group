@@ -40,5 +40,9 @@ url_pdf: https://doi.org/10.1039/D2SC06150C
 links:
 - name: arXiv
   url: https://arxiv.org/abs/2209.08595
+- icon: lock-open
+  icon_pack: fas
+  url: https://pubs.rsc.org/sc/article-pdf/14/6/1419/8776447/d2sc06150c.pdf
+  
 
 ---

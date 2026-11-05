@@ -56,4 +56,8 @@ abstract: Approximate density functional theory (DFT) is widely used in chemistr
 publication: '*J. Chem. Theory Comput.*, **14**, 670-683 (2018)'
 url_pdf: https://doi.org/10.1021/acs.jctc.7b01061
 doi: 10.1021/acs.jctc.7b01061
+links:
+ - icon: lock-open
+   icon_pack: fas
+   url: https://pubs.acs.org/jctcce/article-pdf/14/2/670/67390989/acs.jctc.7b01061.pdf
 ---

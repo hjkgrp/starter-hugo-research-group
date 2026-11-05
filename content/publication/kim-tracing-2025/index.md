@@ -44,4 +44,7 @@ url_pdf: https://www.science.org/doi/reader/10.1126/sciadv.adv6898
 links:
 - name: bioRXiv
   url: https://www.biorxiv.org/content/10.1101/2024.12.09.627616v1
+- icon: lock-open
+  icon_pack: fas
+  url: https://www.science.org/doi/reader/10.1126/sciadv.adv6898
 ---

@@ -54,4 +54,9 @@ abstract: Doped graphitic single-atom catalysts (SACs) with isolated iron sites 
 publication: '*J. Mater. Chem. A*, **10**, 6193-6203 (2022)'
 doi: 10.1039/D1TA08502F
 url_pdf: https://pubs.rsc.org/en/content/articlelanding/2022/TA/D1TA08502F
+links:
+- icon: lock-open
+  icon_pack: fas
+  url: https://pubs.rsc.org/ta/article-pdf/10/11/6193/8232129/d1ta08502f.pdf
+  
 ---

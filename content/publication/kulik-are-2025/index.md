@@ -34,4 +34,8 @@ abstract: 'Over the past two decades, the integration of machine learning (ML) i
 publication: '*APL Comput. Phys.*, **1**, 020902 (2025)'
 url_pdf: https://pubs.aip.org/aip/aco/article-pdf/doi/10.1063/5.0297853/20738879/020902_1_5.0297853.pdf
 doi: 10.1063/5.0297853
+links:
+- icon: lock-open
+  icon_pack: fas
+  url: https://pubs.aip.org/aip/aco/article-pdf/doi/10.1063/5.0297853/20738879/020902_1_5.0297853.pdf
 ---

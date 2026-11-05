@@ -40,4 +40,8 @@ url_pdf: https://jcheminf.biomedcentral.com/counter/pdf/10.1186/s13321-023-00790
 links:
 - name: ChemRxiv
   url: https://doi.org/10.26434/chemrxiv-2023-w93dm
+- icon: lock-open
+  icon_pack: fas
+  url: https://link.springer.com/content/pdf/10.1186/s13321-023-00790-0.pdf
+  
 ---

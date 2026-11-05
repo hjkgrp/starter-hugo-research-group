@@ -43,7 +43,10 @@ abstract: 'Glycan-binding proteins, or lectins, recognize distinct structural el
 publication: '*JACS Au*, **4**, 3028--3037 (2024)'
 doi: 10.1021/jacsau.4c00357
 url_pdf: https://pubs.acs.org/doi/epdf/10.1021/jacsau.4c00357?ref=article_openPDF
-#links:
+links:
 #- name: ChemRxiv
 #  url: https://doi.org/10.26434/chemrxiv-2023-rzwhn
+- icon: lock-open
+  icon_pack: fas
+  url: https://pubs.acs.org/jaaucr/article-pdf/4/8/3028/12947986/au4c00357.pdf
 ---

@@ -82,5 +82,10 @@ abstract: Confined fluids and electrolytes in nanopores exhibit rich and surpris
 publication: '*Chem. Rev.*, **123** 2737-2831 (2023)'
 url_pdf: https://doi.org/10.1021/acs.chemrev.2c00155
 doi: 10.1021/acs.chemrev.2c00155
+links:
+- icon: lock-open
+  icon_pack: fas
+  url: https://pubs.acs.org/chreay/article-pdf/123/6/2737/2709582/cr2c00155.pdf
+  
 
 ---

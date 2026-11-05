@@ -39,5 +39,10 @@ abstract: 'Owing to low-power, fast and highly adaptive operability, as well as 
 publication: '*Adv. Funct. Mater.*, 2304893 (2023)'
 doi: 10.1002/adfm.202304893
 url_pdf: https://onlinelibrary.wiley.com/doi/pdf/10.1002/adfm.202304893
+links:
+ - icon: lock-open
+   icon_pack: fas
+   url: https://advanced.onlinelibrary.wiley.com/doi/epdf/10.1002/adfm.202304893
+  
 
 ---

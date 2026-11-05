@@ -51,4 +51,9 @@ abstract: Many people in the materials science and solid-state community are fam
 publication: '*J. Chem. Phys.*, **142**, 240901 (2015)'
 url_pdf: https://aip.scitation.org/doi/full/10.1063/1.4922693
 doi: 10.1063/1.4922693
+links:
+ - icon: lock-open
+   icon_pack: fas
+   url: https://pubs.aip.org/aip/jcp/article-pdf/doi/10.1063/1.4922693/19944232/240901_1_1.4922693.pdf
+
 ---

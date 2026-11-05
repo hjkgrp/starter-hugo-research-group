@@ -52,4 +52,9 @@ abstract: ' Designing single-species selective membranes for high-precision sepa
 publication: '*Sci. Adv.*, **8**, eabl5771 (2022)'
 doi: '10.1126/sciadv.abl5771'
 url_pdf: 'https://www.science.org/doi/10.1126/sciadv.abl5771'
+links:
+- icon: lock-open
+  icon_pack: fas
+  url: https://www.science.org/doi/reader/10.1126/sciadv.abl5771
+  
 ---

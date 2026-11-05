@@ -37,7 +37,11 @@ abstract: Ab initio multi-reference configuration interaction (MRCI) and coupled
 publication: '*Phys. Chem. Chem. Phys.*, **25**, 26632--26639 (2023)'
 doi: 10.1039/D3CP03550F
 url_pdf: http://dx.doi.org/10.1039/D3CP03550F
-#links:
+links:
 #- name: ChemRxiv
 #  url: https://doi.org/10.26434/chemrxiv-2023-rzwhn
+- icon: lock-open
+  icon_pack: fas
+  url: https://pubs.rsc.org/cp/article-pdf/25/39/26632/8994216/d3cp03550f.pdf
+  
 ---

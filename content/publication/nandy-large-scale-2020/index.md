@@ -41,4 +41,8 @@ abstract: 'Density functional theory (DFT) is widely used in transition-metal ch
 publication: '*Phys. Chem. Chem. Phys.*, **22**, 19326-19341 (2020)'
 url_pdf: https://pubs.rsc.org/en/content/articlelanding/2020/cp/d0cp02977g
 doi: 10.1039/D0CP02977G
+links:
+ - icon: lock-open
+   icon_pack: fas
+   url: https://pubs.rsc.org/cp/article-pdf/22/34/19326/7126589/d0cp02977g.pdf
 ---

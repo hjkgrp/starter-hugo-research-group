@@ -64,4 +64,7 @@ links:
    url: https://doi.org/10.26434/chemrxiv.11367572.v1
  - name: MIT News
    url: https://news.mit.edu/2020/neural-networks-optimize-materials-search-0326
+ - icon: lock-open
+   icon_pack: fas
+   url: https://pubs.acs.org/acscii/article-pdf/6/4/513/14183706/oc0c00026.pdf
 ---

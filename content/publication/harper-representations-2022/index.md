@@ -62,4 +62,8 @@ url_pdf: https://aip.scitation.org/doi/full/10.1063/5.0082964
 links:
  - name: arXiv
    url: https://doi.org/10.1063/5.0082964
+ - icon: lock-open
+   icon_pack: fas
+   url: https://pubs.aip.org/aip/jcp/article-pdf/doi/10.1063/5.0082964/16535570/074101_1_online.pdf
+  
 ---

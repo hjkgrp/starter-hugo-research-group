@@ -38,4 +38,7 @@ url_pdf: https://pubs.aip.org/aip/jcp/article-pdf/doi/10.1063/5.0201934/19883122
 links:
 - name: ChemRxiv
   url: https://doi.org/10.26434/chemrxiv-2024-pjh9z
+- icon: lock-open
+  icon_pack: fas
+  url: https://pubs.aip.org/aip/jcp/article-pdf/doi/10.1063/5.0201934/19883122/154101_1_5.0201934.pdf
 ---

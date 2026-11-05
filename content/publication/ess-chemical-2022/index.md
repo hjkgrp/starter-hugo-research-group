@@ -36,5 +36,10 @@ abstract: 'Empirical principles and structure--property relations derived from c
 publication: '*J. Chem. Phys.*, **157**, 120401, (2022)'
 doi: 10.1063/5.0123281
 url_pdf: https://aip.scitation.org/doi/full/10.1063/5.0123281
+links:
+- icon: lock-open
+  icon_pack: fas
+  url: https://pubs.aip.org/aip/jcp/article-pdf/doi/10.1063/5.0123281/16549425/120401_1_online.pdf
+  
 
 ---

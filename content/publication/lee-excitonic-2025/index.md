@@ -43,7 +43,10 @@ abstract: '2D materials exhibiting in-plane anisotropy enable new applications i
 publication: '*Adv. Opt. Mater.*, **13**, e02435 (2025)'
 doi: 10.1002/adom.202502435
 url_pdf: https://advanced.onlinelibrary.wiley.com/doi/epdf/10.1002/adom.202502435
-#links:
+links:
 #- name: ChemRxiv
 #  url: https://doi.org/10.26434/chemrxiv-2025-mkrnn
+- icon: lock-open
+  icon_pack: fas
+  url: https://advanced.onlinelibrary.wiley.com/doi/epdf/10.1002/adom.202502435
 ---

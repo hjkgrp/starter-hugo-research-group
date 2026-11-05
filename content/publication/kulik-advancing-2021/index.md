@@ -36,4 +36,9 @@ abstract: 'Scientists have long benefitted from and contributed to the developme
 publication: '*Acc. Chem. Res.*, **54**, 2335-2336 (2021)'
 url_pdf: https://doi.org/10.1021/acs.accounts.1c00232
 doi: 10.1021/acs.accounts.1c00232
+links:
+- icon: lock-open
+  icon_pack: fas
+  url: https://pubs.acs.org/achre4/article-pdf/54/10/2335/16143765/ar1c00232.pdf
+  
 ---

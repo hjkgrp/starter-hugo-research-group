@@ -65,4 +65,9 @@ abstract: Desulfonation of isethionate by the bacterial glycyl radical enzyme (G
 publication: '*Cell Chem. Biol.*, **28**, 1333-1346 (2021)'
 url_pdf: https://www.sciencedirect.com/science/article/pii/S2451945621001100
 doi: 10.1016/j.chembiol.2021.03.001
+links:
+- icon: lock-open
+  icon_pack: fas
+  url: https://www.cell.com/action/showPdf?pii=S2451-9456%2821%2900110-0
+  
 ---

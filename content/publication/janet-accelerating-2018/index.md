@@ -50,4 +50,8 @@ abstract: Machine learning (ML) has emerged as a powerful complement to simulati
 publication: '*J. Phys. Chem. Lett.*, **9**, 1064-1071 (2018)'
 url_pdf: https://doi.org/10.1021/acs.jpclett.8b00170
 doi: 10.1021/acs.jpclett.8b00170
+links:
+ - icon: lock-open
+   icon_pack: fas
+   url: https://pubs.acs.org/jpclcd/article-pdf/9/5/1064/67448101/acs.jpclett.8b00170.pdf
 ---

@@ -57,4 +57,8 @@ url_pdf: https://pubs.rsc.org/en/Content/ArticleLanding/2022/SC/D2SC00393G
 links:
  - name: arXiv
    url: https://doi.org/10.48550/arXiv.2201.04243
+ - icon: lock-open
+   icon_pack: fas
+   url: https://pubs.rsc.org/sc/article-pdf/13/17/4962/8759816/d2sc00393g.pdf
+  
 ---

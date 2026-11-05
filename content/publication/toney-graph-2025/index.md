@@ -43,4 +43,7 @@ url_pdf: https://www.pnas.org/doi/epdf/10.1073/pnas.2415658122
 links:
 - name: ChemRxiv
   url: https://chemrxiv.org/engage/chemrxiv/article-details/66fdb15251558a15efe0557a
+- icon: lock-open
+  icon_pack: fas
+  url: https://www.pnas.org/doi/epdf/10.1073/pnas.2415658122
 ---

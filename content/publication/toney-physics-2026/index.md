@@ -40,4 +40,7 @@ url_pdf: https://pubs.rsc.org/sc/article-pdf/doi/10.1039/d6sc06309h/14942099/d6s
 links:
 - name: arXiv
   url: https://doi.org/10.48550/arXiv.2608.05336
+- icon: lock-open
+  icon_pack: fas
+  url: https://pubs.rsc.org/sc/article-pdf/doi/10.1039/d6sc06309h/14942099/d6sc06309h.pdf
 ---

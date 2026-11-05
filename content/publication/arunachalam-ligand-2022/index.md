@@ -66,4 +66,8 @@ url_pdf: https://aip.scitation.org/doi/10.1063/5.0125700
 links:
 - name: arXiv
   url: https://arxiv.org/abs/2209.05412
+- icon: lock-open
+  icon_pack: fas
+  url: https://pubs.aip.org/aip/jcp/article-pdf/doi/10.1063/5.0125700/16553763/184112_1_online.pdf
+  
 ---

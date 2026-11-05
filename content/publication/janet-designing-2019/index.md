@@ -60,4 +60,8 @@ abstract: 'Recent transformative advances in computing power and algorithms have
 publication: '*Inorg. Chem.*, **58**, 10592-10606 (2019)'
 url_pdf: https://doi.org/10.1021/acs.inorgchem.9b00109
 doi: 10.1021/acs.inorgchem.9b00109
+links:
+ - icon: lock-open
+   icon_pack: fas
+   url: https://pubs.acs.org/inocaj/article-pdf/58/16/10592/67002052/acs.inorgchem.9b00109.pdf
 ---

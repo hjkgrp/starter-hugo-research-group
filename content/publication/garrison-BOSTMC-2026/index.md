@@ -43,4 +43,7 @@ url_pdf: https://pubs.acs.org/jcisd8/article-pdf/doi/10.1021/acs.jcim.6c01792/66
 links:
 - name: arXiv
   url: https://doi.org/10.48550/arXiv.2604.07623
+- icon: lock-open
+  icon_pack: fas
+  url: https://pubs.acs.org/jcisd8/article-pdf/doi/10.1021/acs.jcim.6c01792/66709801/acs.jcim.6c01792.pdf
 ---

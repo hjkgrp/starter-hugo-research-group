@@ -38,7 +38,11 @@ abstract: Metalloenzymes catalyze a wide range of chemical transformations, with
 publication: '*J. Comput. Chem.*, **45**, 352--361 (2024)'
 doi: https://doi.org/10.1002/jcc.27242
 url_pdf: https://onlinelibrary.wiley.com/doi/epdf/10.1002/jcc.27242
-#links:
+links:
 #- name: ChemRxiv
 #  url: https://doi.org/10.26434/chemrxiv-2022-h55mx-v2
+- icon: lock-open
+  icon_pack: fas
+  url: https://onlinelibrary.wiley.com/doi/epdf/10.1002/jcc.27242
+  
 ---

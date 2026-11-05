@@ -54,4 +54,7 @@ doi: 10.1021/acs.jpclett.9b01650
 links:
  - name: ChemRxiv
    url: https://doi.org/10.26434/chemrxiv.8230940.v1
+ - icon: lock-open
+   icon_pack: fas
+   url: https://pubs.acs.org/jpclcd/article-pdf/10/17/5090/67071938/acs.jpclett.9b01650.pdf
 ---

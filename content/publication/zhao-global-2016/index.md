@@ -58,4 +58,9 @@ abstract: Piecewise linearity of the energy with respect to fractional electron 
 publication: '*J. Chem. Phys.*, **145**, 054109 (2016)'
 url_pdf: https://aip.scitation.org/doi/abs/10.1063/1.4959882
 doi: 10.1063/1.4959882
+links:
+ - icon: lock-open
+   icon_pack: fas
+   url: https://pubs.aip.org/aip/jcp/article-pdf/doi/10.1063/1.4959882/15516170/054109_1_online.pdf
+  
 ---

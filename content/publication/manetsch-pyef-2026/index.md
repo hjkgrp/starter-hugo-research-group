@@ -40,4 +40,7 @@ url_pdf: https://pubs.acs.org/doi/pdf/10.1021/acs.jctc.6c00065?ref=article_openP
 links:
 - name: ChemRxiv
   url: https://doi.org/10.26434/chemrxiv-2026-3cbg4
+- icon: lock-open
+  icon_pack: fas
+  url: https://pubs.acs.org/jctcce/article-pdf/22/10/4982/66178172/acs.jctc.6c00065.pdf
 ---

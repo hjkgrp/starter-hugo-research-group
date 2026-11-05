@@ -16,7 +16,7 @@ authors:
 
 tags: []
 categories: []
-date: '2026-10-1'
+date: '2026-10-01'
 lastmod: 
 featured: false
 draft: false
